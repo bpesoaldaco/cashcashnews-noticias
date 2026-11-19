@@ -35,6 +35,16 @@ def validar(d):
             e.append(f"{donde}: 'tendencia' debe ser up, down o flat (es {t!r})")
         if "aviso" in obj and not isinstance(obj["aviso"], bool):
             e.append(f"{donde}: 'aviso' debe ser true o false")
+        v = obj.get("valores")
+        if v is not None and (not isinstance(v, list) or not all(isinstance(x, str) and x.strip() for x in v)):
+            e.append(f"{donde}: 'valores' debe ser una lista de nombres")
+        g = obj.get("grafica")
+        if g is not None:
+            vals, et = g.get("valores"), g.get("etiquetas")
+            if not isinstance(vals, list) or len(vals) < 2 or not all(isinstance(x, (int, float)) for x in vals):
+                e.append(f"{donde}: 'grafica.valores' debe tener al menos 2 números")
+            elif not isinstance(et, list) or len(et) != len(vals):
+                e.append(f"{donde}: 'grafica.etiquetas' debe tener una etiqueta por valor")
 
     for k in ("fecha", "fechaTexto", "actualizado", "aviso"):
         texto(d, k, "raíz")

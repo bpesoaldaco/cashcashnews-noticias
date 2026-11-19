@@ -71,6 +71,17 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
 - **Reel**: `categoria`, `emoji` y `color` de su story, `titulo`, `texto`, opcionales `dato`,
   `cambio`, `tendencia`, y `fuente` + `url` (https) de donde sale la noticia. Si el reel es una
   idea de inversión, `"aviso": true`.
+- **Valores** (en reels y diapositivas, opcional pero muy recomendado): `"valores": ["Solaria", "IBEX 35"]`,
+  con las empresas, índices o materias primas de los que habla la noticia (máx. 4). La app lo usa para la
+  lista de seguimiento y para avisar al usuario. Usa siempre el mismo nombre para lo mismo
+  (`IBEX 35`, `S&P 500`, `Nasdaq`, `Dow Jones`, `DAX`, `Euro Stoxx 50`, `Brent`, `Oro`, `Bitcoin`, `EUR/USD`,
+  y el nombre corto habitual de cada empresa: `Solaria`, `Nvidia`, `SAP`...).
+- **Minigráfica** (opcional): `"grafica": {"valores": [19946, 19625, 19373, 19186], "etiquetas": ["16 nov", "17 nov", "18 nov", "19 nov"]}`.
+  Entre 3 y 8 puntos, del más antiguo al más reciente, con números sin formato (punto decimal). Normalmente
+  los cierres de las últimas sesiones; también vale la evolución dentro del día (apertura, media sesión...).
+  Ponla en las noticias principales de índices, materias primas y valores con movimientos fuertes, **solo si
+  las cifras salen de las fuentes** o se calculan directamente de ellas (por ejemplo, el cierre anterior a
+  partir del cierre y el % de cambio).
 - Números en formato español (`19.456`, `−0,86%`, `92,6 $`). Signo menos `−`.
 - Solo cifras sacadas de las fuentes. Si un dato no está claro, no lo pongas.
 

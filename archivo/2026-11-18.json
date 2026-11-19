@@ -71,42 +71,75 @@
           "dato": "19.456",
           "cambio": "−0,86%",
           "tendencia": "down",
-          "texto": "Tras caer un 1,61% el martes, hoy pierde el soporte de 19.560. El siguiente nivel técnico que se vigila está en torno a 19.387."
+          "texto": "Tras caer un 1,61% el martes, hoy pierde el soporte de 19.560. El siguiente nivel técnico que se vigila está en torno a 19.387.",
+          "valores": [
+            "IBEX 35"
+          ],
+          "grafica": {
+            "valores": [
+              19946,
+              19625,
+              19456
+            ],
+            "etiquetas": [
+              "16 nov",
+              "17 nov",
+              "18 nov (16:40)"
+            ]
+          }
         },
         {
           "titulo": "Europa respira tras su peor día en ocho meses",
           "dato": "6.200",
           "cambio": "−0,2%",
           "tendencia": "flat",
-          "texto": "El Euro Stoxx 50 cayó un 2,2% el martes por los miedos sobre la IA. Hoy está plano y el DAX sube ligeramente gracias a los chips."
+          "texto": "El Euro Stoxx 50 cayó un 2,2% el martes por los miedos sobre la IA. Hoy está plano y el DAX sube ligeramente gracias a los chips.",
+          "valores": [
+            "Euro Stoxx 50",
+            "DAX"
+          ]
         },
         {
           "titulo": "Wall Street, en mínimos de cinco meses",
           "dato": "7.340",
           "cambio": "−1,03%",
           "tendencia": "down",
-          "texto": "El S&P 500 cerró el martes con los 11 sectores en rojo y el VIX en 25,5. Los futuros apuntan al alza hoy tras los resultados de Nvidia."
+          "texto": "El S&P 500 cerró el martes con los 11 sectores en rojo y el VIX en 25,5. Los futuros apuntan al alza hoy tras los resultados de Nvidia.",
+          "valores": [
+            "S&P 500",
+            "Nvidia"
+          ]
         },
         {
           "titulo": "El petróleo se relaja",
           "dato": "92,6 $",
           "cambio": "−0,6%",
           "tendencia": "down",
-          "texto": "Brent en torno a 92,6 $ y WTI a 84,9 $ (−1,2%), después de subir el martes por los ataques de Irán en Bahréin y Kuwait."
+          "texto": "Brent en torno a 92,6 $ y WTI a 84,9 $ (−1,2%), después de subir el martes por los ataques de Irán en Bahréin y Kuwait.",
+          "valores": [
+            "Brent"
+          ]
         },
         {
           "titulo": "Oro y bitcoin, cerca de mínimos",
           "dato": "3.800 $",
           "cambio": "−1,8%",
           "tendencia": "down",
-          "texto": "El oro pierde los 3.800 $ y está cerca de mínimos de 14 meses. Bitcoin ronda los 64.000 $, cerca de mínimos de tres meses."
+          "texto": "El oro pierde los 3.800 $ y está cerca de mínimos de 14 meses. Bitcoin ronda los 64.000 $, cerca de mínimos de tres meses.",
+          "valores": [
+            "Oro",
+            "Bitcoin"
+          ]
         },
         {
           "titulo": "El euro, cerca de mínimos de un año",
           "dato": "1,099",
           "cambio": "EUR/USD",
           "tendencia": "flat",
-          "texto": "El EUR/USD se mueve entre 1,098 y 1,100, muy cerca de su mínimo de 52 semanas (1,0968)."
+          "texto": "El EUR/USD se mueve entre 1,098 y 1,100, muy cerca de su mínimo de 52 semanas (1,0968).",
+          "valores": [
+            "EUR/USD"
+          ]
         },
         {
           "titulo": "¿Subirá la Fed en diciembre?",
@@ -128,35 +161,57 @@
           "dato": "Repsol",
           "cambio": "−3,9%",
           "tendencia": "down",
-          "texto": "Es el valor del IBEX más expuesto al Brent, y hoy el crudo baja."
+          "texto": "Es el valor del IBEX más expuesto al Brent, y hoy el crudo baja.",
+          "valores": [
+            "Brent",
+            "Repsol",
+            "IBEX 35"
+          ]
         },
         {
           "titulo": "Renovables y telecos, en rojo",
           "dato": "Solaria",
           "cambio": "−1,9%",
           "tendencia": "down",
-          "texto": "También caen Acciona Energía (−1,8%), Telefónica (−1,7%) y Cellnex (−1,4%)."
+          "texto": "También caen Acciona Energía (−1,8%), Telefónica (−1,7%) y Cellnex (−1,4%).",
+          "valores": [
+            "Solaria",
+            "Telefónica",
+            "Cellnex",
+            "Acciona Energía"
+          ]
         },
         {
           "titulo": "Los que aguantan",
           "dato": "ACS",
           "cambio": "+1,2%",
           "tendencia": "up",
-          "texto": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice."
+          "texto": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice.",
+          "valores": [
+            "ACS",
+            "Grifols",
+            "Merlin"
+          ]
         },
         {
           "titulo": "Enagás gana a Perú en el CIADI",
           "dato": "59 M€",
           "cambio": "garantía",
           "tendencia": "up",
-          "texto": "El tribunal vuelve a darle la razón (TGP y COGA): Perú tendrá que dejarle sacar los dividendos del país y devolverle unos 59 M€ de garantía."
+          "texto": "El tribunal vuelve a darle la razón (TGP y COGA): Perú tendrá que dejarle sacar los dividendos del país y devolverle unos 59 M€ de garantía.",
+          "valores": [
+            "Enagás"
+          ]
         },
         {
           "titulo": "IAG, infravalorada según RBC",
           "dato": "IAG",
           "cambio": "RBC",
           "tendencia": "flat",
-          "texto": "El banco canadiense cree que la cotización de la dueña de Iberia está por debajo de su valor."
+          "texto": "El banco canadiense cree que la cotización de la dueña de Iberia está por debajo de su valor.",
+          "valores": [
+            "IAG"
+          ]
         }
       ]
     },
@@ -171,35 +226,54 @@
           "dato": "ASML",
           "cambio": "+3%",
           "tendencia": "up",
-          "texto": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%."
+          "texto": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%.",
+          "valores": [
+            "Nvidia",
+            "Infineon",
+            "ASML",
+            "ASM International"
+          ]
         },
         {
           "titulo": "Alstom se desploma",
           "dato": "Alstom",
           "cambio": "−8%",
           "tendencia": "down",
-          "texto": "Presenta unas pérdidas netas de 822 M€."
+          "texto": "Presenta unas pérdidas netas de 822 M€.",
+          "valores": [
+            "Alstom"
+          ]
         },
         {
           "titulo": "Mineras, a la baja",
           "dato": "Sector",
           "cambio": "−2,8%",
           "tendencia": "down",
-          "texto": "Glencore cae un 3% y Antofagasta un 5,7%."
+          "texto": "Glencore cae un 3% y Antofagasta un 5,7%.",
+          "valores": [
+            "Glencore",
+            "Antofagasta"
+          ]
         },
         {
           "titulo": "Deutsche Bank sigue cayendo",
           "dato": "DB",
           "cambio": "−1,3%",
           "tendencia": "down",
-          "texto": "Después de caer un 6% el martes por la filtración de unos 15 millones de archivos internos."
+          "texto": "Después de caer un 6% el martes por la filtración de unos 15 millones de archivos internos.",
+          "valores": [
+            "Deutsche Bank"
+          ]
         },
         {
           "titulo": "Experian convence",
           "dato": "Experian",
           "cambio": "+1,8%",
           "tendencia": "up",
-          "texto": "Ventas mejores de lo esperado y una recompra de acciones de 500 M$."
+          "texto": "Ventas mejores de lo esperado y una recompra de acciones de 500 M$.",
+          "valores": [
+            "Experian"
+          ]
         }
       ]
     },
@@ -214,49 +288,77 @@
           "dato": "115.840 M$",
           "cambio": "+3/5%",
           "tendencia": "up",
-          "texto": "Ingresos frente a 109.100 M$ esperados, previsión de unos 130.000 M$ para el próximo trimestre y recompra ampliada en 150.000 M$. Ojo: la SEC estaría investigando la información que publica."
+          "texto": "Ingresos frente a 109.100 M$ esperados, previsión de unos 130.000 M$ para el próximo trimestre y recompra ampliada en 150.000 M$. Ojo: la SEC estaría investigando la información que publica.",
+          "valores": [
+            "Nvidia"
+          ]
         },
         {
           "titulo": "Software, castigado",
           "dato": "Salesforce",
           "cambio": "−9,5%",
           "tendencia": "down",
-          "texto": "También caen ServiceNow (−6,5%) e Intuit (−7,2%)."
+          "texto": "También caen ServiceNow (−6,5%) e Intuit (−7,2%).",
+          "valores": [
+            "Salesforce",
+            "ServiceNow",
+            "Intuit"
+          ]
         },
         {
           "titulo": "Golpe a las aseguradoras de salud",
           "dato": "UnitedHealth",
           "cambio": "−5,4%",
           "tendencia": "down",
-          "texto": "Por la propuesta de ampliar las auditorías de Medicare Advantage. Humana cae un 3,9%."
+          "texto": "Por la propuesta de ampliar las auditorías de Medicare Advantage. Humana cae un 3,9%.",
+          "valores": [
+            "UnitedHealth",
+            "Humana"
+          ]
         },
         {
           "titulo": "Nike prevé años difíciles",
           "dato": "Nike",
           "cambio": "−6,3%",
           "tendencia": "down",
-          "texto": "En su día del inversor anticipa caídas de ingresos hasta el año fiscal 2028."
+          "texto": "En su día del inversor anticipa caídas de ingresos hasta el año fiscal 2028.",
+          "valores": [
+            "Nike"
+          ]
         },
         {
           "titulo": "Baten previsiones… y bajan",
           "dato": "Disney",
           "cambio": "−1,5%",
           "tendencia": "down",
-          "texto": "Disney cae pese a batir previsiones y subir el dividendo. Home Depot, −2,5% también tras batir."
+          "texto": "Disney cae pese a batir previsiones y subir el dividendo. Home Depot, −2,5% también tras batir.",
+          "valores": [
+            "Disney",
+            "Home Depot"
+          ]
         },
         {
           "titulo": "Lo que dicen los analistas",
           "dato": "UNFI",
           "cambio": "+7,4%",
           "tendencia": "up",
-          "texto": "Goldman sube a UNFI a Comprar. Bernstein baja a PepsiCo a Infraponderar (−3%) y Mizuho a Stanley Black & Decker a Neutral (−3,6%)."
+          "texto": "Goldman sube a UNFI a Comprar. Bernstein baja a PepsiCo a Infraponderar (−3%) y Mizuho a Stanley Black & Decker a Neutral (−3,6%).",
+          "valores": [
+            "PepsiCo",
+            "Stanley Black & Decker",
+            "UNFI"
+          ]
         },
         {
           "titulo": "Movimientos corporativos",
           "dato": "BILL",
           "cambio": "+12,6%",
           "tendencia": "up",
-          "texto": "Por una posible exclusión de bolsa de la mano de TPG. Amer Sports anuncia una recompra de 1.000 M$."
+          "texto": "Por una posible exclusión de bolsa de la mano de TPG. Amer Sports anuncia una recompra de 1.000 M$.",
+          "valores": [
+            "BILL",
+            "Amer Sports"
+          ]
         }
       ]
     },
@@ -278,7 +380,10 @@
           "cambio": "2 sesiones",
           "tendencia": "down",
           "aviso": true,
-          "texto": "Cae por una filtración de datos, no por un problema de resultados ni de solvencia. Riesgo: posibles multas o daños regulatorios que todavía no se conocen."
+          "texto": "Cae por una filtración de datos, no por un problema de resultados ni de solvencia. Riesgo: posibles multas o daños regulatorios que todavía no se conocen.",
+          "valores": [
+            "Deutsche Bank"
+          ]
         },
         {
           "titulo": "Repsol",
@@ -286,7 +391,11 @@
           "cambio": "hoy",
           "tendencia": "down",
           "aviso": true,
-          "texto": "Cae por la bajada del crudo, no por noticias propias. Riesgo: depende casi por completo del Brent, que podría seguir bajando si se relaja la tensión en Ormuz."
+          "texto": "Cae por la bajada del crudo, no por noticias propias. Riesgo: depende casi por completo del Brent, que podría seguir bajando si se relaja la tensión en Ormuz.",
+          "valores": [
+            "Brent",
+            "Repsol"
+          ]
         },
         {
           "titulo": "IAG",
@@ -294,7 +403,10 @@
           "cambio": "infravalorada",
           "tendencia": "flat",
           "aviso": true,
-          "texto": "El petróleo más barato le reduce costes. Riesgo: que el queroseno vuelva a subir por la geopolítica y la debilidad del consumo."
+          "texto": "El petróleo más barato le reduce costes. Riesgo: que el queroseno vuelva a subir por la geopolítica y la debilidad del consumo.",
+          "valores": [
+            "IAG"
+          ]
         },
         {
           "titulo": "UnitedHealth",
@@ -302,7 +414,10 @@
           "cambio": "martes",
           "tendencia": "down",
           "aviso": true,
-          "texto": "Cae por una auditoría que de momento solo es una propuesta. Riesgo: si se aprueba, recortaría sus márgenes, y el sector ya arrastra problemas regulatorios."
+          "texto": "Cae por una auditoría que de momento solo es una propuesta. Riesgo: si se aprueba, recortaría sus márgenes, y el sector ya arrastra problemas regulatorios.",
+          "valores": [
+            "UnitedHealth"
+          ]
         },
         {
           "titulo": "Enagás",
@@ -310,7 +425,10 @@
           "cambio": "CIADI",
           "tendencia": "up",
           "aviso": true,
-          "texto": "El laudo le permite sacar sus dividendos de Perú y recuperar la garantía. Riesgo: depende de que Perú lo cumpla, y sigue siendo sensible a la subida de tipos."
+          "texto": "El laudo le permite sacar sus dividendos de Perú y recuperar la garantía. Riesgo: depende de que Perú lo cumpla, y sigue siendo sensible a la subida de tipos.",
+          "valores": [
+            "Enagás"
+          ]
         }
       ]
     },
@@ -354,7 +472,11 @@
       "cambio": "+3/5%",
       "tendencia": "up",
       "fuente": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026",
+      "valores": [
+        "Nvidia",
+        "ASML"
+      ]
     },
     {
       "categoria": "España",
@@ -366,7 +488,22 @@
       "cambio": "−0,86%",
       "tendencia": "down",
       "fuente": "Pressdigital",
-      "url": "https://www.pressdigital.es/articulo/economia/2026-11-18/6096428-ibex-35-sigue-baja-media-sesion-caida-031-hasta-19560-puntos"
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-18/6096428-ibex-35-sigue-baja-media-sesion-caida-031-hasta-19560-puntos",
+      "valores": [
+        "IBEX 35"
+      ],
+      "grafica": {
+        "valores": [
+          19946,
+          19625,
+          19456
+        ],
+        "etiquetas": [
+          "16 nov",
+          "17 nov",
+          "18 nov (16:40)"
+        ]
+      }
     },
     {
       "categoria": "Tipos",
@@ -390,7 +527,11 @@
       "cambio": "−1,03%",
       "tendencia": "down",
       "fuente": "CappNotes",
-      "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-17"
+      "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-17",
+      "valores": [
+        "S&P 500",
+        "Nasdaq"
+      ]
     },
     {
       "categoria": "España",
@@ -402,7 +543,12 @@
       "cambio": "−3,9%",
       "tendencia": "down",
       "fuente": "El Español",
-      "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html"
+      "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html",
+      "valores": [
+        "Brent",
+        "Repsol",
+        "IBEX 35"
+      ]
     },
     {
       "categoria": "Europa",
@@ -414,7 +560,10 @@
       "cambio": "−1,3%",
       "tendencia": "down",
       "fuente": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---18th-november-2026"
+      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---18th-november-2026",
+      "valores": [
+        "Deutsche Bank"
+      ]
     },
     {
       "categoria": "Inflación",
@@ -438,7 +587,10 @@
       "cambio": "−8%",
       "tendencia": "down",
       "fuente": "MarketScreener",
-      "url": "https://www.marketscreener.com/news/european-shares-muted-as-tech-offsets-mining-weakness-ce785edcd08cf223"
+      "url": "https://www.marketscreener.com/news/european-shares-muted-as-tech-offsets-mining-weakness-ce785edcd08cf223",
+      "valores": [
+        "Alstom"
+      ]
     },
     {
       "categoria": "Materias primas",
@@ -450,7 +602,11 @@
       "cambio": "−1,8%",
       "tendencia": "down",
       "fuente": "Euribor.com.es",
-      "url": "https://www.euribor.com.es/2026/11/18/analisis-de-mercados-18-de-noviembre-de-2026-18-noviembre-2026/"
+      "url": "https://www.euribor.com.es/2026/11/18/analisis-de-mercados-18-de-noviembre-de-2026-18-noviembre-2026/",
+      "valores": [
+        "Bitcoin",
+        "Oro"
+      ]
     },
     {
       "categoria": "EE. UU.",
@@ -462,7 +618,10 @@
       "cambio": "−6,3%",
       "tendencia": "down",
       "fuente": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026",
+      "valores": [
+        "Nike"
+      ]
     },
     {
       "categoria": "España",
@@ -474,7 +633,10 @@
       "cambio": "CIADI",
       "tendencia": "up",
       "fuente": "El Español",
-      "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html"
+      "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html",
+      "valores": [
+        "Enagás"
+      ]
     },
     {
       "categoria": "Agenda",
@@ -486,7 +648,11 @@
       "cambio": "FOMC",
       "tendencia": "flat",
       "fuente": "Euribor.com.es",
-      "url": "https://www.euribor.com.es/2026/11/18/analisis-de-mercados-18-de-noviembre-de-2026-18-noviembre-2026/"
+      "url": "https://www.euribor.com.es/2026/11/18/analisis-de-mercados-18-de-noviembre-de-2026-18-noviembre-2026/",
+      "valores": [
+        "Nasdaq",
+        "Anthropic"
+      ]
     }
   ],
   "fuentes": [
