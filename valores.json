@@ -479,6 +479,54 @@
    "sector": "Servicios",
    "pais": "Irlanda / Reino Unido",
    "descripcion": "Datos de crédito y solvencia."
+  },
+  {
+   "nombre": "Berkshire Hathaway",
+   "ticker": "BRK.B",
+   "mercado": "NYSE",
+   "sector": "Conglomerado",
+   "pais": "EE. UU.",
+   "descripcion": "El conglomerado de Warren Buffett: seguros, ferrocarriles, energía y grandes participaciones en bolsa."
+  },
+  {
+   "nombre": "Apple",
+   "ticker": "AAPL",
+   "mercado": "Nasdaq",
+   "sector": "Tecnología",
+   "pais": "EE. UU.",
+   "descripcion": "Fabricante del iPhone, el Mac y el iPad, con un negocio creciente de servicios."
+  },
+  {
+   "nombre": "Coca-Cola",
+   "ticker": "KO",
+   "mercado": "NYSE",
+   "sector": "Bebidas",
+   "pais": "EE. UU.",
+   "descripcion": "La mayor empresa de refrescos del mundo; una de las inversiones más conocidas de Buffett."
+  },
+  {
+   "nombre": "Amazon",
+   "ticker": "AMZN",
+   "mercado": "Nasdaq",
+   "sector": "Comercio electrónico y nube",
+   "pais": "EE. UU.",
+   "descripcion": "Tienda online líder y dueña de AWS, el mayor proveedor de servicios en la nube."
+  },
+  {
+   "nombre": "Tesla",
+   "ticker": "TSLA",
+   "mercado": "Nasdaq",
+   "sector": "Automóvil eléctrico",
+   "pais": "EE. UU.",
+   "descripcion": "Fabricante de coches eléctricos y baterías dirigido por Elon Musk; acción muy volátil."
+  },
+  {
+   "nombre": "Inditex",
+   "ticker": "ITX",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Textil",
+   "pais": "España",
+   "descripcion": "Dueña de Zara, Pull&Bear, Massimo Dutti o Bershka; la mayor empresa del IBEX 35 por capitalización."
   }
  ]
 }
