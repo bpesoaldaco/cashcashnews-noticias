@@ -527,6 +527,102 @@
    "sector": "Textil",
    "pais": "España",
    "descripcion": "Dueña de Zara, Pull&Bear, Massimo Dutti o Bershka; la mayor empresa del IBEX 35 por capitalización."
+  },
+  {
+   "nombre": "Acciona",
+   "ticker": "ANA",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Construcción y energía",
+   "pais": "España",
+   "descripcion": "Grupo de infraestructuras y energías renovables; controla Acciona Energía."
+  },
+  {
+   "nombre": "Amadeus",
+   "ticker": "AMS",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Tecnología de viajes",
+   "pais": "España",
+   "descripcion": "Proveedor de tecnología para aerolíneas, hoteles y agencias de viajes."
+  },
+  {
+   "nombre": "BBVA",
+   "ticker": "BBVA",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Segundo banco español, con gran negocio en México y Turquía."
+  },
+  {
+   "nombre": "Bankinter",
+   "ticker": "BKT",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Banco español mediano, conocido por su rentabilidad y la banca privada."
+  },
+  {
+   "nombre": "CaixaBank",
+   "ticker": "CABK",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "El mayor banco de España por negocio doméstico."
+  },
+  {
+   "nombre": "Ferrovial",
+   "ticker": "FER",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Infraestructuras",
+   "pais": "España",
+   "descripcion": "Gestiona autopistas y aeropuertos; también cotiza en Nueva York."
+  },
+  {
+   "nombre": "Iberdrola",
+   "ticker": "IBE",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Eléctricas",
+   "pais": "España",
+   "descripcion": "La mayor eléctrica española, con fuerte presencia en renovables y redes."
+  },
+  {
+   "nombre": "Indra",
+   "ticker": "IDR",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Tecnología y defensa",
+   "pais": "España",
+   "descripcion": "Empresa de tecnología, defensa y control del tráfico aéreo."
+  },
+  {
+   "nombre": "Mapfre",
+   "ticker": "MAP",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Seguros",
+   "pais": "España",
+   "descripcion": "La mayor aseguradora española, con mucho negocio en Latinoamérica."
+  },
+  {
+   "nombre": "Sabadell",
+   "ticker": "SAB",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Banco español con fuerte presencia en empresas y en Reino Unido (TSB)."
+  },
+  {
+   "nombre": "Santander",
+   "ticker": "SAN",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "El mayor banco de la zona euro por capitalización, presente en Europa y América."
+  },
+  {
+   "nombre": "Unicaja",
+   "ticker": "UNI",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Banco andaluz nacido de la fusión de varias cajas de ahorros."
   }
  ]
 }
