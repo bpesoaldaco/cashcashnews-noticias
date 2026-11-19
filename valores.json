@@ -1,0 +1,484 @@
+{
+ "valores": [
+  {
+   "nombre": "IBEX 35",
+   "ticker": "IBEX",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Índice",
+   "pais": "España",
+   "descripcion": "Índice de las 35 empresas más negociadas de la Bolsa española."
+  },
+  {
+   "nombre": "Euro Stoxx 50",
+   "ticker": "SX5E",
+   "mercado": "Stoxx",
+   "sector": "Índice",
+   "pais": "Zona euro",
+   "descripcion": "Las 50 mayores empresas de la zona euro."
+  },
+  {
+   "nombre": "DAX",
+   "ticker": "DAX",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Índice",
+   "pais": "Alemania",
+   "descripcion": "Las 40 mayores empresas de la Bolsa alemana."
+  },
+  {
+   "nombre": "S&P 500",
+   "ticker": "SPX",
+   "mercado": "NYSE / Nasdaq",
+   "sector": "Índice",
+   "pais": "EE. UU.",
+   "descripcion": "Las 500 mayores empresas de EE. UU."
+  },
+  {
+   "nombre": "Nasdaq",
+   "ticker": "IXIC",
+   "mercado": "Nasdaq",
+   "sector": "Índice",
+   "pais": "EE. UU.",
+   "descripcion": "Índice compuesto del Nasdaq, con mucho peso tecnológico."
+  },
+  {
+   "nombre": "Dow Jones",
+   "ticker": "DJI",
+   "mercado": "NYSE / Nasdaq",
+   "sector": "Índice",
+   "pais": "EE. UU.",
+   "descripcion": "30 grandes empresas de EE. UU.; el índice más antiguo de Wall Street."
+  },
+  {
+   "nombre": "Brent",
+   "ticker": "BRN",
+   "mercado": "ICE",
+   "sector": "Materia prima",
+   "pais": "Mundial",
+   "descripcion": "Petróleo de referencia en Europa, en dólares por barril."
+  },
+  {
+   "nombre": "Oro",
+   "ticker": "XAU",
+   "mercado": "Mercado mundial",
+   "sector": "Materia prima",
+   "pais": "Mundial",
+   "descripcion": "Metal refugio, en dólares por onza."
+  },
+  {
+   "nombre": "Bitcoin",
+   "ticker": "BTC",
+   "mercado": "Criptomercados",
+   "sector": "Criptomoneda",
+   "pais": "Mundial",
+   "descripcion": "La criptomoneda más conocida. Muy volátil."
+  },
+  {
+   "nombre": "EUR/USD",
+   "ticker": "EURUSD",
+   "mercado": "Divisas",
+   "sector": "Divisa",
+   "pais": "Zona euro / EE. UU.",
+   "descripcion": "Dólares que vale un euro."
+  },
+  {
+   "nombre": "Anthropic",
+   "ticker": "ANT",
+   "mercado": "Nasdaq",
+   "sector": "Inteligencia artificial",
+   "pais": "EE. UU.",
+   "descripcion": "Empresa de inteligencia artificial, creadora de los modelos Claude. Salió a bolsa en noviembre de 2026."
+  },
+  {
+   "nombre": "Nvidia",
+   "ticker": "NVDA",
+   "mercado": "Nasdaq",
+   "sector": "Semiconductores",
+   "pais": "EE. UU.",
+   "descripcion": "Diseña los chips (GPU) más usados para entrenar inteligencia artificial."
+  },
+  {
+   "nombre": "AMD",
+   "ticker": "AMD",
+   "mercado": "Nasdaq",
+   "sector": "Semiconductores",
+   "pais": "EE. UU.",
+   "descripcion": "Fabricante de procesadores y chips gráficos; competidor de Nvidia e Intel."
+  },
+  {
+   "nombre": "Broadcom",
+   "ticker": "AVGO",
+   "mercado": "Nasdaq",
+   "sector": "Semiconductores",
+   "pais": "EE. UU.",
+   "descripcion": "Chips y software para redes, centros de datos e IA."
+  },
+  {
+   "nombre": "UnitedHealth",
+   "ticker": "UNH",
+   "mercado": "NYSE",
+   "sector": "Salud",
+   "pais": "EE. UU.",
+   "descripcion": "Mayor aseguradora de salud de EE. UU."
+  },
+  {
+   "nombre": "Humana",
+   "ticker": "HUM",
+   "mercado": "NYSE",
+   "sector": "Salud",
+   "pais": "EE. UU.",
+   "descripcion": "Aseguradora de salud, muy expuesta a Medicare."
+  },
+  {
+   "nombre": "Walmart",
+   "ticker": "WMT",
+   "mercado": "NYSE",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Mayor cadena de supermercados del mundo."
+  },
+  {
+   "nombre": "Target",
+   "ticker": "TGT",
+   "mercado": "NYSE",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Cadena de grandes almacenes de EE. UU."
+  },
+  {
+   "nombre": "Lowe's",
+   "ticker": "LOW",
+   "mercado": "NYSE",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Cadena de bricolaje y hogar."
+  },
+  {
+   "nombre": "TJX",
+   "ticker": "TJX",
+   "mercado": "NYSE",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Tiendas de ropa y hogar a precio rebajado (TJ Maxx)."
+  },
+  {
+   "nombre": "Home Depot",
+   "ticker": "HD",
+   "mercado": "NYSE",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Mayor cadena de bricolaje del mundo."
+  },
+  {
+   "nombre": "Nike",
+   "ticker": "NKE",
+   "mercado": "NYSE",
+   "sector": "Consumo",
+   "pais": "EE. UU.",
+   "descripcion": "Ropa y calzado deportivo."
+  },
+  {
+   "nombre": "Disney",
+   "ticker": "DIS",
+   "mercado": "NYSE",
+   "sector": "Entretenimiento",
+   "pais": "EE. UU.",
+   "descripcion": "Parques, cine y streaming (Disney+)."
+  },
+  {
+   "nombre": "PepsiCo",
+   "ticker": "PEP",
+   "mercado": "Nasdaq",
+   "sector": "Alimentación",
+   "pais": "EE. UU.",
+   "descripcion": "Bebidas y snacks."
+  },
+  {
+   "nombre": "Salesforce",
+   "ticker": "CRM",
+   "mercado": "NYSE",
+   "sector": "Software",
+   "pais": "EE. UU.",
+   "descripcion": "Software de gestión de clientes en la nube."
+  },
+  {
+   "nombre": "ServiceNow",
+   "ticker": "NOW",
+   "mercado": "NYSE",
+   "sector": "Software",
+   "pais": "EE. UU.",
+   "descripcion": "Software para automatizar procesos de empresa."
+  },
+  {
+   "nombre": "Intuit",
+   "ticker": "INTU",
+   "mercado": "Nasdaq",
+   "sector": "Software",
+   "pais": "EE. UU.",
+   "descripcion": "Software de contabilidad e impuestos."
+  },
+  {
+   "nombre": "Palo Alto Networks",
+   "ticker": "PANW",
+   "mercado": "Nasdaq",
+   "sector": "Ciberseguridad",
+   "pais": "EE. UU.",
+   "descripcion": "Ciberseguridad para empresas."
+  },
+  {
+   "nombre": "Stanley Black & Decker",
+   "ticker": "SWK",
+   "mercado": "NYSE",
+   "sector": "Industria",
+   "pais": "EE. UU.",
+   "descripcion": "Herramientas."
+  },
+  {
+   "nombre": "BILL",
+   "ticker": "BILL",
+   "mercado": "NYSE",
+   "sector": "Software",
+   "pais": "EE. UU.",
+   "descripcion": "Software de pagos para pymes."
+  },
+  {
+   "nombre": "Amer Sports",
+   "ticker": "AS",
+   "mercado": "NYSE",
+   "sector": "Consumo",
+   "pais": "Finlandia",
+   "descripcion": "Marcas deportivas como Salomon y Wilson."
+  },
+  {
+   "nombre": "UNFI",
+   "ticker": "UNFI",
+   "mercado": "NYSE",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Distribuidor mayorista de alimentación."
+  },
+  {
+   "nombre": "Solaria",
+   "ticker": "SLR",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Renovables",
+   "pais": "España",
+   "descripcion": "Productora de energía solar fotovoltaica."
+  },
+  {
+   "nombre": "Acerinox",
+   "ticker": "ACX",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Acero",
+   "pais": "España",
+   "descripcion": "Fabricante de acero inoxidable."
+  },
+  {
+   "nombre": "Endesa",
+   "ticker": "ELE",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Eléctricas",
+   "pais": "España",
+   "descripcion": "Eléctrica española, filial de Enel."
+  },
+  {
+   "nombre": "San José",
+   "ticker": "GSJ",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Construcción",
+   "pais": "España",
+   "descripcion": "Constructora española."
+  },
+  {
+   "nombre": "Repsol",
+   "ticker": "REP",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Petróleo y gas",
+   "pais": "España",
+   "descripcion": "Petrolera española; muy ligada al precio del Brent."
+  },
+  {
+   "nombre": "Telefónica",
+   "ticker": "TEF",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Telecomunicaciones",
+   "pais": "España",
+   "descripcion": "Operadora de telecomunicaciones (Movistar)."
+  },
+  {
+   "nombre": "Cellnex",
+   "ticker": "CLNX",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Telecomunicaciones",
+   "pais": "España",
+   "descripcion": "Torres de telecomunicaciones en Europa."
+  },
+  {
+   "nombre": "Acciona Energía",
+   "ticker": "ANE",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Renovables",
+   "pais": "España",
+   "descripcion": "Energía renovable (eólica y solar)."
+  },
+  {
+   "nombre": "ACS",
+   "ticker": "ACS",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Construcción",
+   "pais": "España",
+   "descripcion": "Constructora y concesiones."
+  },
+  {
+   "nombre": "Grifols",
+   "ticker": "GRF",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Salud",
+   "pais": "España",
+   "descripcion": "Medicamentos derivados del plasma."
+  },
+  {
+   "nombre": "Merlin",
+   "ticker": "MRL",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Inmobiliario",
+   "pais": "España",
+   "descripcion": "Socimi de oficinas, logística y centros comerciales."
+  },
+  {
+   "nombre": "Enagás",
+   "ticker": "ENG",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Gas",
+   "pais": "España",
+   "descripcion": "Transporte de gas natural."
+  },
+  {
+   "nombre": "IAG",
+   "ticker": "IAG",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Aerolíneas",
+   "pais": "España / Reino Unido",
+   "descripcion": "Grupo de Iberia, British Airways y Vueling."
+  },
+  {
+   "nombre": "SAP",
+   "ticker": "SAP",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Software",
+   "pais": "Alemania",
+   "descripcion": "Mayor empresa de software de Europa."
+  },
+  {
+   "nombre": "Fresenius Medical Care",
+   "ticker": "FME",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Salud",
+   "pais": "Alemania",
+   "descripcion": "Diálisis y productos para enfermos renales."
+  },
+  {
+   "nombre": "Fresenius SE",
+   "ticker": "FRE",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Salud",
+   "pais": "Alemania",
+   "descripcion": "Hospitales y medicamentos."
+  },
+  {
+   "nombre": "Evonik",
+   "ticker": "EVK",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Química",
+   "pais": "Alemania",
+   "descripcion": "Química especializada."
+  },
+  {
+   "nombre": "Lanxess",
+   "ticker": "LXS",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Química",
+   "pais": "Alemania",
+   "descripcion": "Química especializada."
+  },
+  {
+   "nombre": "Deutsche Bank",
+   "ticker": "DBK",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Banca",
+   "pais": "Alemania",
+   "descripcion": "Mayor banco de Alemania."
+  },
+  {
+   "nombre": "Siemens",
+   "ticker": "SIE",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Industria",
+   "pais": "Alemania",
+   "descripcion": "Industria, automatización y tecnología."
+  },
+  {
+   "nombre": "Infineon",
+   "ticker": "IFX",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Semiconductores",
+   "pais": "Alemania",
+   "descripcion": "Chips para coches e industria."
+  },
+  {
+   "nombre": "Aixtron",
+   "ticker": "AIXA",
+   "mercado": "Bolsa de Fráncfort",
+   "sector": "Semiconductores",
+   "pais": "Alemania",
+   "descripcion": "Equipos para fabricar chips."
+  },
+  {
+   "nombre": "ASML",
+   "ticker": "ASML",
+   "mercado": "Euronext Ámsterdam",
+   "sector": "Semiconductores",
+   "pais": "Países Bajos",
+   "descripcion": "Única fabricante de las máquinas de litografía más avanzadas para chips."
+  },
+  {
+   "nombre": "ASM International",
+   "ticker": "ASM",
+   "mercado": "Euronext Ámsterdam",
+   "sector": "Semiconductores",
+   "pais": "Países Bajos",
+   "descripcion": "Equipos para fabricar chips."
+  },
+  {
+   "nombre": "Alstom",
+   "ticker": "ALO",
+   "mercado": "Euronext París",
+   "sector": "Ferroviario",
+   "pais": "Francia",
+   "descripcion": "Trenes y señalización ferroviaria."
+  },
+  {
+   "nombre": "Glencore",
+   "ticker": "GLEN",
+   "mercado": "Bolsa de Londres",
+   "sector": "Minería",
+   "pais": "Suiza",
+   "descripcion": "Minería y comercio de materias primas."
+  },
+  {
+   "nombre": "Antofagasta",
+   "ticker": "ANTO",
+   "mercado": "Bolsa de Londres",
+   "sector": "Minería",
+   "pais": "Chile",
+   "descripcion": "Minería de cobre."
+  },
+  {
+   "nombre": "Experian",
+   "ticker": "EXPN",
+   "mercado": "Bolsa de Londres",
+   "sector": "Servicios",
+   "pais": "Irlanda / Reino Unido",
+   "descripcion": "Datos de crédito y solvencia."
+  }
+ ]
+}

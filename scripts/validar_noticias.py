@@ -71,8 +71,9 @@ def validar(d):
         if x.get("tendencia", "flat") not in TENDENCIAS:
             e.append(f"{w}: 'tendencia' debe ser up, down o flat")
 
-    stories = d.get("stories")
-    if not isinstance(stories, list) or not stories:
+    semanal = d.get("tipo") == "semanal"
+    stories = d.get("stories", [] if semanal else None)
+    if not isinstance(stories, list) or (not stories and not semanal):
         e.append("raíz: 'stories' debe ser una lista con al menos una story")
         stories = []
     ids = set()

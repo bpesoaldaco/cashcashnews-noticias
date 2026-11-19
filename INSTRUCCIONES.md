@@ -15,6 +15,7 @@ usa `archivo/indice.json` para saber qué días hay, y descarga cada día de `ar
 |---|---|
 | `noticias.json` | Las noticias que ve la app. Se sobrescribe cada día. |
 | `archivo/AAAA-MM-DD.json` | Copia del día. La app la usa en el calendario y al comparar días. |
+| `valores.json` | Datos básicos de cada valor para su ficha. Añade los valores nuevos que aparezcan. |
 | `archivo/indice.json` | Lista de días para el calendario. Se regenera con `python3 scripts/actualizar_indice.py`. |
 | `resumenes/AAAA-MM-DD.md` | El resumen en texto (mismo contenido, formato largo). |
 
@@ -94,3 +95,28 @@ python3 scripts/actualizar_indice.py
 
 La validación tiene que decir `OK`, y el índice tiene que incluir el día de hoy. Si da errores, corrígelos y vuelve a comprobar. Después, un commit
 con el mensaje `Noticias del AAAA-MM-DD` directamente en `main` y push.
+
+## Resumen semanal (viernes)
+
+Lo escribe otra tarea programada los viernes por la noche, después del cierre de Wall Street.
+La app lo enseña en «Resumen semanal» como unas pocas tarjetas que se pasan hacia arriba.
+
+- Archivo: `semanal/AAAA-MM-DD.json`, con la fecha del viernes.
+- Mismo formato que `noticias.json`, con estas diferencias:
+  - `"tipo": "semanal"` y `"fechaTexto": "Semana del 16 al 20 nov 2026"`.
+  - `stories` puede ir vacío (`[]`).
+  - `reels`: **entre 5 y 7 tarjetas** con lo más importante de la semana: cómo cerró cada mercado en la
+    semana (con su minigráfica de los 5 cierres diarios), los 2-3 temas que más movieron el mercado, los
+    valores con mayores subidas y bajadas de la semana, y una tarjeta «La semana que viene» con la agenda
+    clave. Cada tarjeta con sus `valores`.
+  - `indicadores`: el cierre del viernes y, en `cambio`, la variación **semanal**.
+- Usa sobre todo los archivos de `archivo/` de los días de la semana, y completa con búsquedas para el
+  cierre del viernes. No inventes cifras.
+- Después: `python3 scripts/validar_noticias.py semanal/AAAA-MM-DD.json` y
+  `python3 scripts/actualizar_indice.py` (actualiza `semanal/indice.json`).
+
+## Fichas de valores
+
+`valores.json` tiene los datos básicos de cada valor (ticker, mercado, sector, país y una frase de qué es).
+La app los enseña en la ficha del valor. Si una noticia menciona en `valores` uno que no está en
+`valores.json`, añádelo con el mismo formato (solo datos que sepas con seguridad).
