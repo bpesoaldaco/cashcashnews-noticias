@@ -1,0 +1,272 @@
+{
+ "fecha": "2026-11-09",
+ "fechaTexto": "Lunes 9 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.742,5",
+   "cambio": "+1,93%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.550",
+   "cambio": "+2,35%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.253",
+   "cambio": "+2,74%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "94 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.133 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1202",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "74.719 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX conquista los 19.700 puntos",
+     "dato": "19.742,5",
+     "cambio": "+1,93%",
+     "tendencia": "up",
+     "texto": "Sube un 1,93%, hasta 19.742,5, pendiente de Nvidia y de Irán.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18807,
+       19370,
+       19486,
+       19369.5,
+       19742.5
+      ],
+      "etiquetas": [
+       "3 nov",
+       "4 nov",
+       "5 nov",
+       "6 nov",
+       "9 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Mejor día desde abril en Wall Street",
+     "dato": "7.550",
+     "cambio": "+2,35%",
+     "tendencia": "up",
+     "texto": "La caída del petróleo impulsa a la bolsa, pese a la bajada de Nvidia. Nasdaq: +2,74%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7568.92,
+       7688.62,
+       7353.73,
+       7376.86,
+       7549.94
+      ],
+      "etiquetas": [
+       "3 nov",
+       "4 nov",
+       "5 nov",
+       "6 nov",
+       "9 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent cae a 94 dólares",
+     "texto": "Trump ve «altamente improbable» volver a atacar a Irán. El oro está en 4.133 dólares.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 94 $"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Almirall se desploma",
+     "texto": "Pese a ganar 53,3 millones hasta septiembre (+36,3%).",
+     "dato": "53,3 M€",
+     "cambio": "+36,3%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "Nvidia cae con fuerza",
+     "texto": "Por una investigación sobre su consejero delegado, Jensen Huang.",
+     "dato": "Nvidia",
+     "tendencia": "down",
+     "valores": [
+      "Nvidia"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX conquista los 19.700 puntos",
+   "dato": "19.742,5",
+   "cambio": "+1,93%",
+   "tendencia": "up",
+   "texto": "Sube un 1,93%, hasta 19.742,5, pendiente de Nvidia y de Irán.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18807,
+     19370,
+     19486,
+     19369.5,
+     19742.5
+    ],
+    "etiquetas": [
+     "3 nov",
+     "4 nov",
+     "5 nov",
+     "6 nov",
+     "9 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-9-noviembre-alzas-nvidia-oriente-medio--24087126.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Almirall se desploma",
+   "texto": "Pese a ganar 53,3 millones hasta septiembre (+36,3%).",
+   "dato": "53,3 M€",
+   "cambio": "+36,3%",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-9-noviembre-alzas-nvidia-oriente-medio--24087126.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Nvidia cae con fuerza",
+   "texto": "Por una investigación sobre su consejero delegado, Jensen Huang.",
+   "dato": "Nvidia",
+   "tendencia": "down",
+   "valores": [
+    "Nvidia"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-9-noviembre-alzas-nvidia-oriente-medio--24087126.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Mejor día desde abril en Wall Street",
+   "dato": "7.550",
+   "cambio": "+2,35%",
+   "tendencia": "up",
+   "texto": "La caída del petróleo impulsa a la bolsa, pese a la bajada de Nvidia. Nasdaq: +2,74%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7568.92,
+     7688.62,
+     7353.73,
+     7376.86,
+     7549.94
+    ],
+    "etiquetas": [
+     "3 nov",
+     "4 nov",
+     "5 nov",
+     "6 nov",
+     "9 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-1192026-nid09112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent cae a 94 dólares",
+   "texto": "Trump ve «altamente improbable» volver a atacar a Irán. El oro está en 4.133 dólares.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 94 $",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-9-noviembre-alzas-nvidia-oriente-medio--24087126.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 9 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-9-noviembre-alzas-nvidia-oriente-medio--24087126.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-1192026-nid09112026/"
+  }
+ ]
+}

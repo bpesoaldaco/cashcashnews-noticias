@@ -1,0 +1,323 @@
+{
+ "fecha": "2026-10-30",
+ "fechaTexto": "Viernes 30 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.652,9",
+   "cambio": "−1,09%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.580",
+   "cambio": "−1,82%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.437",
+   "cambio": "−2,86%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "117,6 $",
+   "cambio": "+2%",
+   "tendencia": "up"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "—",
+   "cambio": "−3%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1157",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "77.200 $",
+   "cambio": "−4%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX cierra octubre con una caída del 4%",
+     "dato": "18.652,9",
+     "cambio": "−1,09%",
+     "tendencia": "down",
+     "texto": "Hoy cae un 1,09%, hasta 18.652,9 puntos. En la semana pierde casi un 1,8%, y en octubre, un 3,98%.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19033.3,
+       19160.6,
+       18883,
+       18857,
+       18652.9
+      ],
+      "etiquetas": [
+       "26 oct",
+       "27 oct",
+       "28 oct",
+       "29 oct",
+       "30 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "Fuertes caídas en tecnología",
+     "dato": "7.580",
+     "cambio": "−1,82%",
+     "tendencia": "down",
+     "texto": "Preocupa el gasto en IA. Intel se hunde casi un 29%. Nasdaq: −2,86%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7676.77,
+       7722.6,
+       7743.98,
+       7720.39,
+       7580.07
+      ],
+      "etiquetas": [
+       "26 oct",
+       "27 oct",
+       "28 oct",
+       "29 oct",
+       "30 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "El oro cae un 3% y el bitcoin un 4%",
+     "texto": "El oro pierde los 4.000 dólares y el bitcoin baja a 77.200. El Brent sube a 117,6 dólares.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 117,6 $",
+     "cambio": "+2%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Repsol, Puig y Grifols, al alza",
+     "texto": "Lideran las subidas. A la cola, Solaria, BBVA, Santander y Acerinox.",
+     "tendencia": "up",
+     "valores": [
+      "Repsol",
+      "Grifols",
+      "Acerinox"
+     ]
+    },
+    {
+     "titulo": "CaixaBank gana un 12,9% más",
+     "texto": "Hasta 4.962 millones. Unicaja gana 543 millones (+8,1%).",
+     "dato": "4.962 M€",
+     "cambio": "+12,9%",
+     "tendencia": "up",
+     "valores": [
+      "CaixaBank",
+      "Unicaja"
+     ]
+    },
+    {
+     "titulo": "El IPC de octubre, en el 4,9%",
+     "texto": "Es el dato adelantado de inflación en España.",
+     "dato": "4,9%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "La eurozona crece un 0,4%",
+     "texto": "Es el PIB del tercer trimestre.",
+     "dato": "+0,4%",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX cierra octubre con una caída del 4%",
+   "dato": "18.652,9",
+   "cambio": "−1,09%",
+   "tendencia": "down",
+   "texto": "Hoy cae un 1,09%, hasta 18.652,9 puntos. En la semana pierde casi un 1,8%, y en octubre, un 3,98%.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19033.3,
+     19160.6,
+     18883,
+     18857,
+     18652.9
+    ],
+    "etiquetas": [
+     "26 oct",
+     "27 oct",
+     "28 oct",
+     "29 oct",
+     "30 oct"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Repsol, Puig y Grifols, al alza",
+   "texto": "Lideran las subidas. A la cola, Solaria, BBVA, Santander y Acerinox.",
+   "tendencia": "up",
+   "valores": [
+    "Repsol",
+    "Grifols",
+    "Acerinox"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "CaixaBank gana un 12,9% más",
+   "texto": "Hasta 4.962 millones. Unicaja gana 543 millones (+8,1%).",
+   "dato": "4.962 M€",
+   "cambio": "+12,9%",
+   "tendencia": "up",
+   "valores": [
+    "CaixaBank",
+    "Unicaja"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "La eurozona crece un 0,4%",
+   "texto": "Es el PIB del tercer trimestre.",
+   "dato": "+0,4%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Fuertes caídas en tecnología",
+   "dato": "7.580",
+   "cambio": "−1,82%",
+   "tendencia": "down",
+   "texto": "Preocupa el gasto en IA. Intel se hunde casi un 29%. Nasdaq: −2,86%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7676.77,
+     7722.6,
+     7743.98,
+     7720.39,
+     7580.07
+    ],
+    "etiquetas": [
+     "26 oct",
+     "27 oct",
+     "28 oct",
+     "29 oct",
+     "30 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-10302026-nid30102026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El oro cae un 3% y el bitcoin un 4%",
+   "texto": "El oro pierde los 4.000 dólares y el bitcoin baja a 77.200. El Brent sube a 117,6 dólares.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 117,6 $",
+   "cambio": "+2%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "El IPC de octubre, en el 4,9%",
+   "texto": "Es el dato adelantado de inflación en España.",
+   "dato": "4,9%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 30 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-10302026-nid30102026/"
+  }
+ ]
+}

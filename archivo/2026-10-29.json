@@ -1,0 +1,333 @@
+{
+ "fecha": "2026-10-29",
+ "fechaTexto": "Jueves 29 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.857",
+   "cambio": "−0,14%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.720",
+   "cambio": "−0,30%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "26.185",
+   "cambio": "−1,38%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "113,8 $",
+   "cambio": "−1%",
+   "tendencia": "down"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.028 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1163",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "81.100 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "BBVA arrastra al IBEX tras sus resultados",
+     "dato": "18.857",
+     "cambio": "−0,14%",
+     "tendencia": "down",
+     "texto": "El índice cede un 0,14%, hasta 18.857 puntos. Indra y Repsol suben con fuerza tras sus cifras.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18989.8,
+       19033.3,
+       19160.6,
+       18883,
+       18857
+      ],
+      "etiquetas": [
+       "23 oct",
+       "26 oct",
+       "27 oct",
+       "28 oct",
+       "29 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "Alphabet sufre su mayor caída en un día",
+     "dato": "7.720",
+     "cambio": "−0,30%",
+     "tendencia": "down",
+     "texto": "Su crecimiento decepciona y tiene flujo de caja negativo. Microsoft también cae pese a superar previsiones. Nasdaq: −1,38%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7623.68,
+       7676.77,
+       7722.6,
+       7743.98,
+       7720.39
+      ],
+      "etiquetas": [
+       "23 oct",
+       "26 oct",
+       "27 oct",
+       "28 oct",
+       "29 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent baja a 113,8 dólares",
+     "texto": "Cae alrededor de un 1%. El oro cede con moderación, hasta 4.028 dólares, y el bitcoin está en 81.100.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 113,8 $",
+     "cambio": "−1%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "BBVA cae con fuerza",
+     "texto": "Gana 9.066 millones hasta septiembre (+13,6%), pero el mercado castiga sus cuentas. Sabadell cede menos.",
+     "dato": "9.066 M€",
+     "cambio": "+13,6%",
+     "tendencia": "down",
+     "valores": [
+      "BBVA",
+      "Sabadell"
+     ]
+    },
+    {
+     "titulo": "Indra y Repsol, al alza",
+     "texto": "Ambas suben con fuerza tras presentar resultados.",
+     "tendencia": "up",
+     "valores": [
+      "Indra",
+      "Repsol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "El BCE mantiene los tipos en el 2,5%",
+     "texto": "Y Lagarde anuncia que deja la presidencia el 7 de febrero.",
+     "dato": "2,5%",
+     "tendencia": "flat",
+     "valores": [
+      "Euro Stoxx 50"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "La Fed dejó los tipos en el 3,75%-4%",
+     "texto": "Pero con dos votos a favor de subirlos.",
+     "dato": "3,75-4%",
+     "tendencia": "flat"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "BBVA arrastra al IBEX tras sus resultados",
+   "dato": "18.857",
+   "cambio": "−0,14%",
+   "tendencia": "down",
+   "texto": "El índice cede un 0,14%, hasta 18.857 puntos. Indra y Repsol suben con fuerza tras sus cifras.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18989.8,
+     19033.3,
+     19160.6,
+     18883,
+     18857
+    ],
+    "etiquetas": [
+     "23 oct",
+     "26 oct",
+     "27 oct",
+     "28 oct",
+     "29 oct"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "BBVA cae con fuerza",
+   "texto": "Gana 9.066 millones hasta septiembre (+13,6%), pero el mercado castiga sus cuentas. Sabadell cede menos.",
+   "dato": "9.066 M€",
+   "cambio": "+13,6%",
+   "tendencia": "down",
+   "valores": [
+    "BBVA",
+    "Sabadell"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Indra y Repsol, al alza",
+   "texto": "Ambas suben con fuerza tras presentar resultados.",
+   "tendencia": "up",
+   "valores": [
+    "Indra",
+    "Repsol"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "El BCE mantiene los tipos en el 2,5%",
+   "texto": "Y Lagarde anuncia que deja la presidencia el 7 de febrero.",
+   "dato": "2,5%",
+   "tendencia": "flat",
+   "valores": [
+    "Euro Stoxx 50"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "La Fed dejó los tipos en el 3,75%-4%",
+   "texto": "Pero con dos votos a favor de subirlos.",
+   "dato": "3,75-4%",
+   "tendencia": "flat",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Alphabet sufre su mayor caída en un día",
+   "dato": "7.720",
+   "cambio": "−0,30%",
+   "tendencia": "down",
+   "texto": "Su crecimiento decepciona y tiene flujo de caja negativo. Microsoft también cae pese a superar previsiones. Nasdaq: −1,38%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7623.68,
+     7676.77,
+     7722.6,
+     7743.98,
+     7720.39
+    ],
+    "etiquetas": [
+     "23 oct",
+     "26 oct",
+     "27 oct",
+     "28 oct",
+     "29 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-10292026-nid29102026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent baja a 113,8 dólares",
+   "texto": "Cae alrededor de un 1%. El oro cede con moderación, hasta 4.028 dólares, y el bitcoin está en 81.100.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 113,8 $",
+   "cambio": "−1%",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 29 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-10292026-nid29102026/"
+  }
+ ]
+}

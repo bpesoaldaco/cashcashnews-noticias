@@ -1,0 +1,145 @@
+{
+ "tipo": "semanal",
+ "fecha": "2026-10-30",
+ "fechaTexto": "Semana del 26 al 30 oct 2026",
+ "actualizado": "cierre del viernes",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.652,9",
+   "cambio": "−1,77%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.580",
+   "cambio": "−0,57%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.437",
+   "cambio": "−2,00%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX pierde un 1,8% en la semana",
+   "texto": "Cierra el viernes en 18.652,9 puntos.",
+   "dato": "18.652,9",
+   "cambio": "−1,77%",
+   "tendencia": "down",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19033.3,
+     19160.6,
+     18883.0,
+     18857.0,
+     18652.9
+    ],
+    "etiquetas": [
+     "26 oct",
+     "27 oct",
+     "28 oct",
+     "29 oct",
+     "30 oct"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Wall Street: S&P 500 −0,57% en la semana",
+   "texto": "El Nasdaq baja un 2,0%.",
+   "dato": "7.580",
+   "cambio": "−0,57%",
+   "tendencia": "down",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7676.77,
+     7722.6,
+     7743.98,
+     7720.39,
+     7580.07
+    ],
+    "etiquetas": [
+     "26 oct",
+     "27 oct",
+     "28 oct",
+     "29 oct",
+     "30 oct"
+    ]
+   }
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "Semana de bancos centrales",
+   "texto": "La Fed mantuvo los tipos (3,75%-4%) y el BCE los dejó en el 2,5%. Lagarde dejará la presidencia el 7 de febrero.",
+   "valores": []
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "La gran banca, castigada",
+   "texto": "Santander y BBVA cayeron tras sus resultados pese a ganar más que hace un año.",
+   "valores": [
+    "Santander",
+    "BBVA"
+   ]
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "Tecnología a la baja",
+   "texto": "Alphabet sufrió su mayor caída en un día e Intel se hundió casi un 29% el viernes.",
+   "valores": [
+    "Nasdaq"
+   ]
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: crónica del 27 oct (incluye el cierre del lunes)",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-tranquilos-ultimas-subidas-tecnologia--23927972.html"
+  },
+  {
+   "nombre": "Bolsamanía: cierre del 27 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-tranquilos-ultimas-subidas-tecnologia--23927972.html"
+  },
+  {
+   "nombre": "Bolsamanía: cierre del 28 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  },
+  {
+   "nombre": "Bolsamanía: cierre del 29 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+  },
+  {
+   "nombre": "Bolsamanía: cierre del 30 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "fecha": "2026-10-28",
+ "fechaTexto": "Miércoles 28 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.883",
+   "cambio": "−1,45%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.744",
+   "cambio": "+0,28%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "26.550",
+   "cambio": "+0,27%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "116 $",
+   "cambio": "+2%",
+   "tendencia": "up"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.053 $",
+   "cambio": "−0,5%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1143",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX pierde los 19.000 lastrado por Santander",
+     "dato": "18.883",
+     "cambio": "−1,45%",
+     "tendencia": "down",
+     "texto": "Cae un 1,45%, hasta 18.883 puntos, en una jornada llena de resultados.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18913.5,
+       18989.8,
+       19033.3,
+       19160.6,
+       18883
+      ],
+      "etiquetas": [
+       "22 oct",
+       "23 oct",
+       "26 oct",
+       "27 oct",
+       "28 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "La Fed mantiene los tipos",
+     "dato": "7.744",
+     "cambio": "+0,28%",
+     "tendencia": "up",
+     "texto": "Wall Street se mantiene estable después de que la Reserva Federal deje los tipos sin cambios. Nasdaq: +0,27%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7663.43,
+       7623.68,
+       7676.77,
+       7722.6,
+       7743.98
+      ],
+      "etiquetas": [
+       "22 oct",
+       "23 oct",
+       "26 oct",
+       "27 oct",
+       "28 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent vuelve a 116 dólares",
+     "texto": "Sube un 2%. El oro cede un 0,5%, hasta 4.053 dólares.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 116 $",
+     "cambio": "+2%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Santander cae tras sus resultados",
+     "texto": "Gana 12.405 millones hasta septiembre (+20%), pero el trimestre baja un 2%, hasta 3.432 millones.",
+     "dato": "12.405 M€",
+     "tendencia": "down",
+     "valores": [
+      "Santander"
+     ]
+    },
+    {
+     "titulo": "Acciona y Acciona Energía, a la cola",
+     "texto": "Los tres fondos finalistas se retiran de la puja por Acciona Energía.",
+     "dato": "Acciona",
+     "tendencia": "down",
+     "valores": [
+      "Acciona",
+      "Acciona Energía"
+     ]
+    },
+    {
+     "titulo": "Endesa y Mapfre también caen",
+     "texto": "Bajan después de presentar sus cuentas.",
+     "tendencia": "down",
+     "valores": [
+      "Endesa",
+      "Mapfre"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX pierde los 19.000 lastrado por Santander",
+   "dato": "18.883",
+   "cambio": "−1,45%",
+   "tendencia": "down",
+   "texto": "Cae un 1,45%, hasta 18.883 puntos, en una jornada llena de resultados.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18913.5,
+     18989.8,
+     19033.3,
+     19160.6,
+     18883
+    ],
+    "etiquetas": [
+     "22 oct",
+     "23 oct",
+     "26 oct",
+     "27 oct",
+     "28 oct"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Santander cae tras sus resultados",
+   "texto": "Gana 12.405 millones hasta septiembre (+20%), pero el trimestre baja un 2%, hasta 3.432 millones.",
+   "dato": "12.405 M€",
+   "tendencia": "down",
+   "valores": [
+    "Santander"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Acciona y Acciona Energía, a la cola",
+   "texto": "Los tres fondos finalistas se retiran de la puja por Acciona Energía.",
+   "dato": "Acciona",
+   "tendencia": "down",
+   "valores": [
+    "Acciona",
+    "Acciona Energía"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "La Fed mantiene los tipos",
+   "dato": "7.744",
+   "cambio": "+0,28%",
+   "tendencia": "up",
+   "texto": "Wall Street se mantiene estable después de que la Reserva Federal deje los tipos sin cambios. Nasdaq: +0,27%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7663.43,
+     7623.68,
+     7676.77,
+     7722.6,
+     7743.98
+    ],
+    "etiquetas": [
+     "22 oct",
+     "23 oct",
+     "26 oct",
+     "27 oct",
+     "28 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-10282026-nid28102026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent vuelve a 116 dólares",
+   "texto": "Sube un 2%. El oro cede un 0,5%, hasta 4.053 dólares.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 116 $",
+   "cambio": "+2%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Endesa y Mapfre también caen",
+   "texto": "Bajan después de presentar sus cuentas.",
+   "tendencia": "down",
+   "valores": [
+    "Endesa",
+    "Mapfre"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 28 oct",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-10282026-nid28102026/"
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "fecha": "2026-10-26",
+ "fechaTexto": "Lunes 26 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.033,3",
+   "cambio": "+0,23%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurostoxx",
+   "nombre": "Euro Stoxx 50",
+   "valor": "6.116",
+   "cambio": "+0,79%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.677",
+   "cambio": "+0,70%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "26.169",
+   "cambio": "+0,82%",
+   "tendencia": "up"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX empieza la semana con leves alzas",
+     "dato": "19.033,3",
+     "cambio": "+0,23%",
+     "tendencia": "up",
+     "texto": "Sube un 0,23% y cierra en 19.033,3 puntos.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19092.4,
+       19323.5,
+       18913.5,
+       18989.8,
+       19033.3
+      ],
+      "etiquetas": [
+       "20 oct",
+       "21 oct",
+       "22 oct",
+       "23 oct",
+       "26 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "Wall Street sube pese a la volatilidad de la IA",
+     "dato": "7.677",
+     "cambio": "+0,70%",
+     "tendencia": "up",
+     "texto": "Ganancias generales pese a los vaivenes de los valores de inteligencia artificial. Nasdaq: +0,82%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7712.57,
+       7757.17,
+       7663.43,
+       7623.68,
+       7676.77
+      ],
+      "etiquetas": [
+       "20 oct",
+       "21 oct",
+       "22 oct",
+       "23 oct",
+       "26 oct"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX empieza la semana con leves alzas",
+   "dato": "19.033,3",
+   "cambio": "+0,23%",
+   "tendencia": "up",
+   "texto": "Sube un 0,23% y cierra en 19.033,3 puntos.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19092.4,
+     19323.5,
+     18913.5,
+     18989.8,
+     19033.3
+    ],
+    "etiquetas": [
+     "20 oct",
+     "21 oct",
+     "22 oct",
+     "23 oct",
+     "26 oct"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-tranquilos-ultimas-subidas-tecnologia--23927972.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Wall Street sube pese a la volatilidad de la IA",
+   "dato": "7.677",
+   "cambio": "+0,70%",
+   "tendencia": "up",
+   "texto": "Ganancias generales pese a los vaivenes de los valores de inteligencia artificial. Nasdaq: +0,82%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7712.57,
+     7757.17,
+     7663.43,
+     7623.68,
+     7676.77
+    ],
+    "etiquetas": [
+     "20 oct",
+     "21 oct",
+     "22 oct",
+     "23 oct",
+     "26 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-10262026-nid26102026/"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: crónica del 27 oct (incluye el cierre del lunes)",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-tranquilos-ultimas-subidas-tecnologia--23927972.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-10262026-nid26102026/"
+  }
+ ]
+}

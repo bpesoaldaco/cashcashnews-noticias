@@ -1,0 +1,253 @@
+{
+ "fecha": "2026-10-22",
+ "fechaTexto": "Jueves 22 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.913,5",
+   "cambio": "−2,12%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurostoxx",
+   "nombre": "Euro Stoxx 50",
+   "valor": "6.087",
+   "cambio": "−1,94%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.663",
+   "cambio": "−1,21%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "26.009",
+   "cambio": "−2,60%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX pierde los 19.000 con la banca y el crudo",
+     "dato": "18.913,5",
+     "cambio": "−2,12%",
+     "tendencia": "down",
+     "texto": "Cae un 2,12%, hasta 18.913,5 puntos, por la caída de los bancos y la subida del petróleo.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19326.3,
+       19039.3,
+       19092.4,
+       19323.5,
+       18913.5
+      ],
+      "etiquetas": [
+       "16 oct",
+       "19 oct",
+       "20 oct",
+       "21 oct",
+       "22 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "La IA vuelve a pesar en Wall Street",
+     "dato": "7.663",
+     "cambio": "−1,21%",
+     "tendencia": "down",
+     "texto": "Nueva ola de ventas en tecnológicas y valores de IA, aunque la mayoría de acciones subió. Nasdaq: −2,60%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7659.44,
+       7712.57,
+       7757.17,
+       7663.43
+      ],
+      "etiquetas": [
+       "16 oct",
+       "20 oct",
+       "21 oct",
+       "22 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent supera los 112 dólares",
+     "texto": "Por las tensiones de suministro en Oriente Próximo. Más petróleo caro significa riesgo de inflación.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Bankinter cae más de un 5%",
+     "texto": "Ganó 901 millones hasta septiembre (+11%), pero los ingresos y comisiones del trimestre decepcionaron a parte del mercado.",
+     "dato": "Bankinter",
+     "cambio": "−5%",
+     "tendencia": "down",
+     "valores": [
+      "Bankinter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "Francia preocupa",
+     "texto": "El bono francés a 10 años llega a rondar el 5,06% y su prima de riesgo supera los 170 puntos básicos.",
+     "dato": "5,06%",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX pierde los 19.000 con la banca y el crudo",
+   "dato": "18.913,5",
+   "cambio": "−2,12%",
+   "tendencia": "down",
+   "texto": "Cae un 2,12%, hasta 18.913,5 puntos, por la caída de los bancos y la subida del petróleo.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19326.3,
+     19039.3,
+     19092.4,
+     19323.5,
+     18913.5
+    ],
+    "etiquetas": [
+     "16 oct",
+     "19 oct",
+     "20 oct",
+     "21 oct",
+     "22 oct"
+    ]
+   },
+   "fuente": "Tiempo de Inversión",
+   "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Bankinter cae más de un 5%",
+   "texto": "Ganó 901 millones hasta septiembre (+11%), pero los ingresos y comisiones del trimestre decepcionaron a parte del mercado.",
+   "dato": "Bankinter",
+   "cambio": "−5%",
+   "tendencia": "down",
+   "valores": [
+    "Bankinter"
+   ],
+   "fuente": "Tiempo de Inversión",
+   "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "Francia preocupa",
+   "texto": "El bono francés a 10 años llega a rondar el 5,06% y su prima de riesgo supera los 170 puntos básicos.",
+   "dato": "5,06%",
+   "tendencia": "up",
+   "fuente": "Tiempo de Inversión",
+   "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "La IA vuelve a pesar en Wall Street",
+   "dato": "7.663",
+   "cambio": "−1,21%",
+   "tendencia": "down",
+   "texto": "Nueva ola de ventas en tecnológicas y valores de IA, aunque la mayoría de acciones subió. Nasdaq: −2,60%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7659.44,
+     7712.57,
+     7757.17,
+     7663.43
+    ],
+    "etiquetas": [
+     "16 oct",
+     "20 oct",
+     "21 oct",
+     "22 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-10222026-nid22102026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent supera los 112 dólares",
+   "texto": "Por las tensiones de suministro en Oriente Próximo. Más petróleo caro significa riesgo de inflación.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "fuente": "Tiempo de Inversión",
+   "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Tiempo de Inversión: cierre del 22 oct",
+   "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-10222026-nid22102026/"
+  },
+  {
+   "nombre": "El Periódico de Ceuta: cierre del 22 oct",
+   "url": "https://www.elperiodicodeceuta.es/cierre-ibex-35-22-de-octubre-de-2026/"
+  }
+ ]
+}

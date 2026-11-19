@@ -1,0 +1,348 @@
+{
+ "fecha": "2026-11-17",
+ "fechaTexto": "Martes 17 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.625,3",
+   "cambio": "−1,61%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.341",
+   "cambio": "−1,03%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "24.328",
+   "cambio": "−0,74%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "93 $",
+   "cambio": "+0,8%",
+   "tendencia": "up"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "3.869 $",
+   "cambio": "+0,4%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1014",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "63.500 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "Indra y Mapfre hunden al IBEX",
+     "dato": "19.625,3",
+     "cambio": "−1,61%",
+     "tendencia": "down",
+     "texto": "Cae un 1,61%, hasta 19.625,3, y se aleja de los 20.000.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       20027.9,
+       19965.5,
+       20020.1,
+       19946.6,
+       19625.3
+      ],
+      "etiquetas": [
+       "11 nov",
+       "12 nov",
+       "13 nov",
+       "16 nov",
+       "17 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "La IA y la banca caen",
+     "dato": "7.341",
+     "cambio": "−1,03%",
+     "tendencia": "down",
+     "texto": "Nvidia y otros valores de IA lideran las pérdidas antes de los resultados de Nvidia. Nasdaq: −0,74%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7619.38,
+       7592.4,
+       7561.67,
+       7416.59,
+       7340.53
+      ],
+      "etiquetas": [
+       "11 nov",
+       "12 nov",
+       "13 nov",
+       "16 nov",
+       "17 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent sube a 93 dólares",
+     "texto": "Sube un 0,8%. El oro gana un 0,4% y el bitcoin baja a 63.500.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 93 $",
+     "cambio": "+0,8%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Indra se desploma un 6,4%",
+     "texto": "Por una investigación de Anticorrupción sobre la adjudicación de contratos.",
+     "dato": "Indra",
+     "cambio": "−6,4%",
+     "tendencia": "down",
+     "valores": [
+      "Indra"
+     ]
+    },
+    {
+     "titulo": "Mapfre cae un 3%",
+     "texto": "Tras una rebaja de recomendación de Barclays. Cellnex, Aena y ACS también caen.",
+     "dato": "Mapfre",
+     "cambio": "−3%",
+     "tendencia": "down",
+     "valores": [
+      "Mapfre",
+      "Cellnex",
+      "ACS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "Deutsche Bank cae más de un 5%",
+     "texto": "Es una de las mayores caídas de la banca europea.",
+     "dato": "Deutsche Bank",
+     "cambio": "−5%",
+     "tendencia": "down",
+     "valores": [
+      "Deutsche Bank"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "Nuevas licencias para exportar chips",
+     "texto": "EE. UU. exigirá licencias para vender chips a Singapur, Malasia, Tailandia, Indonesia y Brasil. Nvidia cae más de un 4%.",
+     "dato": "Nvidia",
+     "cambio": "−4%",
+     "tendencia": "down",
+     "valores": [
+      "Nvidia"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Indra y Mapfre hunden al IBEX",
+   "dato": "19.625,3",
+   "cambio": "−1,61%",
+   "tendencia": "down",
+   "texto": "Cae un 1,61%, hasta 19.625,3, y se aleja de los 20.000.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     20027.9,
+     19965.5,
+     20020.1,
+     19946.6,
+     19625.3
+    ],
+    "etiquetas": [
+     "11 nov",
+     "12 nov",
+     "13 nov",
+     "16 nov",
+     "17 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Indra se desploma un 6,4%",
+   "texto": "Por una investigación de Anticorrupción sobre la adjudicación de contratos.",
+   "dato": "Indra",
+   "cambio": "−6,4%",
+   "tendencia": "down",
+   "valores": [
+    "Indra"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Mapfre cae un 3%",
+   "texto": "Tras una rebaja de recomendación de Barclays. Cellnex, Aena y ACS también caen.",
+   "dato": "Mapfre",
+   "cambio": "−3%",
+   "tendencia": "down",
+   "valores": [
+    "Mapfre",
+    "Cellnex",
+    "ACS"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "Deutsche Bank cae más de un 5%",
+   "texto": "Es una de las mayores caídas de la banca europea.",
+   "dato": "Deutsche Bank",
+   "cambio": "−5%",
+   "tendencia": "down",
+   "valores": [
+    "Deutsche Bank"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Nuevas licencias para exportar chips",
+   "texto": "EE. UU. exigirá licencias para vender chips a Singapur, Malasia, Tailandia, Indonesia y Brasil. Nvidia cae más de un 4%.",
+   "dato": "Nvidia",
+   "cambio": "−4%",
+   "tendencia": "down",
+   "valores": [
+    "Nvidia"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "La IA y la banca caen",
+   "dato": "7.341",
+   "cambio": "−1,03%",
+   "tendencia": "down",
+   "texto": "Nvidia y otros valores de IA lideran las pérdidas antes de los resultados de Nvidia. Nasdaq: −0,74%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7619.38,
+     7592.4,
+     7561.67,
+     7416.59,
+     7340.53
+    ],
+    "etiquetas": [
+     "11 nov",
+     "12 nov",
+     "13 nov",
+     "16 nov",
+     "17 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-11172026-nid17112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent sube a 93 dólares",
+   "texto": "Sube un 0,8%. El oro gana un 0,4% y el bitcoin baja a 63.500.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 93 $",
+   "cambio": "+0,8%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 17 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-11172026-nid17112026/"
+  }
+ ]
+}

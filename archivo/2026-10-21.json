@@ -1,0 +1,302 @@
+{
+ "fecha": "2026-10-21",
+ "fechaTexto": "Miércoles 21 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.323,5",
+   "cambio": "+1,21%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurostoxx",
+   "nombre": "Euro Stoxx 50",
+   "valor": "6.208",
+   "cambio": "+1,40%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.757",
+   "cambio": "+0,58%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "26.703",
+   "cambio": "+1,05%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "108,74 $",
+   "cambio": "−0,06%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1221",
+   "cambio": "−0,15%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "La banca impulsa al IBEX un 1,21%",
+     "dato": "19.323,5",
+     "cambio": "+1,21%",
+     "tendencia": "up",
+     "texto": "Santander (+2,06%), Bankinter (+2%), CaixaBank y BBVA (+1,59%) tiran del índice, que cierra en 19.323,5 puntos.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19326.3,
+       19039.3,
+       19092.4,
+       19323.5
+      ],
+      "etiquetas": [
+       "16 oct",
+       "19 oct",
+       "20 oct",
+       "21 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "Wall Street sigue al alza",
+     "dato": "7.757",
+     "cambio": "+0,58%",
+     "tendencia": "up",
+     "texto": "Buenos resultados de SpaceX y Capital One, entre otros. Nasdaq: +1,05%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7659.44,
+       7712.57,
+       7757.17
+      ],
+      "etiquetas": [
+       "16 oct",
+       "20 oct",
+       "21 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent, en 108,7 dólares",
+     "texto": "El crudo apenas se mueve al cierre europeo (−0,06%). El euro cede un 0,15%, hasta 1,1221 dólares.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 108,74 $",
+     "cambio": "−0,06%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Iberdrola gana un 9,6% más",
+     "texto": "Beneficio de 5.816 millones hasta septiembre, con 953 millones de plusvalía por la venta de su negocio en México. Mejora sus previsiones para 2026.",
+     "dato": "5.816 M€",
+     "cambio": "+9,6%",
+     "tendencia": "up",
+     "valores": [
+      "Iberdrola"
+     ]
+    },
+    {
+     "titulo": "La banca, a la cabeza",
+     "texto": "Santander +2,06%, Bankinter +2%, Ferrovial +1,91% y Mapfre +1,65%. A la cola, Cellnex y Amadeus (−0,85%).",
+     "dato": "Santander",
+     "cambio": "+2,06%",
+     "tendencia": "up",
+     "valores": [
+      "Santander",
+      "Bankinter",
+      "Ferrovial",
+      "Mapfre"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "El bono francés toca el 5%",
+     "texto": "Por primera vez desde 2002, por las tensiones sociales y a la espera de Moody's. Aun así, París sube un 1,06% y Fráncfort un 1,35%.",
+     "dato": "5%",
+     "tendencia": "up",
+     "valores": [
+      "DAX"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "La banca impulsa al IBEX un 1,21%",
+   "dato": "19.323,5",
+   "cambio": "+1,21%",
+   "tendencia": "up",
+   "texto": "Santander (+2,06%), Bankinter (+2%), CaixaBank y BBVA (+1,59%) tiran del índice, que cierra en 19.323,5 puntos.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19326.3,
+     19039.3,
+     19092.4,
+     19323.5
+    ],
+    "etiquetas": [
+     "16 oct",
+     "19 oct",
+     "20 oct",
+     "21 oct"
+    ]
+   },
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Iberdrola gana un 9,6% más",
+   "texto": "Beneficio de 5.816 millones hasta septiembre, con 953 millones de plusvalía por la venta de su negocio en México. Mejora sus previsiones para 2026.",
+   "dato": "5.816 M€",
+   "cambio": "+9,6%",
+   "tendencia": "up",
+   "valores": [
+    "Iberdrola"
+   ],
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "La banca, a la cabeza",
+   "texto": "Santander +2,06%, Bankinter +2%, Ferrovial +1,91% y Mapfre +1,65%. A la cola, Cellnex y Amadeus (−0,85%).",
+   "dato": "Santander",
+   "cambio": "+2,06%",
+   "tendencia": "up",
+   "valores": [
+    "Santander",
+    "Bankinter",
+    "Ferrovial",
+    "Mapfre"
+   ],
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "El bono francés toca el 5%",
+   "texto": "Por primera vez desde 2002, por las tensiones sociales y a la espera de Moody's. Aun así, París sube un 1,06% y Fráncfort un 1,35%.",
+   "dato": "5%",
+   "tendencia": "up",
+   "valores": [
+    "DAX"
+   ],
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Wall Street sigue al alza",
+   "dato": "7.757",
+   "cambio": "+0,58%",
+   "tendencia": "up",
+   "texto": "Buenos resultados de SpaceX y Capital One, entre otros. Nasdaq: +1,05%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7659.44,
+     7712.57,
+     7757.17
+    ],
+    "etiquetas": [
+     "16 oct",
+     "20 oct",
+     "21 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-10212026-nid21102026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent, en 108,7 dólares",
+   "texto": "El crudo apenas se mueve al cierre europeo (−0,06%). El euro cede un 0,15%, hasta 1,1221 dólares.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 108,74 $",
+   "cambio": "−0,06%",
+   "tendencia": "down",
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "El Periódico de Ceuta: cierre del 21 oct",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-10212026-nid21102026/"
+  },
+  {
+   "nombre": "PressDigital: el IBEX sube un 1,21%",
+   "url": "https://www.pressdigital.es/articulo/economia/2026-10-21/6060899-ibex-35-sube-121-cierre-hasta-19323-puntos"
+  }
+ ]
+}

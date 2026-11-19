@@ -1,0 +1,295 @@
+{
+ "fecha": "2026-11-04",
+ "fechaTexto": "Miércoles 4 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.370",
+   "cambio": "+3,00%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.689",
+   "cambio": "+1,58%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.737",
+   "cambio": "+1,44%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "101 $",
+   "cambio": "−2%",
+   "tendencia": "down"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "—",
+   "cambio": "+2,5%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1222",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX se dispara un 3% tras las elecciones",
+     "dato": "19.370",
+     "cambio": "+3,00%",
+     "tendencia": "up",
+     "texto": "Cierra en 19.370 puntos tras la victoria demócrata en las dos cámaras de EE. UU.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18857,
+       18652.9,
+       18957,
+       18807,
+       19370
+      ],
+      "etiquetas": [
+       "29 oct",
+       "30 oct",
+       "2 nov",
+       "3 nov",
+       "4 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Gran subida tras las elecciones",
+     "dato": "7.689",
+     "cambio": "+1,58%",
+     "tendencia": "up",
+     "texto": "El Dow Jones sube más de 1.500 puntos y el petróleo baja. Nasdaq: +1,44%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7720.39,
+       7580.07,
+       7541.4,
+       7568.92,
+       7688.62
+      ],
+      "etiquetas": [
+       "29 oct",
+       "30 oct",
+       "2 nov",
+       "3 nov",
+       "4 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El oro recupera los 4.000 dólares",
+     "texto": "Sube un 2,5%. El Brent baja un 2%, hasta 101 dólares, y el bitcoin vuelve a 80.000.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 101 $",
+     "cambio": "−2%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "El paro sube en 43.128 personas",
+     "texto": "Es el dato de paro registrado de octubre.",
+     "dato": "+43.128",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "La inflación de la eurozona, en el 4%",
+     "texto": "Dato preliminar de octubre.",
+     "dato": "4%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "AMD supera las previsiones",
+     "texto": "Gana 2,09 dólares por acción e ingresa 13.380 millones.",
+     "dato": "13.380 M$",
+     "tendencia": "up",
+     "valores": [
+      "AMD"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX se dispara un 3% tras las elecciones",
+   "dato": "19.370",
+   "cambio": "+3,00%",
+   "tendencia": "up",
+   "texto": "Cierra en 19.370 puntos tras la victoria demócrata en las dos cámaras de EE. UU.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18857,
+     18652.9,
+     18957,
+     18807,
+     19370
+    ],
+    "etiquetas": [
+     "29 oct",
+     "30 oct",
+     "2 nov",
+     "3 nov",
+     "4 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/miercoles-4-noviembre-victoria-democrata-mid-term-eeuu-tecnologia--24013380.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "El paro sube en 43.128 personas",
+   "texto": "Es el dato de paro registrado de octubre.",
+   "dato": "+43.128",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/miercoles-4-noviembre-victoria-democrata-mid-term-eeuu-tecnologia--24013380.html"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "La inflación de la eurozona, en el 4%",
+   "texto": "Dato preliminar de octubre.",
+   "dato": "4%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/miercoles-4-noviembre-victoria-democrata-mid-term-eeuu-tecnologia--24013380.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "AMD supera las previsiones",
+   "texto": "Gana 2,09 dólares por acción e ingresa 13.380 millones.",
+   "dato": "13.380 M$",
+   "tendencia": "up",
+   "valores": [
+    "AMD"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/miercoles-4-noviembre-victoria-democrata-mid-term-eeuu-tecnologia--24013380.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Gran subida tras las elecciones",
+   "dato": "7.689",
+   "cambio": "+1,58%",
+   "tendencia": "up",
+   "texto": "El Dow Jones sube más de 1.500 puntos y el petróleo baja. Nasdaq: +1,44%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7720.39,
+     7580.07,
+     7541.4,
+     7568.92,
+     7688.62
+    ],
+    "etiquetas": [
+     "29 oct",
+     "30 oct",
+     "2 nov",
+     "3 nov",
+     "4 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-1142026-nid04112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El oro recupera los 4.000 dólares",
+   "texto": "Sube un 2,5%. El Brent baja un 2%, hasta 101 dólares, y el bitcoin vuelve a 80.000.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 101 $",
+   "cambio": "−2%",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/miercoles-4-noviembre-victoria-democrata-mid-term-eeuu-tecnologia--24013380.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 4 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/miercoles-4-noviembre-victoria-democrata-mid-term-eeuu-tecnologia--24013380.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-1142026-nid04112026/"
+  }
+ ]
+}
