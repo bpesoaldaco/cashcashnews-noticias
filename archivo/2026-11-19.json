@@ -1,0 +1,718 @@
+{
+  "fecha": "2026-11-19",
+  "fechaTexto": "Jueves 19 nov 2026",
+  "actualizado": "20:30 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Las cifras de Wall Street son de media sesión y pueden variar al cierre.",
+  "indicadores": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "19.186",
+      "tendencia": "down",
+      "cambio": "−0,97%"
+    },
+    {
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "—",
+      "tendencia": "down",
+      "cambio": "−0,92%"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "7.220",
+      "tendencia": "down",
+      "cambio": "−1,4%"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "24.055",
+      "tendencia": "down",
+      "cambio": "−1,5%"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "92,3 $",
+      "tendencia": "flat",
+      "cambio": "+0,4%"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.672 $",
+      "tendencia": "down",
+      "cambio": "−1,9%"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "EUR/USD",
+      "valor": "1,097",
+      "tendencia": "flat"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "valor": "63.000 $",
+      "tendencia": "flat"
+    }
+  ],
+  "stories": [
+    {
+      "id": "mercados",
+      "titulo": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "slides": [
+        {
+          "titulo": "Cuarto día seguido en rojo para el IBEX",
+          "texto": "Cerró en 19.186,2 puntos, 187 menos que ayer. Pesa el miedo a que la Fed suba tipos en diciembre más de lo esperado.",
+          "dato": "19.186",
+          "cambio": "−0,97%",
+          "tendencia": "down",
+          "valores": [
+            "IBEX 35"
+          ],
+          "grafica": {
+            "valores": [
+              19946,
+              19625,
+              19373,
+              19186
+            ],
+            "etiquetas": [
+              "16 nov",
+              "17 nov",
+              "18 nov",
+              "19 nov"
+            ]
+          }
+        },
+        {
+          "titulo": "Alemania también cae",
+          "texto": "El DAX cerró con una bajada del 0,92%. SAP y Fresenius Medical Care, entre los peores.",
+          "dato": "DAX",
+          "cambio": "−0,92%",
+          "tendencia": "down",
+          "valores": [
+            "DAX",
+            "SAP",
+            "Fresenius Medical Care"
+          ]
+        },
+        {
+          "titulo": "Wall Street se da la vuelta",
+          "texto": "Abrió al alza, pero a las 20:00 (hora de Madrid) el S&P 500 cedía un 1,4% y el Dow más de 800 puntos.",
+          "dato": "7.220",
+          "cambio": "−1,4%",
+          "tendencia": "down",
+          "valores": [
+            "S&P 500",
+            "Dow Jones"
+          ],
+          "grafica": {
+            "valores": [
+              7340,
+              7324,
+              7389,
+              7220
+            ],
+            "etiquetas": [
+              "17 nov",
+              "18 nov",
+              "19 apert.",
+              "19 20:00"
+            ]
+          }
+        },
+        {
+          "titulo": "La Fed apunta a más subidas",
+          "texto": "Las actas dicen que casi todos ven necesarias más subidas. El mercado da un 92,7% a +25 pb el 9 de diciembre.",
+          "dato": "92,7%",
+          "cambio": "+25 pb",
+          "tendencia": "up"
+        },
+        {
+          "titulo": "Petróleo, estable tras caer",
+          "texto": "El Brent ronda los 92,3 $. El miércoles bajó por un aumento de inventarios en EE. UU. mucho mayor de lo esperado.",
+          "dato": "92,3 $",
+          "cambio": "+0,4%",
+          "tendencia": "flat",
+          "valores": [
+            "Brent"
+          ]
+        },
+        {
+          "titulo": "El oro, en mínimos de más de un año",
+          "texto": "Llegó a tocar 3.694 $ en Asia por las apuestas de subidas de tipos. El futuro de diciembre cerró en 3.672 $.",
+          "dato": "3.672 $",
+          "cambio": "−1,9%",
+          "tendencia": "down",
+          "valores": [
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "El euro sigue cerca de mínimos",
+          "texto": "El EUR/USD se mueve en torno a 1,097-1,10. Bitcoin ronda los 63.000 $ tras perder un 12% en la semana.",
+          "dato": "1,097",
+          "cambio": "EUR/USD",
+          "tendencia": "flat",
+          "valores": [
+            "Bitcoin",
+            "EUR/USD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espana",
+      "titulo": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "slides": [
+        {
+          "titulo": "Solaria se desploma tras su día del inversor",
+          "texto": "Cae un 5,41% después de presentar sus previsiones y su estrategia para centros de datos, aunque su beneficio sube un 26% hasta septiembre.",
+          "dato": "Solaria",
+          "cambio": "−5,41%",
+          "tendencia": "down",
+          "valores": [
+            "Solaria"
+          ]
+        },
+        {
+          "titulo": "Solo Acerinox se salva",
+          "texto": "Fue el único valor del IBEX que cerró en verde. El índice aún sube un 10,85% en lo que va de año.",
+          "dato": "Acerinox",
+          "cambio": "+0,46%",
+          "tendencia": "up",
+          "valores": [
+            "Acerinox",
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "RBC sube el precio objetivo de Endesa",
+          "texto": "También mejora su previsión de beneficios hasta 2028.",
+          "tendencia": "flat",
+          "valores": [
+            "Endesa"
+          ]
+        },
+        {
+          "titulo": "San José gana un 35% más",
+          "texto": "Gana 37,2 M€ hasta septiembre y su EBITDA llega a 75,9 M€.",
+          "dato": "37,2 M€",
+          "cambio": "+35%",
+          "tendencia": "up",
+          "valores": [
+            "San José"
+          ]
+        },
+        {
+          "titulo": "Bankinter ve oportunidad en Nvidia",
+          "texto": "Recorta su precio objetivo, pero cree que cotiza a múltiplos atractivos para entrar.",
+          "tendencia": "flat",
+          "valores": [
+            "Nvidia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "titulo": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "slides": [
+        {
+          "titulo": "SAP vuelve a caer",
+          "texto": "El software sigue castigado: SAP pierde un 3,56% hasta 187,02 €.",
+          "dato": "187,02 €",
+          "cambio": "−3,56%",
+          "tendencia": "down",
+          "valores": [
+            "SAP"
+          ]
+        },
+        {
+          "titulo": "Fresenius, a la cola del DAX",
+          "texto": "Fresenius Medical Care cae un 4,77% y Fresenius SE un 3,09%.",
+          "dato": "FME",
+          "cambio": "−4,77%",
+          "tendencia": "down",
+          "valores": [
+            "DAX",
+            "Fresenius Medical Care",
+            "Fresenius SE"
+          ]
+        },
+        {
+          "titulo": "Evonik se hunde un 16%",
+          "texto": "La química alemana cae un 16,21% hasta 18,25 € en el MDAX. Lanxess pierde un 4,14%.",
+          "dato": "18,25 €",
+          "cambio": "−16,21%",
+          "tendencia": "down",
+          "valores": [
+            "Evonik",
+            "Lanxess"
+          ]
+        },
+        {
+          "titulo": "Pocos valores en verde",
+          "texto": "Deutsche Bank (+0,35%), Siemens (+0,34%) e Infineon (+0,28%) fueron de los pocos que subieron en el DAX.",
+          "dato": "DB",
+          "cambio": "+0,35%",
+          "tendencia": "up",
+          "valores": [
+            "DAX",
+            "Deutsche Bank",
+            "Siemens",
+            "Infineon"
+          ]
+        },
+        {
+          "titulo": "La volatilidad se dispara",
+          "texto": "El VDAX, el «índice del miedo» alemán, sube un 16% hasta 21,02.",
+          "dato": "21,02",
+          "cambio": "+16%",
+          "tendencia": "up"
+        }
+      ]
+    },
+    {
+      "id": "eeuu",
+      "titulo": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "slides": [
+        {
+          "titulo": "Anthropic debuta en bolsa",
+          "texto": "Salió a 83 $ y abrió en 111,50 $ (+34%), con una valoración de más de 1,5 billones de dólares. Es la mayor salida a bolsa de la historia: 81.300 M$.",
+          "dato": "111,5 $",
+          "cambio": "+34%",
+          "tendencia": "up",
+          "valores": [
+            "Anthropic"
+          ],
+          "grafica": {
+            "valores": [
+              83,
+              111.5,
+              97,
+              95.28
+            ],
+            "etiquetas": [
+              "OPV",
+              "Apertura",
+              "+30 min",
+              "20:00"
+            ]
+          }
+        },
+        {
+          "titulo": "…pero se desinfla",
+          "texto": "A las 20:00 (hora de Madrid) cotizaba en 95,28 $, un 15% sobre el precio de salida pero un 13-15% por debajo de su apertura.",
+          "dato": "95,28 $",
+          "cambio": "+14,8% vs OPV",
+          "tendencia": "down",
+          "grafica": {
+            "valores": [
+              83,
+              111.5,
+              97,
+              95.28
+            ],
+            "etiquetas": [
+              "OPV",
+              "Apertura",
+              "+30 min",
+              "20:00"
+            ]
+          }
+        },
+        {
+          "titulo": "Wall Street pasa del verde al rojo",
+          "texto": "El Nasdaq abrió subiendo un 1,5% y por la tarde perdía un 1,5%. El Dow cedía un 1,7%.",
+          "dato": "24.055",
+          "cambio": "−1,5%",
+          "tendencia": "down",
+          "valores": [
+            "Nasdaq",
+            "Dow Jones"
+          ],
+          "grafica": {
+            "valores": [
+              24328,
+              24430,
+              24809,
+              24055
+            ],
+            "etiquetas": [
+              "17 nov",
+              "18 nov",
+              "19 apert.",
+              "19 20:00"
+            ]
+          }
+        },
+        {
+          "titulo": "AMD cae con fuerza",
+          "texto": "Baja un 8-9% tras saberse que Hunterbrook ha abierto una posición bajista contra la compañía.",
+          "dato": "AMD",
+          "cambio": "−8%",
+          "tendencia": "down",
+          "valores": [
+            "AMD"
+          ]
+        },
+        {
+          "titulo": "UnitedHealth sigue sufriendo",
+          "texto": "Cae otro 5% después de hundirse un 10,2% el miércoles.",
+          "dato": "UNH",
+          "cambio": "−5%",
+          "tendencia": "down",
+          "valores": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "titulo": "Walmart bate previsiones",
+          "texto": "Ingresó 188.800 M$ (se esperaban 187.200 M$) y sus ventas online crecen un 17%.",
+          "dato": "188.800 M$",
+          "cambio": "+17% online",
+          "tendencia": "up",
+          "valores": [
+            "Walmart"
+          ]
+        },
+        {
+          "titulo": "El miedo vuelve",
+          "texto": "El VIX sube a 27,3 y el Treasury a 10 años ronda el 5,05%.",
+          "dato": "27,3",
+          "cambio": "VIX",
+          "tendencia": "up"
+        }
+      ]
+    },
+    {
+      "id": "ideas",
+      "titulo": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "slides": [
+        {
+          "titulo": "Esto no son recomendaciones",
+          "texto": "Son valores que podría merecer la pena analizar por tu cuenta. Revisa fundamentales, valoración y gráfico antes de decidir nada.",
+          "tendencia": "flat",
+          "aviso": true
+        },
+        {
+          "titulo": "1. Solaria",
+          "texto": "Cae un 5,4% tras su día del inversor aunque el beneficio sube un 26%. Riesgo: que el mercado dude de su apuesta por centros de datos y que suban los tipos.",
+          "tendencia": "flat",
+          "aviso": true,
+          "valores": [
+            "Solaria"
+          ]
+        },
+        {
+          "titulo": "2. Nvidia",
+          "texto": "Cinco sesiones de caídas pese a batir previsiones, y Bankinter ve múltiplos atractivos. Riesgo: la posible investigación de la SEC y los miedos sobre la IA.",
+          "tendencia": "flat",
+          "aviso": true,
+          "valores": [
+            "Nvidia"
+          ]
+        },
+        {
+          "titulo": "3. SAP",
+          "texto": "El software europeo sigue castigado por los miedos a la IA. Riesgo: que la IA de verdad reduzca su negocio y la caída continúe.",
+          "tendencia": "flat",
+          "aviso": true,
+          "valores": [
+            "SAP"
+          ]
+        },
+        {
+          "titulo": "4. Endesa",
+          "texto": "RBC sube su precio objetivo y su previsión de beneficios hasta 2028. Riesgo: las eléctricas sufren cuando suben los tipos, y la Fed apunta a subir.",
+          "tendencia": "flat",
+          "aviso": true,
+          "valores": [
+            "Endesa"
+          ]
+        },
+        {
+          "titulo": "5. Anthropic",
+          "texto": "Cotiza muy por debajo de su apertura en su primer día. Riesgo: una valoración enorme (1,5 billones) y mucha volatilidad en los primeros días.",
+          "tendencia": "flat",
+          "aviso": true,
+          "valores": [
+            "Anthropic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "titulo": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "slides": [
+        {
+          "titulo": "✅ Hoy: Anthropic en el Nasdaq",
+          "texto": "La mayor salida a bolsa de la historia: 81.300 M$ captados a 83 $ por acción.",
+          "tendencia": "flat"
+        },
+        {
+          "titulo": "✅ Hoy: datos y resultados en EE. UU.",
+          "texto": "Paro semanal y Fed de Filadelfia a las 14:30. Resultados de Walmart antes de la apertura e Intuit después del cierre.",
+          "tendencia": "flat"
+        },
+        {
+          "titulo": "⏳ Esta noche: hablan Goolsbee, Barr y Barkin (Fed)",
+          "texto": "Pistas sobre si la subida de diciembre será de 25 o de 50 pb.",
+          "tendencia": "flat"
+        },
+        {
+          "titulo": "📅 Lo siguiente importante",
+          "texto": "Reunión de la Fed el 9 de diciembre. No hemos confirmado aún la agenda de mañana viernes.",
+          "tendencia": "flat"
+        }
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Anthropic debuta: +34% en su primer cruce",
+      "texto": "Salió a 83 $ y abrió en 111,50 $, valorada en más de 1,5 billones. Por la tarde se desinflaba hasta unos 95 $.",
+      "dato": "111,5 $",
+      "cambio": "+34%",
+      "tendencia": "up",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+      "valores": [
+        "Anthropic"
+      ],
+      "grafica": {
+        "valores": [
+          83,
+          111.5,
+          97,
+          95.28
+        ],
+        "etiquetas": [
+          "OPV",
+          "Apertura",
+          "+30 min",
+          "20:00"
+        ]
+      }
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Cuarta caída seguida del IBEX",
+      "texto": "Cierra en 19.186,2 puntos por el miedo a que la Fed suba tipos más de lo esperado. Solo Acerinox acaba en verde.",
+      "dato": "19.186",
+      "cambio": "−0,97%",
+      "tendencia": "down",
+      "fuente": "Bolsamanía",
+      "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-35-cierra-con-caidas-del-097-hasta-1918620-puntos--24234994.html",
+      "valores": [
+        "Acerinox",
+        "IBEX 35"
+      ],
+      "grafica": {
+        "valores": [
+          19946,
+          19625,
+          19373,
+          19186
+        ],
+        "etiquetas": [
+          "16 nov",
+          "17 nov",
+          "18 nov",
+          "19 nov"
+        ]
+      }
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "La Fed prepara más subidas",
+      "texto": "Casi todos sus miembros ven necesarias más subidas. El mercado da un 92,7% a +25 pb el 9 de diciembre y Waller plantea +50 pb.",
+      "dato": "92,7%",
+      "cambio": "+25 pb",
+      "tendencia": "up",
+      "fuente": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Wall Street se da la vuelta",
+      "texto": "Abrió subiendo, pero por la tarde el Dow perdía más de 800 puntos (−1,7%) y el Nasdaq un 1,5%.",
+      "dato": "49.353",
+      "cambio": "−1,7%",
+      "tendencia": "down",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+      "valores": [
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "grafica": {
+        "valores": [
+          50198,
+          50434,
+          49353
+        ],
+        "etiquetas": [
+          "18 nov",
+          "19 apert.",
+          "19 20:00"
+        ]
+      }
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Solaria, la peor del IBEX",
+      "texto": "Cae un 5,41% tras su día del inversor y su estrategia para centros de datos, pese a ganar un 26% más hasta septiembre.",
+      "dato": "Solaria",
+      "cambio": "−5,41%",
+      "tendencia": "down",
+      "fuente": "Infobae / EFE",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/19/la-bolsa-espanola-pierde-un-097-su-cuarta-caida-consecutiva-pendiente-de-anthropic/",
+      "valores": [
+        "Solaria",
+        "IBEX 35"
+      ]
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "El DAX cae casi un 1%",
+      "texto": "SAP pierde un 3,56% y Fresenius Medical Care un 4,77%. En el MDAX, Evonik se hunde un 16%.",
+      "dato": "DAX",
+      "cambio": "−0,92%",
+      "tendencia": "down",
+      "fuente": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-092-5039624",
+      "valores": [
+        "DAX",
+        "SAP",
+        "Fresenius Medical Care",
+        "Evonik"
+      ]
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "AMD se desploma",
+      "texto": "Cae un 8-9% después de que Hunterbrook abriera una posición bajista contra la compañía.",
+      "dato": "AMD",
+      "cambio": "−8%",
+      "tendencia": "down",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+      "valores": [
+        "AMD"
+      ]
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El oro, en mínimos de 15 meses",
+      "texto": "Tocó 3.694 $ en Asia por las apuestas de subidas de tipos. El cobre cayó un 5% a mínimos de siete meses.",
+      "dato": "3.672 $",
+      "cambio": "−1,9%",
+      "tendencia": "down",
+      "fuente": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026",
+      "valores": [
+        "Oro"
+      ]
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Petróleo, estable en 92 $",
+      "texto": "El Brent se estabiliza tras caer el miércoles por un aumento de inventarios en EE. UU. de 3,4 M de barriles, frente a los 58.000 esperados.",
+      "dato": "92,3 $",
+      "cambio": "+0,4%",
+      "tendencia": "flat",
+      "fuente": "Amillex",
+      "url": "https://www.amillex.com/2026/11/19/amillex-daily-market-commentary-hawkish-fed-minutes-weigh-on-gold-inventory-surge-drags-oil-lower/",
+      "valores": [
+        "Brent"
+      ]
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Walmart bate previsiones",
+      "texto": "Ingresó 188.800 M$ (se esperaban 187.200 M$). Las ventas online suben un 17%.",
+      "dato": "188.800 M$",
+      "cambio": "+17% online",
+      "tendencia": "up",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+      "valores": [
+        "Walmart"
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Bolsamanía: cierre del IBEX 19 nov",
+      "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-35-cierra-con-caidas-del-097-hasta-1918620-puntos--24234994.html"
+    },
+    {
+      "nombre": "Infobae/EFE: la Bolsa española pierde un 0,97%",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/19/la-bolsa-espanola-pierde-un-097-su-cuarta-caida-consecutiva-pendiente-de-anthropic/"
+    },
+    {
+      "nombre": "Yahoo Finance: Wall Street y Anthropic en directo",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
+    {
+      "nombre": "Yahoo/Zacks: Stock Market News 19 nov",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-19-132100065.html"
+    },
+    {
+      "nombre": "Coinpaper: apertura de Wall Street 19 nov",
+      "url": "https://coinpaper.com/39091/stock-market-today-s-and-p-500-rallies-despite-nvidia-s-earnings-selloff-as-anthropic-revives-ai-stocks"
+    },
+    {
+      "nombre": "Saxo: Market Quick Take 19 nov",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026"
+    },
+    {
+      "nombre": "Amillex: comentario de mercado 19 nov",
+      "url": "https://www.amillex.com/2026/11/19/amillex-daily-market-commentary-hawkish-fed-minutes-weigh-on-gold-inventory-surge-drags-oil-lower/"
+    },
+    {
+      "nombre": "Investing.com: cierre del DAX",
+      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-092-5039624"
+    }
+  ]
+}

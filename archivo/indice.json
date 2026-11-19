@@ -1,0 +1,16 @@
+{
+  "dias": [
+    {
+      "fecha": "2026-11-19",
+      "fechaTexto": "Jueves 19 nov 2026",
+      "titular": "Anthropic debuta: +34% en su primer cruce",
+      "noticias": 10
+    },
+    {
+      "fecha": "2026-11-18",
+      "fechaTexto": "Miércoles 18 nov 2026",
+      "titular": "Nvidia bate previsiones y anima a los chips",
+      "noticias": 12
+    }
+  ]
+}
