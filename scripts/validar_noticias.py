@@ -11,6 +11,7 @@ import sys
 TENDENCIAS = {"up", "down", "flat"}
 COLOR = re.compile(r"^#[0-9A-Fa-f]{6}$")
 FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+INDICADORES = {"ibex", "eurostoxx", "dax", "sp500", "nasdaq", "brent", "oro", "eurusd", "bitcoin"}
 
 
 def validar(d):
@@ -41,6 +42,24 @@ def validar(d):
         e.append("raíz: 'fecha' debe ser AAAA-MM-DD")
     if "asesoramiento" not in str(d.get("aviso", "")).lower():
         e.append("raíz: el 'aviso' debe decir que no es asesoramiento financiero")
+
+    ind = d.get("indicadores")
+    if not isinstance(ind, list) or not ind:
+        e.append("raíz: 'indicadores' debe ser una lista con al menos un indicador")
+        ind = []
+    vistos = set()
+    for i, x in enumerate(ind):
+        w = f"indicadores[{i}]"
+        if x.get("id") not in INDICADORES:
+            e.append(f"{w}: 'id' debe ser uno de {sorted(INDICADORES)}")
+        if x.get("id") in vistos:
+            e.append(f"{w}: id repetido {x.get('id')!r}")
+        vistos.add(x.get("id"))
+        texto(x, "nombre", w)
+        texto(x, "valor", w)
+        texto(x, "cambio", w, obligatorio=False)
+        if x.get("tendencia", "flat") not in TENDENCIAS:
+            e.append(f"{w}: 'tendencia' debe ser up, down o flat")
 
     stories = d.get("stories")
     if not isinstance(stories, list) or not stories:

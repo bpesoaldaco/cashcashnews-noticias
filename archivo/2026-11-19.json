@@ -3,6 +3,62 @@
   "fechaTexto": "Jueves 19 nov 2026",
   "actualizado": "20:30 (hora de Madrid)",
   "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Las cifras de Wall Street son de media sesión y pueden variar al cierre.",
+  "indicadores": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "19.186",
+      "tendencia": "down",
+      "cambio": "−0,97%"
+    },
+    {
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "—",
+      "tendencia": "down",
+      "cambio": "−0,92%"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "7.220",
+      "tendencia": "down",
+      "cambio": "−1,4%"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "24.055",
+      "tendencia": "down",
+      "cambio": "−1,5%"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "92,3 $",
+      "tendencia": "flat",
+      "cambio": "+0,4%"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.672 $",
+      "tendencia": "down",
+      "cambio": "−1,9%"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "EUR/USD",
+      "valor": "1,097",
+      "tendencia": "flat"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "valor": "63.000 $",
+      "tendencia": "flat"
+    }
+  ],
   "stories": [
     {
       "id": "mercados",

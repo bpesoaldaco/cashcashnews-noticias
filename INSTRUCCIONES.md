@@ -3,7 +3,8 @@
 Cada mañana una tarea programada de Claude escribe las noticias del día en este
 repositorio. La app CashcashNEWs descarga `noticias.json` desde
 `https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/noticias.json`
-al abrirse (y con el botón ↻), así que no hace falta reinstalarla.
+al abrirse (y con el botón ↻), así que no hace falta reinstalarla. El calendario de la app
+usa `archivo/indice.json` para saber qué días hay, y descarga cada día de `archivo/`.
 
 > Este repositorio tiene que ser **público** para que el móvil pueda descargar el archivo.
 > El código de la app está en otro repositorio, privado.
@@ -13,7 +14,8 @@ al abrirse (y con el botón ↻), así que no hace falta reinstalarla.
 | Archivo | Qué es |
 |---|---|
 | `noticias.json` | Las noticias que ve la app. Se sobrescribe cada día. |
-| `archivo/AAAA-MM-DD.json` | Copia del día, para tener el historial. |
+| `archivo/AAAA-MM-DD.json` | Copia del día. La app la usa en el calendario y al comparar días. |
+| `archivo/indice.json` | Lista de días para el calendario. Se regenera con `python3 scripts/actualizar_indice.py`. |
 | `resumenes/AAAA-MM-DD.md` | El resumen en texto (mismo contenido, formato largo). |
 
 No se toca nada más del repositorio.
@@ -38,6 +40,10 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
   "fechaTexto": "Jueves 19 nov 2026",
   "actualizado": "07:45 (hora de Madrid)",
   "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. ...",
+  "indicadores": [                       // datos clave para comparar días, en este orden
+    { "id": "ibex", "nombre": "IBEX 35", "valor": "19.186", "cambio": "−0,97%", "tendencia": "down" },
+    ...
+  ],
   "stories": [                           // círculos de arriba, en este orden
     { "id": "mercados", "titulo": "Mercados", "emoji": "📊", "color": "#0EA5E9", "slides": [ ... ] },
     { "id": "espana",   "titulo": "España",   "emoji": "🇪🇸", "color": "#E11D48", "slides": [ ... ] },
@@ -51,6 +57,11 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
 }
 ```
 
+- **Indicadores**: uno por cada dato que tengas de hoy, con estos `id` y nombres:
+  `ibex` (IBEX 35), `eurostoxx` (Euro Stoxx 50), `dax` (DAX), `sp500` (S&P 500), `nasdaq` (Nasdaq),
+  `brent` (Brent), `oro` (Oro), `eurusd` (EUR/USD), `bitcoin` (Bitcoin). `valor` es el último nivel
+  (cierre o, si no hay, el último dato del día) y `cambio` la variación del día. Si solo tienes el
+  cambio, pon `"valor": "—"`. Si no tienes ninguno de los dos, no incluyas ese indicador.
 - **Diapositiva de story**: `titulo` (máx. ~50 caracteres), `texto` (1-2 frases, máx. ~220
   caracteres), opcionales `dato` (cifra principal, p. ej. `"19.456"`), `cambio`
   (p. ej. `"−0,86%"`) y `tendencia` (`up`, `down` o `flat`).
@@ -67,7 +78,8 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
 
 ```bash
 python3 scripts/validar_noticias.py noticias.json
+python3 scripts/actualizar_indice.py
 ```
 
-Tiene que decir `OK`. Si da errores, corrígelos y vuelve a comprobar. Después, un commit
+La validación tiene que decir `OK`, y el índice tiene que incluir el día de hoy. Si da errores, corrígelos y vuelve a comprobar. Después, un commit
 con el mensaje `Noticias del AAAA-MM-DD` directamente en `main` y push.

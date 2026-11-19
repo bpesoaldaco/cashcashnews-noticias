@@ -11,4 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 scripts/validar_noticias.py noticias.json
-      - run: for f in archivo/*.json; do python3 scripts/validar_noticias.py "$f"; done
+      - run: for f in archivo/2*.json; do python3 scripts/validar_noticias.py "$f"; done
+      - name: El índice del calendario está al día
+        run: python3 scripts/actualizar_indice.py && git diff --exit-code archivo/indice.json
