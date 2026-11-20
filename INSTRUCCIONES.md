@@ -89,6 +89,26 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
 - **Reel**: `categoria`, `emoji` y `color` de su story, `titulo`, `texto`, opcionales `dato`,
   `cambio`, `tendencia`, y `fuente` + `url` (https) de donde sale la noticia. Si el reel es una
   idea de inversión, `"aviso": true`.
+- **«¿Y esto qué significa para mí?»** (`paraTi`, **obligatorio en cada reel** salvo los de `"aviso": true`):
+  una o dos frases (máx. **200 caracteres**, mejor ~150) que explican en lenguaje llano cómo afecta la noticia a
+  una persona normal de España: su hipoteca o el euríbor, sus ahorros y depósitos, su fondo indexado o plan de
+  pensiones, la gasolina y la luz, los precios del súper, comprar en dólares, su sueldo o el empleo...
+  La app lo enseña debajo de la noticia con el título «¿Y esto qué significa para mí?».
+  ```json
+  "paraTi": "Si tienes hipoteca variable, el euríbor podría bajar en la próxima revisión y la cuota con él. Las fijas no cambian."
+  ```
+  - Es **información, nunca una recomendación**: explica el efecto («si tienes…, esto hace que…»), no lo que hay
+    que hacer. Prohibido «compra», «vende», «deberías…», «es buen momento para…», «te recomendamos…»
+    (la validación lo comprueba). No hables de comprar ni vender valores concretos.
+  - Concreto y honesto: si el efecto en el día a día es pequeño o tarda en llegar, dilo («apenas te afecta»,
+    «tarda semanas en notarse en la gasolinera»). No exageres ni metas miedo.
+  - Sin cifras nuevas que no estén en las fuentes. Puedes usar conocimientos generales que no cambian
+    (p. ej., que los depósitos están cubiertos hasta 100.000 € por persona y banco).
+  - Habla de tú y piensa en alguien que no sigue los mercados. Si la noticia es de una empresa concreta,
+    di si pesa en los fondos indexados que tiene mucha gente (S&P 500, MSCI World, IBEX), si le afecta como
+    cliente, o si solo importa a quien tiene sus acciones.
+  - También puede ir (opcional) en las diapositivas de stories, salvo en la story de ideas.
+  - Mira `archivo/2026-11-18.json` para ver un ejemplo en cada reel. Va también en los reels del resumen semanal.
 - **Valores** (en reels y diapositivas, opcional pero muy recomendado): `"valores": ["Solaria", "IBEX 35"]`,
   con las empresas, índices o materias primas de los que habla la noticia (máx. 4). La app lo usa para la
   lista de seguimiento y para avisar al usuario. Usa siempre el mismo nombre para lo mismo

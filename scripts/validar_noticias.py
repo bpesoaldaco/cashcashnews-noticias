@@ -12,6 +12,16 @@ TENDENCIAS = {"up", "down", "flat"}
 TIPOS_AGENDA = {"banco_central", "macro", "resultados", "bolsa", "discurso", "politica", "otro"}
 COLOR = re.compile(r"^#[0-9A-Fa-f]{6}$")
 FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+# «¿Y esto qué significa para mí?» (campo paraTi): obligatorio en los reels desde este día.
+PARA_TI_DESDE = "2026-11-21"
+PARA_TI_MAX = 200
+# Frases que convierten la explicación en una recomendación (no permitidas).
+RECOMIENDA = re.compile(
+    r"te recomend|recomendamos|recomendable|deber[íi]as? (comprar|vender|invertir|entrar|salir)|"
+    r"es (un )?buen momento (para|de) (comprar|vender|invertir|entrar)|aprovecha (para|y) (comprar|invertir)|"
+    r"\b(compra|vende|invierte) (ya|ahora)\b",
+    re.IGNORECASE,
+)
 INDICADORES = {"ibex", "eurostoxx", "dax", "sp500", "nasdaq", "brent", "oro", "eurusd", "bitcoin"}
 
 
@@ -25,6 +35,19 @@ def validar(d):
                 e.append(f"{donde}: falta '{k}'")
         elif not isinstance(v, str) or (obligatorio and not v.strip()):
             e.append(f"{donde}: '{k}' debe ser un texto no vacío")
+
+    def para_ti(obj, donde, obligatorio):
+        v = obj.get("paraTi")
+        if v is None:
+            if obligatorio:
+                e.append(f"{donde}: falta 'paraTi' (¿Y esto qué significa para mí?)")
+            return
+        if not isinstance(v, str) or not v.strip():
+            e.append(f"{donde}: 'paraTi' debe ser un texto no vacío")
+        elif len(v) > PARA_TI_MAX:
+            e.append(f"{donde}: 'paraTi' es demasiado largo ({len(v)} caracteres, máx. {PARA_TI_MAX})")
+        elif RECOMIENDA.search(v):
+            e.append(f"{donde}: 'paraTi' no puede sonar a recomendación ({RECOMIENDA.search(v).group(0)!r})")
 
     def comunes(obj, donde):
         texto(obj, "titulo", donde)
@@ -93,12 +116,15 @@ def validar(d):
             slides = []
         for j, sl in enumerate(slides):
             comunes(sl, f"{w}.slides[{j}]")
+            para_ti(sl, f"{w}.slides[{j}]", False)
         if s.get("id") == "ideas":
             if len(slides) > 6:
                 e.append(f"{w}: máximo 5 ideas (+1 diapositiva de aviso)")
             if not all(sl.get("aviso") is True for sl in slides):
                 e.append(f"{w}: todas las diapositivas de ideas deben llevar \"aviso\": true")
 
+    fecha = d.get("fecha") if isinstance(d.get("fecha"), str) else ""
+    para_ti_obligatorio = fecha >= PARA_TI_DESDE
     reels = d.get("reels")
     if not isinstance(reels, list) or not reels:
         e.append("raíz: 'reels' debe ser una lista con al menos un reel")
@@ -106,6 +132,7 @@ def validar(d):
     for i, r in enumerate(reels):
         w = f"reels[{i}]"
         comunes(r, w)
+        para_ti(r, w, para_ti_obligatorio and r.get("aviso") is not True)
         for k in ("categoria", "emoji"):
             texto(r, k, w)
         if not COLOR.match(str(r.get("color", ""))):
