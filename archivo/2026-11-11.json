@@ -1,0 +1,270 @@
+{
+ "fecha": "2026-11-11",
+ "fechaTexto": "Miércoles 11 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "20.027,9",
+   "cambio": "+0,46%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.619",
+   "cambio": "+1,31%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.466",
+   "cambio": "+1,60%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "94 $",
+   "cambio": "+2,8%",
+   "tendencia": "up"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.057 $",
+   "cambio": "+0,68%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1093",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX reconquista los 20.000 puntos",
+     "dato": "20.027,9",
+     "cambio": "+0,46%",
+     "tendencia": "up",
+     "texto": "Sube un 0,46%, hasta 20.027,9, impulsado por Repsol, ACS y el rebote tecnológico, en un día de huelga general en España.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19486,
+       19369.5,
+       19742.5,
+       19936.4,
+       20027.9
+      ],
+      "etiquetas": [
+       "5 nov",
+       "6 nov",
+       "9 nov",
+       "10 nov",
+       "11 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "CoreWeave impulsa a la tecnología",
+     "dato": "7.619",
+     "cambio": "+1,31%",
+     "tendencia": "up",
+     "texto": "Sube más de un 20% tras disparar sus ingresos un 168%. Nasdaq: +1,60%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7353.73,
+       7376.86,
+       7549.94,
+       7520.93,
+       7619.38
+      ],
+      "etiquetas": [
+       "5 nov",
+       "6 nov",
+       "9 nov",
+       "10 nov",
+       "11 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent rebota un 2,8%",
+     "texto": "Hasta 94 dólares. El oro sube un 0,68%, hasta 4.057.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 94 $",
+     "cambio": "+2,8%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Repsol, ACS, Rovi y Telefónica, al alza",
+     "texto": "A la cola, Aena y Colonial.",
+     "tendencia": "up",
+     "valores": [
+      "Repsol",
+      "ACS",
+      "Telefónica"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "¿Subida de tipos en diciembre?",
+     "texto": "Crece la idea de que la Fed suba tipos, y algunos hablan de 50 puntos básicos.",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX reconquista los 20.000 puntos",
+   "dato": "20.027,9",
+   "cambio": "+0,46%",
+   "tendencia": "up",
+   "texto": "Sube un 0,46%, hasta 20.027,9, impulsado por Repsol, ACS y el rebote tecnológico, en un día de huelga general en España.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19486,
+     19369.5,
+     19742.5,
+     19936.4,
+     20027.9
+    ],
+    "etiquetas": [
+     "5 nov",
+     "6 nov",
+     "9 nov",
+     "10 nov",
+     "11 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Repsol, ACS, Rovi y Telefónica, al alza",
+   "texto": "A la cola, Aena y Colonial.",
+   "tendencia": "up",
+   "valores": [
+    "Repsol",
+    "ACS",
+    "Telefónica"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "¿Subida de tipos en diciembre?",
+   "texto": "Crece la idea de que la Fed suba tipos, y algunos hablan de 50 puntos básicos.",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "CoreWeave impulsa a la tecnología",
+   "dato": "7.619",
+   "cambio": "+1,31%",
+   "tendencia": "up",
+   "texto": "Sube más de un 20% tras disparar sus ingresos un 168%. Nasdaq: +1,60%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7353.73,
+     7376.86,
+     7549.94,
+     7520.93,
+     7619.38
+    ],
+    "etiquetas": [
+     "5 nov",
+     "6 nov",
+     "9 nov",
+     "10 nov",
+     "11 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11112026-nid11112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent rebota un 2,8%",
+   "texto": "Hasta 94 dólares. El oro sube un 0,68%, hasta 4.057.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 94 $",
+   "cambio": "+2,8%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 11 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11112026-nid11112026/"
+  }
+ ]
+}

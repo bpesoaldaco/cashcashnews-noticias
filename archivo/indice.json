@@ -17,6 +17,132 @@
       "fechaTexto": "Miércoles 18 nov 2026",
       "titular": "Nvidia bate previsiones y anima a los chips",
       "noticias": 12
+    },
+    {
+      "fecha": "2026-11-17",
+      "fechaTexto": "Martes 17 nov 2026",
+      "titular": "Indra y Mapfre hunden al IBEX",
+      "noticias": 7
+    },
+    {
+      "fecha": "2026-11-16",
+      "fechaTexto": "Lunes 16 nov 2026",
+      "titular": "El IBEX pierde los 20.000",
+      "noticias": 4
+    },
+    {
+      "fecha": "2026-11-13",
+      "fechaTexto": "Viernes 13 nov 2026",
+      "titular": "El IBEX acaba la semana sobre los 20.000",
+      "noticias": 6
+    },
+    {
+      "fecha": "2026-11-12",
+      "fechaTexto": "Jueves 12 nov 2026",
+      "titular": "El IBEX pierde los 20.000 con Telefónica",
+      "noticias": 6
+    },
+    {
+      "fecha": "2026-11-11",
+      "fechaTexto": "Miércoles 11 nov 2026",
+      "titular": "El IBEX reconquista los 20.000 puntos",
+      "noticias": 5
+    },
+    {
+      "fecha": "2026-11-10",
+      "fechaTexto": "Martes 10 nov 2026",
+      "titular": "El IBEX se acerca a los 20.000 puntos",
+      "noticias": 4
+    },
+    {
+      "fecha": "2026-11-09",
+      "fechaTexto": "Lunes 9 nov 2026",
+      "titular": "El IBEX conquista los 19.700 puntos",
+      "noticias": 5
+    },
+    {
+      "fecha": "2026-11-06",
+      "fechaTexto": "Viernes 6 nov 2026",
+      "titular": "El IBEX gana un 3,8% en la semana",
+      "noticias": 5
+    },
+    {
+      "fecha": "2026-11-05",
+      "fechaTexto": "Jueves 5 nov 2026",
+      "titular": "Rovi se dispara y el IBEX sube",
+      "noticias": 4
+    },
+    {
+      "fecha": "2026-11-04",
+      "fechaTexto": "Miércoles 4 nov 2026",
+      "titular": "El IBEX se dispara un 3% tras las elecciones",
+      "noticias": 6
+    },
+    {
+      "fecha": "2026-11-03",
+      "fechaTexto": "Martes 3 nov 2026",
+      "titular": "El IBEX cae a la espera de las elecciones de EE. UU.",
+      "noticias": 4
+    },
+    {
+      "fecha": "2026-11-02",
+      "fechaTexto": "Lunes 2 nov 2026",
+      "titular": "El IBEX sube un 1,63% por la caída del petróleo",
+      "noticias": 5
+    },
+    {
+      "fecha": "2026-10-30",
+      "fechaTexto": "Viernes 30 oct 2026",
+      "titular": "El IBEX cierra octubre con una caída del 4%",
+      "noticias": 7
+    },
+    {
+      "fecha": "2026-10-29",
+      "fechaTexto": "Jueves 29 oct 2026",
+      "titular": "BBVA arrastra al IBEX tras sus resultados",
+      "noticias": 7
+    },
+    {
+      "fecha": "2026-10-28",
+      "fechaTexto": "Miércoles 28 oct 2026",
+      "titular": "El IBEX pierde los 19.000 lastrado por Santander",
+      "noticias": 6
+    },
+    {
+      "fecha": "2026-10-27",
+      "fechaTexto": "Martes 27 oct 2026",
+      "titular": "El IBEX recupera los 19.100 con Solaria y Ferrovial",
+      "noticias": 7
+    },
+    {
+      "fecha": "2026-10-26",
+      "fechaTexto": "Lunes 26 oct 2026",
+      "titular": "El IBEX empieza la semana con leves alzas",
+      "noticias": 2
+    },
+    {
+      "fecha": "2026-10-23",
+      "fechaTexto": "Viernes 23 oct 2026",
+      "titular": "El IBEX rebota un 0,40%",
+      "noticias": 2
+    },
+    {
+      "fecha": "2026-10-22",
+      "fechaTexto": "Jueves 22 oct 2026",
+      "titular": "El IBEX pierde los 19.000 con la banca y el crudo",
+      "noticias": 5
+    },
+    {
+      "fecha": "2026-10-21",
+      "fechaTexto": "Miércoles 21 oct 2026",
+      "titular": "La banca impulsa al IBEX un 1,21%",
+      "noticias": 6
+    },
+    {
+      "fecha": "2026-10-20",
+      "fechaTexto": "Martes 20 oct 2026",
+      "titular": "El IBEX sube un poco y sigue sobre los 19.000",
+      "noticias": 2
     }
   ]
 }

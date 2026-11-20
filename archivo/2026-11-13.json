@@ -1,0 +1,294 @@
+{
+ "fecha": "2026-11-13",
+ "fechaTexto": "Viernes 13 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "20.020,1",
+   "cambio": "+0,27%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.562",
+   "cambio": "−0,40%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.136",
+   "cambio": "−0,91%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "95,9 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "3.881 $",
+   "cambio": "−0,1%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1032",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "68.590 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX acaba la semana sobre los 20.000",
+     "dato": "20.020,1",
+     "cambio": "+0,27%",
+     "tendencia": "up",
+     "texto": "Sube un 0,27%, hasta 20.020, y gana un 3,3% en una semana protagonizada por Nvidia.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19742.5,
+       19936.4,
+       20027.9,
+       19965.5,
+       20020.1
+      ],
+      "etiquetas": [
+       "9 nov",
+       "10 nov",
+       "11 nov",
+       "12 nov",
+       "13 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Nvidia vuelve a caer",
+     "dato": "7.562",
+     "cambio": "−0,40%",
+     "tendencia": "down",
+     "texto": "Llega a perder un 14% durante la sesión. Aun así, el S&P 500 logra su primera semana en positivo desde octubre. Nasdaq: −0,91%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7549.94,
+       7520.93,
+       7619.38,
+       7592.4,
+       7561.67
+      ],
+      "etiquetas": [
+       "9 nov",
+       "10 nov",
+       "11 nov",
+       "12 nov",
+       "13 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El bitcoin pierde los 70.000",
+     "texto": "Baja a 68.590 dólares. El Brent está en 95,9 y el oro en 3.881.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 95,9 $"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Acciona se hunde un 7,9%",
+     "texto": "Acciona y Acciona Energía caen tras presentar las tendencias de su negocio.",
+     "dato": "Acciona",
+     "cambio": "−7,9%",
+     "tendencia": "down",
+     "valores": [
+      "Acciona",
+      "Acciona Energía"
+     ]
+    },
+    {
+     "titulo": "Inflación de octubre: 4,9%",
+     "texto": "El INE confirma el dato adelantado.",
+     "dato": "4,9%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "Cisco supera previsiones",
+     "texto": "Ingresa 18.500 millones (+24%) y eleva sus previsiones.",
+     "dato": "18.500 M$",
+     "cambio": "+24%",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX acaba la semana sobre los 20.000",
+   "dato": "20.020,1",
+   "cambio": "+0,27%",
+   "tendencia": "up",
+   "texto": "Sube un 0,27%, hasta 20.020, y gana un 3,3% en una semana protagonizada por Nvidia.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19742.5,
+     19936.4,
+     20027.9,
+     19965.5,
+     20020.1
+    ],
+    "etiquetas": [
+     "9 nov",
+     "10 nov",
+     "11 nov",
+     "12 nov",
+     "13 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-despide-semana-fuertes-subidas-nvidia-huang--24160972.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Acciona se hunde un 7,9%",
+   "texto": "Acciona y Acciona Energía caen tras presentar las tendencias de su negocio.",
+   "dato": "Acciona",
+   "cambio": "−7,9%",
+   "tendencia": "down",
+   "valores": [
+    "Acciona",
+    "Acciona Energía"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-despide-semana-fuertes-subidas-nvidia-huang--24160972.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Inflación de octubre: 4,9%",
+   "texto": "El INE confirma el dato adelantado.",
+   "dato": "4,9%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-despide-semana-fuertes-subidas-nvidia-huang--24160972.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Cisco supera previsiones",
+   "texto": "Ingresa 18.500 millones (+24%) y eleva sus previsiones.",
+   "dato": "18.500 M$",
+   "cambio": "+24%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-despide-semana-fuertes-subidas-nvidia-huang--24160972.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Nvidia vuelve a caer",
+   "dato": "7.562",
+   "cambio": "−0,40%",
+   "tendencia": "down",
+   "texto": "Llega a perder un 14% durante la sesión. Aun así, el S&P 500 logra su primera semana en positivo desde octubre. Nasdaq: −0,91%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7549.94,
+     7520.93,
+     7619.38,
+     7592.4,
+     7561.67
+    ],
+    "etiquetas": [
+     "9 nov",
+     "10 nov",
+     "11 nov",
+     "12 nov",
+     "13 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11132026-nid13112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El bitcoin pierde los 70.000",
+   "texto": "Baja a 68.590 dólares. El Brent está en 95,9 y el oro en 3.881.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 95,9 $",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-despide-semana-fuertes-subidas-nvidia-huang--24160972.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 13 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-despide-semana-fuertes-subidas-nvidia-huang--24160972.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11132026-nid13112026/"
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "fecha": "2026-10-23",
+ "fechaTexto": "Viernes 23 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.989,8",
+   "cambio": "+0,40%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurostoxx",
+   "nombre": "Euro Stoxx 50",
+   "valor": "6.068",
+   "cambio": "−0,31%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.624",
+   "cambio": "−0,52%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.955",
+   "cambio": "−0,21%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX rebota un 0,40%",
+     "dato": "18.989,8",
+     "cambio": "+0,40%",
+     "tendencia": "up",
+     "texto": "Recupera parte de la caída del jueves y cierra en 18.989,8 puntos, aunque sigue por debajo de 19.000.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19039.3,
+       19092.4,
+       19323.5,
+       18913.5,
+       18989.8
+      ],
+      "etiquetas": [
+       "19 oct",
+       "20 oct",
+       "21 oct",
+       "22 oct",
+       "23 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "Wall Street cae por el petróleo",
+     "dato": "7.624",
+     "cambio": "−0,52%",
+     "tendencia": "down",
+     "texto": "El Brent por encima de 116 dólares pesa sobre la bolsa estadounidense. Nasdaq: −0,21%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7659.44,
+       7712.57,
+       7757.17,
+       7663.43,
+       7623.68
+      ],
+      "etiquetas": [
+       "16 oct",
+       "20 oct",
+       "21 oct",
+       "22 oct",
+       "23 oct"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX rebota un 0,40%",
+   "dato": "18.989,8",
+   "cambio": "+0,40%",
+   "tendencia": "up",
+   "texto": "Recupera parte de la caída del jueves y cierra en 18.989,8 puntos, aunque sigue por debajo de 19.000.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19039.3,
+     19092.4,
+     19323.5,
+     18913.5,
+     18989.8
+    ],
+    "etiquetas": [
+     "19 oct",
+     "20 oct",
+     "21 oct",
+     "22 oct",
+     "23 oct"
+    ]
+   },
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/cierre-ibex-35-23-de-octubre-de-2026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Wall Street cae por el petróleo",
+   "dato": "7.624",
+   "cambio": "−0,52%",
+   "tendencia": "down",
+   "texto": "El Brent por encima de 116 dólares pesa sobre la bolsa estadounidense. Nasdaq: −0,21%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7659.44,
+     7712.57,
+     7757.17,
+     7663.43,
+     7623.68
+    ],
+    "etiquetas": [
+     "16 oct",
+     "20 oct",
+     "21 oct",
+     "22 oct",
+     "23 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-10232026-nid23102026/"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "El Periódico de Ceuta: cierre del 23 oct",
+   "url": "https://www.elperiodicodeceuta.es/cierre-ibex-35-23-de-octubre-de-2026/"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-10232026-nid23102026/"
+  }
+ ]
+}

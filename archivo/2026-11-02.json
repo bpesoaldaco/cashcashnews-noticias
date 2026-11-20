@@ -1,0 +1,274 @@
+{
+ "fecha": "2026-11-02",
+ "fechaTexto": "Lunes 2 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.957",
+   "cambio": "+1,63%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.541",
+   "cambio": "−0,51%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.164",
+   "cambio": "−1,07%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "104,9 $",
+   "cambio": "−7,6%",
+   "tendencia": "down"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "3.980 $",
+   "cambio": "+2%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,12",
+   "cambio": "+0,37%",
+   "tendencia": "up"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "77.300 $",
+   "cambio": "−0,5%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX sube un 1,63% por la caída del petróleo",
+     "dato": "18.957",
+     "cambio": "+1,63%",
+     "tendencia": "up",
+     "texto": "Roza los 19.000 puntos (18.957) con las elecciones de EE. UU. en el foco.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19160.6,
+       18883,
+       18857,
+       18652.9,
+       18957
+      ],
+      "etiquetas": [
+       "27 oct",
+       "28 oct",
+       "29 oct",
+       "30 oct",
+       "2 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "La tecnología sigue presionada",
+     "dato": "7.541",
+     "cambio": "−0,51%",
+     "tendencia": "down",
+     "texto": "Volatilidad en IA y en Nvidia, compensada en parte por el desplome del crudo. Nasdaq: −1,07%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7722.6,
+       7743.98,
+       7720.39,
+       7580.07,
+       7541.4
+      ],
+      "etiquetas": [
+       "27 oct",
+       "28 oct",
+       "29 oct",
+       "30 oct",
+       "2 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent se desploma un 7,6%",
+     "texto": "La OPEP+ mantiene la producción de diciembre. El oro sube un 2%, hasta 3.980 dólares.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 104,9 $",
+     "cambio": "−7,6%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Fluidra, Solaria y Amadeus suben",
+     "texto": "Repsol y Acerinox caen, con el petróleo a la baja.",
+     "tendencia": "up",
+     "valores": [
+      "Solaria",
+      "Amadeus",
+      "Repsol",
+      "Acerinox"
+     ]
+    },
+    {
+     "titulo": "La industria española acelera",
+     "texto": "El PMI manufacturero de octubre muestra el mayor ritmo en más de un año.",
+     "dato": "PMI",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX sube un 1,63% por la caída del petróleo",
+   "dato": "18.957",
+   "cambio": "+1,63%",
+   "tendencia": "up",
+   "texto": "Roza los 19.000 puntos (18.957) con las elecciones de EE. UU. en el foco.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19160.6,
+     18883,
+     18857,
+     18652.9,
+     18957
+    ],
+    "etiquetas": [
+     "27 oct",
+     "28 oct",
+     "29 oct",
+     "30 oct",
+     "2 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-2-noviembre-2026-intensa-semana-midterms--23976862.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Fluidra, Solaria y Amadeus suben",
+   "texto": "Repsol y Acerinox caen, con el petróleo a la baja.",
+   "tendencia": "up",
+   "valores": [
+    "Solaria",
+    "Amadeus",
+    "Repsol",
+    "Acerinox"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-2-noviembre-2026-intensa-semana-midterms--23976862.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "La industria española acelera",
+   "texto": "El PMI manufacturero de octubre muestra el mayor ritmo en más de un año.",
+   "dato": "PMI",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-2-noviembre-2026-intensa-semana-midterms--23976862.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "La tecnología sigue presionada",
+   "dato": "7.541",
+   "cambio": "−0,51%",
+   "tendencia": "down",
+   "texto": "Volatilidad en IA y en Nvidia, compensada en parte por el desplome del crudo. Nasdaq: −1,07%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7722.6,
+     7743.98,
+     7720.39,
+     7580.07,
+     7541.4
+    ],
+    "etiquetas": [
+     "27 oct",
+     "28 oct",
+     "29 oct",
+     "30 oct",
+     "2 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-1122026-nid02112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent se desploma un 7,6%",
+   "texto": "La OPEP+ mantiene la producción de diciembre. El oro sube un 2%, hasta 3.980 dólares.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 104,9 $",
+   "cambio": "−7,6%",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-2-noviembre-2026-intensa-semana-midterms--23976862.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 2 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-2-noviembre-2026-intensa-semana-midterms--23976862.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-1122026-nid02112026/"
+  }
+ ]
+}

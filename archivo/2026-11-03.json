@@ -1,0 +1,250 @@
+{
+ "fecha": "2026-11-03",
+ "fechaTexto": "Martes 3 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.807",
+   "cambio": "−0,79%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.569",
+   "cambio": "+0,36%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.372",
+   "cambio": "+0,83%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "103 $",
+   "cambio": "−1%",
+   "tendencia": "down"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "3.937 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1194",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "77.600 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX cae a la espera de las elecciones de EE. UU.",
+     "dato": "18.807",
+     "cambio": "−0,79%",
+     "tendencia": "down",
+     "texto": "Cede un 0,79%, hasta 18.807 puntos, pendiente del petróleo y de las elecciones de mitad de mandato.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18883,
+       18857,
+       18652.9,
+       18957,
+       18807
+      ],
+      "etiquetas": [
+       "28 oct",
+       "29 oct",
+       "30 oct",
+       "2 nov",
+       "3 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Rebote de las grandes tecnológicas",
+     "dato": "7.569",
+     "cambio": "+0,36%",
+     "tendencia": "up",
+     "texto": "Apple cae por el aumento del coste de los chips de memoria. Nasdaq: +0,83%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7743.98,
+       7720.39,
+       7580.07,
+       7541.4,
+       7568.92
+      ],
+      "etiquetas": [
+       "28 oct",
+       "29 oct",
+       "30 oct",
+       "2 nov",
+       "3 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Tensión en Oriente Medio",
+     "texto": "EE. UU. ataca la isla iraní de Qeshm. El Brent cae un 1%, hasta 103 dólares.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 103 $",
+     "cambio": "−1%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "Apple baja tras sus resultados",
+     "texto": "Prevé un margen bruto del 45%-46%, presionado por la memoria.",
+     "dato": "45-46%",
+     "tendencia": "down",
+     "valores": [
+      "Apple"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX cae a la espera de las elecciones de EE. UU.",
+   "dato": "18.807",
+   "cambio": "−0,79%",
+   "tendencia": "down",
+   "texto": "Cede un 0,79%, hasta 18.807 puntos, pendiente del petróleo y de las elecciones de mitad de mandato.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18883,
+     18857,
+     18652.9,
+     18957,
+     18807
+    ],
+    "etiquetas": [
+     "28 oct",
+     "29 oct",
+     "30 oct",
+     "2 nov",
+     "3 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/martes-3-noviembre-mid-term-eeuu-ataques-iran-tecnologia--23993364.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Apple baja tras sus resultados",
+   "texto": "Prevé un margen bruto del 45%-46%, presionado por la memoria.",
+   "dato": "45-46%",
+   "tendencia": "down",
+   "valores": [
+    "Apple"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/martes-3-noviembre-mid-term-eeuu-ataques-iran-tecnologia--23993364.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Rebote de las grandes tecnológicas",
+   "dato": "7.569",
+   "cambio": "+0,36%",
+   "tendencia": "up",
+   "texto": "Apple cae por el aumento del coste de los chips de memoria. Nasdaq: +0,83%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7743.98,
+     7720.39,
+     7580.07,
+     7541.4,
+     7568.92
+    ],
+    "etiquetas": [
+     "28 oct",
+     "29 oct",
+     "30 oct",
+     "2 nov",
+     "3 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-1132026-nid03112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Tensión en Oriente Medio",
+   "texto": "EE. UU. ataca la isla iraní de Qeshm. El Brent cae un 1%, hasta 103 dólares.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 103 $",
+   "cambio": "−1%",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/martes-3-noviembre-mid-term-eeuu-ataques-iran-tecnologia--23993364.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 3 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/martes-3-noviembre-mid-term-eeuu-ataques-iran-tecnologia--23993364.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-1132026-nid03112026/"
+  }
+ ]
+}

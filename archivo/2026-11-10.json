@@ -1,0 +1,255 @@
+{
+ "fecha": "2026-11-10",
+ "fechaTexto": "Martes 10 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.936,4",
+   "cambio": "+0,98%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.521",
+   "cambio": "−0,38%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.066",
+   "cambio": "−0,74%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "92 $",
+   "cambio": "−0,7%",
+   "tendencia": "down"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.028 $",
+   "cambio": "−2,1%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1151",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "72.950 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX se acerca a los 20.000 puntos",
+     "dato": "19.936,4",
+     "cambio": "+0,98%",
+     "tendencia": "up",
+     "texto": "Sube un 0,98%, hasta 19.936, apoyado en la banca y las acereras.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19370,
+       19486,
+       19369.5,
+       19742.5,
+       19936.4
+      ],
+      "etiquetas": [
+       "4 nov",
+       "5 nov",
+       "6 nov",
+       "9 nov",
+       "10 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "La inflación de EE. UU. sorprende al alza",
+     "dato": "7.521",
+     "cambio": "−0,38%",
+     "tendencia": "down",
+     "texto": "El IPC de octubre sube un 0,4% en el mes (se esperaba un 0,3%) y crecen las apuestas por subidas de tipos. Nasdaq: −0,74%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7688.62,
+       7353.73,
+       7376.86,
+       7549.94,
+       7520.93
+      ],
+      "etiquetas": [
+       "4 nov",
+       "5 nov",
+       "6 nov",
+       "9 nov",
+       "10 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El oro cae un 2,1%",
+     "texto": "Hasta 4.028 dólares. El Brent baja a 92 dólares (−0,7%).",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 92 $",
+     "cambio": "−0,7%",
+     "tendencia": "down"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Banca, acereras y ACS suben",
+     "texto": "Repsol cae por el crudo, y también bajan Solaria y Acciona.",
+     "tendencia": "up",
+     "valores": [
+      "ACS",
+      "Repsol",
+      "Solaria",
+      "Acciona"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX se acerca a los 20.000 puntos",
+   "dato": "19.936,4",
+   "cambio": "+0,98%",
+   "tendencia": "up",
+   "texto": "Sube un 0,98%, hasta 19.936, apoyado en la banca y las acereras.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19370,
+     19486,
+     19369.5,
+     19742.5,
+     19936.4
+    ],
+    "etiquetas": [
+     "4 nov",
+     "5 nov",
+     "6 nov",
+     "9 nov",
+     "10 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-alzas-rally-wall-street-nvidia--24103440.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Banca, acereras y ACS suben",
+   "texto": "Repsol cae por el crudo, y también bajan Solaria y Acciona.",
+   "tendencia": "up",
+   "valores": [
+    "ACS",
+    "Repsol",
+    "Solaria",
+    "Acciona"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-alzas-rally-wall-street-nvidia--24103440.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "La inflación de EE. UU. sorprende al alza",
+   "dato": "7.521",
+   "cambio": "−0,38%",
+   "tendencia": "down",
+   "texto": "El IPC de octubre sube un 0,4% en el mes (se esperaba un 0,3%) y crecen las apuestas por subidas de tipos. Nasdaq: −0,74%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7688.62,
+     7353.73,
+     7376.86,
+     7549.94,
+     7520.93
+    ],
+    "etiquetas": [
+     "4 nov",
+     "5 nov",
+     "6 nov",
+     "9 nov",
+     "10 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-11102026-nid10112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El oro cae un 2,1%",
+   "texto": "Hasta 4.028 dólares. El Brent baja a 92 dólares (−0,7%).",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 92 $",
+   "cambio": "−0,7%",
+   "tendencia": "down",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-alzas-rally-wall-street-nvidia--24103440.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 10 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-alzas-rally-wall-street-nvidia--24103440.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-11102026-nid10112026/"
+  }
+ ]
+}

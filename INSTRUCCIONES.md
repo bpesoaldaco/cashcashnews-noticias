@@ -54,6 +54,7 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
     { "id": "agenda",   "titulo": "Agenda",   "emoji": "📅", "color": "#8B5CF6", "slides": [ ... ] }
   ],
   "reels": [ ... ],                      // 8 a 12 noticias más importantes del día
+  "agenda": [ ... ],                     // lo que se publica HOY (sección «Hoy se publica»)
   "fuentes": [ { "nombre": "...", "url": "https://..." } ]
 }
 ```
@@ -69,6 +70,22 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
 - **Story de ideas**: primera diapositiva de aviso ("Esto no son recomendaciones…") y luego
   una por idea (máx. 5). Todas con `"aviso": true`. En el texto, por qué es interesante y
   `Riesgo: …`.
+- **Agenda** (`agenda`, obligatoria en días de diario): todo lo relevante que se publica o pasa **hoy**,
+  en orden de hora (hora de Madrid). La app lo enseña al final de las noticias como «Hoy se publica».
+  Entre 3 y 10 eventos:
+  ```json
+  { "hora": "14:30", "titulo": "IPC de EE. UU. (octubre)", "texto": "Se espera un 0,3% mensual. Si sale más alto, aumentan las apuestas por subidas de la Fed.",
+    "tipo": "macro", "importancia": "alta", "pais": "EE. UU.", "valores": ["S&P 500", "EUR/USD"] }
+  ```
+  - `hora`: `HH:MM` o `""` si no está confirmada (dilo en el texto). `titulo` corto (máx. ~50 caracteres).
+  - `texto`: qué es, qué se espera (previsión del consenso si la hay) y por qué importa, en una o dos frases.
+  - `tipo`: `banco_central` (decisiones de tipos, actas, discursos de Fed/BCE…), `macro` (IPC, PIB, empleo,
+    PMI, ventas minoristas…), `resultados` (empresas que presentan cuentas; di si es antes o después de la
+    apertura), `bolsa` (aperturas, OPV, vencimientos, festivos), `discurso`, `politica` u `otro`.
+  - `importancia`: `alta` (Fed, BCE, IPC y empleo de EE. UU., PIB, resultados de grandes como Nvidia o
+    Inditex), `media` o `baja`.
+  - Incluye también los resultados de empresas del IBEX y de las grandes de EE. UU. y Europa que publican hoy.
+  - Sigue escribiendo también la story `agenda` como hasta ahora (la usan las versiones antiguas de la app).
 - **Reel**: `categoria`, `emoji` y `color` de su story, `titulo`, `texto`, opcionales `dato`,
   `cambio`, `tendencia`, y `fuente` + `url` (https) de donde sale la noticia. Si el reel es una
   idea de inversión, `"aviso": true`.

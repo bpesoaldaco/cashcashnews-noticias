@@ -1,0 +1,137 @@
+{
+ "tipo": "semanal",
+ "fecha": "2026-10-23",
+ "fechaTexto": "Semana del 19 al 23 oct 2026",
+ "actualizado": "cierre del viernes",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.989,8",
+   "cambio": "−1,74%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.624",
+   "cambio": "−0,47%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.955",
+   "cambio": "−0,71%",
+   "tendencia": "down"
+  }
+ ],
+ "stories": [],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX pierde un 1,7% en la semana",
+   "texto": "Cierra el viernes en 18.989,8 puntos.",
+   "dato": "18.989,8",
+   "cambio": "−1,74%",
+   "tendencia": "down",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19092.4,
+     19323.5,
+     18913.5,
+     18989.8
+    ],
+    "etiquetas": [
+     "20 oct",
+     "21 oct",
+     "22 oct",
+     "23 oct"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.elperiodicodeceuta.es/cierre-ibex-35-23-de-octubre-de-2026/"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Wall Street: S&P 500 −0,47% en la semana",
+   "texto": "El Nasdaq baja un 0,7%.",
+   "dato": "7.624",
+   "cambio": "−0,47%",
+   "tendencia": "down",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7712.57,
+     7757.17,
+     7663.43,
+     7623.68
+    ],
+    "etiquetas": [
+     "20 oct",
+     "21 oct",
+     "22 oct",
+     "23 oct"
+    ]
+   }
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "La banca sube y Bankinter cae",
+   "texto": "El miércoles la banca empujó al IBEX un 1,21%; el jueves Bankinter cayó más de un 5% tras sus resultados.",
+   "valores": [
+    "Bankinter",
+    "Santander"
+   ]
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "El petróleo, otra vez arriba",
+   "texto": "El Brent superó los 112 dólares el jueves y los 116 el viernes por las tensiones en Oriente Próximo.",
+   "valores": [
+    "Brent"
+   ]
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "Francia preocupa a Europa",
+   "texto": "El bono francés a 10 años tocó el 5% por primera vez desde 2002.",
+   "valores": []
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "El Periódico de Ceuta: tabla de cierres del IBEX (Yahoo Finance)",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "nombre": "El Periódico de Ceuta: cierre del 21 oct",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "nombre": "Tiempo de Inversión: cierre del 22 oct",
+   "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+  },
+  {
+   "nombre": "El Periódico de Ceuta: cierre del 23 oct",
+   "url": "https://www.elperiodicodeceuta.es/cierre-ibex-35-23-de-octubre-de-2026/"
+  }
+ ]
+}

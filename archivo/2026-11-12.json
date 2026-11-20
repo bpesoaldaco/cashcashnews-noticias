@@ -1,0 +1,308 @@
+{
+ "fecha": "2026-11-12",
+ "fechaTexto": "Jueves 12 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.965,5",
+   "cambio": "−0,31%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.592",
+   "cambio": "−0,35%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "25.366",
+   "cambio": "−0,39%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "93,7 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "3.879 $",
+   "cambio": "−3%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1056",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "71.700 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX pierde los 20.000 con Telefónica",
+     "dato": "19.965,5",
+     "cambio": "−0,31%",
+     "tendencia": "down",
+     "texto": "Cede un 0,31%, hasta 19.965, lastrado por Telefónica y el culebrón de Nvidia.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19369.5,
+       19742.5,
+       19936.4,
+       20027.9,
+       19965.5
+      ],
+      "etiquetas": [
+       "6 nov",
+       "9 nov",
+       "10 nov",
+       "11 nov",
+       "12 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Jensen Huang dimite como CEO de Nvidia",
+     "dato": "7.592",
+     "cambio": "−0,35%",
+     "tendencia": "down",
+     "texto": "Sesión muy volátil. Nvidia cae más de un 5%. Nasdaq: −0,39%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7376.86,
+       7549.94,
+       7520.93,
+       7619.38,
+       7592.4
+      ],
+      "etiquetas": [
+       "6 nov",
+       "9 nov",
+       "10 nov",
+       "11 nov",
+       "12 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El oro se hunde un 3%",
+     "texto": "Baja a 3.879 dólares. El Brent está en 93,7 y el bitcoin cae a 71.700.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 93,7 $"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Telefónica cae un 0,7% tras resultados",
+     "texto": "Gana 464 millones hasta septiembre. Eleva previsiones de EBITDA y caja, pero rebaja las de ingresos.",
+     "dato": "464 M€",
+     "cambio": "−0,7%",
+     "tendencia": "down",
+     "valores": [
+      "Telefónica"
+     ]
+    },
+    {
+     "titulo": "ACS gana un 20,5% más",
+     "texto": "789 millones, el mismo día de su Capital Markets Day. Indra cae un 2,4%.",
+     "dato": "789 M€",
+     "cambio": "+20,5%",
+     "tendencia": "up",
+     "valores": [
+      "ACS",
+      "Indra"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "Nvidia, sin Huang",
+     "texto": "La dimisión de su consejero delegado sacude al gigante de los chips.",
+     "dato": "Nvidia",
+     "cambio": "−5%",
+     "tendencia": "down",
+     "valores": [
+      "Nvidia"
+     ]
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX pierde los 20.000 con Telefónica",
+   "dato": "19.965,5",
+   "cambio": "−0,31%",
+   "tendencia": "down",
+   "texto": "Cede un 0,31%, hasta 19.965, lastrado por Telefónica y el culebrón de Nvidia.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19369.5,
+     19742.5,
+     19936.4,
+     20027.9,
+     19965.5
+    ],
+    "etiquetas": [
+     "6 nov",
+     "9 nov",
+     "10 nov",
+     "11 nov",
+     "12 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Telefónica cae un 0,7% tras resultados",
+   "texto": "Gana 464 millones hasta septiembre. Eleva previsiones de EBITDA y caja, pero rebaja las de ingresos.",
+   "dato": "464 M€",
+   "cambio": "−0,7%",
+   "tendencia": "down",
+   "valores": [
+    "Telefónica"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "ACS gana un 20,5% más",
+   "texto": "789 millones, el mismo día de su Capital Markets Day. Indra cae un 2,4%.",
+   "dato": "789 M€",
+   "cambio": "+20,5%",
+   "tendencia": "up",
+   "valores": [
+    "ACS",
+    "Indra"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Nvidia, sin Huang",
+   "texto": "La dimisión de su consejero delegado sacude al gigante de los chips.",
+   "dato": "Nvidia",
+   "cambio": "−5%",
+   "tendencia": "down",
+   "valores": [
+    "Nvidia"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Jensen Huang dimite como CEO de Nvidia",
+   "dato": "7.592",
+   "cambio": "−0,35%",
+   "tendencia": "down",
+   "texto": "Sesión muy volátil. Nvidia cae más de un 5%. Nasdaq: −0,39%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7376.86,
+     7549.94,
+     7520.93,
+     7619.38,
+     7592.4
+    ],
+    "etiquetas": [
+     "6 nov",
+     "9 nov",
+     "10 nov",
+     "11 nov",
+     "12 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11122026-nid12112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El oro se hunde un 3%",
+   "texto": "Baja a 3.879 dólares. El Brent está en 93,7 y el bitcoin cae a 71.700.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 93,7 $",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 12 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11122026-nid12112026/"
+  }
+ ]
+}

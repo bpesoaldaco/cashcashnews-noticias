@@ -1,0 +1,221 @@
+{
+ "fecha": "2026-11-05",
+ "fechaTexto": "Jueves 5 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.486",
+   "cambio": "+0,59%",
+   "tendencia": "up"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.354",
+   "cambio": "−4,36%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "24.315",
+   "cambio": "−1,70%",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "97 $",
+   "cambio": "+3%",
+   "tendencia": "up"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.130 $",
+   "cambio": "+1%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,123",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "76.000 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "Rovi se dispara y el IBEX sube",
+     "dato": "19.486",
+     "cambio": "+0,59%",
+     "tendencia": "up",
+     "texto": "El índice gana un 0,59%, hasta 19.486 puntos, en plena resaca electoral en EE. UU.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18652.9,
+       18957,
+       18807,
+       19370,
+       19486
+      ],
+      "etiquetas": [
+       "30 oct",
+       "2 nov",
+       "3 nov",
+       "4 nov",
+       "5 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent rebota un 3%",
+     "texto": "Hasta 97 dólares. El oro sube un 1%, hasta 4.130, y el bitcoin cae a 76.000.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 97 $",
+     "cambio": "+3%",
+     "tendencia": "up"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Rovi se dispara tras sus resultados",
+     "texto": "BBVA y Bankinter también suben. ArcelorMittal cae tras presentar cuentas.",
+     "dato": "Rovi",
+     "tendencia": "up",
+     "valores": [
+      "BBVA",
+      "Bankinter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "titulo": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "slides": [
+    {
+     "titulo": "El Banco de Inglaterra sube los tipos",
+     "texto": "Los sube 25 puntos básicos, hasta el 4%. Noruega los mantiene en el 4,5%.",
+     "dato": "4%",
+     "cambio": "+0,25",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Rovi se dispara y el IBEX sube",
+   "dato": "19.486",
+   "cambio": "+0,59%",
+   "tendencia": "up",
+   "texto": "El índice gana un 0,59%, hasta 19.486 puntos, en plena resaca electoral en EE. UU.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18652.9,
+     18957,
+     18807,
+     19370,
+     19486
+    ],
+    "etiquetas": [
+     "30 oct",
+     "2 nov",
+     "3 nov",
+     "4 nov",
+     "5 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Rovi se dispara tras sus resultados",
+   "texto": "BBVA y Bankinter también suben. ArcelorMittal cae tras presentar cuentas.",
+   "dato": "Rovi",
+   "tendencia": "up",
+   "valores": [
+    "BBVA",
+    "Bankinter"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "El Banco de Inglaterra sube los tipos",
+   "texto": "Los sube 25 puntos básicos, hasta el 4%. Noruega los mantiene en el 4,5%.",
+   "dato": "4%",
+   "cambio": "+0,25",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent rebota un 3%",
+   "texto": "Hasta 97 dólares. El oro sube un 1%, hasta 4.130, y el bitcoin cae a 76.000.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 97 $",
+   "cambio": "+3%",
+   "tendencia": "up",
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1162026-nid06112026/"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 5 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1162026-nid06112026/"
+  }
+ ]
+}

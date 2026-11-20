@@ -479,6 +479,206 @@
    "sector": "Servicios",
    "pais": "Irlanda / Reino Unido",
    "descripcion": "Datos de crédito y solvencia."
+  },
+  {
+   "nombre": "Berkshire Hathaway",
+   "ticker": "BRK.B",
+   "mercado": "NYSE",
+   "sector": "Conglomerado",
+   "pais": "EE. UU.",
+   "descripcion": "El conglomerado de Warren Buffett: seguros, ferrocarriles, energía y grandes participaciones en bolsa."
+  },
+  {
+   "nombre": "Apple",
+   "ticker": "AAPL",
+   "mercado": "Nasdaq",
+   "sector": "Tecnología",
+   "pais": "EE. UU.",
+   "descripcion": "Fabricante del iPhone, el Mac y el iPad, con un negocio creciente de servicios."
+  },
+  {
+   "nombre": "Coca-Cola",
+   "ticker": "KO",
+   "mercado": "NYSE",
+   "sector": "Bebidas",
+   "pais": "EE. UU.",
+   "descripcion": "La mayor empresa de refrescos del mundo; una de las inversiones más conocidas de Buffett."
+  },
+  {
+   "nombre": "Amazon",
+   "ticker": "AMZN",
+   "mercado": "Nasdaq",
+   "sector": "Comercio electrónico y nube",
+   "pais": "EE. UU.",
+   "descripcion": "Tienda online líder y dueña de AWS, el mayor proveedor de servicios en la nube."
+  },
+  {
+   "nombre": "Tesla",
+   "ticker": "TSLA",
+   "mercado": "Nasdaq",
+   "sector": "Automóvil eléctrico",
+   "pais": "EE. UU.",
+   "descripcion": "Fabricante de coches eléctricos y baterías dirigido por Elon Musk; acción muy volátil."
+  },
+  {
+   "nombre": "Inditex",
+   "ticker": "ITX",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Textil",
+   "pais": "España",
+   "descripcion": "Dueña de Zara, Pull&Bear, Massimo Dutti o Bershka; la mayor empresa del IBEX 35 por capitalización."
+  },
+  {
+   "nombre": "Acciona",
+   "ticker": "ANA",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Construcción y energía",
+   "pais": "España",
+   "descripcion": "Grupo de infraestructuras y energías renovables; controla Acciona Energía."
+  },
+  {
+   "nombre": "Amadeus",
+   "ticker": "AMS",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Tecnología de viajes",
+   "pais": "España",
+   "descripcion": "Proveedor de tecnología para aerolíneas, hoteles y agencias de viajes."
+  },
+  {
+   "nombre": "BBVA",
+   "ticker": "BBVA",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Segundo banco español, con gran negocio en México y Turquía."
+  },
+  {
+   "nombre": "Bankinter",
+   "ticker": "BKT",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Banco español mediano, conocido por su rentabilidad y la banca privada."
+  },
+  {
+   "nombre": "CaixaBank",
+   "ticker": "CABK",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "El mayor banco de España por negocio doméstico."
+  },
+  {
+   "nombre": "Ferrovial",
+   "ticker": "FER",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Infraestructuras",
+   "pais": "España",
+   "descripcion": "Gestiona autopistas y aeropuertos; también cotiza en Nueva York."
+  },
+  {
+   "nombre": "Iberdrola",
+   "ticker": "IBE",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Eléctricas",
+   "pais": "España",
+   "descripcion": "La mayor eléctrica española, con fuerte presencia en renovables y redes."
+  },
+  {
+   "nombre": "Indra",
+   "ticker": "IDR",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Tecnología y defensa",
+   "pais": "España",
+   "descripcion": "Empresa de tecnología, defensa y control del tráfico aéreo."
+  },
+  {
+   "nombre": "Mapfre",
+   "ticker": "MAP",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Seguros",
+   "pais": "España",
+   "descripcion": "La mayor aseguradora española, con mucho negocio en Latinoamérica."
+  },
+  {
+   "nombre": "Sabadell",
+   "ticker": "SAB",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Banco español con fuerte presencia en empresas y en Reino Unido (TSB)."
+  },
+  {
+   "nombre": "Santander",
+   "ticker": "SAN",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "El mayor banco de la zona euro por capitalización, presente en Europa y América."
+  },
+  {
+   "nombre": "Unicaja",
+   "ticker": "UNI",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Banca",
+   "pais": "España",
+   "descripcion": "Banco andaluz nacido de la fusión de varias cajas de ahorros."
+  },
+  {
+   "nombre": "BASF",
+   "ticker": "BAS",
+   "mercado": "Xetra (Fráncfort)",
+   "sector": "Química",
+   "pais": "Alemania",
+   "descripcion": "La mayor empresa química del mundo por ventas."
+  },
+  {
+   "nombre": "Atresmedia",
+   "ticker": "A3M",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Medios de comunicación",
+   "pais": "España",
+   "descripcion": "Grupo de televisión y radio dueño de Antena 3, laSexta y Onda Cero."
+  },
+  {
+   "nombre": "Adolfo Domínguez",
+   "ticker": "ADZ",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Textil",
+   "pais": "España",
+   "descripcion": "Firma gallega de moda con tiendas propias en España y en el extranjero."
+  },
+  {
+   "nombre": "Insmed",
+   "ticker": "INSM",
+   "mercado": "Nasdaq",
+   "sector": "Biotecnología",
+   "pais": "EE. UU.",
+   "descripcion": "Biotecnológica centrada en tratamientos para enfermedades pulmonares graves y raras."
+  },
+  {
+   "nombre": "Sanofi",
+   "ticker": "SAN",
+   "mercado": "Euronext París",
+   "sector": "Farmacéutica",
+   "pais": "Francia",
+   "descripcion": "Una de las mayores farmacéuticas de Europa, con medicamentos y vacunas."
+  },
+  {
+   "nombre": "Gap",
+   "ticker": "GAP",
+   "mercado": "NYSE",
+   "sector": "Textil",
+   "pais": "EE. UU.",
+   "descripcion": "Grupo de moda dueño de Gap, Old Navy, Banana Republic y Athleta."
+  },
+  {
+   "nombre": "Ross Stores",
+   "ticker": "ROST",
+   "mercado": "Nasdaq",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Cadena de tiendas de ropa y hogar a precios rebajados (outlet)."
   }
  ]
 }

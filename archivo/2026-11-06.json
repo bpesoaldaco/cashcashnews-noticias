@@ -1,0 +1,275 @@
+{
+ "fecha": "2026-11-06",
+ "fechaTexto": "Viernes 6 nov 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.369,5",
+   "cambio": "−0,60%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.377",
+   "cambio": "+0,31%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "24.579",
+   "cambio": "+1,09%",
+   "tendencia": "up"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "98 $",
+   "tendencia": "flat"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "4.072 $",
+   "cambio": "−1%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,1153",
+   "tendencia": "flat"
+  },
+  {
+   "id": "bitcoin",
+   "nombre": "Bitcoin",
+   "valor": "75.800 $",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX gana un 3,8% en la semana",
+     "dato": "19.369,5",
+     "cambio": "−0,60%",
+     "tendencia": "down",
+     "texto": "Hoy cae un 0,6%, hasta 19.369,5 puntos, por el hundimiento tecnológico, pero la semana es muy buena.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       18957,
+       18807,
+       19370,
+       19486,
+       19369.5
+      ],
+      "etiquetas": [
+       "2 nov",
+       "3 nov",
+       "4 nov",
+       "5 nov",
+       "6 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "Rebote de la IA y buen dato de empleo",
+     "dato": "7.377",
+     "cambio": "+0,31%",
+     "tendencia": "up",
+     "texto": "Tras la fuerte venta del jueves, los valores de IA rebotan. EE. UU. creó 165.000 empleos en octubre (se esperaban 65.000). Nasdaq: +1,09%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7541.4,
+       7568.92,
+       7688.62,
+       7353.73,
+       7376.86
+      ],
+      "etiquetas": [
+       "2 nov",
+       "3 nov",
+       "4 nov",
+       "5 nov",
+       "6 nov"
+      ]
+     }
+    },
+    {
+     "titulo": "El Brent ronda los 98 dólares",
+     "texto": "El oro baja un 1%, hasta 4.072 dólares, y el bitcoin está en 75.800.",
+     "valores": [
+      "Brent",
+      "Oro"
+     ],
+     "dato": "Brent 98 $"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "slides": [
+    {
+     "titulo": "Inditex cae tras tocar máximos",
+     "texto": "Retrocede con fuerza después de superar los 60 euros. IAG y Amadeus presentan resultados.",
+     "dato": "Inditex",
+     "tendencia": "down",
+     "valores": [
+      "Inditex",
+      "IAG",
+      "Amadeus"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eeuu",
+   "titulo": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "slides": [
+    {
+     "titulo": "El mercado ve una subida de tipos",
+     "texto": "Da un 80% de probabilidad a que la Fed suba en diciembre tras el dato de empleo. El paro está en el 4,1%.",
+     "dato": "80%",
+     "tendencia": "up"
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX gana un 3,8% en la semana",
+   "dato": "19.369,5",
+   "cambio": "−0,60%",
+   "tendencia": "down",
+   "texto": "Hoy cae un 0,6%, hasta 19.369,5 puntos, por el hundimiento tecnológico, pero la semana es muy buena.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     18957,
+     18807,
+     19370,
+     19486,
+     19369.5
+    ],
+    "etiquetas": [
+     "2 nov",
+     "3 nov",
+     "4 nov",
+     "5 nov",
+     "6 nov"
+    ]
+   },
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+  },
+  {
+   "categoria": "España",
+   "emoji": "🇪🇸",
+   "color": "#E11D48",
+   "titulo": "Inditex cae tras tocar máximos",
+   "texto": "Retrocede con fuerza después de superar los 60 euros. IAG y Amadeus presentan resultados.",
+   "dato": "Inditex",
+   "tendencia": "down",
+   "valores": [
+    "Inditex",
+    "IAG",
+    "Amadeus"
+   ],
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "El mercado ve una subida de tipos",
+   "texto": "Da un 80% de probabilidad a que la Fed suba en diciembre tras el dato de empleo. El paro está en el 4,1%.",
+   "dato": "80%",
+   "tendencia": "up",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Rebote de la IA y buen dato de empleo",
+   "dato": "7.377",
+   "cambio": "+0,31%",
+   "tendencia": "up",
+   "texto": "Tras la fuerte venta del jueves, los valores de IA rebotan. EE. UU. creó 165.000 empleos en octubre (se esperaban 65.000). Nasdaq: +1,09%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7541.4,
+     7568.92,
+     7688.62,
+     7353.73,
+     7376.86
+    ],
+    "etiquetas": [
+     "2 nov",
+     "3 nov",
+     "4 nov",
+     "5 nov",
+     "6 nov"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1162026-nid06112026/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El Brent ronda los 98 dólares",
+   "texto": "El oro baja un 1%, hasta 4.072 dólares, y el bitcoin está en 75.800.",
+   "valores": [
+    "Brent",
+    "Oro"
+   ],
+   "dato": "Brent 98 $",
+   "fuente": "Bolsamanía",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "Bolsamanía: cierre del 6 nov",
+   "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1162026-nid06112026/"
+  }
+ ]
+}

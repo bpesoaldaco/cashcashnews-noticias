@@ -1,0 +1,154 @@
+{
+ "fecha": "2026-10-20",
+ "fechaTexto": "Martes 20 oct 2026",
+ "actualizado": "cierre de la sesión",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Día añadido después, a partir de las crónicas de cierre enlazadas en las fuentes.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "19.092,4",
+   "cambio": "+0,28%",
+   "tendencia": "up"
+  },
+  {
+   "id": "eurostoxx",
+   "nombre": "Euro Stoxx 50",
+   "valor": "6.122",
+   "cambio": "−0,38%",
+   "tendencia": "down"
+  },
+  {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "7.713",
+   "cambio": "+0,28%",
+   "tendencia": "up"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "26.425",
+   "cambio": "−0,02%",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [
+  {
+   "id": "mercados",
+   "titulo": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "slides": [
+    {
+     "titulo": "El IBEX sube un poco y sigue sobre los 19.000",
+     "dato": "19.092,4",
+     "cambio": "+0,28%",
+     "tendencia": "up",
+     "texto": "Cierra en 19.092,4 puntos, ligeramente por encima del lunes.",
+     "valores": [
+      "IBEX 35"
+     ],
+     "grafica": {
+      "valores": [
+       19326.3,
+       19039.3,
+       19092.4
+      ],
+      "etiquetas": [
+       "16 oct",
+       "19 oct",
+       "20 oct"
+      ]
+     }
+    },
+    {
+     "titulo": "Wall Street sube con buenos resultados",
+     "dato": "7.713",
+     "cambio": "+0,28%",
+     "tendencia": "up",
+     "texto": "Los resultados de Equifax y Hasbro y la bajada del petróleo animan al S&P 500 y al Dow Jones. Nasdaq: −0,02%.",
+     "valores": [
+      "S&P 500",
+      "Nasdaq"
+     ],
+     "grafica": {
+      "valores": [
+       7659.44,
+       7712.57
+      ],
+      "etiquetas": [
+       "16 oct",
+       "20 oct"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX sube un poco y sigue sobre los 19.000",
+   "dato": "19.092,4",
+   "cambio": "+0,28%",
+   "tendencia": "up",
+   "texto": "Cierra en 19.092,4 puntos, ligeramente por encima del lunes.",
+   "valores": [
+    "IBEX 35"
+   ],
+   "grafica": {
+    "valores": [
+     19326.3,
+     19039.3,
+     19092.4
+    ],
+    "etiquetas": [
+     "16 oct",
+     "19 oct",
+     "20 oct"
+    ]
+   },
+   "fuente": "El Periódico de Ceuta",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "Wall Street sube con buenos resultados",
+   "dato": "7.713",
+   "cambio": "+0,28%",
+   "tendencia": "up",
+   "texto": "Los resultados de Equifax y Hasbro y la bajada del petróleo animan al S&P 500 y al Dow Jones. Nasdaq: −0,02%.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq"
+   ],
+   "grafica": {
+    "valores": [
+     7659.44,
+     7712.57
+    ],
+    "etiquetas": [
+     "16 oct",
+     "20 oct"
+    ]
+   },
+   "fuente": "AP",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-10202026-nid20102026/"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "El Periódico de Ceuta: tabla de cierres del IBEX (Yahoo Finance)",
+   "url": "https://www.elperiodicodeceuta.es/ibex-35-hoy-21-octubre-2026-al-alza-cierra-19323-50/"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street",
+   "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-10202026-nid20102026/"
+  }
+ ]
+}
