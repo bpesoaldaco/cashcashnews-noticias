@@ -1,0 +1,239 @@
+{
+ "tipo": "semanal",
+ "fecha": "2026-11-20",
+ "fechaTexto": "Semana del 16 al 20 nov 2026",
+ "actualizado": "viernes 20 nov, 21:45 (hora de Madrid)",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Wall Street aún no había cerrado al publicar: sus cifras del viernes son de media tarde. La variación semanal del oro está calculada a partir de los datos diarios.",
+ "indicadores": [
+  {
+   "id": "ibex",
+   "nombre": "IBEX 35",
+   "valor": "18.873,1",
+   "cambio": "−5,73%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurostoxx",
+   "nombre": "Euro Stoxx 50",
+   "valor": "5.952,45",
+   "tendencia": "down"
+  },
+  {
+   "id": "dax",
+   "nombre": "DAX",
+   "valor": "24.802,78",
+   "tendencia": "down"
+  },
+  {
+   "id": "brent",
+   "nombre": "Brent",
+   "valor": "91,2 $",
+   "tendencia": "down"
+  },
+  {
+   "id": "oro",
+   "nombre": "Oro",
+   "valor": "3.536 $",
+   "cambio": "−9%",
+   "tendencia": "down"
+  },
+  {
+   "id": "eurusd",
+   "nombre": "EUR/USD",
+   "valor": "1,0982",
+   "tendencia": "flat"
+  }
+ ],
+ "stories": [],
+ "reels": [
+  {
+   "categoria": "Mercados",
+   "emoji": "📊",
+   "color": "#0EA5E9",
+   "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
+   "texto": "Cinco sesiones en rojo. El viernes cae otro 1,63% y cierra en 18.873,1, por debajo de los 19.000. Solo 7 valores suben; ArcelorMittal (−5,66%) es el peor.",
+   "dato": "18.873,1",
+   "cambio": "−5,73%",
+   "tendencia": "down",
+   "valores": [
+    "IBEX 35",
+    "ArcelorMittal",
+    "Redeia"
+   ],
+   "grafica": {
+    "valores": [
+     19946.6,
+     19625.3,
+     19373,
+     19186.2,
+     18873.1
+    ],
+    "etiquetas": [
+     "16 nov",
+     "17 nov",
+     "18 nov",
+     "19 nov",
+     "20 nov"
+    ]
+   },
+   "paraTi": "Si tienes un fondo que invierte en bolsa española, esta semana vale menos. Es una caída en el papel: solo se convierte en pérdida si vendes.",
+   "fuente": "El Debate (Europa Press)",
+   "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+  },
+  {
+   "categoria": "Europa",
+   "emoji": "🇪🇺",
+   "color": "#6366F1",
+   "titulo": "El DAX pierde más de un 7% en la semana",
+   "texto": "Cierra en 24.802,78 (−2,6% el viernes), por debajo de 25.000. El Euro Stoxx 50 cae un 2,64% el viernes, hasta 5.952,45. ASML se hunde un 9,3%.",
+   "dato": "24.802,78",
+   "cambio": "−2,6% vie.",
+   "tendencia": "down",
+   "valores": [
+    "DAX",
+    "Euro Stoxx 50",
+    "ASML",
+    "Infineon"
+   ],
+   "paraTi": "Los fondos indexados europeos y los MSCI World también bajan esta semana. Si aportas cada mes, compras participaciones más baratas; si no tocas nada, no cambia.",
+   "fuente": "dpa-AFX (finanzen.at)",
+   "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
+  },
+  {
+   "categoria": "EE. UU.",
+   "emoji": "🇺🇸",
+   "color": "#10B981",
+   "titulo": "Wall Street, camino de 7 días de caídas",
+   "texto": "El S&P 500 cerró el jueves en 7.176, un 5,1% menos que el viernes anterior. Este viernes por la tarde caía otro 2,2% y el Nasdaq un 3,6%.",
+   "dato": "7.176",
+   "cambio": "−5,1% (lun-jue)",
+   "tendencia": "down",
+   "valores": [
+    "S&P 500",
+    "Nasdaq",
+    "Dow Jones"
+   ],
+   "grafica": {
+    "valores": [
+     7561.67,
+     7416.59,
+     7340.53,
+     7323.8,
+     7175.83
+    ],
+    "etiquetas": [
+     "13 nov",
+     "16 nov",
+     "17 nov",
+     "18 nov",
+     "19 nov"
+    ]
+   },
+   "paraTi": "Si tienes un fondo del S&P 500 o del MSCI World (el de muchos planes de pensiones), es la parte que más baja. Suele pesar mucho en esos fondos.",
+   "fuente": "AP (The Philadelphia Inquirer)",
+   "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "Huye el dinero de la IA y los chips",
+   "texto": "Ni los buenos resultados de Nvidia frenaron las dudas sobre lo que rinde el gasto en IA. Nvidia cae cerca de un 15% en cinco días; el viernes, Broadcom (−11,5%) y AMD (−10,9%).",
+   "dato": "Nvidia",
+   "cambio": "≈ −15% semana",
+   "tendencia": "down",
+   "valores": [
+    "Nvidia",
+    "AMD",
+    "Broadcom",
+    "Nasdaq"
+   ],
+   "paraTi": "Las grandes tecnológicas pesan mucho en los fondos indexados de EE. UU. y mundiales, así que esta caída se nota en ellos aunque no tengas acciones de IA.",
+   "fuente": "AP (The Philadelphia Inquirer)",
+   "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+  },
+  {
+   "categoria": "La semana",
+   "emoji": "🗓",
+   "color": "#6366F1",
+   "titulo": "La Fed subirá tipos, casi seguro",
+   "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre. El oro baja a unos 3.536 $ y el bitcoin cae por debajo de 60.000 $, mínimos desde julio.",
+   "dato": "97,5%",
+   "cambio": "+25 pb",
+   "tendencia": "up",
+   "valores": [
+    "Oro",
+    "Bitcoin",
+    "EUR/USD"
+   ],
+   "paraTi": "Los tipos de EE. UU. no fijan tu euríbor, que depende del BCE. Pero el dólar fuerte encarece lo que compras en dólares, como viajes o compras en webs de EE. UU.",
+   "fuente": "Yahoo Finance",
+   "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+  },
+  {
+   "categoria": "Valores",
+   "emoji": "🔎",
+   "color": "#F59E0B",
+   "titulo": "Anthropic, Evonik y Solaria",
+   "texto": "Anthropic salió a 83 $, cerró el jueves en 97,17 $ (+17%) y el viernes caía un 10%. Evonik se hundió un 17% al retirarse BASF. Solaria cayó más de un 5% el lunes y el jueves.",
+   "valores": [
+    "Anthropic",
+    "Evonik",
+    "BASF",
+    "Solaria"
+   ],
+   "paraTi": "Son movimientos de empresas concretas: solo te afectan de forma directa si tienes sus acciones. En un fondo indexado su peso es pequeño.",
+   "fuente": "El Debate (Europa Press)",
+   "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+  },
+  {
+   "categoria": "Agenda",
+   "emoji": "📅",
+   "color": "#8B5CF6",
+   "titulo": "La semana que viene",
+   "texto": "Miércoles 25, 14:30: inflación PCE de octubre y PIB de EE. UU. Jueves 26: Wall Street cerrada por Acción de Gracias. Viernes 27: cierra antes, a las 19:00.",
+   "valores": [
+    "S&P 500",
+    "Nasdaq",
+    "Dow Jones"
+   ],
+   "paraTi": "La inflación PCE es la que más mira la Fed. Si sale alta, gana fuerza la subida de tipos de diciembre y el dólar suele seguir fuerte.",
+   "fuente": "Admirals",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
+  }
+ ],
+ "fuentes": [
+  {
+   "nombre": "El Debate (Europa Press): el IBEX cae un 5,7% en la semana",
+   "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+  },
+  {
+   "nombre": "Press Digital: cierre del IBEX del 20 nov",
+   "url": "https://www.pressdigital.es/articulo/economia/2026-11-20/6102575-ibex-35-desploma-57-semana-pierde-19000-puntos-ante-ajuste-tecnologico"
+  },
+  {
+   "nombre": "finanzen.at (dpa-AFX): cierre del DAX",
+   "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
+  },
+  {
+   "nombre": "finanzen.at (Dow Jones): mercados europeos",
+   "url": "https://www.finanzen.at/nachrichten/aktien/maerkte-europa-dax-unter-25-000-punkten-ausverkauf-bei-technologie-1036788573"
+  },
+  {
+   "nombre": "ad-hoc-news: Euro Stoxx 50",
+   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
+  },
+  {
+   "nombre": "AP (The Philadelphia Inquirer): Wall Street 20 nov",
+   "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+  },
+  {
+   "nombre": "Yahoo Finance: directo del 20 nov",
+   "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+  },
+  {
+   "nombre": "Admirals: por qué cae la bolsa y agenda",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
+  }
+ ]
+}

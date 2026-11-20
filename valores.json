@@ -679,6 +679,22 @@
    "sector": "Distribución",
    "pais": "EE. UU.",
    "descripcion": "Cadena de tiendas de ropa y hogar a precios rebajados (outlet)."
+  },
+  {
+   "nombre": "ArcelorMittal",
+   "ticker": "MTS",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Acero",
+   "pais": "Luxemburgo",
+   "descripcion": "Uno de los mayores fabricantes de acero del mundo."
+  },
+  {
+   "nombre": "Redeia",
+   "ticker": "RED",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Electricidad",
+   "pais": "España",
+   "descripcion": "Gestiona la red de transporte de electricidad en España (antes Red Eléctrica)."
   }
  ]
 }

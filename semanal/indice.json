@@ -1,6 +1,10 @@
 {
   "semanas": [
     {
+      "fecha": "2026-11-20",
+      "fechaTexto": "Semana del 16 al 20 nov 2026"
+    },
+    {
       "fecha": "2026-11-13",
       "fechaTexto": "Semana del 9 al 13 nov 2026"
     },
