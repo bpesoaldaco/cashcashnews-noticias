@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-20",
+      "fechaTexto": "Viernes 20 nov 2026",
+      "titular": "Wall Street: sexta caída seguida",
+      "noticias": 11
+    },
+    {
       "fecha": "2026-11-19",
       "fechaTexto": "Jueves 19 nov 2026",
       "titular": "Anthropic debuta: +34% en su primer cruce",
