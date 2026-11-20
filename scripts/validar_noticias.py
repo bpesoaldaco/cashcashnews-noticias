@@ -9,6 +9,7 @@ import re
 import sys
 
 TENDENCIAS = {"up", "down", "flat"}
+TIPOS_AGENDA = {"banco_central", "macro", "resultados", "bolsa", "discurso", "politica", "otro"}
 COLOR = re.compile(r"^#[0-9A-Fa-f]{6}$")
 FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 INDICADORES = {"ibex", "eurostoxx", "dax", "sp500", "nasdaq", "brent", "oro", "eurusd", "bitcoin"}
@@ -111,6 +112,26 @@ def validar(d):
             e.append(f"{w}: 'color' debe ser #RRGGBB")
         if r.get("fuente") and not str(r.get("url", "")).startswith("https://"):
             e.append(f"{w}: si hay 'fuente', 'url' debe empezar por https://")
+
+    agenda = d.get("agenda")
+    if agenda is not None:
+        if not isinstance(agenda, list):
+            e.append("raíz: 'agenda' debe ser una lista")
+            agenda = []
+        for i, x in enumerate(agenda):
+            w = f"agenda[{i}]"
+            texto(x, "titulo", w)
+            texto(x, "texto", w, obligatorio=False)
+            h = x.get("hora", "")
+            if not isinstance(h, str) or (h and not re.match(r"^\d{2}:\d{2}$", h)):
+                e.append(f"{w}: 'hora' debe ser HH:MM o \"\"")
+            if x.get("tipo", "otro") not in TIPOS_AGENDA:
+                e.append(f"{w}: 'tipo' debe ser uno de {sorted(TIPOS_AGENDA)}")
+            if x.get("importancia", "media") not in ("alta", "media", "baja"):
+                e.append(f"{w}: 'importancia' debe ser alta, media o baja")
+            v = x.get("valores")
+            if v is not None and (not isinstance(v, list) or not all(isinstance(y, str) and y.strip() for y in v)):
+                e.append(f"{w}: 'valores' debe ser una lista de nombres")
 
     fuentes = d.get("fuentes")
     if not isinstance(fuentes, list) or not fuentes:

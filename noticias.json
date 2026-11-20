@@ -673,5 +673,53 @@
       "nombre": "Forbes España (EP): apertura del 19 nov y empresas",
       "url": "https://forbes.es/ultima-hora/1067678/el-ibex-35-abre-con-un-alza-del-03-y-supera-los-19-400-puntos-con-el-foco-en-anthropic/"
     }
+  ],
+  "agenda": [
+    {
+      "hora": "09:00",
+      "titulo": "Abre la bolsa española",
+      "texto": "Tras cuatro caídas seguidas del IBEX. El cierre de la OPV de Anthropic está previsto para hoy.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    },
+    {
+      "hora": "09:15",
+      "titulo": "Habla Lagarde (BCE)",
+      "texto": "Comparecencia pública de la presidenta del BCE.",
+      "tipo": "banco_central",
+      "importancia": "alta",
+      "pais": "Eurozona",
+      "valores": [
+        "EUR/USD"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Ventas minoristas de Reino Unido y Canadá",
+      "texto": "Horas no confirmadas.",
+      "tipo": "macro",
+      "importancia": "media",
+      "pais": ""
+    },
+    {
+      "hora": "",
+      "titulo": "Confianza del consumidor de Michigan",
+      "texto": "Se espera 51,7. Hora no confirmada.",
+      "tipo": "macro",
+      "importancia": "media",
+      "pais": "EE. UU."
+    },
+    {
+      "hora": "",
+      "titulo": "Resultados de BJ's Wholesale",
+      "texto": "Antes de la apertura de Wall Street.",
+      "tipo": "resultados",
+      "importancia": "baja",
+      "pais": "EE. UU."
+    }
   ]
 }

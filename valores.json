@@ -623,6 +623,62 @@
    "sector": "Banca",
    "pais": "España",
    "descripcion": "Banco andaluz nacido de la fusión de varias cajas de ahorros."
+  },
+  {
+   "nombre": "BASF",
+   "ticker": "BAS",
+   "mercado": "Xetra (Fráncfort)",
+   "sector": "Química",
+   "pais": "Alemania",
+   "descripcion": "La mayor empresa química del mundo por ventas."
+  },
+  {
+   "nombre": "Atresmedia",
+   "ticker": "A3M",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Medios de comunicación",
+   "pais": "España",
+   "descripcion": "Grupo de televisión y radio dueño de Antena 3, laSexta y Onda Cero."
+  },
+  {
+   "nombre": "Adolfo Domínguez",
+   "ticker": "ADZ",
+   "mercado": "Bolsa de Madrid",
+   "sector": "Textil",
+   "pais": "España",
+   "descripcion": "Firma gallega de moda con tiendas propias en España y en el extranjero."
+  },
+  {
+   "nombre": "Insmed",
+   "ticker": "INSM",
+   "mercado": "Nasdaq",
+   "sector": "Biotecnología",
+   "pais": "EE. UU.",
+   "descripcion": "Biotecnológica centrada en tratamientos para enfermedades pulmonares graves y raras."
+  },
+  {
+   "nombre": "Sanofi",
+   "ticker": "SAN",
+   "mercado": "Euronext París",
+   "sector": "Farmacéutica",
+   "pais": "Francia",
+   "descripcion": "Una de las mayores farmacéuticas de Europa, con medicamentos y vacunas."
+  },
+  {
+   "nombre": "Gap",
+   "ticker": "GAP",
+   "mercado": "NYSE",
+   "sector": "Textil",
+   "pais": "EE. UU.",
+   "descripcion": "Grupo de moda dueño de Gap, Old Navy, Banana Republic y Athleta."
+  },
+  {
+   "nombre": "Ross Stores",
+   "ticker": "ROST",
+   "mercado": "Nasdaq",
+   "sector": "Distribución",
+   "pais": "EE. UU.",
+   "descripcion": "Cadena de tiendas de ropa y hogar a precios rebajados (outlet)."
   }
  ]
 }
