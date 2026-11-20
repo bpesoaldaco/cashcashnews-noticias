@@ -476,7 +476,8 @@
       "valores": [
         "Nvidia",
         "ASML"
-      ]
+      ],
+      "paraTi": "Si tienes un fondo indexado global o del S&P 500, Nvidia es una de sus mayores posiciones: lo que haga pesa en tu fondo aunque no tengas la acción."
     },
     {
       "categoria": "España",
@@ -503,7 +504,8 @@
           "17 nov",
           "18 nov (16:40)"
         ]
-      }
+      },
+      "paraTi": "Si tienes un plan de pensiones o un fondo con bolsa española, estos días su valor baja. Solo cuenta como pérdida si vendes ahora."
     },
     {
       "categoria": "Tipos",
@@ -515,7 +517,8 @@
       "cambio": "+25 pb",
       "tendencia": "up",
       "fuente": "Euribor.com.es",
-      "url": "https://www.euribor.com.es/2026/11/18/analisis-de-mercados-18-de-noviembre-de-2026-18-noviembre-2026/"
+      "url": "https://www.euribor.com.es/2026/11/18/analisis-de-mercados-18-de-noviembre-de-2026-18-noviembre-2026/",
+      "paraTi": "Si la Fed sube tipos, el dólar suele fortalecerse: comprar en dólares (viajes a EE. UU., compras online) te saldría algo más caro."
     },
     {
       "categoria": "EE. UU.",
@@ -531,7 +534,8 @@
       "valores": [
         "S&P 500",
         "Nasdaq"
-      ]
+      ],
+      "paraTi": "Si tienes un fondo indexado del S&P 500 o del MSCI World, ahora mismo vale menos que hace unas semanas. Para quien aporta cada mes, compra más barato."
     },
     {
       "categoria": "España",
@@ -548,7 +552,8 @@
         "Brent",
         "Repsol",
         "IBEX 35"
-      ]
+      ],
+      "paraTi": "La bajada del crudo tarda unas semanas en notarse en la gasolinera, y no siempre se traslada entera al precio del surtidor."
     },
     {
       "categoria": "Europa",
@@ -563,7 +568,8 @@
       "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---18th-november-2026",
       "valores": [
         "Deutsche Bank"
-      ]
+      ],
+      "paraTi": "Si tienes cuenta en Deutsche Bank, tu dinero está cubierto por el fondo de garantía de depósitos hasta 100.000 € por persona y banco."
     },
     {
       "categoria": "Inflación",
@@ -575,7 +581,8 @@
       "cambio": "IPC",
       "tendencia": "up",
       "fuente": "Investinglive",
-      "url": "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/"
+      "url": "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/",
+      "paraTi": "Con la inflación al 4%, lo que tienes en una cuenta sin remuneración pierde poder de compra. Y si tu hipoteca es variable, aumenta la presión para que el euríbor suba."
     },
     {
       "categoria": "Europa",
@@ -590,7 +597,8 @@
       "url": "https://www.marketscreener.com/news/european-shares-muted-as-tech-offsets-mining-weakness-ce785edcd08cf223",
       "valores": [
         "Alstom"
-      ]
+      ],
+      "paraTi": "Si tienes un fondo europeo de bolsa, Alstom pesa poco en él: un batacazo de una sola empresa apenas mueve un fondo diversificado."
     },
     {
       "categoria": "Materias primas",
@@ -606,7 +614,8 @@
       "valores": [
         "Bitcoin",
         "Oro"
-      ]
+      ],
+      "paraTi": "Si tienes oro o bitcoin, estos días su precio baja. Son activos que pueden moverse mucho en poco tiempo, en los dos sentidos."
     },
     {
       "categoria": "EE. UU.",
@@ -621,7 +630,8 @@
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026",
       "valores": [
         "Nike"
-      ]
+      ],
+      "paraTi": "Si tienes un fondo de consumo o del S&P 500, Nike pesa poco en él. Si eres cliente, una marca con ventas flojas suele lanzar más ofertas."
     },
     {
       "categoria": "España",
@@ -636,7 +646,8 @@
       "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html",
       "valores": [
         "Enagás"
-      ]
+      ],
+      "paraTi": "Si tienes acciones de Enagás, este fallo le permite cobrar dinero retenido en Perú, del que salen en parte los dividendos que reparte."
     },
     {
       "categoria": "Agenda",
@@ -652,7 +663,8 @@
       "valores": [
         "Nasdaq",
         "Anthropic"
-      ]
+      ],
+      "paraTi": "Las actas no cambian nada hoy, pero si confirman más subidas de tipos, el euríbor y lo que te pagan por los depósitos tenderían a subir también."
     }
   ],
   "fuentes": [
