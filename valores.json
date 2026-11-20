@@ -695,6 +695,14 @@
    "sector": "Electricidad",
    "pais": "España",
    "descripcion": "Gestiona la red de transporte de electricidad en España (antes Red Eléctrica)."
+  },
+  {
+   "nombre": "Micron",
+   "ticker": "MU",
+   "mercado": "Nasdaq",
+   "sector": "Semiconductores",
+   "pais": "EE. UU.",
+   "descripcion": "Fabrica chips de memoria (DRAM y NAND), muy usados en servidores de IA."
   }
  ]
 }

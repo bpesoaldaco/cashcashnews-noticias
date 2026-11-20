@@ -2,8 +2,8 @@
  "tipo": "semanal",
  "fecha": "2026-11-20",
  "fechaTexto": "Semana del 16 al 20 nov 2026",
- "actualizado": "viernes 20 nov, 21:45 (hora de Madrid)",
- "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Wall Street aún no había cerrado al publicar: sus cifras del viernes son de media tarde. La variación semanal del oro está calculada a partir de los datos diarios.",
+ "actualizado": "cierre del viernes",
+ "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Las variaciones semanales del S&P 500, el Nasdaq y el oro están calculadas a partir de los cierres diarios.",
  "indicadores": [
   {
    "id": "ibex",
@@ -25,10 +25,24 @@
    "tendencia": "down"
   },
   {
+   "id": "sp500",
+   "nombre": "S&P 500",
+   "valor": "6.910,39",
+   "cambio": "−8,6%",
+   "tendencia": "down"
+  },
+  {
+   "id": "nasdaq",
+   "nombre": "Nasdaq",
+   "valor": "22.617,73",
+   "cambio": "−10%",
+   "tendencia": "down"
+  },
+  {
    "id": "brent",
    "nombre": "Brent",
-   "valor": "91,2 $",
-   "tendencia": "down"
+   "valor": "92,57 $",
+   "tendencia": "flat"
   },
   {
    "id": "oro",
@@ -103,10 +117,10 @@
    "categoria": "EE. UU.",
    "emoji": "🇺🇸",
    "color": "#10B981",
-   "titulo": "Wall Street, camino de 7 días de caídas",
-   "texto": "El S&P 500 cerró el jueves en 7.176, un 5,1% menos que el viernes anterior. Este viernes por la tarde caía otro 2,2% y el Nasdaq un 3,6%.",
-   "dato": "7.176",
-   "cambio": "−5,1% (lun-jue)",
+   "titulo": "Wall Street: el S&P 500 cae un 8,6% en la semana",
+   "texto": "Siete días seguidos de caídas. El viernes el S&P 500 se hunde un 3,7% hasta 6.910,39 y entra en corrección. El Nasdaq pierde un 5,3% y ya baja en el año.",
+   "dato": "6.910,39",
+   "cambio": "−8,6%",
    "tendencia": "down",
    "valores": [
     "S&P 500",
@@ -115,42 +129,42 @@
    ],
    "grafica": {
     "valores": [
-     7561.67,
      7416.59,
      7340.53,
      7323.8,
-     7175.83
+     7175.83,
+     6910.39
     ],
     "etiquetas": [
-     "13 nov",
      "16 nov",
      "17 nov",
      "18 nov",
-     "19 nov"
+     "19 nov",
+     "20 nov"
     ]
    },
    "paraTi": "Si tienes un fondo del S&P 500 o del MSCI World (el de muchos planes de pensiones), es la parte que más baja. Suele pesar mucho en esos fondos.",
-   "fuente": "AP (The Philadelphia Inquirer)",
-   "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+   "fuente": "AP",
+   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
   },
   {
    "categoria": "La semana",
    "emoji": "🗓",
    "color": "#6366F1",
    "titulo": "Huye el dinero de la IA y los chips",
-   "texto": "Ni los buenos resultados de Nvidia frenaron las dudas sobre lo que rinde el gasto en IA. Nvidia cae cerca de un 15% en cinco días; el viernes, Broadcom (−11,5%) y AMD (−10,9%).",
+   "texto": "Ni los buenos resultados de Nvidia frenaron las dudas sobre lo que rinde el gasto en IA. El viernes, Nvidia cae un 13,8%, Micron un 13,9%, AMD un 13,3% y Broadcom un 12,1%.",
    "dato": "Nvidia",
-   "cambio": "≈ −15% semana",
+   "cambio": "−13,8% vie.",
    "tendencia": "down",
    "valores": [
     "Nvidia",
     "AMD",
     "Broadcom",
-    "Nasdaq"
+    "Micron"
    ],
    "paraTi": "Las grandes tecnológicas pesan mucho en los fondos indexados de EE. UU. y mundiales, así que esta caída se nota en ellos aunque no tengas acciones de IA.",
-   "fuente": "AP (The Philadelphia Inquirer)",
-   "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+   "fuente": "AP",
+   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
   },
   {
    "categoria": "La semana",
@@ -175,7 +189,7 @@
    "emoji": "🔎",
    "color": "#F59E0B",
    "titulo": "Anthropic, Evonik y Solaria",
-   "texto": "Anthropic salió a 83 $, cerró el jueves en 97,17 $ (+17%) y el viernes caía un 10%. Evonik se hundió un 17% al retirarse BASF. Solaria cayó más de un 5% el lunes y el jueves.",
+   "texto": "Anthropic salió a 83 $, cerró el jueves en 97,17 $ (+17%) y el viernes cayó un 9,1%, hasta 88,30 $. Evonik se hundió un 17% al retirarse BASF. Solaria cayó más de un 5% el lunes y el jueves.",
    "valores": [
     "Anthropic",
     "Evonik",
@@ -222,6 +236,10 @@
   {
    "nombre": "ad-hoc-news: Euro Stoxx 50",
    "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
+  },
+  {
+   "nombre": "AP: cierre de Wall Street del 20 nov",
+   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
   },
   {
    "nombre": "AP (The Philadelphia Inquirer): Wall Street 20 nov",
