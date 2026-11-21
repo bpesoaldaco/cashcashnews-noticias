@@ -34,3 +34,9 @@ avisa por correo al dueño del repositorio. Se cierra sola cuando vuelve a estar
   "opinion": "mailto:…"         // o https://… (formulario); vacío = «Compartir» (WhatsApp…)
 }
 ```
+
+## Versión web (iPhone)
+
+La carpeta `docs/` es la versión web de la app, para iPhone o cualquier navegador.
+Se publica con GitHub Pages (Settings → Pages → rama `main`, carpeta `/docs`) en
+https://bpesoaldaco.github.io/cashcashnews-noticias/ y lee las mismas noticias que la app de Android.
