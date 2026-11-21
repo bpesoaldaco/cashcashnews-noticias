@@ -1,0 +1,945 @@
+{
+ "version": 1,
+ "personas": [
+  {
+   "id": "buffett",
+   "nombre": "Warren Buffett",
+   "emoji": "🧓",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1930–",
+   "resumen": "El inversor más famoso del mundo: comprar buenas empresas y quedárselas décadas.",
+   "quien": "Construyó Berkshire Hathaway, una antigua textil que convirtió desde 1965 en un conglomerado dueño de aseguradoras, ferrocarriles y energéticas, además de grandes paquetes de acciones como Apple, Coca-Cola o American Express. Dejó el cargo de consejero delegado a finales de 2025 en manos de Greg Abel.",
+   "metodo": "Inversión en valor (value investing). Busca negocios que entiende, con una ventaja duradera sobre la competencia (lo que llama «foso»), buenos directivos y un precio razonable. Después, paciencia: su plazo favorito es «para siempre».",
+   "como_trabaja": "Desde Omaha, lejos de Wall Street. Dedica gran parte del día a leer informes anuales y prensa, tiene pocas reuniones y casi no usa ordenador para invertir. Cada año explica sus decisiones, incluidos sus errores, en una carta a los accionistas.",
+   "claves": [
+    "Invierte solo en lo que entiendes (tu «círculo de competencia»).",
+    "El precio es lo que pagas; el valor es lo que recibes.",
+    "Las caídas del mercado son oportunidades si la empresa sigue siendo buena.",
+    "El interés compuesto necesita tiempo: él ganó la mayor parte de su fortuna después de los 60 años."
+   ],
+   "cita": "Sé temeroso cuando otros son codiciosos, y codicioso cuando otros son temerosos.",
+   "cuidado": "Sus métodos funcionan con mucho capital y mucha paciencia. Durante años puede quedarse por detrás del mercado, y él mismo recomienda a la mayoría de la gente un fondo indexado barato.",
+   "libros": [
+    "Cartas a los accionistas de Berkshire Hathaway",
+    "«Buffett: la biografía», de Roger Lowenstein"
+   ],
+   "valores": [
+    "Berkshire Hathaway",
+    "Apple",
+    "Coca-Cola"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Cartas de Berkshire Hathaway",
+     "url": "https://www.berkshirehathaway.com/letters/letters.html"
+    },
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Warren_Buffett"
+    }
+   ]
+  },
+  {
+   "id": "munger",
+   "nombre": "Charlie Munger",
+   "emoji": "🦉",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1924–2023",
+   "resumen": "El socio de Buffett y el gran defensor de pensar con «modelos mentales».",
+   "quien": "Abogado de formación, fue vicepresidente de Berkshire Hathaway durante décadas y la persona que más influyó en Buffett. También presidió Daily Journal.",
+   "metodo": "Convenció a Buffett de que es mejor comprar una empresa maravillosa a un precio justo que una empresa normal a un precio de ganga. Usa ideas de muchas disciplinas (psicología, biología, matemáticas) para analizar un negocio y evitar errores.",
+   "como_trabaja": "Leía muchísimo, pensaba mucho y actuaba poco: pocas inversiones, muy concentradas y mantenidas durante muchos años. Le daba más importancia a evitar estupideces que a buscar genialidades.",
+   "claves": [
+    "Invierte el problema: pregúntate qué te haría fracasar y evítalo.",
+    "Conoce los sesgos psicológicos que te engañan.",
+    "Pocas buenas ideas bastan para toda una vida.",
+    "La paciencia es una ventaja competitiva."
+   ],
+   "cita": "Dime dónde voy a morir, que así no iré nunca allí.",
+   "cuidado": "Concentrar en pocas empresas exige conocerlas muy bien. Si te equivocas, el golpe es mayor que con una cartera diversificada.",
+   "libros": [
+    "«Poor Charlie's Almanack» (discursos de Munger)"
+   ],
+   "valores": [
+    "Berkshire Hathaway"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Charlie_Munger"
+    }
+   ]
+  },
+  {
+   "id": "graham",
+   "nombre": "Benjamin Graham",
+   "emoji": "📘",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1894–1976",
+   "resumen": "El padre del análisis fundamental y profesor de Buffett.",
+   "quien": "Gestor de fondos y profesor en la Universidad de Columbia, donde tuvo como alumno a Warren Buffett. Escribió los dos libros fundacionales de la inversión en valor.",
+   "metodo": "Calcular lo que vale una empresa a partir de sus números y comprar solo cuando cotiza bastante por debajo, dejando un «margen de seguridad» por si te equivocas.",
+   "como_trabaja": "Analizaba balances con disciplina y diversificaba en muchas acciones baratas. Inventó la figura del «Señor Mercado»: un socio maníaco-depresivo que cada día te ofrece un precio distinto; puedes aprovecharlo, pero no hacerle caso.",
+   "claves": [
+    "Distingue entre invertir y especular.",
+    "Exige siempre un margen de seguridad.",
+    "Usa los cambios de humor del mercado a tu favor.",
+    "El peor enemigo del inversor suele ser él mismo."
+   ],
+   "cita": "A corto plazo el mercado es una máquina de votar, pero a largo plazo es una máquina de pesar.",
+   "cuidado": "Las «gangas» de Graham eran más fáciles de encontrar en su época. Hoy los datos están al alcance de todos y lo barato a veces lo es por un buen motivo.",
+   "libros": [
+    "«El inversor inteligente» (1949)",
+    "«Security Analysis», con David Dodd (1934)"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Benjamin_Graham"
+    }
+   ]
+  },
+  {
+   "id": "lynch",
+   "nombre": "Peter Lynch",
+   "emoji": "🛒",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1944–",
+   "resumen": "«Invierte en lo que conoces»: el gestor que encontraba ideas en el centro comercial.",
+   "quien": "Dirigió el fondo Magellan de Fidelity entre 1977 y 1990, con una rentabilidad media cercana al 29 % anual, una de las mejores de la historia de los fondos.",
+   "metodo": "Busca empresas en crecimiento que puedas entender en tu vida diaria (lo que compras, lo que usa tu familia) y luego estudia sus números. Usaba el PEG (PER dividido entre el crecimiento) para no pagar de más por el crecimiento.",
+   "como_trabaja": "Visitaba cientos de empresas al año, hablaba con directivos, empleados y clientes, y tenía cientos de valores en cartera a la vez. Llamaba «tenbaggers» a las acciones que multiplican por diez.",
+   "claves": [
+    "Tu experiencia como consumidor es una ventaja… si después haces los deberes.",
+    "Conoce lo que tienes y por qué lo tienes.",
+    "No intentes adivinar el mercado: céntrate en las empresas.",
+    "Las caídas fuertes son normales; prepárate para ellas."
+   ],
+   "cita": "Conoce lo que posees y por qué lo posees.",
+   "cuidado": "Que te guste un producto no significa que la acción esté barata. Lynch siempre insistía en mirar el balance y la valoración.",
+   "libros": [
+    "«Un paso por delante de Wall Street»",
+    "«Batiendo a Wall Street»"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Peter_Lynch"
+    }
+   ]
+  },
+  {
+   "id": "bogle",
+   "nombre": "John Bogle",
+   "emoji": "🧺",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1929–2019",
+   "resumen": "Inventor del fondo indexado para el pequeño ahorrador.",
+   "quien": "Fundó Vanguard en 1975 y al año siguiente lanzó el primer fondo indexado para particulares, que copiaba al S&P 500 en vez de intentar batirlo. Hoy Vanguard es una de las mayores gestoras del mundo.",
+   "metodo": "En lugar de buscar las mejores acciones, compra todo el mercado con un fondo indexado muy barato y mantenlo durante décadas. A largo plazo, la mayoría de los gestores activos no baten al índice después de comisiones.",
+   "como_trabaja": "Fue un defensor incansable de las comisiones bajas. Vanguard es propiedad de sus propios fondos, y por tanto de sus partícipes, para que el beneficio vuelva a ellos en forma de costes más bajos.",
+   "claves": [
+    "Las comisiones son lo único que controlas: redúcelas.",
+    "Diversifica comprando el mercado entero.",
+    "No intentes adivinar cuándo entrar y salir.",
+    "El tiempo en el mercado importa más que acertar el momento."
+   ],
+   "cita": "No busques la aguja en el pajar. Compra el pajar.",
+   "cuidado": "Indexarse no evita las caídas: si el mercado baja un 30 %, tu fondo también. Funciona si aguantas a largo plazo.",
+   "libros": [
+    "«El pequeño libro para invertir con sentido común»"
+   ],
+   "valores": [
+    "S&P 500"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/John_C._Bogle"
+    }
+   ]
+  },
+  {
+   "id": "marks",
+   "nombre": "Howard Marks",
+   "emoji": "✉️",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1946–",
+   "resumen": "El autor de los memos más leídos de Wall Street, experto en riesgo y ciclos.",
+   "quien": "Cofundador de Oaktree Capital Management (1995), especializada en deuda de empresas en dificultades. Buffett ha dicho que, cuando ve un memo de Marks en el correo, es lo primero que abre.",
+   "metodo": "Entender en qué punto del ciclo está el mercado (euforia o miedo) y ajustar el riesgo. Defiende el «pensamiento de segundo nivel»: no basta con saber que una empresa es buena, hay que saber si el precio ya lo refleja.",
+   "como_trabaja": "Escribe desde 1990 cartas (memos) a sus clientes sobre psicología, riesgo y ciclos, todas publicadas gratis en la web de Oaktree.",
+   "claves": [
+    "El riesgo es la probabilidad de perder, no la volatilidad.",
+    "Piensa en segundo nivel: ¿qué espera ya el mercado?",
+    "No puedes predecir, pero puedes prepararte.",
+    "Los mejores momentos para comprar suelen ser los más incómodos."
+   ],
+   "cita": "No puedes predecir. Puedes prepararte.",
+   "cuidado": "La deuda en dificultades es un terreno de profesionales: es poco líquida y difícil de valorar.",
+   "libros": [
+    "«Lo más importante»",
+    "«Dominando el ciclo del mercado»"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Memos de Howard Marks (Oaktree)",
+     "url": "https://www.oaktreecapital.com/insights/memos"
+    },
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Howard_Marks_(inversor)"
+    }
+   ]
+  },
+  {
+   "id": "dalio",
+   "nombre": "Ray Dalio",
+   "emoji": "⚙️",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1949–",
+   "resumen": "Creó el mayor hedge fund del mundo con un sistema de «principios».",
+   "quien": "Fundó Bridgewater Associates en 1975 desde su apartamento. Llegó a ser el mayor hedge fund del mundo por activos gestionados.",
+   "metodo": "Macro global: invierte según cómo cree que evolucionarán el crecimiento, la inflación y los tipos de interés en todo el mundo. Creó la cartera «All Weather», que reparte el riesgo entre activos que se comportan bien en entornos distintos.",
+   "como_trabaja": "Con «transparencia radical»: las reuniones se graban, cualquier empleado puede criticar a otro y las decisiones se apoyan en reglas escritas y en sistemas informáticos.",
+   "claves": [
+    "Diversifica entre activos que no se mueven a la vez.",
+    "Escribe tus reglas de decisión y revísalas.",
+    "Aprende de los errores: dolor + reflexión = progreso.",
+    "Entiende los ciclos de deuda."
+   ],
+   "cita": "Dolor + reflexión = progreso.",
+   "cuidado": "La cultura de Bridgewater es muy exigente y polémica, y sus previsiones macro no siempre aciertan.",
+   "libros": [
+    "«Principios»",
+    "«Cómo funciona la máquina económica» (vídeo gratuito)"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Principles",
+     "url": "https://www.principles.com/"
+    },
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Ray_Dalio"
+    }
+   ]
+  },
+  {
+   "id": "fisher",
+   "nombre": "Philip Fisher",
+   "emoji": "🔍",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1907–2004",
+   "resumen": "Pionero de la inversión en crecimiento y del método «scuttlebutt».",
+   "quien": "Gestor en San Francisco durante más de 70 años. Su libro de 1958 influyó mucho en Buffett, que dijo ser «85 % Graham y 15 % Fisher».",
+   "metodo": "Busca empresas excelentes con años de crecimiento por delante, buena dirección e inversión en innovación, y quédate con ellas mucho tiempo. Mantuvo Motorola durante décadas.",
+   "como_trabaja": "Con el «scuttlebutt» (rumorología): antes de invertir, habla con clientes, proveedores, extrabajadores y competidores de la empresa para conocerla de verdad.",
+   "claves": [
+    "Investiga más allá de los números.",
+    "Vende poco: las grandes empresas compensan esperar.",
+    "La calidad de la dirección es clave.",
+    "Tener pocas empresas que conoces bien es mejor que muchas que no."
+   ],
+   "cita": "El mercado está lleno de gente que conoce el precio de todo, pero el valor de nada.",
+   "cuidado": "Pagar mucho por el crecimiento puede salir caro si la empresa decepciona.",
+   "libros": [
+    "«Acciones ordinarias y beneficios extraordinarios» (1958)"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Philip_Arthur_Fisher"
+    }
+   ]
+  },
+  {
+   "id": "templeton",
+   "nombre": "John Templeton",
+   "emoji": "🌍",
+   "tipo": "inversor",
+   "pais": "EE. UU. / Reino Unido",
+   "vida": "1912–2008",
+   "resumen": "El gran inversor «a la contra» y pionero de invertir en todo el mundo.",
+   "quien": "En 1939, con Europa entrando en guerra, pidió prestado para comprar 100 acciones de cada empresa de la Bolsa de Nueva York que cotizaba por debajo de 1 dólar. Años después fundó los fondos Templeton.",
+   "metodo": "Comprar en el momento de máximo pesimismo y buscar oportunidades fuera de su país cuando casi nadie lo hacía (Japón en los años 60, por ejemplo).",
+   "como_trabaja": "Vivió en las Bahamas, lejos del ruido de Wall Street, y era muy disciplinado y frugal.",
+   "claves": [
+    "El mejor momento para comprar es cuando todos venden.",
+    "Busca gangas en todo el mundo, no solo en casa.",
+    "Diversifica.",
+    "«Esta vez es diferente» son las palabras más caras en inversión."
+   ],
+   "cita": "Los mercados alcistas nacen en el pesimismo, crecen en el escepticismo, maduran en el optimismo y mueren en la euforia.",
+   "cuidado": "Ir a la contra exige aguantar meses o años en los que parece que te equivocas.",
+   "libros": [
+    "«Invertir a la manera de Templeton», de Lauren Templeton y Scott Phillips"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/John_Templeton"
+    }
+   ]
+  },
+  {
+   "id": "parames",
+   "nombre": "Francisco García Paramés",
+   "emoji": "🇪🇸",
+   "tipo": "inversor",
+   "pais": "España",
+   "vida": "1963–",
+   "resumen": "El gestor español más conocido, llamado a menudo «el Warren Buffett español».",
+   "quien": "Gestionó los fondos de Bestinver durante unos 25 años con muy buenos resultados. En 2017 lanzó su propia gestora, Cobas Asset Management.",
+   "metodo": "Inversión en valor: empresas infravaloradas de todo el mundo, con mucha paciencia. Le influye la Escuela Austriaca de economía.",
+   "como_trabaja": "Equipo pequeño, mucha lectura y análisis propio. Escribe cartas trimestrales a sus partícipes en las que explica sus inversiones.",
+   "claves": [
+    "Piensa a largo plazo, al menos 5 años.",
+    "Lee mucho y forma tu propio criterio.",
+    "Las épocas malas del value pueden durar años.",
+    "Invierte tu propio dinero en lo mismo que tus clientes."
+   ],
+   "cita": "",
+   "cuidado": "Los fondos de Cobas pasaron varios años difíciles tras su lanzamiento: el value puede quedarse atrás mucho tiempo.",
+   "libros": [
+    "«Invirtiendo a largo plazo» (2016)"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Francisco_García_Paramés"
+    }
+   ]
+  },
+  {
+   "id": "burry",
+   "nombre": "Michael Burry",
+   "emoji": "🩺",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1971–",
+   "resumen": "El médico que apostó contra las hipotecas antes de la crisis de 2008.",
+   "quien": "Médico de formación, empezó escribiendo sobre inversión en foros y fundó Scion Capital en 2000. Su apuesta contra las hipotecas subprime aparece en el libro y la película «La gran apuesta».",
+   "metodo": "Análisis profundo e independiente, muchas veces contra la opinión general. Entre 2005 y 2007 compró seguros contra el impago de hipotecas (CDS) porque leyó los detalles que otros no leían.",
+   "como_trabaja": "Solo, leyendo documentos durante horas. Es conocido por su carácter reservado y sus mensajes crípticos en redes.",
+   "claves": [
+    "Lee la letra pequeña: ahí está la información.",
+    "Tener razón demasiado pronto se parece mucho a equivocarse.",
+    "Ten tu propio criterio, aunque sea incómodo."
+   ],
+   "cita": "",
+   "cuidado": "Sus clientes casi se rebelan antes de que la apuesta saliera bien. Y muchas de sus advertencias posteriores no se cumplieron.",
+   "libros": [
+    "«La gran apuesta», de Michael Lewis"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Michael_Burry"
+    }
+   ]
+  },
+  {
+   "id": "wood",
+   "nombre": "Cathie Wood",
+   "emoji": "🚀",
+   "tipo": "inversor",
+   "pais": "EE. UU.",
+   "vida": "1955–",
+   "resumen": "La gestora de la «innovación disruptiva»: grandes subidas y grandes caídas.",
+   "quien": "Fundó ARK Invest en 2014, con ETF de gestión activa centrados en tecnología: inteligencia artificial, coches autónomos, genómica o criptomonedas. Se hizo famosa por su apuesta temprana por Tesla.",
+   "metodo": "Invertir en empresas que, según su análisis, cambiarán industrias enteras, aunque hoy no den beneficios. Piensa a cinco años vista.",
+   "como_trabaja": "Publica cada día las compras y ventas de sus fondos y comparte sus análisis gratis, algo poco habitual en el sector.",
+   "claves": [
+    "La innovación puede generar enormes rentabilidades… y enormes pérdidas.",
+    "Ten claro tu horizonte temporal.",
+    "La concentración aumenta la volatilidad."
+   ],
+   "cita": "",
+   "cuidado": "Su fondo principal subió con fuerza en 2020 y cayó muchísimo en 2021 y 2022. Es un buen ejemplo de lo que significa el riesgo.",
+   "libros": [
+    "Informes «Big Ideas» de ARK (gratuitos)"
+   ],
+   "valores": [
+    "Tesla"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Cathie_Wood"
+    }
+   ]
+  },
+  {
+   "id": "livermore",
+   "nombre": "Jesse Livermore",
+   "emoji": "🎩",
+   "tipo": "trader",
+   "pais": "EE. UU.",
+   "vida": "1877–1940",
+   "resumen": "El especulador legendario que ganó fortunas en los cracs de 1907 y 1929.",
+   "quien": "Empezó de adolescente en las «bucket shops» (casas de apuestas sobre cotizaciones). Ganó enormes sumas vendiendo en corto antes del pánico de 1907 y del crac de 1929, pero se arruinó varias veces.",
+   "metodo": "Seguir la tendencia: comprar lo que sube con fuerza, añadir posición solo cuando la operación va bien (piramidar) y cortar rápido las pérdidas. Buscaba la «línea de menor resistencia».",
+   "como_trabaja": "Operaba en silencio, solo, estudiando el movimiento de los precios y del volumen.",
+   "claves": [
+    "Corta las pérdidas pronto y deja correr las ganancias.",
+    "No promedies a la baja una operación que va mal.",
+    "La paciencia para esperar la operación clara es clave.",
+    "La psicología del mercado se repite."
+   ],
+   "cita": "No hay nada nuevo en Wall Street. Lo que pasa hoy ya pasó antes y volverá a pasar.",
+   "cuidado": "Su vida es también una advertencia: el apalancamiento y saltarse sus propias reglas le llevaron a la ruina en varias ocasiones.",
+   "libros": [
+    "«Recuerdos de un operador de bolsa», de Edwin Lefèvre (1923)"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Jesse_Livermore"
+    }
+   ]
+  },
+  {
+   "id": "soros",
+   "nombre": "George Soros",
+   "emoji": "💷",
+   "tipo": "trader",
+   "pais": "Hungría / EE. UU.",
+   "vida": "1930–",
+   "resumen": "«El hombre que quebró el Banco de Inglaterra».",
+   "quien": "Fundó el Quantum Fund con Jim Rogers en 1973. En 1992 apostó contra la libra esterlina y ganó alrededor de 1.000 millones de dólares cuando Reino Unido tuvo que salir del Sistema Monetario Europeo (el «Miércoles Negro»).",
+   "metodo": "Macro global y su teoría de la «reflexividad»: las expectativas de los inversores cambian la realidad, que a su vez cambia las expectativas. Así se forman burbujas y desplomes que se pueden aprovechar.",
+   "como_trabaja": "Apuestas grandes cuando tiene mucha convicción, pero cambia de opinión rápido cuando se equivoca.",
+   "claves": [
+    "Lo importante no es acertar siempre, sino cuánto ganas cuando aciertas y cuánto pierdes cuando fallas.",
+    "Los mercados pueden estar equivocados durante mucho tiempo.",
+    "Admitir errores pronto es una fortaleza."
+   ],
+   "cita": "No importa si aciertas o te equivocas, sino cuánto ganas cuando aciertas y cuánto pierdes cuando te equivocas.",
+   "cuidado": "Las apuestas macro con apalancamiento pueden generar pérdidas enormes, y su figura es muy polémica por su actividad política.",
+   "libros": [
+    "«La alquimia de las finanzas»"
+   ],
+   "valores": [
+    "EUR/USD"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/George_Soros"
+    }
+   ]
+  },
+  {
+   "id": "druckenmiller",
+   "nombre": "Stanley Druckenmiller",
+   "emoji": "🎯",
+   "tipo": "trader",
+   "pais": "EE. UU.",
+   "vida": "1953–",
+   "resumen": "Tres décadas de rentabilidades altas, según se informa sin ningún año en pérdidas.",
+   "quien": "Fundó Duquesne Capital en 1981 y fue gestor principal del Quantum Fund de Soros, donde diseñó la apuesta contra la libra de 1992. Cerró su fondo a terceros en 2010.",
+   "metodo": "Macro: sigue de cerca a los bancos centrales y la liquidez, y mira dónde estará la economía dentro de 12 a 18 meses, no dónde está hoy.",
+   "como_trabaja": "Concentra mucho capital cuando ve una oportunidad clara y reduce rápido si el mercado le lleva la contraria.",
+   "claves": [
+    "Preserva el capital y busca pocas apuestas muy grandes.",
+    "La liquidez de los bancos centrales mueve los mercados.",
+    "Si te equivocas, sal sin dudar."
+   ],
+   "cita": "La forma de conseguir buenos resultados a largo plazo es preservar el capital y acertar de lleno pocas veces.",
+   "cuidado": "Concentrar tanto exige una gestión del riesgo de profesional.",
+   "libros": [
+    "Capítulo sobre él en «The New Market Wizards», de Jack Schwager"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Stanley_Druckenmiller"
+    }
+   ]
+  },
+  {
+   "id": "tudorjones",
+   "nombre": "Paul Tudor Jones",
+   "emoji": "🛡️",
+   "tipo": "trader",
+   "pais": "EE. UU.",
+   "vida": "1954–",
+   "resumen": "Anticipó el Lunes Negro de 1987 y lo convirtió en una gran ganancia.",
+   "quien": "Fundó Tudor Investment Corporation en 1980. En octubre de 1987, el mes del Lunes Negro, su fondo ganó en torno a un 60 % apostando a la caída.",
+   "metodo": "Macro y análisis técnico, con obsesión por la gestión del riesgo. Usa la media móvil de 200 días como filtro: si el precio está por debajo, no quiere estar dentro.",
+   "como_trabaja": "Juega a la defensiva: piensa primero en lo que puede perder. Estudia los paralelismos entre el mercado actual y crisis pasadas.",
+   "claves": [
+    "Piensa primero en cuánto puedes perder, no en cuánto puedes ganar.",
+    "No seas un héroe ni dejes que el ego decida.",
+    "Reduce posición cuando las cosas van mal."
+   ],
+   "cita": "No seas un héroe. No tengas ego. Cuestiónate siempre a ti mismo y tu capacidad.",
+   "cuidado": "El análisis técnico funciona como herramienta de riesgo, no como bola de cristal.",
+   "libros": [
+    "Documental «Trader» (1987)",
+    "«Market Wizards», de Jack Schwager"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Paul_Tudor_Jones"
+    }
+   ]
+  },
+  {
+   "id": "simons",
+   "nombre": "Jim Simons",
+   "emoji": "🧮",
+   "tipo": "trader",
+   "pais": "EE. UU.",
+   "vida": "1938–2024",
+   "resumen": "El matemático que «resolvió el mercado» con algoritmos.",
+   "quien": "Matemático de prestigio y descifrador de códigos, fundó Renaissance Technologies. Su fondo Medallion es considerado el más rentable de la historia: según el libro de Gregory Zuckerman, en torno a un 66 % anual antes de comisiones entre 1988 y 2018.",
+   "metodo": "Trading cuantitativo: modelos matemáticos que buscan pequeños patrones repetidos en enormes cantidades de datos y ejecutan miles de operaciones.",
+   "como_trabaja": "Contrataba matemáticos, físicos y expertos en reconocimiento de voz, no financieros. Los modelos mandan y nadie los anula por intuición.",
+   "claves": [
+    "Los datos y la estadística pueden superar a la intuición.",
+    "Rodéate de gente más lista que tú.",
+    "No anules el sistema por miedo o euforia."
+   ],
+   "cita": "No anulamos los modelos.",
+   "cuidado": "Medallion está cerrado a inversores externos y no se puede copiar: sus métodos son secretos y necesitan tecnología enorme.",
+   "libros": [
+    "«El hombre que resolvió el mercado», de Gregory Zuckerman"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/James_Harris_Simons"
+    }
+   ]
+  },
+  {
+   "id": "dennis",
+   "nombre": "Richard Dennis y las «tortugas»",
+   "emoji": "🐢",
+   "tipo": "trader",
+   "pais": "EE. UU.",
+   "vida": "1949–",
+   "resumen": "El experimento que demostró que se puede enseñar a operar con reglas.",
+   "quien": "Trader de materias primas en Chicago. En 1983 apostó con su socio William Eckhardt a que podía enseñar a operar a gente sin experiencia. Formó a un grupo de alumnos, «las tortugas», y varios ganaron mucho dinero.",
+   "metodo": "Seguimiento de tendencia con reglas fijas: comprar cuando el precio supera su máximo de las últimas semanas, vender cuando rompe el mínimo, y un tamaño de posición calculado según la volatilidad.",
+   "como_trabaja": "Todo estaba escrito: cuándo entrar, cuánto arriesgar y cuándo salir. La clave era seguir las reglas aunque doliera.",
+   "claves": [
+    "Un sistema con reglas claras evita decisiones emocionales.",
+    "El tamaño de la posición importa tanto como la entrada.",
+    "Las rachas de pérdidas forman parte del sistema."
+   ],
+   "cita": "",
+   "cuidado": "El propio Dennis sufrió grandes pérdidas a finales de los 80. Ningún sistema funciona en todas las épocas.",
+   "libros": [
+    "«Way of the Turtle», de Curtis Faith",
+    "«The Complete TurtleTrader», de Michael Covel"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Richard_Dennis"
+    }
+   ]
+  },
+  {
+   "id": "taleb",
+   "nombre": "Nassim Taleb",
+   "emoji": "🦢",
+   "tipo": "trader",
+   "pais": "Líbano / EE. UU.",
+   "vida": "1960–",
+   "resumen": "Extrader de opciones y autor de «El cisne negro».",
+   "quien": "Trabajó como trader de opciones y después se dedicó a escribir y enseñar sobre el azar y el riesgo. Asesora a Universa Investments, de Mark Spitznagel, que se protege contra desplomes.",
+   "metodo": "Los sucesos raros e imprevisibles («cisnes negros») mueven la historia y los mercados. Propone estar protegido contra ellos y tener una pequeña exposición a sucesos muy favorables (estrategia de la «haltera»).",
+   "como_trabaja": "Desconfía de los modelos que suponen que el futuro se parecerá al pasado. Le interesa más sobrevivir a un desastre que ganar un poco más cada año.",
+   "claves": [
+    "Lo improbable pasa más de lo que crees.",
+    "Evita la ruina: si pierdes todo, no hay segunda oportunidad.",
+    "Busca situaciones con poco que perder y mucho que ganar."
+   ],
+   "cita": "",
+   "cuidado": "Protegerse contra desplomes cuesta dinero en los años tranquilos.",
+   "libros": [
+    "«El cisne negro»",
+    "«Antifrágil»",
+    "«¿Existe la suerte?»"
+   ],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
+    }
+   ]
+  },
+  {
+   "id": "ortega",
+   "nombre": "Amancio Ortega",
+   "emoji": "👗",
+   "tipo": "empresario",
+   "pais": "España",
+   "vida": "1936–",
+   "resumen": "Fundador de Inditex (Zara), la mayor empresa textil del mundo.",
+   "quien": "Empezó como dependiente en una camisería de A Coruña y abrió la primera tienda Zara en 1975. Inditex, que incluye Zara, Pull&Bear, Massimo Dutti o Bershka, salió a bolsa en 2001. Es la mayor fortuna de España.",
+   "metodo": "Integración vertical: Inditex diseña, fabrica buena parte cerca de España y distribuye ella misma. Así lleva una prenda nueva a las tiendas en pocas semanas, según lo que piden los clientes (la «moda rápida»).",
+   "como_trabaja": "Muy discreto: apenas da entrevistas. Invierte los dividendos que recibe de Inditex en inmuebles a través de su sociedad, Pontegadea.",
+   "claves": [
+    "Escuchar al cliente y reaccionar rápido.",
+    "Controlar la cadena de suministro es una ventaja.",
+    "Reinvertir con paciencia y perfil bajo."
+   ],
+   "cita": "",
+   "cuidado": "La moda rápida recibe críticas por su impacto medioambiental y laboral, un riesgo que el mercado vigila.",
+   "libros": [
+    "«Así es Amancio Ortega», de Covadonga O'Shea"
+   ],
+   "valores": [
+    "Inditex"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Amancio_Ortega"
+    }
+   ]
+  },
+  {
+   "id": "roig",
+   "nombre": "Juan Roig",
+   "emoji": "🛍️",
+   "tipo": "empresario",
+   "pais": "España",
+   "vida": "1949–",
+   "resumen": "Presidente de Mercadona, la mayor cadena de supermercados de España.",
+   "quien": "Tomó el control del negocio familiar en Valencia en 1981 y lo convirtió en líder del sector en España, también presente en Portugal. Mercadona no cotiza en bolsa.",
+   "metodo": "El «Modelo de Calidad Total»: el cliente (al que llaman «el Jefe»), los trabajadores, los proveedores, la sociedad y el capital, en ese orden. Desde 1993 aplica «siempre precios bajos» en vez de ofertas.",
+   "como_trabaja": "Relación estable con proveedores, apuesta por la marca propia y reinversión de casi todo el beneficio. También impulsa emprendedores con Lanzadera.",
+   "claves": [
+    "Un modelo sencillo y explicado a todos.",
+    "Primero el cliente, luego el beneficio.",
+    "Pensar a largo plazo sin la presión de la bolsa."
+   ],
+   "cita": "",
+   "cuidado": "Al no cotizar, sus datos dependen de lo que publica la propia empresa.",
+   "libros": [],
+   "valores": [],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Juan_Roig"
+    }
+   ]
+  },
+  {
+   "id": "bezos",
+   "nombre": "Jeff Bezos",
+   "emoji": "📦",
+   "tipo": "empresario",
+   "pais": "EE. UU.",
+   "vida": "1964–",
+   "resumen": "Convirtió una librería online en Amazon pensando siempre a largo plazo.",
+   "quien": "Fundó Amazon en 1994 en un garaje de Seattle. Hoy es una de las mayores empresas del mundo, con el comercio electrónico y la nube (AWS) como grandes negocios. También fundó Blue Origin.",
+   "metodo": "Obsesión por el cliente y visión a largo plazo: en su primera carta a los accionistas (1997) avisó de que sacrificaría beneficios para crecer y ganar cuota.",
+   "como_trabaja": "Prohibió las presentaciones de diapositivas en las reuniones: se empieza leyendo en silencio un memo de seis páginas. Defiende la regla de los «equipos de dos pizzas» y la mentalidad de «Día 1».",
+   "claves": [
+    "Céntrate en el cliente, no en la competencia.",
+    "Acepta perder dinero hoy si construyes algo mayor.",
+    "Escribir obliga a pensar con claridad."
+   ],
+   "cita": "Tu margen es mi oportunidad.",
+   "cuidado": "Amazon pasó años sin apenas beneficios: no todas las empresas que «invierten para crecer» acaban como Amazon.",
+   "libros": [
+    "Cartas de Bezos a los accionistas de Amazon",
+    "«The Everything Store», de Brad Stone"
+   ],
+   "valores": [
+    "Amazon"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Jeff_Bezos"
+    }
+   ]
+  },
+  {
+   "id": "jobs",
+   "nombre": "Steve Jobs",
+   "emoji": "🍏",
+   "tipo": "empresario",
+   "pais": "EE. UU.",
+   "vida": "1955–2011",
+   "resumen": "Cofundador de Apple y maestro del producto y la marca.",
+   "quien": "Fundó Apple en 1976 con Steve Wozniak. Fue apartado en 1985, creó NeXT, dirigió Pixar y volvió a una Apple casi en quiebra en 1997. Después llegaron el iPod, el iPhone (2007) y el iPad.",
+   "metodo": "Pocos productos, muy cuidados, que integran hardware y software. Diseño y experiencia de usuario por encima de todo.",
+   "como_trabaja": "Muy exigente y centrado en los detalles. A su vuelta recortó la gama de productos de Apple a unos pocos.",
+   "claves": [
+    "Enfocarse es decir que no a muchas cosas.",
+    "Una marca fuerte permite precios altos.",
+    "El ecosistema retiene a los clientes."
+   ],
+   "cita": "Enfocarse consiste en decir que no.",
+   "cuidado": "Su estilo de liderazgo era muy duro, y el éxito de Apple también dependió de un gran equipo.",
+   "libros": [
+    "«Steve Jobs», de Walter Isaacson"
+   ],
+   "valores": [
+    "Apple"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Steve_Jobs"
+    }
+   ]
+  },
+  {
+   "id": "musk",
+   "nombre": "Elon Musk",
+   "emoji": "⚡",
+   "tipo": "empresario",
+   "pais": "Sudáfrica / EE. UU.",
+   "vida": "1971–",
+   "resumen": "Tesla, SpaceX y la empresa como apuesta de alto riesgo.",
+   "quien": "Cofundó X.com, que acabó en PayPal, y con lo ganado entró en Tesla y fundó SpaceX. También está detrás de xAI y Neuralink, y compró Twitter (ahora X).",
+   "metodo": "Razonar desde «primeros principios»: descomponer un problema en lo básico (por ejemplo, cuánto cuestan los materiales de un cohete) en vez de copiar lo que hacen otros.",
+   "como_trabaja": "Ritmo de trabajo extremo, objetivos muy ambiciosos y fabricación propia de muchas piezas.",
+   "claves": [
+    "Cuestiona cómo se hacen las cosas.",
+    "Las metas ambiciosas pueden atraer talento y capital.",
+    "La ejecución importa más que la idea."
+   ],
+   "cita": "",
+   "cuidado": "Sus plazos suelen retrasarse, sus mensajes mueven el precio de Tesla y la acción es muy volátil. Es un ejemplo de por qué no invertir solo por la fama del fundador.",
+   "libros": [
+    "«Elon Musk», de Walter Isaacson"
+   ],
+   "valores": [
+    "Tesla"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Elon_Musk"
+    }
+   ]
+  },
+  {
+   "id": "rockefeller",
+   "nombre": "John D. Rockefeller",
+   "emoji": "🛢️",
+   "tipo": "empresario",
+   "pais": "EE. UU.",
+   "vida": "1839–1937",
+   "resumen": "Fundador de Standard Oil y, según muchas estimaciones, el hombre más rico de la historia moderna.",
+   "quien": "Fundó Standard Oil en 1870 y llegó a controlar en torno al 90 % del refinado de petróleo de EE. UU. En 1911 el Tribunal Supremo ordenó dividirla por monopolio; de ella salieron empresas como las actuales ExxonMobil y Chevron.",
+   "metodo": "Eficiencia y escala: control obsesivo de costes, integración de toda la cadena y compra de competidores.",
+   "como_trabaja": "Contabilidad meticulosa: anotaba cada gasto desde joven. Después dedicó gran parte de su fortuna a la filantropía.",
+   "claves": [
+    "Controla los costes al céntimo.",
+    "La escala da poder de negociación.",
+    "Los monopolios acaban atrayendo a los reguladores."
+   ],
+   "cita": "",
+   "cuidado": "Sus métodos incluían prácticas anticompetitivas que dieron origen a las leyes antimonopolio modernas.",
+   "libros": [
+    "«Titan», de Ron Chernow"
+   ],
+   "valores": [
+    "Brent"
+   ],
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/John_D._Rockefeller"
+    }
+   ]
+  }
+ ],
+ "historias": [
+  {
+   "id": "tulipanes",
+   "titulo": "La tulipomanía",
+   "emoji": "🌷",
+   "fecha": "1637",
+   "lugar": "Países Bajos",
+   "resumen": "Considerada a menudo la primera burbuja especulativa.",
+   "que_paso": "En plena Edad de Oro neerlandesa, los bulbos de tulipán raros se compraban y revendían a precios cada vez más altos, con contratos para entregas futuras. En febrero de 1637 los compradores desaparecieron de golpe y los precios se hundieron.",
+   "leccion": "Cuando se compra algo solo porque «mañana alguien pagará más», el precio puede desplomarse en cuanto dejan de entrar compradores. Los historiadores discuten hoy cuán grave fue en realidad.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Tulipomanía"
+    }
+   ]
+  },
+  {
+   "id": "crac29",
+   "titulo": "El crac del 29",
+   "emoji": "📉",
+   "fecha": "Octubre de 1929",
+   "lugar": "EE. UU.",
+   "resumen": "El desplome que abrió la puerta a la Gran Depresión.",
+   "que_paso": "Tras años de subidas con mucho dinero prestado, la bolsa de Nueva York se hundió el «Jueves Negro» (24 de octubre) y el «Martes Negro» (29 de octubre). El Dow Jones llegó a perder cerca del 89 % entre 1929 y 1932, y no recuperó su máximo hasta 1954.",
+   "leccion": "El endeudamiento para comprar acciones multiplica las caídas. Y recuperar un máximo puede tardar décadas.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Crac_del_29"
+    }
+   ]
+  },
+  {
+   "id": "lunesnegro",
+   "titulo": "El Lunes Negro",
+   "emoji": "⚫",
+   "fecha": "19 de octubre de 1987",
+   "lugar": "Mundial",
+   "resumen": "La mayor caída en un solo día de la historia del Dow Jones.",
+   "que_paso": "El Dow Jones cayó un 22,6 % en una sola sesión. Los programas informáticos que vendían automáticamente para protegerse amplificaron la caída. Después se crearon los «circuit breakers», que paran la bolsa si cae demasiado.",
+   "leccion": "Las estrategias automáticas que todos usan a la vez pueden convertir una caída en un pánico.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Lunes_negro_(1987)"
+    }
+   ]
+  },
+  {
+   "id": "ltcm",
+   "titulo": "La caída de LTCM",
+   "emoji": "🎓",
+   "fecha": "1998",
+   "lugar": "EE. UU.",
+   "resumen": "El fondo de los premios Nobel que casi tumba el sistema financiero.",
+   "que_paso": "Long-Term Capital Management tenía en su equipo a dos premios Nobel de Economía y usaba modelos sofisticados con muchísimo apalancamiento. La crisis rusa de 1998 provocó movimientos que sus modelos daban por casi imposibles, y en pocos meses perdió unos 4.600 millones de dólares. La Reserva Federal de Nueva York coordinó un rescate con los grandes bancos.",
+   "leccion": "Ningún modelo es mejor que sus supuestos, y el apalancamiento convierte un error pequeño en una catástrofe.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Long-Term_Capital_Management"
+    }
+   ]
+  },
+  {
+   "id": "puntocom",
+   "titulo": "La burbuja puntocom",
+   "emoji": "💻",
+   "fecha": "2000–2002",
+   "lugar": "EE. UU. y mundial",
+   "resumen": "Internet iba a cambiarlo todo… y lo hizo, pero no a esos precios.",
+   "que_paso": "Las acciones de empresas de internet, muchas sin beneficios, se dispararon a finales de los 90. El Nasdaq tocó máximos en marzo de 2000 y después cayó cerca de un 78 % hasta octubre de 2002. Muchas empresas desaparecieron; otras, como Amazon, sobrevivieron y crecieron.",
+   "leccion": "Una tecnología puede ser revolucionaria y, aun así, sus acciones estar carísimas. El precio que pagas importa.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Burbuja_puntocom"
+    }
+   ]
+  },
+  {
+   "id": "lehman",
+   "titulo": "La crisis de 2008 y Lehman Brothers",
+   "emoji": "🏦",
+   "fecha": "2007–2009",
+   "lugar": "Mundial",
+   "resumen": "La mayor crisis financiera desde 1929.",
+   "que_paso": "Las hipotecas de mala calidad (subprime) de EE. UU. se empaquetaron en productos complejos que se vendieron por todo el mundo. Cuando los impagos subieron, los bancos empezaron a desconfiar unos de otros. El 15 de septiembre de 2008 quebró Lehman Brothers y el pánico se extendió; los gobiernos tuvieron que rescatar a buena parte del sistema bancario.",
+   "leccion": "Lo que no se entiende puede esconder mucho riesgo. Y en una crisis, todo tiende a caer a la vez.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Crisis_financiera_de_2008"
+    }
+   ]
+  },
+  {
+   "id": "espana",
+   "titulo": "La burbuja inmobiliaria española y el rescate bancario",
+   "emoji": "🏗️",
+   "fecha": "2008–2012",
+   "lugar": "España",
+   "resumen": "El ladrillo, las cajas de ahorros y el rescate europeo de 2012.",
+   "que_paso": "Durante años se construyó y se prestó para vivienda a un ritmo enorme. Al pinchar la burbuja, muchas cajas de ahorros quedaron en una situación muy delicada. En 2012 España pidió a Europa una línea de hasta 100.000 millones de euros para sanear la banca, de la que usó unos 41.000 millones. El IBEX 35 cayó a mínimos de en torno a 6.000 puntos ese verano.",
+   "leccion": "Cuando todo un país se endeuda en el mismo activo, la caída arrastra a bancos, empleo y bolsa.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Burbuja_inmobiliaria_en_España"
+    }
+   ]
+  },
+  {
+   "id": "draghi",
+   "titulo": "«Lo que haga falta»",
+   "emoji": "💶",
+   "fecha": "26 de julio de 2012",
+   "lugar": "Zona euro",
+   "resumen": "Tres palabras de Mario Draghi que calmaron la crisis del euro.",
+   "que_paso": "Con la prima de riesgo española por encima de 600 puntos y dudas sobre el futuro del euro, el presidente del BCE dijo en Londres que haría «lo que haga falta» para preservar la moneda única. La prima empezó a bajar sin que el BCE tuviera siquiera que comprar bonos con el nuevo programa que anunció después.",
+   "leccion": "Los bancos centrales pueden mover los mercados solo con su credibilidad. Por eso se sigue tanto lo que dicen.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Crisis_de_la_deuda_soberana_europea"
+    }
+   ]
+  },
+  {
+   "id": "covid",
+   "titulo": "El desplome por la COVID",
+   "emoji": "🦠",
+   "fecha": "Febrero–marzo de 2020",
+   "lugar": "Mundial",
+   "resumen": "La caída más rápida de la historia… y una recuperación igual de rápida.",
+   "que_paso": "El S&P 500 perdió alrededor de un 34 % entre el 19 de febrero y el 23 de marzo de 2020. Los bancos centrales y los gobiernos respondieron con estímulos enormes, y en agosto el índice ya había recuperado sus máximos.",
+   "leccion": "Vender en pleno pánico suele ser un error caro. Las caídas más bruscas también pueden ser las más cortas.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Crisis_bursátil_de_2020"
+    }
+   ]
+  },
+  {
+   "id": "gamestop",
+   "titulo": "GameStop y los pequeños inversores",
+   "emoji": "🎮",
+   "fecha": "Enero de 2021",
+   "lugar": "EE. UU.",
+   "resumen": "Un foro de Reddit contra los hedge funds.",
+   "que_paso": "Miles de pequeños inversores del foro WallStreetBets compraron acciones y opciones de GameStop, una empresa muy vendida en corto. El precio se multiplicó en pocos días, obligando a los bajistas a recomprar (un «short squeeze»). El fondo Melvin Capital sufrió enormes pérdidas.",
+   "leccion": "Vender en corto tiene pérdidas potencialmente ilimitadas. Y entrar tarde en una subida viral puede salir muy caro.",
+   "fuentes": [
+    {
+     "titulo": "Wikipedia",
+     "url": "https://es.wikipedia.org/wiki/Short_squeeze_de_GameStop"
+    }
+   ]
+  }
+ ]
+}

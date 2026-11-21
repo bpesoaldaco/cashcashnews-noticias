@@ -1,0 +1,409 @@
+{
+ "terminos": [
+  {
+   "termino": "Acción",
+   "alias": [],
+   "definicion": "Parte del capital de una empresa. Quien tiene acciones es dueño de un trocito de la compañía.",
+   "ejemplo": "Si compras una acción de Repsol, eres socio de Repsol.",
+   "enlazar": false
+  },
+  {
+   "termino": "Índice bursátil",
+   "alias": [
+    "índice"
+   ],
+   "definicion": "Número que resume cómo se mueven a la vez varias acciones de un mercado.",
+   "ejemplo": "El IBEX 35 agrupa las 35 empresas más negociadas de la Bolsa española.",
+   "enlazar": false
+  },
+  {
+   "termino": "IBEX 35",
+   "alias": [
+    "IBEX"
+   ],
+   "definicion": "Principal índice de la Bolsa española: las 35 empresas con más negociación.",
+   "ejemplo": "Si el IBEX sube un 1%, las grandes empresas españolas han subido de media."
+  },
+  {
+   "termino": "S&P 500",
+   "alias": [],
+   "definicion": "Índice de las 500 mayores empresas de EE. UU. Es la referencia de la Bolsa estadounidense.",
+   "ejemplo": "Se usa para medir si a Wall Street le va bien o mal."
+  },
+  {
+   "termino": "Nasdaq",
+   "alias": [],
+   "definicion": "Bolsa de EE. UU. y su índice, con mucho peso de empresas tecnológicas.",
+   "ejemplo": "Nvidia, Apple o Microsoft pesan mucho en el Nasdaq."
+  },
+  {
+   "termino": "Euro Stoxx 50",
+   "alias": [],
+   "definicion": "Índice de las 50 mayores empresas de la zona euro.",
+   "ejemplo": "Incluye a ASML, SAP o Iberdrola."
+  },
+  {
+   "termino": "DAX",
+   "alias": [],
+   "definicion": "Principal índice de la Bolsa alemana, con 40 empresas.",
+   "ejemplo": "SAP y Siemens son de las que más pesan."
+  },
+  {
+   "termino": "Dow Jones",
+   "alias": [
+    "Dow"
+   ],
+   "definicion": "Índice de 30 grandes empresas de EE. UU. Es el más antiguo de Wall Street.",
+   "ejemplo": "Se mueve por puntos: 'el Dow cae 800 puntos'."
+  },
+  {
+   "termino": "Dividendo",
+   "alias": [
+    "dividendos"
+   ],
+   "definicion": "Parte del beneficio que una empresa reparte a sus accionistas.",
+   "ejemplo": "Un dividendo de 0,50 € por acción con 100 acciones son 50 € brutos."
+  },
+  {
+   "termino": "Recompra de acciones",
+   "alias": [
+    "recompra",
+    "recompras"
+   ],
+   "definicion": "Cuando una empresa compra sus propias acciones. Quedan menos en circulación y cada una vale una parte mayor.",
+   "ejemplo": "Nvidia amplió su recompra en 150.000 M$."
+  },
+  {
+   "termino": "OPA",
+   "alias": [
+    "OPAs"
+   ],
+   "definicion": "Oferta Pública de Adquisición: oferta para comprar todas o parte de las acciones de una empresa a un precio fijado.",
+   "ejemplo": "Si lanzan una OPA a 10 € y la acción cotiza a 8 €, suele subir hacia 10 €."
+  },
+  {
+   "termino": "OPV",
+   "alias": [
+    "salida a bolsa"
+   ],
+   "definicion": "Oferta Pública de Venta: cuando una empresa vende acciones al público por primera vez y empieza a cotizar.",
+   "ejemplo": "Anthropic salió a bolsa con una OPV a 83 $ por acción."
+  },
+  {
+   "termino": "Soporte",
+   "alias": [
+    "soportes"
+   ],
+   "definicion": "Nivel de precio donde, en el pasado, la caída se frenó porque aparecieron compradores.",
+   "ejemplo": "Si el IBEX pierde el soporte de 19.560, se vigila el siguiente nivel."
+  },
+  {
+   "termino": "Resistencia",
+   "alias": [
+    "resistencias"
+   ],
+   "definicion": "Nivel de precio donde, en el pasado, la subida se frenó porque aparecieron vendedores.",
+   "ejemplo": "Romper una resistencia se ve como una señal alcista."
+  },
+  {
+   "termino": "Volatilidad",
+   "alias": [],
+   "definicion": "Cuánto y qué tan rápido se mueve un precio. Mucha volatilidad = movimientos grandes en poco tiempo.",
+   "ejemplo": "Las acciones recién salidas a bolsa suelen ser muy volátiles."
+  },
+  {
+   "termino": "VIX",
+   "alias": [
+    "índice del miedo"
+   ],
+   "definicion": "Índice que mide la volatilidad esperada del S&P 500. Sube cuando los inversores tienen miedo.",
+   "ejemplo": "Un VIX por encima de 25 indica nerviosismo."
+  },
+  {
+   "termino": "Prima de riesgo",
+   "alias": [],
+   "definicion": "Diferencia entre lo que paga el bono de un país (p. ej. España) y el bono alemán a 10 años.",
+   "ejemplo": "Una prima de 56 pb significa que España paga un 0,56% más que Alemania."
+  },
+  {
+   "termino": "Punto básico",
+   "alias": [
+    "pb",
+    "puntos básicos"
+   ],
+   "definicion": "Una centésima de punto porcentual: 100 pb = 1%.",
+   "ejemplo": "Una subida de tipos de 25 pb es un +0,25%."
+  },
+  {
+   "termino": "Bono",
+   "alias": [
+    "bonos"
+   ],
+   "definicion": "Préstamo que haces a un gobierno o empresa a cambio de un interés.",
+   "ejemplo": "El bono español a 10 años paga en torno al 3,9%."
+  },
+  {
+   "termino": "Rentabilidad del bono",
+   "alias": [
+    "rendimiento"
+   ],
+   "definicion": "Interés anual que obtienes con un bono al precio actual. Sube cuando el precio del bono baja.",
+   "ejemplo": "El Treasury a 10 años rinde un 5%."
+  },
+  {
+   "termino": "Treasury",
+   "alias": [
+    "Treasuries"
+   ],
+   "definicion": "Bono del Tesoro de EE. UU. El de 10 años es la referencia mundial de tipos.",
+   "ejemplo": "Si el Treasury sube, las bolsas suelen sufrir."
+  },
+  {
+   "termino": "Tipos de interés",
+   "alias": [
+    "tipos"
+   ],
+   "definicion": "Precio del dinero. Los bancos centrales los suben para frenar la inflación y los bajan para animar la economía.",
+   "ejemplo": "Más tipos encarecen hipotecas y préstamos.",
+   "enlazar": false
+  },
+  {
+   "termino": "Fed",
+   "alias": [
+    "Reserva Federal"
+   ],
+   "definicion": "Banco central de EE. UU. Decide los tipos de interés en dólares.",
+   "ejemplo": "Sus reuniones mueven todos los mercados."
+  },
+  {
+   "termino": "BCE",
+   "alias": [
+    "Banco Central Europeo"
+   ],
+   "definicion": "Banco central de la zona euro. Decide los tipos de interés en euros.",
+   "ejemplo": "Su presidenta es Christine Lagarde."
+  },
+  {
+   "termino": "Inflación",
+   "alias": [
+    "IPC"
+   ],
+   "definicion": "Subida general de los precios. El IPC es el índice que la mide.",
+   "ejemplo": "Un IPC del 4% significa que los precios suben un 4% en un año."
+  },
+  {
+   "termino": "Actas de la Fed",
+   "alias": [
+    "actas"
+   ],
+   "definicion": "Resumen publicado de lo que se habló en la última reunión de la Fed.",
+   "ejemplo": "Dan pistas sobre si subirán o bajarán tipos."
+  },
+  {
+   "termino": "FOMC",
+   "alias": [],
+   "definicion": "Comité de la Fed que vota los tipos de interés.",
+   "ejemplo": "Se reúne ocho veces al año."
+  },
+  {
+   "termino": "Halcón",
+   "alias": [
+    "halcones",
+    "hawkish"
+   ],
+   "definicion": "Miembro de un banco central partidario de subir tipos para frenar la inflación.",
+   "ejemplo": "Unas actas 'halconas' suelen hacer caer las bolsas."
+  },
+  {
+   "termino": "Paloma",
+   "alias": [
+    "palomas",
+    "dovish"
+   ],
+   "definicion": "Miembro de un banco central partidario de bajar tipos para ayudar a la economía.",
+   "ejemplo": "Un discurso 'paloma' suele animar a las bolsas."
+  },
+  {
+   "termino": "Resultados",
+   "alias": [
+    "resultados trimestrales"
+   ],
+   "definicion": "Cuentas que una empresa publica cada trimestre: ingresos, beneficios y previsiones.",
+   "ejemplo": "Si los resultados baten lo esperado, la acción suele subir.",
+   "enlazar": false
+  },
+  {
+   "termino": "Batir previsiones",
+   "alias": [
+    "batir"
+   ],
+   "definicion": "Presentar resultados mejores de lo que esperaban los analistas.",
+   "ejemplo": "Walmart batió previsiones con 188.800 M$ de ingresos."
+  },
+  {
+   "termino": "EBITDA",
+   "alias": [],
+   "definicion": "Beneficio antes de intereses, impuestos, depreciaciones y amortizaciones. Mide lo que gana el negocio en sí.",
+   "ejemplo": "San José tuvo un EBITDA de 75,9 M€."
+  },
+  {
+   "termino": "Beneficio neto",
+   "alias": [],
+   "definicion": "Lo que gana la empresa al final, después de todos los gastos e impuestos.",
+   "ejemplo": "Si es negativo, se habla de pérdidas netas."
+  },
+  {
+   "termino": "Precio objetivo",
+   "alias": [],
+   "definicion": "Precio al que un analista cree que llegará una acción en unos 12 meses.",
+   "ejemplo": "RBC subió el precio objetivo de Endesa."
+  },
+  {
+   "termino": "Recomendación",
+   "alias": [
+    "recomendaciones"
+   ],
+   "definicion": "Opinión de un analista: comprar, mantener o vender (o sobreponderar, neutral, infraponderar).",
+   "ejemplo": "Bernstein bajó a PepsiCo a 'infraponderar'.",
+   "enlazar": false
+  },
+  {
+   "termino": "Capitalización",
+   "alias": [
+    "valoración"
+   ],
+   "definicion": "Valor total de una empresa en bolsa: precio de la acción × número de acciones.",
+   "ejemplo": "Anthropic debutó con una valoración de más de 1,5 billones de dólares."
+  },
+  {
+   "termino": "Posición bajista",
+   "alias": [
+    "corto",
+    "posición corta",
+    "short"
+   ],
+   "definicion": "Apuesta a que una acción caerá. Se gana dinero si baja.",
+   "ejemplo": "Hunterbrook abrió una posición bajista contra AMD."
+  },
+  {
+   "termino": "Futuros",
+   "alias": [],
+   "definicion": "Contratos para comprar o vender algo a un precio fijado en una fecha futura. Los de índices anticipan la apertura.",
+   "ejemplo": "Si los futuros del Nasdaq suben, se espera una apertura al alza."
+  },
+  {
+   "termino": "Preapertura",
+   "alias": [],
+   "definicion": "Periodo antes de que abra la bolsa, en el que ya se ven movimientos y órdenes.",
+   "ejemplo": "En la preapertura se ve si el IBEX abrirá en verde o en rojo."
+  },
+  {
+   "termino": "Brent",
+   "alias": [],
+   "definicion": "Petróleo de referencia en Europa. Su precio se da en dólares por barril.",
+   "ejemplo": "Un Brent más caro suele beneficiar a Repsol."
+  },
+  {
+   "termino": "WTI",
+   "alias": [],
+   "definicion": "Petróleo de referencia en EE. UU.",
+   "ejemplo": "Suele cotizar unos dólares por debajo del Brent."
+  },
+  {
+   "termino": "Oro",
+   "alias": [],
+   "definicion": "Metal que se usa como refugio en momentos de miedo. Sufre cuando suben los tipos.",
+   "ejemplo": "Las apuestas por subidas de tipos llevaron al oro a mínimos de 15 meses.",
+   "enlazar": false
+  },
+  {
+   "termino": "Activo refugio",
+   "alias": [
+    "refugio"
+   ],
+   "definicion": "Inversión que tiende a aguantar o subir cuando hay miedo: oro, bonos alemanes, franco suizo.",
+   "ejemplo": "En crisis, el dinero se mueve hacia los activos refugio."
+  },
+  {
+   "termino": "EUR/USD",
+   "alias": [
+    "euro dólar"
+   ],
+   "definicion": "Cuántos dólares vale un euro.",
+   "ejemplo": "EUR/USD a 1,10 significa que 1 € = 1,10 $."
+  },
+  {
+   "termino": "Bitcoin",
+   "alias": [],
+   "definicion": "Criptomoneda más conocida. Muy volátil.",
+   "ejemplo": "Puede moverse un 10% en una semana.",
+   "enlazar": false
+  },
+  {
+   "termino": "Sector",
+   "alias": [],
+   "definicion": "Grupo de empresas que hacen cosas parecidas: banca, energía, tecnología…",
+   "ejemplo": "Si sube el petróleo, el sector energético suele subir.",
+   "enlazar": false
+  },
+  {
+   "termino": "Valor",
+   "alias": [
+    "valores"
+   ],
+   "definicion": "En bolsa, sinónimo de acción o empresa cotizada.",
+   "ejemplo": "'Los valores del IBEX' son las empresas del índice.",
+   "enlazar": false
+  },
+  {
+   "termino": "Cotizar",
+   "alias": [
+    "cotiza",
+    "cotización"
+   ],
+   "definicion": "Tener un precio en bolsa que cambia con la compra y venta.",
+   "ejemplo": "Anthropic empezó a cotizar en el Nasdaq.",
+   "enlazar": false
+  },
+  {
+   "termino": "Mínimo de 52 semanas",
+   "alias": [
+    "mínimos",
+    "mínimo"
+   ],
+   "definicion": "El precio más bajo del último año.",
+   "ejemplo": "El EUR/USD está cerca de su mínimo de 52 semanas.",
+   "enlazar": false
+  },
+  {
+   "termino": "Máximo histórico",
+   "alias": [
+    "máximos"
+   ],
+   "definicion": "El precio más alto que ha tenido nunca.",
+   "ejemplo": "Un índice en máximos históricos indica una tendencia alcista.",
+   "enlazar": false
+  },
+  {
+   "termino": "Recesión",
+   "alias": [],
+   "definicion": "Caída de la economía durante al menos dos trimestres seguidos.",
+   "ejemplo": "El miedo a una recesión suele hacer caer las bolsas."
+  },
+  {
+   "termino": "Diversificar",
+   "alias": [
+    "diversificación"
+   ],
+   "definicion": "Repartir el dinero entre distintas inversiones para no depender de una sola.",
+   "ejemplo": "Mejor varias empresas de sectores distintos que todo en una.",
+   "enlazar": false
+  },
+  {
+   "termino": "Laudo",
+   "alias": [],
+   "definicion": "Decisión de un tribunal de arbitraje, como el CIADI, que resuelve un conflicto.",
+   "ejemplo": "El CIADI dio la razón a Enagás contra Perú."
+  }
+ ]
+}
