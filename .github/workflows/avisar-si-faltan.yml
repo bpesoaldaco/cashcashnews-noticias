@@ -1,0 +1,61 @@
+name: Avisar si faltan las noticias de hoy
+
+# Cada mañana comprueba que noticias.json es de hoy y está bien.
+# Si no, abre una incidencia (issue) y GitHub te avisa por correo.
+# Cuando vuelven a estar bien, la cierra sola.
+on:
+  schedule:
+    - cron: "45 8 * * *" # 09:45 en Madrid en invierno (10:45 en verano)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Comprobar noticias.json
+        id: fecha
+        run: |
+          hoy=$(TZ=Europe/Madrid date +%F)
+          fecha=$(python3 -c "import json;print(json.load(open('noticias.json')).get('fecha',''))" 2>/dev/null || echo "ilegible")
+          if python3 scripts/validar_noticias.py noticias.json > validacion.txt 2>&1; then valido=si; else valido=no; fi
+          echo "hoy=$hoy" >> "$GITHUB_OUTPUT"
+          echo "fecha=$fecha" >> "$GITHUB_OUTPUT"
+          echo "valido=$valido" >> "$GITHUB_OUTPUT"
+          echo "Hoy: $hoy · noticias.json: $fecha · válido: $valido"
+      - name: Abrir un aviso si faltan o están mal
+        if: steps.fecha.outputs.fecha != steps.fecha.outputs.hoy || steps.fecha.outputs.valido != 'si'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HOY: ${{ steps.fecha.outputs.hoy }}
+          FECHA: ${{ steps.fecha.outputs.fecha }}
+          VALIDO: ${{ steps.fecha.outputs.valido }}
+        run: |
+          titulo="Faltan las noticias del $HOY"
+          abiertos=$(gh issue list --state open --limit 50 --json title --jq "[.[] | select(.title == \"$titulo\")] | length")
+          if [ "$abiertos" != "0" ]; then echo "Ya hay un aviso abierto"; exit 0; fi
+          if [ "$FECHA" != "$HOY" ]; then
+            motivo="noticias.json sigue siendo del **$FECHA**: la tarea diaria no ha publicado las de hoy."
+          else
+            motivo="noticias.json es de hoy, pero no pasa la comprobación:"$'\n\n```\n'"$(tail -20 validacion.txt)"$'\n```'
+          fi
+          cuerpo="@${{ github.repository_owner }} $motivo
+
+          Mientras, la app enseña las últimas noticias que tiene y avisa de que las de hoy aún no están.
+
+          **Qué hacer:** en el proyecto de Claude, pide «Publica las noticias de hoy», o revisa el hilo de la tarea diaria de esta mañana para ver qué ha fallado.
+
+          Este aviso se cierra solo cuando las noticias de hoy estén bien."
+          gh issue create --title "$titulo" --body "$cuerpo"
+      - name: Cerrar avisos antiguos si ya está todo bien
+        if: steps.fecha.outputs.fecha == steps.fecha.outputs.hoy && steps.fecha.outputs.valido == 'si'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --state open --limit 50 --json number,title --jq '.[] | select(.title | startswith("Faltan las noticias del")) | .number'); do
+            gh issue close "$n" --comment "Ya están las noticias de hoy. Cierro este aviso."
+          done
