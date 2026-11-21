@@ -1177,7 +1177,7 @@ function abrirInfo() {
   h += '<div class="seccion">Aviso legal</div>' + LEGAL.map(function (p) { return '<h3>' + esc(p[0]) + '</h3><p>' + esc(p[1]) + '</p>'; }).join('');
   h += '<div class="seccion">Privacidad</div>' + PRIVACIDAD.map(function (p) { return '<h3>' + esc(p[0]) + '</h3><p>' + esc(p[1]) + '</p>'; }).join('');
   h += '<div class="seccion">¿Tienes Android?</div><p>También hay una app para Android, con avisos en el móvil cuando tus valores salen en las noticias. ' +
-    '<a href="' + RAW + 'apk/CashCashNews-0.13.0.apk" id="apk">Descargar la app de Android</a></p>';
+    '<a href="' + RAW + 'apk/CashCashNews-0.13.1.apk" id="apk">Descargar la app de Android</a></p>';
   h += '<p class="pie">Versión ' + VERSION + ' (de prueba)</p>';
   pagina('Información', 'Léelo en un minuto', h);
   descargar('app.json').then(function (a) { var u = urlSegura(a.descarga); var el = document.getElementById('apk'); if (u && el) el.href = u; }).catch(function () {});
