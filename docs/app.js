@@ -136,7 +136,7 @@ function inicio() {
   var vistos = leer('vistos', {});
   var h = '<div class="wrap">';
   h += '<header class="cabecera"><img src="logo.svg" alt=""><div><div class="marca">CashCash<b>News</b></div>' +
-    '<div class="fecha">' + esc(d.fechaTexto) +  + '</div></div>' +
+    '<div class="fecha">' + esc(d.fechaTexto) + '</div></div>' +
     '<div class="acciones"><button class="icono" onclick="ir(\'calendario\')" aria-label="Calendario">' + ic('cal') + '</button>' +
     '<button class="icono" onclick="ir(\'info\')" aria-label="Información">' + ic('info') + '</button></div></header>';
   h += bannerInstalar();
