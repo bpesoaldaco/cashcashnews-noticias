@@ -1,0 +1,245 @@
+# Catálogo de valores que se pueden seguir en la app (copia de app/src/main/assets/buscador_valores.txt).
+# Formato: Nombre|Ticker|Mercado. scripts/actualizar_recientes.py usa los nombres para recientes.json.
+IBEX 35|IBEX|Índice
+Euro Stoxx 50|SX5E|Índice
+DAX|DAX|Índice
+CAC 40|CAC|Índice
+FTSE 100|UKX|Índice
+FTSE MIB|FTSEMIB|Índice
+S&P 500|SPX|Índice
+Nasdaq|NDX|Índice
+Dow Jones|DJI|Índice
+Russell 2000|RUT|Índice
+Nikkei 225|N225|Índice
+Hang Seng|HSI|Índice
+Bitcoin|BTC|Cripto
+Ethereum|ETH|Cripto
+Solana|SOL|Cripto
+XRP|XRP|Cripto
+Brent|BRENT|Materias primas
+Petróleo WTI|WTI|Materias primas
+Oro|XAU|Materias primas
+Plata|XAG|Materias primas
+Cobre|HG|Materias primas
+Gas natural|NG|Materias primas
+EUR/USD|EURUSD|Divisas
+EUR/GBP|EURGBP|Divisas
+USD/JPY|USDJPY|Divisas
+Acciona|ANA|España
+Acciona Energía|ANE|España
+Acerinox|ACX|España
+ACS|ACS|España
+Aena|AENA|España
+Amadeus|AMS|España
+ArcelorMittal|MTS|España
+Atresmedia|A3M|España
+Santander|SAN|España
+Bankinter|BKT|España
+BBVA|BBVA|España
+CaixaBank|CABK|España
+Cellnex|CLNX|España
+CIE Automotive|CIE|España
+Colonial|COL|España
+Ebro Foods|EBRO|España
+Enagás|ENG|España
+Endesa|ELE|España
+Ercros|ECR|España
+Faes Farma|FAE|España
+Ferrovial|FER|España
+Fluidra|FDR|España
+Grifols|GRF|España
+IAG|IAG|España
+Iberdrola|IBE|España
+Inditex|ITX|España
+Indra|IDR|España
+Laboratorios Rovi|ROVI|España
+Logista|LOG|España
+Mapfre|MAP|España
+Meliá|MEL|España
+Merlin|MRL|España
+Naturgy|NTGY|España
+Neinor Homes|HOME|España
+Pharma Mar|PHM|España
+Puig|PUIG|España
+Redeia|RED|España
+Repsol|REP|España
+Sabadell|SAB|España
+Sacyr|SCYR|España
+San José|GSJ|España
+Solaria|SLR|España
+Talgo|TLGO|España
+Tubacex|TUB|España
+Telefónica|TEF|España
+Unicaja|UNI|España
+Vidrala|VID|España
+Viscofan|VIS|España
+Adidas|ADS|Alemania
+Airbus|AIR|Europa
+Aixtron|AIXA|Alemania
+Allianz|ALV|Alemania
+ASM International|ASM|Países Bajos
+ASML|ASML|Países Bajos
+AXA|CS|Francia
+BASF|BAS|Alemania
+Bayer|BAYN|Alemania
+BMW|BMW|Alemania
+BNP Paribas|BNP|Francia
+Danone|BN|Francia
+Deutsche Bank|DBK|Alemania
+Deutsche Telekom|DTE|Alemania
+DHL Group|DHL|Alemania
+Enel|ENEL|Italia
+Eni|ENI|Italia
+EssilorLuxottica|EL|Francia
+Evonik|EVK|Alemania
+Ferrari|RACE|Italia
+Fresenius Medical Care|FME|Alemania
+Fresenius SE|FRE|Alemania
+Hermès|RMS|Francia
+Infineon|IFX|Alemania
+ING|INGA|Países Bajos
+Intesa Sanpaolo|ISP|Italia
+Kering|KER|Francia
+L'Oréal|OR|Francia
+Lanxess|LXS|Alemania
+LVMH|MC|Francia
+Mercedes-Benz|MBG|Alemania
+Munich Re|MUV2|Alemania
+Nokia|NOKIA|Finlandia
+Novo Nordisk|NOVO B|Dinamarca
+Porsche|P911|Alemania
+Prosus|PRX|Países Bajos
+Rheinmetall|RHM|Alemania
+Safran|SAF|Francia
+Sanofi|SAN|Francia
+SAP|SAP|Alemania
+Schneider Electric|SU|Francia
+Siemens|SIE|Alemania
+Siemens Energy|ENR|Alemania
+Stellantis|STLA|Europa
+TotalEnergies|TTE|Francia
+UniCredit|UCG|Italia
+Volkswagen|VOW3|Alemania
+Alstom|ALO|Francia
+Antofagasta|ANTO|Reino Unido
+AstraZeneca|AZN|Reino Unido
+Barclays|BARC|Reino Unido
+BP|BP|Reino Unido
+Experian|EXPN|Reino Unido
+Glencore|GLEN|Reino Unido
+GSK|GSK|Reino Unido
+HSBC|HSBA|Reino Unido
+Rio Tinto|RIO|Reino Unido
+Rolls-Royce|RR|Reino Unido
+Shell|SHEL|Reino Unido
+Unilever|ULVR|Reino Unido
+Nestlé|NESN|Suiza
+Novartis|NOVN|Suiza
+Roche|ROG|Suiza
+UBS|UBSG|Suiza
+3M|MMM|EE. UU.
+Abbott|ABT|EE. UU.
+AbbVie|ABBV|EE. UU.
+Adobe|ADBE|EE. UU.
+AMD|AMD|EE. UU.
+Airbnb|ABNB|EE. UU.
+Alphabet (Google)|GOOGL|EE. UU.
+Amazon|AMZN|EE. UU.
+Amer Sports|AS|EE. UU.
+American Express|AXP|EE. UU.
+Anthropic|—|Privada
+Apple|AAPL|EE. UU.
+Applied Materials|AMAT|EE. UU.
+Arm|ARM|EE. UU.
+AT&T|T|EE. UU.
+Bank of America|BAC|EE. UU.
+Berkshire Hathaway|BRK.B|EE. UU.
+BILL|BILL|EE. UU.
+BlackRock|BLK|EE. UU.
+Boeing|BA|EE. UU.
+Booking|BKNG|EE. UU.
+Broadcom|AVGO|EE. UU.
+Caterpillar|CAT|EE. UU.
+Chevron|CVX|EE. UU.
+Cisco|CSCO|EE. UU.
+Citigroup|C|EE. UU.
+Coca-Cola|KO|EE. UU.
+Coinbase|COIN|EE. UU.
+Costco|COST|EE. UU.
+CrowdStrike|CRWD|EE. UU.
+Dell|DELL|EE. UU.
+Disney|DIS|EE. UU.
+Eli Lilly|LLY|EE. UU.
+ExxonMobil|XOM|EE. UU.
+Ford|F|EE. UU.
+GameStop|GME|EE. UU.
+General Electric|GE|EE. UU.
+General Motors|GM|EE. UU.
+Goldman Sachs|GS|EE. UU.
+Home Depot|HD|EE. UU.
+Humana|HUM|EE. UU.
+IBM|IBM|EE. UU.
+Intel|INTC|EE. UU.
+Intuit|INTU|EE. UU.
+Johnson & Johnson|JNJ|EE. UU.
+JPMorgan|JPM|EE. UU.
+Lockheed Martin|LMT|EE. UU.
+Lowe's|LOW|EE. UU.
+Lucid|LCID|EE. UU.
+Mastercard|MA|EE. UU.
+McDonald's|MCD|EE. UU.
+Merck|MRK|EE. UU.
+Meta|META|EE. UU.
+Micron|MU|EE. UU.
+Microsoft|MSFT|EE. UU.
+Moderna|MRNA|EE. UU.
+Morgan Stanley|MS|EE. UU.
+Netflix|NFLX|EE. UU.
+Nike|NKE|EE. UU.
+Nvidia|NVDA|EE. UU.
+OpenAI|—|Privada
+Oracle|ORCL|EE. UU.
+Palantir|PLTR|EE. UU.
+Palo Alto Networks|PANW|EE. UU.
+PayPal|PYPL|EE. UU.
+PepsiCo|PEP|EE. UU.
+Pfizer|PFE|EE. UU.
+Procter & Gamble|PG|EE. UU.
+Qualcomm|QCOM|EE. UU.
+Reddit|RDDT|EE. UU.
+Rivian|RIVN|EE. UU.
+Robinhood|HOOD|EE. UU.
+Salesforce|CRM|EE. UU.
+Sandisk|SNDK|EE. UU.
+Satellogic|SATL|EE. UU.
+ServiceNow|NOW|EE. UU.
+Shopify|SHOP|EE. UU.
+Snowflake|SNOW|EE. UU.
+SoFi|SOFI|EE. UU.
+Spotify|SPOT|EE. UU.
+Stanley Black & Decker|SWK|EE. UU.
+Starbucks|SBUX|EE. UU.
+Strategy (MicroStrategy)|MSTR|EE. UU.
+Super Micro Computer|SMCI|EE. UU.
+Target|TGT|EE. UU.
+Tesla|TSLA|EE. UU.
+Texas Instruments|TXN|EE. UU.
+TJX|TJX|EE. UU.
+Uber|UBER|EE. UU.
+UNFI|UNFI|EE. UU.
+UnitedHealth|UNH|EE. UU.
+Verizon|VZ|EE. UU.
+Visa|V|EE. UU.
+Walmart|WMT|EE. UU.
+Wells Fargo|WFC|EE. UU.
+Western Digital|WDC|EE. UU.
+Alibaba|BABA|China
+BYD|1211|China
+Tencent|0700|China
+Xiaomi|1810|China
+Samsung|005930|Corea del Sur
+Sony|6758|Japón
+Toyota|7203|Japón
+TSMC|TSM|Taiwán
+Mercado Libre|MELI|Argentina
+Petrobras|PBR|Brasil
