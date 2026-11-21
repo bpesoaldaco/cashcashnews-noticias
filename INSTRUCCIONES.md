@@ -157,3 +157,49 @@ La app lo enseña en «Resumen semanal» como unas pocas tarjetas que se pasan h
 `valores.json` tiene los datos básicos de cada valor (ticker, mercado, sector, país y una frase de qué es).
 La app los enseña en la ficha del valor. Si una noticia menciona en `valores` uno que no está en
 `valores.json`, añádelo con el mismo formato (solo datos que sepas con seguridad).
+
+## Lo último de cada valor (`recientes.json`)
+
+La lista de seguimiento de la app se guarda solo en el móvil, así que no sabemos qué valores
+sigue cada persona. Para que un valor que hoy no sale en las noticias no aparezca solo como
+«sin noticias», `recientes.json` guarda lo último de **todos** los valores de `catalogo.txt`
+(el mismo catálogo del buscador de la app). La app lo enseña en la lista de seguimiento y en la
+ficha del valor.
+
+Tiene dos partes:
+
+- **`enNuestrasNoticias`**: la última vez que cada valor salió en `archivo/` o `semanal/`.
+  La calcula `scripts/actualizar_recientes.py` sola, sin búsquedas. No se escribe a mano.
+- **`valores`**: lo que la tarea «Lo último de cada valor» encuentra en la web. Cada día revisa
+  **solo un lote** (los que llevan más tiempo sin revisar), para que el coste no se dispare:
+  `python3 scripts/actualizar_recientes.py --pendientes 30` dice cuáles tocan.
+
+Formato de cada valor en `valores` (la clave es el nombre exacto de `catalogo.txt`):
+
+```json
+"XRP": {
+  "revisado": "2026-11-21",
+  "resumen": "Lleva semanas a la baja: el 15 de noviembre tocó 0,89 $, su nivel más bajo desde noviembre de 2024.",
+  "variacion": { "cambio": "−12,4%", "tendencia": "down", "periodo": "7 días", "hasta": "2026-11-17", "fuente": "TradingNews" },
+  "titulares": [
+    { "fecha": "2026-11-18", "titulo": "XRP vuelve a 1 $ tras subir un 4,6% en el día", "fuente": "TradingNews", "url": "https://..." }
+  ]
+}
+```
+
+- `revisado` (obligatorio): el día que lo has buscado, **aunque no encuentres nada**. Así el valor
+  pasa al final de la cola y no se busca otra vez mañana.
+- `variacion` (opcional): la variación más reciente que dé una fuente (de la última semana o de
+  7 días; si solo hay de un mes, `"periodo": "1 mes"`). `hasta` es la fecha del dato. Si las fuentes
+  no lo dan claro, no la pongas. Las de más de 14 días se borran solas.
+- `titulares` (opcional, máx. 3, de los últimos 30 días): noticias de ese valor, el titular en
+  español en frase corta (máx. ~100 caracteres), con su `fecha` de publicación, `fuente` y `url`
+  (https). Solo noticias que hablen de verdad del valor. Los de más de 45 días se borran solos.
+- `resumen` (opcional, máx. 180 caracteres): qué ha pasado con el valor estas semanas, en una
+  frase llana. Solo hechos de las fuentes.
+- **Nada de recomendaciones ni precios objetivo** (la validación lo comprueba). Nada de cifras
+  inventadas: si no hay dato, mejor dejarlo vacío.
+- Si añades un valor nuevo al buscador de la app, añádelo también a `catalogo.txt`.
+
+Después: `python3 scripts/actualizar_recientes.py` tiene que decir `OK`. Commit con el mensaje
+`Lo último de cada valor AAAA-MM-DD` en `main` y push (solo `recientes.json`).
