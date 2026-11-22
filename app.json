@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.15.1",
-  "novedades": "Arreglado: en algunos móviles se cortaba la última letra de las líneas. Al volver a la pantalla principal sigues donde estabas, y el aviso de versión nueva ya sale al abrir la app.",
-  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.15.1.apk",
+  "versionCode": 26,
+  "versionName": "0.16.0",
+  "novedades": "Nueva pantalla de bienvenida: «El dinero del mundo, con tu café.» Te explica en un vistazo para qué sirve la app.",
+  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.16.0.apk",
   "estadisticas": "https://cashcashnews.goatcounter.com",
   "opinion": ""
 }
