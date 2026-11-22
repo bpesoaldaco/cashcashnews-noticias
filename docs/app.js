@@ -141,9 +141,22 @@ function aplicarTema() {
 function cambiarTema() { guardar('oscuro', !oscuro()); aplicarTema(); inicio(); }
 
 /* ---------- estadísticas anónimas (GoatCounter, sin cookies) ---------- */
+// Solo cuentan las visitas de personas: fuera robots, navegadores automáticos
+// (las pruebas que hacemos nosotros), copias locales y vistas previas.
+function visitaReal() {
+  try {
+    if (!/\.github\.io$/.test(location.hostname)) return false;
+    if (navigator.webdriver) return false;
+    var ua = navigator.userAgent || '';
+    if (/bot|crawl|spider|slurp|headless|lighthouse|pagespeed|preview|phantom|puppeteer|playwright|selenium|python|curl|wget/i.test(ua)) return false;
+    if (/[?&]notrack\b/.test(location.search)) { guardar('stats', false); return false; }
+    if (document.visibilityState && document.visibilityState !== 'visible') return false;
+    return true;
+  } catch (e) { return false; }
+}
 function stats(pantalla) {
   if (!leer('stats', true)) return;
-  if (/^(localhost|127\.)/.test(location.hostname)) return;
+  if (!visitaReal()) return;
   try {
     new Image().src = STATS + '/count?p=' + encodeURIComponent('/web/' + pantalla) +
       '&t=' + encodeURIComponent(pantalla + ' · ' + VERSION) + '&rnd=' + Math.random().toString(36).slice(2);
