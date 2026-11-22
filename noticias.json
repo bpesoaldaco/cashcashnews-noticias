@@ -1,8 +1,8 @@
 {
   "fecha": "2026-11-22",
   "fechaTexto": "Domingo 22 nov 2026",
-  "actualizado": "08:10 (hora de Madrid)",
-  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Fin de semana: los datos de bolsa son del cierre del viernes; el bitcoin, del domingo a primera hora.",
+  "actualizado": "09:18 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Domingo: noticias económicas del mundo; los datos de bolsa son del cierre del viernes y el bitcoin, del domingo a primera hora.",
   "indicadores": [
     {
       "id": "ibex",
@@ -73,45 +73,35 @@
       "color": "#0EA5E9",
       "slides": [
         {
-          "titulo": "Semana negra en las bolsas",
-          "texto": "El S&P 500 pierde un 8,6% en la semana, el Nasdaq un 10% y el IBEX un 5,7%. La venta de tecnológicas y chips lo arrastra todo.",
-          "dato": "−8,6%",
-          "cambio": "S&P 500",
+          "titulo": "Hoy, el mundo",
+          "texto": "Domingo sin bolsa: repasamos lo que pasa en China, Japón, Argentina y el petróleo, y qué significa para ti."
+        },
+        {
+          "titulo": "China vende fuera, no dentro",
+          "texto": "Exportaciones +35,2% en octubre; ventas en tiendas, solo +0,4%.",
+          "dato": "+35,2%",
+          "tendencia": "up",
+          "valores": [
+            "China"
+          ]
+        },
+        {
+          "titulo": "Japón sube tipos en diciembre",
+          "texto": "El 86% de los economistas espera un 1,50% el 18 de diciembre. El yen ronda 160 por dólar.",
+          "dato": "1,50%",
+          "valores": [
+            "Yen"
+          ]
+        },
+        {
+          "titulo": "Así cerró la semana",
+          "texto": "IBEX 35 18.873,1 (−5,7% en la semana). S&P 500 6.910,39 (−8,6%). Bitcoin 58.944 $ este domingo.",
+          "dato": "18.873,1",
           "tendencia": "down",
           "valores": [
+            "IBEX 35",
             "S&P 500",
-            "Nasdaq",
-            "IBEX 35"
-          ]
-        },
-        {
-          "titulo": "El bitcoin rebota a 58.900 $",
-          "texto": "Sube un 5,68% en 24 horas, hasta 58.944 $, tras tocar 55.127 $ el sábado. El mercado cripto vale 2,04 billones $ (+2,57%).",
-          "dato": "58.944 $",
-          "cambio": "+5,68%",
-          "tendencia": "up",
-          "valores": [
             "Bitcoin"
-          ]
-        },
-        {
-          "titulo": "Oro y petróleo, a la baja",
-          "texto": "El oro baja a unos 3.536 $ la onza. El Brent encadena su tercera semana de caídas, en torno a 92 $.",
-          "dato": "3.536 $",
-          "tendencia": "down",
-          "valores": [
-            "Oro",
-            "Brent"
-          ]
-        },
-        {
-          "titulo": "La Fed, casi segura",
-          "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre.",
-          "dato": "97,5%",
-          "cambio": "+25 pb",
-          "tendencia": "up",
-          "valores": [
-            "EUR/USD"
           ]
         }
       ]
@@ -123,47 +113,20 @@
       "color": "#E11D48",
       "slides": [
         {
-          "titulo": "El IBEX pierde los 19.000",
-          "texto": "Cinco caídas seguidas: cierra el viernes en 18.873,1 (−1,63%) y se deja un 5,73% en la semana, la peor desde marzo.",
-          "dato": "18.873,1",
-          "cambio": "−5,73% sem.",
-          "tendencia": "down",
-          "valores": [
-            "IBEX 35"
-          ],
-          "grafica": {
-            "valores": [
-              19946.6,
-              19625.3,
-              19373,
-              19186.2,
-              18873.1
-            ],
-            "etiquetas": [
-              "16 nov",
-              "17 nov",
-              "18 nov",
-              "19 nov",
-              "20 nov"
-            ]
-          }
+          "titulo": "Black Friday, el viernes 27",
+          "texto": "El 76% comprará, según la OCU, con un gasto previsto de 196 € por persona, menos que en 2025.",
+          "dato": "196 €",
+          "tendencia": "down"
         },
         {
-          "titulo": "Los peores del viernes",
-          "texto": "Solo 7 valores subieron. ArcelorMittal cayó un 5,66%. Solaria se dejó más de un 5% el lunes y el jueves.",
-          "dato": "ArcelorMittal",
-          "cambio": "−5,66%",
-          "tendencia": "down",
-          "valores": [
-            "ArcelorMittal",
-            "Solaria"
-          ]
+          "titulo": "Ofertas que no convencen",
+          "texto": "El 45% está descontento con sus compras de años anteriores (encuesta AEC).",
+          "dato": "45%"
         },
         {
-          "titulo": "Lo que viene en España",
-          "texto": "Jueves 26: Mapfre paga dividendo. Viernes 27: IPC adelantado y ventas minoristas. Domingo 29: elecciones generales.",
+          "titulo": "Domingo 29, elecciones",
+          "texto": "Elecciones generales tras una semana con el IPC adelantado (viernes 27).",
           "valores": [
-            "Mapfre",
             "IBEX 35"
           ]
         }
@@ -176,35 +139,18 @@
       "color": "#6366F1",
       "slides": [
         {
-          "titulo": "El DAX, por debajo de 25.000",
-          "texto": "Cae un 2,6% el viernes, hasta 24.802,78, y más de un 7% en la semana.",
-          "dato": "24.802,78",
-          "cambio": "−2,6%",
-          "tendencia": "down",
+          "titulo": "Petróleo: decide la OPEP+",
+          "texto": "El domingo 29 fijan las cuotas de 2027. El Brent está en 92,57 $.",
+          "dato": "92,57 $",
           "valores": [
-            "DAX"
+            "Brent"
           ]
         },
         {
-          "titulo": "Euro Stoxx 50: −2,64%",
-          "texto": "Cierra en 5.952,45. ASML se hundió un 9,3% por la venta de chips.",
-          "dato": "5.952,45",
-          "cambio": "−2,64%",
-          "tendencia": "down",
+          "titulo": "Productos chinos más baratos",
+          "texto": "Con China consumiendo poco, Europa puede recibir más productos chinos a buen precio, lo que presiona a sus fabricantes.",
           "valores": [
-            "Euro Stoxx 50",
-            "ASML"
-          ]
-        },
-        {
-          "titulo": "Evonik se queda sin BASF",
-          "texto": "Cayó un 17% esta semana después de que BASF renunciara a comprarla tras dos ofertas rechazadas.",
-          "dato": "Evonik",
-          "cambio": "−17%",
-          "tendencia": "down",
-          "valores": [
-            "Evonik",
-            "BASF"
+            "China"
           ]
         }
       ]
@@ -216,62 +162,17 @@
       "color": "#10B981",
       "slides": [
         {
-          "titulo": "El S&P 500 entra en corrección",
-          "texto": "Cae un 3,7% el viernes, hasta 6.910,39, su séptima sesión seguida en rojo.",
-          "dato": "6.910,39",
-          "cambio": "−3,7%",
-          "tendencia": "down",
-          "valores": [
-            "S&P 500"
-          ],
-          "grafica": {
-            "valores": [
-              7416.59,
-              7340.53,
-              7323.8,
-              7175.83,
-              6910.39
-            ],
-            "etiquetas": [
-              "16 nov",
-              "17 nov",
-              "18 nov",
-              "19 nov",
-              "20 nov"
-            ]
-          }
-        },
-        {
-          "titulo": "El Nasdaq ya baja en el año",
-          "texto": "Se hunde un 5,3%, hasta 22.617,73.",
-          "dato": "22.617,73",
-          "cambio": "−5,3%",
-          "tendencia": "down",
-          "valores": [
-            "Nasdaq"
-          ]
-        },
-        {
-          "titulo": "Chips en caída libre",
-          "texto": "Nvidia −13,8%, Micron −13,9%, AMD −13,3% y Broadcom −12,1% el viernes.",
-          "dato": "Nvidia",
-          "cambio": "−13,8%",
-          "tendencia": "down",
-          "valores": [
-            "Nvidia",
-            "Micron",
-            "AMD",
-            "Broadcom"
-          ]
-        },
-        {
-          "titulo": "Anthropic, por debajo de su estreno",
-          "texto": "Cae un 9,1% el viernes, hasta 88,30 $. Salió a bolsa a 83 $.",
-          "dato": "88,30 $",
-          "cambio": "−9,1%",
-          "tendencia": "down",
+          "titulo": "Anthropic, récord histórico",
+          "texto": "La mayor salida a bolsa de la historia: unos 81.000 millones $, por delante de SpaceX.",
           "valores": [
             "Anthropic"
+          ]
+        },
+        {
+          "titulo": "Semana corta en Wall Street",
+          "texto": "El jueves 26 cierra por Acción de Gracias y el viernes cierra antes, a las 19:00 de Madrid.",
+          "valores": [
+            "S&P 500"
           ]
         }
       ]
@@ -288,43 +189,28 @@
           "aviso": true
         },
         {
-          "titulo": "Nvidia tras caer un 13,8%",
-          "texto": "Se hunde pese a unos buenos resultados: la duda es lo que rinde el gasto en IA. Riesgo: que las caídas sigan si esas dudas no se despejan.",
+          "titulo": "Bolsa japonesa",
+          "texto": "El Nikkei cae un 7% en noviembre antes de la subida de tipos. Riesgo: un yen fuerte de golpe puede dañar a sus exportadoras.",
           "aviso": true,
           "valores": [
-            "Nvidia"
+            "Nikkei 225"
           ]
         },
         {
-          "titulo": "Anthropic y sus opciones",
-          "texto": "Desde el lunes 23 habrá opciones sobre la acción, que ya cotiza un 9% por debajo de su cierre del jueves. Riesgo: valoración enorme y mucha volatilidad.",
+          "titulo": "Comercio minorista y Black Friday",
+          "texto": "Ver cómo venden las cadenas en la campaña. Riesgo: la OCU prevé menos gasto por persona que en 2025.",
           "aviso": true,
           "valores": [
-            "Anthropic"
+            "Inditex",
+            "Amazon"
           ]
         },
         {
-          "titulo": "El oro, lejos de su récord",
-          "texto": "Ronda los 3.536 $, muy por debajo de los 5.594,82 $ de enero. Riesgo: más subidas de tipos y un dólar fuerte pueden seguir presionándolo.",
+          "titulo": "Petróleo antes de la OPEP+",
+          "texto": "El Brent a 92,57 $ con Ormuz alterado. Riesgo: una sola decisión del domingo 29 puede moverlo mucho.",
           "aviso": true,
           "valores": [
-            "Oro"
-          ]
-        },
-        {
-          "titulo": "Evonik sin oferta",
-          "texto": "Cae un 17% al quedarse sin la oferta de 24 € de BASF. Riesgo: sin prima de compra cotiza solo por su negocio, en un sector químico débil.",
-          "aviso": true,
-          "valores": [
-            "Evonik"
-          ]
-        },
-        {
-          "titulo": "El bitcoin, rebote en duda",
-          "texto": "Pasa de 55.127 $ a superar 60.000 $ en horas. Riesgo: es muy volátil, y la Fed puede subir tipos el 9 de diciembre, algo que suele pesar sobre los activos de riesgo.",
-          "aviso": true,
-          "valores": [
-            "Bitcoin"
+            "Brent"
           ]
         }
       ]
@@ -341,16 +227,15 @@
         },
         {
           "titulo": "Lunes 23 y martes 24",
-          "texto": "Lunes: PMI de la eurozona y EE. UU., opciones de Anthropic y HPE tras el cierre. Martes: Ifo alemán y confianza del consumidor de EE. UU. (se espera 92,1); Dell y HP.",
+          "texto": "Lunes: PMI de la eurozona y EE. UU. Martes: Ifo alemán y confianza del consumidor de EE. UU.; resultados de Dell y HP.",
           "valores": [
-            "Anthropic",
             "Dell",
             "HP"
           ]
         },
         {
           "titulo": "Miércoles 25, 14:30",
-          "texto": "Inflación PCE subyacente de EE. UU. (se espera +0,3% mensual y 3,2% anual) y PIB del tercer trimestre. También el PIB alemán.",
+          "texto": "Inflación PCE y PIB de EE. UU. También el PIB alemán.",
           "valores": [
             "S&P 500",
             "EUR/USD"
@@ -358,10 +243,10 @@
         },
         {
           "titulo": "Jueves 26 a domingo 29",
-          "texto": "Jueves: Wall Street cerrada por Acción de Gracias. Viernes: cierra a las 19:00 e IPC adelantado de España. Domingo: elecciones generales.",
+          "texto": "Jueves: Acción de Gracias. Viernes: Black Friday e IPC adelantado de España. Domingo: elecciones y OPEP+.",
           "valores": [
             "IBEX 35",
-            "S&P 500"
+            "Brent"
           ]
         }
       ]
@@ -372,299 +257,216 @@
       "categoria": "Mercados",
       "emoji": "📊",
       "color": "#0EA5E9",
-      "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
-      "texto": "Cinco sesiones en rojo. El viernes cae otro 1,63% y cierra en 18.873,1, por debajo de los 19.000. ArcelorMittal (−5,66%) fue el peor.",
-      "dato": "18.873,1",
-      "cambio": "−1,63%",
-      "tendencia": "down",
-      "valores": [
-        "IBEX 35",
-        "ArcelorMittal"
-      ],
-      "grafica": {
-        "valores": [
-          19946.6,
-          19625.3,
-          19373,
-          19186.2,
-          18873.1
-        ],
-        "etiquetas": [
-          "16 nov",
-          "17 nov",
-          "18 nov",
-          "19 nov",
-          "20 nov"
-        ]
-      },
-      "paraTi": "Si tienes un fondo de bolsa española, esta semana vale menos. Es una caída en el papel: solo se convierte en pérdida si vendes.",
-      "fuente": "El Debate (Europa Press)",
-      "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
-    },
-    {
-      "categoria": "EE. UU.",
-      "emoji": "🇺🇸",
-      "color": "#10B981",
-      "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección",
-      "texto": "Séptima caída seguida: cierra el viernes en 6.910,39. En la semana pierde un 8,6%, arrastrado por las tecnológicas y la inteligencia artificial.",
-      "dato": "6.910,39",
-      "cambio": "−3,7%",
-      "tendencia": "down",
-      "valores": [
-        "S&P 500",
-        "Dow Jones"
-      ],
-      "grafica": {
-        "valores": [
-          7416.59,
-          7340.53,
-          7323.8,
-          7175.83,
-          6910.39
-        ],
-        "etiquetas": [
-          "16 nov",
-          "17 nov",
-          "18 nov",
-          "19 nov",
-          "20 nov"
-        ]
-      },
-      "paraTi": "Si tienes un fondo del S&P 500 o del MSCI World, como muchos planes de pensiones, es la parte que más ha bajado esta semana.",
-      "fuente": "AP",
-      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-    },
-    {
-      "categoria": "EE. UU.",
-      "emoji": "🇺🇸",
-      "color": "#10B981",
-      "titulo": "El Nasdaq ya pierde en el año",
-      "texto": "Cae un 5,3% el viernes, hasta 22.617,73, y borra todo lo que ganaba en 2026. En la semana se deja un 10%.",
-      "dato": "22.617,73",
-      "cambio": "−5,3%",
-      "tendencia": "down",
-      "valores": [
-        "Nasdaq"
-      ],
-      "paraTi": "Los fondos tecnológicos y los que siguen al Nasdaq son los que más notan esta caída. Si tu fondo es mundial, también le afecta, aunque menos.",
-      "fuente": "AP",
-      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-    },
-    {
-      "categoria": "Mercados",
-      "emoji": "📊",
-      "color": "#0EA5E9",
-      "titulo": "Huye el dinero de los chips",
-      "texto": "Ni los buenos resultados de Nvidia frenan las dudas sobre lo que rinde el gasto en IA. El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%.",
-      "dato": "Nvidia",
-      "cambio": "−13,8%",
-      "tendencia": "down",
-      "valores": [
-        "Nvidia",
-        "Micron",
-        "AMD",
-        "Broadcom"
-      ],
-      "paraTi": "Estas empresas pesan mucho en los fondos indexados de EE. UU. y mundiales, así que la caída se nota en ellos aunque no tengas acciones de chips.",
-      "fuente": "AP",
-      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-    },
-    {
-      "categoria": "Europa",
-      "emoji": "🇪🇺",
-      "color": "#6366F1",
-      "titulo": "El DAX baja de 25.000 puntos",
-      "texto": "Cae un 2,6% el viernes y cierra en 24.802,78; pierde más de un 7% en la semana. El Euro Stoxx 50 cede un 2,64%, hasta 5.952,45.",
-      "dato": "24.802,78",
-      "cambio": "−2,6%",
-      "tendencia": "down",
-      "valores": [
-        "DAX",
-        "Euro Stoxx 50",
-        "ASML"
-      ],
-      "paraTi": "Los fondos indexados europeos también bajan. Si aportas cada mes, compras participaciones más baratas; si no tocas nada, no cambia.",
-      "fuente": "dpa-AFX (finanzen.at)",
-      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
-    },
-    {
-      "categoria": "Mercados",
-      "emoji": "📊",
-      "color": "#0EA5E9",
-      "titulo": "El bitcoin rebota hasta unos 58.900 $",
-      "texto": "Tras tocar 55.127 $ el sábado, llegó a superar los 60.000 $. Este domingo a primera hora vale 58.944 $ (+5,68% en 24 horas). El ether sube un 6,08%, hasta 1.654 $.",
-      "dato": "58.944 $",
-      "cambio": "+5,68%",
+      "titulo": "China exporta un 35% más, pero apenas consume",
+      "texto": "En octubre sus exportaciones subieron un 35,2%, hasta 412.330 millones $. Las ventas en tiendas solo crecieron un 0,4% y la inversión cae un 8,1% en el año.",
+      "dato": "+35,2%",
       "tendencia": "up",
       "valores": [
-        "Bitcoin"
+        "China"
       ],
-      "grafica": {
-        "valores": [
-          55796,
-          60400,
-          58944
-        ],
-        "etiquetas": [
-          "sáb 7:00",
-          "sáb 22:30",
-          "dom 7:00"
-        ]
-      },
-      "paraTi": "Solo te afecta si tienes criptomonedas: en dos días ha caído y rebotado con fuerza. No están cubiertas por el fondo de garantía de depósitos.",
-      "fuente": "CoinCodex",
-      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
-    },
-    {
-      "categoria": "EE. UU.",
-      "emoji": "🇺🇸",
-      "color": "#10B981",
-      "titulo": "La Fed subirá tipos, casi seguro",
-      "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre. El oro baja a unos 3.536 $, lejos de su récord de enero.",
-      "dato": "97,5%",
-      "cambio": "+25 pb",
-      "tendencia": "up",
-      "valores": [
-        "Oro",
-        "EUR/USD"
-      ],
-      "paraTi": "Los tipos de EE. UU. no fijan tu euríbor, que depende del BCE. Pero el dólar fuerte encarece lo que pagas en dólares, como viajes o compras online.",
-      "fuente": "Yahoo Finance",
-      "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+      "paraTi": "Muchos productos que compras (móviles, ropa, electrodomésticos) vienen de China. Si vende mucho fuera y consume poco dentro, puede seguir mandando productos baratos a Europa.",
+      "fuente": "China Briefing (datos NBS)",
+      "url": "https://www.china-briefing.com/news/how-did-chinas-economy-perform-in-october-2026/"
     },
     {
       "categoria": "Mercados",
       "emoji": "📊",
       "color": "#0EA5E9",
-      "titulo": "El Brent cierra su tercera semana de caídas",
-      "texto": "Rebota el viernes por la tensión en Oriente Medio y el estrecho de Ormuz, pero acaba la semana a la baja, en torno a 92 $, antes de la reunión de la OPEP+.",
-      "dato": "≈92 $",
-      "tendencia": "down",
+      "titulo": "Los precios de fábrica en China, al ritmo más alto desde 2022",
+      "texto": "Los precios industriales (IPP) suben un 5,7% en octubre, lo más rápido desde junio de 2022. La inflación de consumo se queda en el 0,7%.",
+      "dato": "+5,7%",
+      "tendencia": "up",
       "valores": [
-        "Brent"
+        "China"
       ],
-      "paraTi": "La gasolina sigue al petróleo con retraso de semanas, y el movimiento de esta semana es pequeño: apenas lo notarás en la gasolinera.",
-      "fuente": "FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
+      "paraTi": "Si a China le cuesta más fabricar, lo que importamos de allí puede encarecerse con el tiempo. Tarda meses en notarse en las tiendas, y no siempre se traslada entero.",
+      "fuente": "China Briefing (datos NBS)",
+      "url": "https://www.china-briefing.com/news/how-did-chinas-economy-perform-in-october-2026/"
     },
     {
-      "categoria": "EE. UU.",
-      "emoji": "🇺🇸",
-      "color": "#10B981",
-      "titulo": "Anthropic: de +17% a −9% en dos días",
-      "texto": "Salió a 83 $, cerró el jueves en 97,17 $ y el viernes cayó un 9,1%, hasta 88,30 $. Desde el lunes 23 se podrán negociar opciones sobre la acción.",
-      "dato": "88,30 $",
-      "cambio": "−9,1%",
-      "tendencia": "down",
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Japón se prepara para su tercera subida de tipos del año",
+      "texto": "El 86% de los economistas de una encuesta de Reuters espera que el Banco de Japón suba al 1,50% el 18 de diciembre. Sería el primer año con tres subidas en 37 años.",
+      "dato": "1,50%",
       "valores": [
-        "Anthropic"
+        "Yen",
+        "Nikkei 225"
       ],
-      "paraTi": "Solo te afecta de forma directa si tienes sus acciones. Acaba de salir a bolsa, así que aún no está en la mayoría de fondos indexados.",
-      "fuente": "AP",
-      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
+      "paraTi": "Apenas te afecta en el día a día. Pero si el yen se recupera, puede mover las bolsas de todo el mundo, también la de tu fondo indexado, porque mucho dinero se presta en yenes.",
+      "fuente": "investingLive (encuesta Reuters)",
+      "url": "https://investinglive.com/es/bancos-centrales/se-preve-que-el-boj-suba-al-150-en-diciembre-su-primer-ano-con-tres-subidas-en-37-anos/"
     },
     {
-      "categoria": "Agenda",
-      "emoji": "📅",
-      "color": "#8B5CF6",
-      "titulo": "La semana que viene: PCE, PIB y Acción de Gracias",
-      "texto": "Miércoles 25: PIB de EE. UU. (se espera +0,8% trimestral) e inflación PCE. Jueves 26: Wall Street cerrada. Viernes 27: cierra a las 19:00 y sale el IPC adelantado de España.",
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El yen, cerca de 160 por dólar",
+      "texto": "Japón ya gastó unos 100.000 millones $ en defender su moneda. El Nikkei 225 cae alrededor de un 7% en noviembre.",
+      "dato": "~160",
+      "tendencia": "down",
       "valores": [
-        "S&P 500",
-        "IBEX 35",
-        "EUR/USD"
+        "Yen",
+        "Nikkei 225"
       ],
-      "paraTi": "El IPC español es la inflación que ves en el súper y sirve de referencia en muchos alquileres y en la revalorización de las pensiones.",
-      "fuente": "Bolsamanía",
-      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
+      "paraTi": "Si viajas a Japón, un yen débil abarata el viaje. Para tus ahorros en España no cambia nada.",
+      "fuente": "investingLive (encuesta Reuters)",
+      "url": "https://investinglive.com/es/bancos-centrales/se-preve-que-el-boj-suba-al-150-en-diciembre-su-primer-ano-con-tres-subidas-en-37-anos/"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "La OPEP+ decide el domingo 29 el petróleo de 2027",
+      "texto": "Los 21 países se reúnen para fijar cuánto producirá cada uno el año que viene. El Brent cerró el viernes en 92,57 $, con el estrecho de Ormuz aún alterado.",
+      "dato": "92,57 $",
+      "valores": [
+        "Brent",
+        "OPEP+"
+      ],
+      "paraTi": "Lo que decidan puede notarse en la gasolinera y en la luz en semanas. Más producción suele abaratar el barril; menos, encarecerlo.",
+      "fuente": "investingLive",
+      "url": "https://investinglive.com/es/materias-primas/opec-mantiene-estables-los-objetivos-de-diciembre-por-tercer-mes-mientras-persiste-la-interrupcion-en-hormuz/"
     },
     {
       "categoria": "España",
       "emoji": "🇪🇸",
       "color": "#E11D48",
-      "titulo": "España vota el domingo 29",
-      "texto": "Elecciones generales el 29 de noviembre, tras una semana con el IPC adelantado (viernes 27; el anterior fue del 4,9%) y el dividendo de Mapfre (0,08 € brutos, jueves 26).",
+      "titulo": "Black Friday: 3 de cada 4 españoles comprarán",
+      "texto": "Según la OCU, el 76% piensa comprar el viernes 27, y el gasto previsto baja a 196 € por persona (219 € en 2025). Las compras por impulso caen del 42% al 36%.",
+      "dato": "196 €",
+      "tendencia": "down",
       "valores": [
-        "IBEX 35",
-        "Mapfre"
+        "Inditex",
+        "Amazon"
       ],
-      "paraTi": "Unas elecciones pueden mover la bolsa española y la prima de riesgo unos días. En tu hipoteca o tus depósitos no cambia nada de forma inmediata.",
-      "fuente": "Bolsamanía",
-      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
+      "paraTi": "Comparar el precio de las semanas anteriores ayuda a saber si el descuento es real. Lo que compras por internet se puede devolver en 14 días.",
+      "fuente": "OCU",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/encuestabfriday131126"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Casi la mitad, descontentos con el Black Friday",
+      "texto": "En otra encuesta (AEC), el 45% está insatisfecho con sus compras de años anteriores y solo el 25% satisfecho. Aun así, el gasto medio subiría un 2%, hasta 208 €.",
+      "dato": "45%",
+      "valores": [
+        "Inditex"
+      ],
+      "paraTi": "Las ofertas no siempre son tan buenas como parecen: casi la mitad de la gente no quedó contenta otros años.",
+      "fuente": "FashionUnited (encuesta AEC)",
+      "url": "https://fashionunited.es/noticias/retail/los-espanoles-elevaran-su-gasto-un-2-por-ciento-este-black-friday-con-la-moda-como-categoria-estrella/2026110951173"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Argentina: la inflación se acelera en octubre",
+      "texto": "Los precios subieron un 2,2% en el mes, más del 1,9% esperado, por el gas. En un año suben un 33,1%, algo menos que en septiembre (33,4%).",
+      "dato": "2,2%",
+      "tendencia": "up",
+      "valores": [
+        "Argentina"
+      ],
+      "paraTi": "No te afecta en España, salvo que tengas familia o negocios allí. Sirve para ver que 2% al mes es mucho: en España eso es casi lo que suben los precios en un año.",
+      "fuente": "Buenos Aires Times (Bloomberg)",
+      "url": "https://batimes.com.ar/news/economy/argentinas-inflation-ticked-up-more-than-expected-in-october.phtml"
     },
     {
       "categoria": "EE. UU.",
       "emoji": "🇺🇸",
       "color": "#10B981",
-      "titulo": "Resultados de la semana: Dell, HP y Deere",
-      "texto": "Lunes: HPE. Martes: Dell, HP, Workday, Autodesk, Medtronic y Best Buy. Miércoles: Deere, easyJet y la española HBX Group.",
+      "titulo": "Anthropic, la mayor salida a bolsa de la historia",
+      "texto": "Recaudó unos 81.000 millones $ al empezar a cotizar el jueves 19 en el Nasdaq, más que la de SpaceX, el récord anterior.",
+      "dato": "81.000 M$",
       "valores": [
-        "Dell",
-        "HP",
-        "Deere",
-        "HBX Group"
+        "Anthropic",
+        "Nasdaq"
       ],
-      "paraTi": "Dell y HP dicen mucho del gasto en ordenadores y servidores de IA. Pesan poco en los fondos indexados; solo importan mucho a quien tiene sus acciones.",
+      "paraTi": "Muestra cuánto dinero mueve la IA. Cuando entre en índices como el S&P 500 o el Nasdaq 100, los fondos indexados que la incluyan tendrán una parte pequeña.",
+      "fuente": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "¿Qué es una «corrección» en bolsa?",
+      "texto": "Se dice cuando un índice cae un 10% o más desde su máximo. Si llega al 20%, se habla de «mercado bajista». El S&P 500 entró en corrección el viernes.",
+      "valores": [
+        "S&P 500"
+      ],
+      "paraTi": "Las correcciones son normales: suelen pasar cada cierto tiempo. Para un fondo a largo plazo, lo que cuenta es lo que valga cuando lo necesites, no un viernes concreto.",
+      "fuente": "AP",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "¿Por qué subir los tipos frena los precios?",
+      "texto": "Si pedir dinero prestado cuesta más, empresas y familias gastan menos, y eso enfría la subida de precios. Pero también frena el crecimiento.",
+      "valores": [
+        "Euríbor"
+      ],
+      "paraTi": "Cuando suben los tipos, suelen subir el euríbor y la cuota de las hipotecas variables, y también lo que te dan los depósitos.",
+      "fuente": "investingLive",
+      "url": "https://investinglive.com/es/bancos-centrales/se-preve-que-el-boj-suba-al-150-en-diciembre-su-primer-ano-con-tres-subidas-en-37-anos/"
+    },
+    {
+      "categoria": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "titulo": "Lo más importante de la semana",
+      "texto": "Miércoles 25: inflación PCE y PIB de EE. UU. Jueves 26: Acción de Gracias. Viernes 27: Black Friday e IPC adelantado de España. Domingo 29: elecciones y OPEP+.",
+      "valores": [
+        "IBEX 35",
+        "S&P 500",
+        "Brent"
+      ],
+      "paraTi": "El IPC español es la inflación que notas en el súper y sirve de referencia en muchos alquileres y en las pensiones.",
       "fuente": "Bolsamanía",
       "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
     }
   ],
   "fuentes": [
     {
-      "nombre": "El Debate (Europa Press): el IBEX cae un 5,7% en la semana",
-      "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+      "nombre": "China Briefing: economía china en octubre de 2026",
+      "url": "https://www.china-briefing.com/news/how-did-chinas-economy-perform-in-october-2026/"
+    },
+    {
+      "nombre": "investingLive: encuesta Reuters sobre el Banco de Japón",
+      "url": "https://investinglive.com/es/bancos-centrales/se-preve-que-el-boj-suba-al-150-en-diciembre-su-primer-ano-con-tres-subidas-en-37-anos/"
+    },
+    {
+      "nombre": "investingLive: OPEP+ y reunión del 29 de noviembre",
+      "url": "https://investinglive.com/es/materias-primas/opec-mantiene-estables-los-objetivos-de-diciembre-por-tercer-mes-mientras-persiste-la-interrupcion-en-hormuz/"
+    },
+    {
+      "nombre": "OCU: encuesta Black Friday 2026",
+      "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/encuestabfriday131126"
+    },
+    {
+      "nombre": "FashionUnited: encuesta AEC Black Friday",
+      "url": "https://fashionunited.es/noticias/retail/los-espanoles-elevaran-su-gasto-un-2-por-ciento-este-black-friday-con-la-moda-como-categoria-estrella/2026110951173"
+    },
+    {
+      "nombre": "Buenos Aires Times: inflación de Argentina en octubre",
+      "url": "https://batimes.com.ar/news/economy/argentinas-inflation-ticked-up-more-than-expected-in-october.phtml"
+    },
+    {
+      "nombre": "Al Jazeera: salida a bolsa de Anthropic",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"
+    },
+    {
+      "nombre": "Bolsamanía: la semana que viene",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
     },
     {
       "nombre": "AP: cierre de Wall Street del 20 nov",
       "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-    },
-    {
-      "nombre": "finanzen.at (dpa-AFX): cierre del DAX",
-      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
-    },
-    {
-      "nombre": "ad-hoc-news: Euro Stoxx 50",
-      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
-    },
-    {
-      "nombre": "Yahoo Finance: directo del 20 nov",
-      "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
-    },
-    {
-      "nombre": "FinanceFeeds: Brent, tercera semana de caídas",
-      "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
-    },
-    {
-      "nombre": "Forbes España: agenda del 23 al 29 nov",
-      "url": "https://forbes.es/actualidad/1065428/agenda-citas-clave-del-23-al-29-de-noviembre/"
-    },
-    {
-      "nombre": "Inversiones y Trading: panorama semanal",
-      "url": "https://inversionesytrading.com/principal/hewlett-zoom-pce-pib-eeuu/"
-    },
-    {
-      "nombre": "Amistra: semana del 23 al 27 nov",
-      "url": "https://amistra.es/semana-del-23-11-26-al-27-11-26/"
-    },
-    {
-      "nombre": "Admirals: por qué cae la bolsa y agenda",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
-    },
-    {
-      "nombre": "Global Banking & Finance (Reuters): BASF y Evonik",
-      "url": "https://www.globalbankingandfinance.com/basf-ends-pursuit-evonik-bids-rejected/"
-    },
-    {
-      "nombre": "CoinCodex: criptomonedas, 22 nov",
-      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
-    },
-    {
-      "nombre": "BitcoinWorld: el bitcoin supera los 60.000 $",
-      "url": "https://bitcoinworld.co.in/bitcoin-tops-60000-recovery-what-next/"
-    },
-    {
-      "nombre": "Bolsamanía: agenda de la semana del 23 al 27 nov",
-      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
     }
   ]
 }
