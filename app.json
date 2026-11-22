@@ -1,7 +1,7 @@
 {
   "versionCode": 25,
   "versionName": "0.15.1",
-  "novedades": "Arreglado: en algunos móviles se cortaba la última letra de las líneas. Y al volver a la pantalla principal sigues donde estabas.",
+  "novedades": "Arreglado: en algunos móviles se cortaba la última letra de las líneas. Al volver a la pantalla principal sigues donde estabas, y el aviso de versión nueva ya sale al abrir la app.",
   "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.15.1.apk",
   "estadisticas": "https://cashcashnews.goatcounter.com",
   "opinion": ""
