@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.13.1",
-  "novedades": "Arreglo: la ficha de un valor ya no enseña el dato de otro valor que sale en la misma noticia.",
-  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.13.1.apk",
+  "versionCode": 21,
+  "versionName": "0.14.0",
+  "novedades": "Modo claro con tarjetas claras de verdad y aviso diario a las 6:00, cuando ya están las noticias de hoy.",
+  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.14.0.apk",
   "estadisticas": "https://cashcashnews.goatcounter.com",
   "opinion": ""
 }
