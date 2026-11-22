@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.14.1",
-  "novedades": "Los textos de los reels ahora van justificados.",
-  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.14.1.apk",
+  "versionCode": 24,
+  "versionName": "0.15.0",
+  "novedades": "Revisión completa: ningún texto se sale de su sitio con letra grande, modo claro con diálogos claros y stories que ya no se saltan solas.",
+  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.15.0.apk",
   "estadisticas": "https://cashcashnews.goatcounter.com",
   "opinion": ""
 }
