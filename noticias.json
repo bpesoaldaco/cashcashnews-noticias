@@ -1,633 +1,670 @@
 {
- "fecha": "2026-11-21",
- "fechaTexto": "Sábado 21 nov 2026",
- "actualizado": "08:15 (hora de Madrid)",
- "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Fin de semana: los datos de bolsa son del cierre del viernes; el bitcoin, del sábado a primera hora.",
- "indicadores": [
-  {
-   "id": "ibex",
-   "nombre": "IBEX 35",
-   "valor": "18.873,1",
-   "cambio": "−1,63%",
-   "tendencia": "down"
-  },
-  {
-   "id": "eurostoxx",
-   "nombre": "Euro Stoxx 50",
-   "valor": "5.952,45",
-   "cambio": "−2,64%",
-   "tendencia": "down"
-  },
-  {
-   "id": "dax",
-   "nombre": "DAX",
-   "valor": "24.802,78",
-   "cambio": "−2,6%",
-   "tendencia": "down"
-  },
-  {
-   "id": "sp500",
-   "nombre": "S&P 500",
-   "valor": "6.910,39",
-   "cambio": "−3,7%",
-   "tendencia": "down"
-  },
-  {
-   "id": "nasdaq",
-   "nombre": "Nasdaq",
-   "valor": "22.617,73",
-   "cambio": "−5,3%",
-   "tendencia": "down"
-  },
-  {
-   "id": "brent",
-   "nombre": "Brent",
-   "valor": "92,57 $",
-   "tendencia": "flat"
-  },
-  {
-   "id": "oro",
-   "nombre": "Oro",
-   "valor": "3.536 $",
-   "tendencia": "down"
-  },
-  {
-   "id": "eurusd",
-   "nombre": "EUR/USD",
-   "valor": "1,0982",
-   "tendencia": "flat"
-  },
-  {
-   "id": "bitcoin",
-   "nombre": "Bitcoin",
-   "valor": "55.796 $",
-   "cambio": "−9,9%",
-   "tendencia": "down"
-  }
- ],
- "stories": [
-  {
-   "id": "mercados",
-   "titulo": "Mercados",
-   "emoji": "📊",
-   "color": "#0EA5E9",
-   "slides": [
+  "fecha": "2026-11-22",
+  "fechaTexto": "Domingo 22 nov 2026",
+  "actualizado": "08:10 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Fin de semana: los datos de bolsa son del cierre del viernes; el bitcoin, del domingo a primera hora.",
+  "indicadores": [
     {
-     "titulo": "Semana negra en las bolsas",
-     "texto": "El S&P 500 pierde un 8,6% en la semana, el Nasdaq un 10% y el IBEX un 5,7%. La venta de tecnológicas y chips lo arrastra todo.",
-     "dato": "−8,6%",
-     "cambio": "S&P 500",
-     "tendencia": "down",
-     "valores": [
-      "S&P 500",
-      "Nasdaq",
-      "IBEX 35"
-     ]
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "18.873,1",
+      "cambio": "−1,63%",
+      "tendencia": "down"
     },
     {
-     "titulo": "El bitcoin, por debajo de 56.000 $",
-     "texto": "Cae cerca de un 10% en 24 horas, hasta 55.796 $. El mercado cripto vale 2 billones $, un 5,4% menos que ayer.",
-     "dato": "55.796 $",
-     "cambio": "−9,9%",
-     "tendencia": "down",
-     "valores": [
-      "Bitcoin"
-     ]
+      "id": "eurostoxx",
+      "nombre": "Euro Stoxx 50",
+      "valor": "5.952,45",
+      "cambio": "−2,64%",
+      "tendencia": "down"
     },
     {
-     "titulo": "Oro y petróleo, a la baja",
-     "texto": "El oro baja a unos 3.536 $ la onza. El Brent encadena su tercera semana de caídas, en torno a 92 $.",
-     "dato": "3.536 $",
-     "tendencia": "down",
-     "valores": [
-      "Oro",
-      "Brent"
-     ]
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "24.802,78",
+      "cambio": "−2,6%",
+      "tendencia": "down"
     },
     {
-     "titulo": "La Fed, casi segura",
-     "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre.",
-     "dato": "97,5%",
-     "cambio": "+25 pb",
-     "tendencia": "up",
-     "valores": [
-      "EUR/USD"
-     ]
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "6.910,39",
+      "cambio": "−3,7%",
+      "tendencia": "down"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "22.617,73",
+      "cambio": "−5,3%",
+      "tendencia": "down"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "92,57 $",
+      "tendencia": "flat"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.536 $",
+      "tendencia": "down"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "EUR/USD",
+      "valor": "1,0982",
+      "tendencia": "flat"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "valor": "58.944 $",
+      "cambio": "+5,68%",
+      "tendencia": "up"
     }
-   ]
-  },
-  {
-   "id": "espana",
-   "titulo": "España",
-   "emoji": "🇪🇸",
-   "color": "#E11D48",
-   "slides": [
+  ],
+  "stories": [
     {
-     "titulo": "El IBEX pierde los 19.000",
-     "texto": "Cinco caídas seguidas: cierra el viernes en 18.873,1 (−1,63%) y se deja un 5,73% en la semana, la peor desde marzo.",
-     "dato": "18.873,1",
-     "cambio": "−5,73% sem.",
-     "tendencia": "down",
-     "valores": [
-      "IBEX 35"
-     ],
-     "grafica": {
-      "valores": [
-       19946.6,
-       19625.3,
-       19373,
-       19186.2,
-       18873.1
-      ],
-      "etiquetas": [
-       "16 nov",
-       "17 nov",
-       "18 nov",
-       "19 nov",
-       "20 nov"
+      "id": "mercados",
+      "titulo": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "slides": [
+        {
+          "titulo": "Semana negra en las bolsas",
+          "texto": "El S&P 500 pierde un 8,6% en la semana, el Nasdaq un 10% y el IBEX un 5,7%. La venta de tecnológicas y chips lo arrastra todo.",
+          "dato": "−8,6%",
+          "cambio": "S&P 500",
+          "tendencia": "down",
+          "valores": [
+            "S&P 500",
+            "Nasdaq",
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "El bitcoin rebota a 58.900 $",
+          "texto": "Sube un 5,68% en 24 horas, hasta 58.944 $, tras tocar 55.127 $ el sábado. El mercado cripto vale 2,04 billones $ (+2,57%).",
+          "dato": "58.944 $",
+          "cambio": "+5,68%",
+          "tendencia": "up",
+          "valores": [
+            "Bitcoin"
+          ]
+        },
+        {
+          "titulo": "Oro y petróleo, a la baja",
+          "texto": "El oro baja a unos 3.536 $ la onza. El Brent encadena su tercera semana de caídas, en torno a 92 $.",
+          "dato": "3.536 $",
+          "tendencia": "down",
+          "valores": [
+            "Oro",
+            "Brent"
+          ]
+        },
+        {
+          "titulo": "La Fed, casi segura",
+          "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre.",
+          "dato": "97,5%",
+          "cambio": "+25 pb",
+          "tendencia": "up",
+          "valores": [
+            "EUR/USD"
+          ]
+        }
       ]
-     }
     },
     {
-     "titulo": "Los peores del viernes",
-     "texto": "Solo 7 valores subieron. ArcelorMittal cayó un 5,66%. Solaria se dejó más de un 5% el lunes y el jueves.",
-     "dato": "ArcelorMittal",
-     "cambio": "−5,66%",
-     "tendencia": "down",
-     "valores": [
-      "ArcelorMittal",
-      "Solaria"
-     ]
-    },
-    {
-     "titulo": "Lo que viene en España",
-     "texto": "Jueves 26: Mapfre paga dividendo. Viernes 27: IPC adelantado y ventas minoristas. Domingo 29: elecciones generales.",
-     "valores": [
-      "Mapfre",
-      "IBEX 35"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "europa",
-   "titulo": "Europa",
-   "emoji": "🇪🇺",
-   "color": "#6366F1",
-   "slides": [
-    {
-     "titulo": "El DAX, por debajo de 25.000",
-     "texto": "Cae un 2,6% el viernes, hasta 24.802,78, y más de un 7% en la semana.",
-     "dato": "24.802,78",
-     "cambio": "−2,6%",
-     "tendencia": "down",
-     "valores": [
-      "DAX"
-     ]
-    },
-    {
-     "titulo": "Euro Stoxx 50: −2,64%",
-     "texto": "Cierra en 5.952,45. ASML se hundió un 9,3% por la venta de chips.",
-     "dato": "5.952,45",
-     "cambio": "−2,64%",
-     "tendencia": "down",
-     "valores": [
-      "Euro Stoxx 50",
-      "ASML"
-     ]
-    },
-    {
-     "titulo": "Evonik se queda sin BASF",
-     "texto": "Cayó un 17% esta semana después de que BASF renunciara a comprarla tras dos ofertas rechazadas.",
-     "dato": "Evonik",
-     "cambio": "−17%",
-     "tendencia": "down",
-     "valores": [
-      "Evonik",
-      "BASF"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eeuu",
-   "titulo": "EE. UU.",
-   "emoji": "🇺🇸",
-   "color": "#10B981",
-   "slides": [
-    {
-     "titulo": "El S&P 500 entra en corrección",
-     "texto": "Cae un 3,7% el viernes, hasta 6.910,39, su séptima sesión seguida en rojo.",
-     "dato": "6.910,39",
-     "cambio": "−3,7%",
-     "tendencia": "down",
-     "valores": [
-      "S&P 500"
-     ],
-     "grafica": {
-      "valores": [
-       7416.59,
-       7340.53,
-       7323.8,
-       7175.83,
-       6910.39
-      ],
-      "etiquetas": [
-       "16 nov",
-       "17 nov",
-       "18 nov",
-       "19 nov",
-       "20 nov"
+      "id": "espana",
+      "titulo": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "slides": [
+        {
+          "titulo": "El IBEX pierde los 19.000",
+          "texto": "Cinco caídas seguidas: cierra el viernes en 18.873,1 (−1,63%) y se deja un 5,73% en la semana, la peor desde marzo.",
+          "dato": "18.873,1",
+          "cambio": "−5,73% sem.",
+          "tendencia": "down",
+          "valores": [
+            "IBEX 35"
+          ],
+          "grafica": {
+            "valores": [
+              19946.6,
+              19625.3,
+              19373,
+              19186.2,
+              18873.1
+            ],
+            "etiquetas": [
+              "16 nov",
+              "17 nov",
+              "18 nov",
+              "19 nov",
+              "20 nov"
+            ]
+          }
+        },
+        {
+          "titulo": "Los peores del viernes",
+          "texto": "Solo 7 valores subieron. ArcelorMittal cayó un 5,66%. Solaria se dejó más de un 5% el lunes y el jueves.",
+          "dato": "ArcelorMittal",
+          "cambio": "−5,66%",
+          "tendencia": "down",
+          "valores": [
+            "ArcelorMittal",
+            "Solaria"
+          ]
+        },
+        {
+          "titulo": "Lo que viene en España",
+          "texto": "Jueves 26: Mapfre paga dividendo. Viernes 27: IPC adelantado y ventas minoristas. Domingo 29: elecciones generales.",
+          "valores": [
+            "Mapfre",
+            "IBEX 35"
+          ]
+        }
       ]
-     }
     },
     {
-     "titulo": "El Nasdaq ya baja en el año",
-     "texto": "Se hunde un 5,3%, hasta 22.617,73.",
-     "dato": "22.617,73",
-     "cambio": "−5,3%",
-     "tendencia": "down",
-     "valores": [
-      "Nasdaq"
-     ]
+      "id": "europa",
+      "titulo": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "slides": [
+        {
+          "titulo": "El DAX, por debajo de 25.000",
+          "texto": "Cae un 2,6% el viernes, hasta 24.802,78, y más de un 7% en la semana.",
+          "dato": "24.802,78",
+          "cambio": "−2,6%",
+          "tendencia": "down",
+          "valores": [
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "Euro Stoxx 50: −2,64%",
+          "texto": "Cierra en 5.952,45. ASML se hundió un 9,3% por la venta de chips.",
+          "dato": "5.952,45",
+          "cambio": "−2,64%",
+          "tendencia": "down",
+          "valores": [
+            "Euro Stoxx 50",
+            "ASML"
+          ]
+        },
+        {
+          "titulo": "Evonik se queda sin BASF",
+          "texto": "Cayó un 17% esta semana después de que BASF renunciara a comprarla tras dos ofertas rechazadas.",
+          "dato": "Evonik",
+          "cambio": "−17%",
+          "tendencia": "down",
+          "valores": [
+            "Evonik",
+            "BASF"
+          ]
+        }
+      ]
     },
     {
-     "titulo": "Chips en caída libre",
-     "texto": "Nvidia −13,8%, Micron −13,9%, AMD −13,3% y Broadcom −12,1% el viernes.",
-     "dato": "Nvidia",
-     "cambio": "−13,8%",
-     "tendencia": "down",
-     "valores": [
-      "Nvidia",
-      "Micron",
-      "AMD",
-      "Broadcom"
-     ]
+      "id": "eeuu",
+      "titulo": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "slides": [
+        {
+          "titulo": "El S&P 500 entra en corrección",
+          "texto": "Cae un 3,7% el viernes, hasta 6.910,39, su séptima sesión seguida en rojo.",
+          "dato": "6.910,39",
+          "cambio": "−3,7%",
+          "tendencia": "down",
+          "valores": [
+            "S&P 500"
+          ],
+          "grafica": {
+            "valores": [
+              7416.59,
+              7340.53,
+              7323.8,
+              7175.83,
+              6910.39
+            ],
+            "etiquetas": [
+              "16 nov",
+              "17 nov",
+              "18 nov",
+              "19 nov",
+              "20 nov"
+            ]
+          }
+        },
+        {
+          "titulo": "El Nasdaq ya baja en el año",
+          "texto": "Se hunde un 5,3%, hasta 22.617,73.",
+          "dato": "22.617,73",
+          "cambio": "−5,3%",
+          "tendencia": "down",
+          "valores": [
+            "Nasdaq"
+          ]
+        },
+        {
+          "titulo": "Chips en caída libre",
+          "texto": "Nvidia −13,8%, Micron −13,9%, AMD −13,3% y Broadcom −12,1% el viernes.",
+          "dato": "Nvidia",
+          "cambio": "−13,8%",
+          "tendencia": "down",
+          "valores": [
+            "Nvidia",
+            "Micron",
+            "AMD",
+            "Broadcom"
+          ]
+        },
+        {
+          "titulo": "Anthropic, por debajo de su estreno",
+          "texto": "Cae un 9,1% el viernes, hasta 88,30 $. Salió a bolsa a 83 $.",
+          "dato": "88,30 $",
+          "cambio": "−9,1%",
+          "tendencia": "down",
+          "valores": [
+            "Anthropic"
+          ]
+        }
+      ]
     },
     {
-     "titulo": "Anthropic, por debajo de su estreno",
-     "texto": "Cae un 9,1% el viernes, hasta 88,30 $. Salió a bolsa a 83 $.",
-     "dato": "88,30 $",
-     "cambio": "−9,1%",
-     "tendencia": "down",
-     "valores": [
-      "Anthropic"
-     ]
+      "id": "ideas",
+      "titulo": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "slides": [
+        {
+          "titulo": "Esto no son recomendaciones",
+          "texto": "Son ideas para investigar por tu cuenta, no consejos de compra o venta. Cada una tiene su riesgo.",
+          "aviso": true
+        },
+        {
+          "titulo": "Nvidia tras caer un 13,8%",
+          "texto": "Se hunde pese a unos buenos resultados: la duda es lo que rinde el gasto en IA. Riesgo: que las caídas sigan si esas dudas no se despejan.",
+          "aviso": true,
+          "valores": [
+            "Nvidia"
+          ]
+        },
+        {
+          "titulo": "Anthropic y sus opciones",
+          "texto": "Desde el lunes 23 habrá opciones sobre la acción, que ya cotiza un 9% por debajo de su cierre del jueves. Riesgo: valoración enorme y mucha volatilidad.",
+          "aviso": true,
+          "valores": [
+            "Anthropic"
+          ]
+        },
+        {
+          "titulo": "El oro, lejos de su récord",
+          "texto": "Ronda los 3.536 $, muy por debajo de los 5.594,82 $ de enero. Riesgo: más subidas de tipos y un dólar fuerte pueden seguir presionándolo.",
+          "aviso": true,
+          "valores": [
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "Evonik sin oferta",
+          "texto": "Cae un 17% al quedarse sin la oferta de 24 € de BASF. Riesgo: sin prima de compra cotiza solo por su negocio, en un sector químico débil.",
+          "aviso": true,
+          "valores": [
+            "Evonik"
+          ]
+        },
+        {
+          "titulo": "El bitcoin, rebote en duda",
+          "texto": "Pasa de 55.127 $ a superar 60.000 $ en horas. Riesgo: es muy volátil, y la Fed puede subir tipos el 9 de diciembre, algo que suele pesar sobre los activos de riesgo.",
+          "aviso": true,
+          "valores": [
+            "Bitcoin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "titulo": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "slides": [
+        {
+          "titulo": "Hoy, domingo",
+          "texto": "Las bolsas están cerradas. Solo cotizan las criptomonedas. Mañana abren de nuevo."
+        },
+        {
+          "titulo": "Lunes 23 y martes 24",
+          "texto": "Lunes: PMI de la eurozona y EE. UU., opciones de Anthropic y HPE tras el cierre. Martes: Ifo alemán y confianza del consumidor de EE. UU. (se espera 92,1); Dell y HP.",
+          "valores": [
+            "Anthropic",
+            "Dell",
+            "HP"
+          ]
+        },
+        {
+          "titulo": "Miércoles 25, 14:30",
+          "texto": "Inflación PCE subyacente de EE. UU. (se espera +0,3% mensual y 3,2% anual) y PIB del tercer trimestre. También el PIB alemán.",
+          "valores": [
+            "S&P 500",
+            "EUR/USD"
+          ]
+        },
+        {
+          "titulo": "Jueves 26 a domingo 29",
+          "texto": "Jueves: Wall Street cerrada por Acción de Gracias. Viernes: cierra a las 19:00 e IPC adelantado de España. Domingo: elecciones generales.",
+          "valores": [
+            "IBEX 35",
+            "S&P 500"
+          ]
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "ideas",
-   "titulo": "Ideas",
-   "emoji": "💡",
-   "color": "#F59E0B",
-   "slides": [
+  ],
+  "reels": [
     {
-     "titulo": "Esto no son recomendaciones",
-     "texto": "Son ideas para investigar por tu cuenta, no consejos de compra o venta. Cada una tiene su riesgo.",
-     "aviso": true
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
+      "texto": "Cinco sesiones en rojo. El viernes cae otro 1,63% y cierra en 18.873,1, por debajo de los 19.000. ArcelorMittal (−5,66%) fue el peor.",
+      "dato": "18.873,1",
+      "cambio": "−1,63%",
+      "tendencia": "down",
+      "valores": [
+        "IBEX 35",
+        "ArcelorMittal"
+      ],
+      "grafica": {
+        "valores": [
+          19946.6,
+          19625.3,
+          19373,
+          19186.2,
+          18873.1
+        ],
+        "etiquetas": [
+          "16 nov",
+          "17 nov",
+          "18 nov",
+          "19 nov",
+          "20 nov"
+        ]
+      },
+      "paraTi": "Si tienes un fondo de bolsa española, esta semana vale menos. Es una caída en el papel: solo se convierte en pérdida si vendes.",
+      "fuente": "El Debate (Europa Press)",
+      "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
     },
     {
-     "titulo": "Nvidia tras caer un 13,8%",
-     "texto": "Se hunde pese a unos buenos resultados: la duda es lo que rinde el gasto en IA. Riesgo: que las caídas sigan si esas dudas no se despejan.",
-     "aviso": true,
-     "valores": [
-      "Nvidia"
-     ]
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección",
+      "texto": "Séptima caída seguida: cierra el viernes en 6.910,39. En la semana pierde un 8,6%, arrastrado por las tecnológicas y la inteligencia artificial.",
+      "dato": "6.910,39",
+      "cambio": "−3,7%",
+      "tendencia": "down",
+      "valores": [
+        "S&P 500",
+        "Dow Jones"
+      ],
+      "grafica": {
+        "valores": [
+          7416.59,
+          7340.53,
+          7323.8,
+          7175.83,
+          6910.39
+        ],
+        "etiquetas": [
+          "16 nov",
+          "17 nov",
+          "18 nov",
+          "19 nov",
+          "20 nov"
+        ]
+      },
+      "paraTi": "Si tienes un fondo del S&P 500 o del MSCI World, como muchos planes de pensiones, es la parte que más ha bajado esta semana.",
+      "fuente": "AP",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
     },
     {
-     "titulo": "Anthropic y sus opciones",
-     "texto": "Desde el lunes 23 habrá opciones sobre la acción, que ya cotiza un 9% por debajo de su cierre del jueves. Riesgo: valoración enorme y mucha volatilidad.",
-     "aviso": true,
-     "valores": [
-      "Anthropic"
-     ]
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "El Nasdaq ya pierde en el año",
+      "texto": "Cae un 5,3% el viernes, hasta 22.617,73, y borra todo lo que ganaba en 2026. En la semana se deja un 10%.",
+      "dato": "22.617,73",
+      "cambio": "−5,3%",
+      "tendencia": "down",
+      "valores": [
+        "Nasdaq"
+      ],
+      "paraTi": "Los fondos tecnológicos y los que siguen al Nasdaq son los que más notan esta caída. Si tu fondo es mundial, también le afecta, aunque menos.",
+      "fuente": "AP",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
     },
     {
-     "titulo": "El oro, lejos de su récord",
-     "texto": "Ronda los 3.536 $, muy por debajo de los 5.594,82 $ de enero. Riesgo: más subidas de tipos y un dólar fuerte pueden seguir presionándolo.",
-     "aviso": true,
-     "valores": [
-      "Oro"
-     ]
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Huye el dinero de los chips",
+      "texto": "Ni los buenos resultados de Nvidia frenan las dudas sobre lo que rinde el gasto en IA. El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%.",
+      "dato": "Nvidia",
+      "cambio": "−13,8%",
+      "tendencia": "down",
+      "valores": [
+        "Nvidia",
+        "Micron",
+        "AMD",
+        "Broadcom"
+      ],
+      "paraTi": "Estas empresas pesan mucho en los fondos indexados de EE. UU. y mundiales, así que la caída se nota en ellos aunque no tengas acciones de chips.",
+      "fuente": "AP",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
     },
     {
-     "titulo": "Evonik sin oferta",
-     "texto": "Cae un 17% al quedarse sin la oferta de 24 € de BASF. Riesgo: sin prima de compra cotiza solo por su negocio, en un sector químico débil.",
-     "aviso": true,
-     "valores": [
-      "Evonik"
-     ]
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "El DAX baja de 25.000 puntos",
+      "texto": "Cae un 2,6% el viernes y cierra en 24.802,78; pierde más de un 7% en la semana. El Euro Stoxx 50 cede un 2,64%, hasta 5.952,45.",
+      "dato": "24.802,78",
+      "cambio": "−2,6%",
+      "tendencia": "down",
+      "valores": [
+        "DAX",
+        "Euro Stoxx 50",
+        "ASML"
+      ],
+      "paraTi": "Los fondos indexados europeos también bajan. Si aportas cada mes, compras participaciones más baratas; si no tocas nada, no cambia.",
+      "fuente": "dpa-AFX (finanzen.at)",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
     },
     {
-     "titulo": "El bitcoin, bajo 56.000 $",
-     "texto": "Cae casi un 10% en un día. Riesgo: es muy volátil y los tipos altos suelen pesar sobre los activos de más riesgo.",
-     "aviso": true,
-     "valores": [
-      "Bitcoin"
-     ]
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El bitcoin rebota hasta unos 58.900 $",
+      "texto": "Tras tocar 55.127 $ el sábado, llegó a superar los 60.000 $. Este domingo a primera hora vale 58.944 $ (+5,68% en 24 horas). El ether sube un 6,08%, hasta 1.654 $.",
+      "dato": "58.944 $",
+      "cambio": "+5,68%",
+      "tendencia": "up",
+      "valores": [
+        "Bitcoin"
+      ],
+      "grafica": {
+        "valores": [
+          55796,
+          60400,
+          58944
+        ],
+        "etiquetas": [
+          "sáb 7:00",
+          "sáb 22:30",
+          "dom 7:00"
+        ]
+      },
+      "paraTi": "Solo te afecta si tienes criptomonedas: en dos días ha caído y rebotado con fuerza. No están cubiertas por el fondo de garantía de depósitos.",
+      "fuente": "CoinCodex",
+      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "La Fed subirá tipos, casi seguro",
+      "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre. El oro baja a unos 3.536 $, lejos de su récord de enero.",
+      "dato": "97,5%",
+      "cambio": "+25 pb",
+      "tendencia": "up",
+      "valores": [
+        "Oro",
+        "EUR/USD"
+      ],
+      "paraTi": "Los tipos de EE. UU. no fijan tu euríbor, que depende del BCE. Pero el dólar fuerte encarece lo que pagas en dólares, como viajes o compras online.",
+      "fuente": "Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El Brent cierra su tercera semana de caídas",
+      "texto": "Rebota el viernes por la tensión en Oriente Medio y el estrecho de Ormuz, pero acaba la semana a la baja, en torno a 92 $, antes de la reunión de la OPEP+.",
+      "dato": "≈92 $",
+      "tendencia": "down",
+      "valores": [
+        "Brent"
+      ],
+      "paraTi": "La gasolina sigue al petróleo con retraso de semanas, y el movimiento de esta semana es pequeño: apenas lo notarás en la gasolinera.",
+      "fuente": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Anthropic: de +17% a −9% en dos días",
+      "texto": "Salió a 83 $, cerró el jueves en 97,17 $ y el viernes cayó un 9,1%, hasta 88,30 $. Desde el lunes 23 se podrán negociar opciones sobre la acción.",
+      "dato": "88,30 $",
+      "cambio": "−9,1%",
+      "tendencia": "down",
+      "valores": [
+        "Anthropic"
+      ],
+      "paraTi": "Solo te afecta de forma directa si tienes sus acciones. Acaba de salir a bolsa, así que aún no está en la mayoría de fondos indexados.",
+      "fuente": "AP",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
+    },
+    {
+      "categoria": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "titulo": "La semana que viene: PCE, PIB y Acción de Gracias",
+      "texto": "Miércoles 25: PIB de EE. UU. (se espera +0,8% trimestral) e inflación PCE. Jueves 26: Wall Street cerrada. Viernes 27: cierra a las 19:00 y sale el IPC adelantado de España.",
+      "valores": [
+        "S&P 500",
+        "IBEX 35",
+        "EUR/USD"
+      ],
+      "paraTi": "El IPC español es la inflación que ves en el súper y sirve de referencia en muchos alquileres y en la revalorización de las pensiones.",
+      "fuente": "Bolsamanía",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "España vota el domingo 29",
+      "texto": "Elecciones generales el 29 de noviembre, tras una semana con el IPC adelantado (viernes 27; el anterior fue del 4,9%) y el dividendo de Mapfre (0,08 € brutos, jueves 26).",
+      "valores": [
+        "IBEX 35",
+        "Mapfre"
+      ],
+      "paraTi": "Unas elecciones pueden mover la bolsa española y la prima de riesgo unos días. En tu hipoteca o tus depósitos no cambia nada de forma inmediata.",
+      "fuente": "Bolsamanía",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Resultados de la semana: Dell, HP y Deere",
+      "texto": "Lunes: HPE. Martes: Dell, HP, Workday, Autodesk, Medtronic y Best Buy. Miércoles: Deere, easyJet y la española HBX Group.",
+      "valores": [
+        "Dell",
+        "HP",
+        "Deere",
+        "HBX Group"
+      ],
+      "paraTi": "Dell y HP dicen mucho del gasto en ordenadores y servidores de IA. Pesan poco en los fondos indexados; solo importan mucho a quien tiene sus acciones.",
+      "fuente": "Bolsamanía",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
     }
-   ]
-  },
-  {
-   "id": "agenda",
-   "titulo": "Agenda",
-   "emoji": "📅",
-   "color": "#8B5CF6",
-   "slides": [
+  ],
+  "fuentes": [
     {
-     "titulo": "Hoy, fin de semana",
-     "texto": "Las bolsas están cerradas sábado y domingo. Solo cotizan las criptomonedas."
+      "nombre": "El Debate (Europa Press): el IBEX cae un 5,7% en la semana",
+      "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
     },
     {
-     "titulo": "Lunes 23 y martes 24",
-     "texto": "Lunes: PMI de la eurozona y EE. UU., opciones de Anthropic y HPE tras el cierre. Martes: confianza del consumidor de EE. UU.; Dell y HP tras el cierre.",
-     "valores": [
-      "Anthropic"
-     ]
+      "nombre": "AP: cierre de Wall Street del 20 nov",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
     },
     {
-     "titulo": "Miércoles 25, 14:30",
-     "texto": "Inflación PCE subyacente de EE. UU. (se espera +0,3% mensual y 3,2% anual) y PIB del tercer trimestre. También el PIB alemán.",
-     "valores": [
-      "S&P 500",
-      "EUR/USD"
-     ]
+      "nombre": "finanzen.at (dpa-AFX): cierre del DAX",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
     },
     {
-     "titulo": "Jueves 26 a domingo 29",
-     "texto": "Jueves: Wall Street cerrada por Acción de Gracias. Viernes: cierra a las 19:00 e IPC adelantado de España. Domingo: elecciones generales.",
-     "valores": [
-      "IBEX 35",
-      "S&P 500"
-     ]
+      "nombre": "ad-hoc-news: Euro Stoxx 50",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
+    },
+    {
+      "nombre": "Yahoo Finance: directo del 20 nov",
+      "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+    },
+    {
+      "nombre": "FinanceFeeds: Brent, tercera semana de caídas",
+      "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
+    },
+    {
+      "nombre": "Forbes España: agenda del 23 al 29 nov",
+      "url": "https://forbes.es/actualidad/1065428/agenda-citas-clave-del-23-al-29-de-noviembre/"
+    },
+    {
+      "nombre": "Inversiones y Trading: panorama semanal",
+      "url": "https://inversionesytrading.com/principal/hewlett-zoom-pce-pib-eeuu/"
+    },
+    {
+      "nombre": "Amistra: semana del 23 al 27 nov",
+      "url": "https://amistra.es/semana-del-23-11-26-al-27-11-26/"
+    },
+    {
+      "nombre": "Admirals: por qué cae la bolsa y agenda",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
+    },
+    {
+      "nombre": "Global Banking & Finance (Reuters): BASF y Evonik",
+      "url": "https://www.globalbankingandfinance.com/basf-ends-pursuit-evonik-bids-rejected/"
+    },
+    {
+      "nombre": "CoinCodex: criptomonedas, 22 nov",
+      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+    },
+    {
+      "nombre": "BitcoinWorld: el bitcoin supera los 60.000 $",
+      "url": "https://bitcoinworld.co.in/bitcoin-tops-60000-recovery-what-next/"
+    },
+    {
+      "nombre": "Bolsamanía: agenda de la semana del 23 al 27 nov",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
     }
-   ]
-  }
- ],
- "reels": [
-  {
-   "categoria": "Mercados",
-   "emoji": "📊",
-   "color": "#0EA5E9",
-   "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
-   "texto": "Cinco sesiones en rojo. El viernes cae otro 1,63% y cierra en 18.873,1, por debajo de los 19.000. ArcelorMittal (−5,66%) fue el peor.",
-   "dato": "18.873,1",
-   "cambio": "−1,63%",
-   "tendencia": "down",
-   "valores": [
-    "IBEX 35",
-    "ArcelorMittal"
-   ],
-   "grafica": {
-    "valores": [
-     19946.6,
-     19625.3,
-     19373,
-     19186.2,
-     18873.1
-    ],
-    "etiquetas": [
-     "16 nov",
-     "17 nov",
-     "18 nov",
-     "19 nov",
-     "20 nov"
-    ]
-   },
-   "paraTi": "Si tienes un fondo de bolsa española, esta semana vale menos. Es una caída en el papel: solo se convierte en pérdida si vendes.",
-   "fuente": "El Debate (Europa Press)",
-   "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
-  },
-  {
-   "categoria": "EE. UU.",
-   "emoji": "🇺🇸",
-   "color": "#10B981",
-   "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección",
-   "texto": "Séptima caída seguida: cierra el viernes en 6.910,39. En la semana pierde un 8,6%, arrastrado por las tecnológicas y la inteligencia artificial.",
-   "dato": "6.910,39",
-   "cambio": "−3,7%",
-   "tendencia": "down",
-   "valores": [
-    "S&P 500",
-    "Dow Jones"
-   ],
-   "grafica": {
-    "valores": [
-     7416.59,
-     7340.53,
-     7323.8,
-     7175.83,
-     6910.39
-    ],
-    "etiquetas": [
-     "16 nov",
-     "17 nov",
-     "18 nov",
-     "19 nov",
-     "20 nov"
-    ]
-   },
-   "paraTi": "Si tienes un fondo del S&P 500 o del MSCI World, como muchos planes de pensiones, es la parte que más ha bajado esta semana.",
-   "fuente": "AP",
-   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-  },
-  {
-   "categoria": "EE. UU.",
-   "emoji": "🇺🇸",
-   "color": "#10B981",
-   "titulo": "El Nasdaq ya pierde en el año",
-   "texto": "Cae un 5,3% el viernes, hasta 22.617,73, y borra todo lo que ganaba en 2026. En la semana se deja un 10%.",
-   "dato": "22.617,73",
-   "cambio": "−5,3%",
-   "tendencia": "down",
-   "valores": [
-    "Nasdaq"
-   ],
-   "paraTi": "Los fondos tecnológicos y los que siguen al Nasdaq son los que más notan esta caída. Si tu fondo es mundial, también le afecta, aunque menos.",
-   "fuente": "AP",
-   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-  },
-  {
-   "categoria": "Mercados",
-   "emoji": "📊",
-   "color": "#0EA5E9",
-   "titulo": "Huye el dinero de los chips",
-   "texto": "Ni los buenos resultados de Nvidia frenan las dudas sobre lo que rinde el gasto en IA. El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%.",
-   "dato": "Nvidia",
-   "cambio": "−13,8%",
-   "tendencia": "down",
-   "valores": [
-    "Nvidia",
-    "Micron",
-    "AMD",
-    "Broadcom"
-   ],
-   "paraTi": "Estas empresas pesan mucho en los fondos indexados de EE. UU. y mundiales, así que la caída se nota en ellos aunque no tengas acciones de chips.",
-   "fuente": "AP",
-   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-  },
-  {
-   "categoria": "Europa",
-   "emoji": "🇪🇺",
-   "color": "#6366F1",
-   "titulo": "El DAX baja de 25.000 puntos",
-   "texto": "Cae un 2,6% el viernes y cierra en 24.802,78; pierde más de un 7% en la semana. El Euro Stoxx 50 cede un 2,64%, hasta 5.952,45.",
-   "dato": "24.802,78",
-   "cambio": "−2,6%",
-   "tendencia": "down",
-   "valores": [
-    "DAX",
-    "Euro Stoxx 50",
-    "ASML"
-   ],
-   "paraTi": "Los fondos indexados europeos también bajan. Si aportas cada mes, compras participaciones más baratas; si no tocas nada, no cambia.",
-   "fuente": "dpa-AFX (finanzen.at)",
-   "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
-  },
-  {
-   "categoria": "Mercados",
-   "emoji": "📊",
-   "color": "#0EA5E9",
-   "titulo": "El bitcoin se hunde hasta unos 55.800 $",
-   "texto": "Cae cerca de un 10% en 24 horas, hasta 55.796 $ este sábado a primera hora. El ether pierde un 10,4%, hasta 1.559 $.",
-   "dato": "55.796 $",
-   "cambio": "−9,9%",
-   "tendencia": "down",
-   "valores": [
-    "Bitcoin"
-   ],
-   "paraTi": "Solo te afecta si tienes criptomonedas: su precio puede moverse mucho en horas. No están cubiertas por el fondo de garantía de depósitos.",
-   "fuente": "CoinCodex",
-   "url": "https://coincodex.com/article/95769/daily-market-update-for-november-21-2026"
-  },
-  {
-   "categoria": "EE. UU.",
-   "emoji": "🇺🇸",
-   "color": "#10B981",
-   "titulo": "La Fed subirá tipos, casi seguro",
-   "texto": "El mercado da un 97,5% a una subida de 0,25 puntos el 9 de diciembre. El oro baja a unos 3.536 $, lejos de su récord de enero.",
-   "dato": "97,5%",
-   "cambio": "+25 pb",
-   "tendencia": "up",
-   "valores": [
-    "Oro",
-    "EUR/USD"
-   ],
-   "paraTi": "Los tipos de EE. UU. no fijan tu euríbor, que depende del BCE. Pero el dólar fuerte encarece lo que pagas en dólares, como viajes o compras online.",
-   "fuente": "Yahoo Finance",
-   "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
-  },
-  {
-   "categoria": "Mercados",
-   "emoji": "📊",
-   "color": "#0EA5E9",
-   "titulo": "El Brent cierra su tercera semana de caídas",
-   "texto": "Rebota el viernes por la tensión en Oriente Medio y el estrecho de Ormuz, pero acaba la semana a la baja, en torno a 92 $, antes de la reunión de la OPEP+.",
-   "dato": "≈92 $",
-   "tendencia": "down",
-   "valores": [
-    "Brent"
-   ],
-   "paraTi": "La gasolina sigue al petróleo con retraso de semanas, y el movimiento de esta semana es pequeño: apenas lo notarás en la gasolinera.",
-   "fuente": "FinanceFeeds",
-   "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
-  },
-  {
-   "categoria": "EE. UU.",
-   "emoji": "🇺🇸",
-   "color": "#10B981",
-   "titulo": "Anthropic: de +17% a −9% en dos días",
-   "texto": "Salió a 83 $, cerró el jueves en 97,17 $ y el viernes cayó un 9,1%, hasta 88,30 $. Desde el lunes 23 se podrán negociar opciones sobre la acción.",
-   "dato": "88,30 $",
-   "cambio": "−9,1%",
-   "tendencia": "down",
-   "valores": [
-    "Anthropic"
-   ],
-   "paraTi": "Solo te afecta de forma directa si tienes sus acciones. Acaba de salir a bolsa, así que aún no está en la mayoría de fondos indexados.",
-   "fuente": "AP",
-   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-  },
-  {
-   "categoria": "Agenda",
-   "emoji": "📅",
-   "color": "#8B5CF6",
-   "titulo": "La semana que viene: PCE, Acción de Gracias e IPC",
-   "texto": "Miércoles 25: inflación PCE y PIB de EE. UU. Jueves 26: Wall Street cerrada. Viernes 27: cierra a las 19:00 y se publica el IPC adelantado de España.",
-   "valores": [
-    "S&P 500",
-    "IBEX 35",
-    "EUR/USD"
-   ],
-   "paraTi": "El IPC español es la inflación que ves en el súper y sirve de referencia en muchos alquileres y en la revalorización de las pensiones.",
-   "fuente": "Forbes España",
-   "url": "https://forbes.es/actualidad/1065428/agenda-citas-clave-del-23-al-29-de-noviembre/"
-  },
-  {
-   "categoria": "España",
-   "emoji": "🇪🇸",
-   "color": "#E11D48",
-   "titulo": "España vota el domingo 29",
-   "texto": "Elecciones generales el 29 de noviembre, después de una semana con el IPC adelantado (viernes 27) y el pago del dividendo de Mapfre (jueves 26).",
-   "valores": [
-    "IBEX 35",
-    "Mapfre"
-   ],
-   "paraTi": "Unas elecciones pueden mover la bolsa española y la prima de riesgo unos días. En tu hipoteca o tus depósitos no cambia nada de forma inmediata.",
-   "fuente": "Forbes España",
-   "url": "https://forbes.es/actualidad/1065428/agenda-citas-clave-del-23-al-29-de-noviembre/"
-  }
- ],
- 
- "fuentes": [
-  {
-   "nombre": "El Debate (Europa Press): el IBEX cae un 5,7% en la semana",
-   "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
-  },
-  {
-   "nombre": "AP: cierre de Wall Street del 20 nov",
-   "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
-  },
-  {
-   "nombre": "finanzen.at (dpa-AFX): cierre del DAX",
-   "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
-  },
-  {
-   "nombre": "ad-hoc-news: Euro Stoxx 50",
-   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
-  },
-  {
-   "nombre": "Yahoo Finance: directo del 20 nov",
-   "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
-  },
-  {
-   "nombre": "CoinCodex: criptomonedas, 21 nov",
-   "url": "https://coincodex.com/article/95769/daily-market-update-for-november-21-2026"
-  },
-  {
-   "nombre": "FinanceFeeds: Brent, tercera semana de caídas",
-   "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
-  },
-  {
-   "nombre": "Forbes España: agenda del 23 al 29 nov",
-   "url": "https://forbes.es/actualidad/1065428/agenda-citas-clave-del-23-al-29-de-noviembre/"
-  },
-  {
-   "nombre": "Inversiones y Trading: panorama semanal",
-   "url": "https://inversionesytrading.com/principal/hewlett-zoom-pce-pib-eeuu/"
-  },
-  {
-   "nombre": "Amistra: semana del 23 al 27 nov",
-   "url": "https://amistra.es/semana-del-23-11-26-al-27-11-26/"
-  },
-  {
-   "nombre": "Admirals: por qué cae la bolsa y agenda",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
-  },
-  {
-   "nombre": "Global Banking & Finance (Reuters): BASF y Evonik",
-   "url": "https://www.globalbankingandfinance.com/basf-ends-pursuit-evonik-bids-rejected/"
-  }
- ]
+  ]
 }

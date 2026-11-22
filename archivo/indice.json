@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-22",
+      "fechaTexto": "Domingo 22 nov 2026",
+      "titular": "El IBEX cae un 5,7%: su peor semana desde marzo",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-21",
       "fechaTexto": "Sábado 21 nov 2026",
       "titular": "El IBEX cae un 5,7%: su peor semana desde marzo",
