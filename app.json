@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.14.0",
-  "novedades": "Modo claro con tarjetas claras de verdad y aviso diario a las 6:00, cuando ya están las noticias de hoy.",
-  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.14.0.apk",
+  "versionCode": 22,
+  "versionName": "0.14.1",
+  "novedades": "Los textos de los reels ahora van justificados.",
+  "descarga": "https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/apk/CashCashNews-0.14.1.apk",
   "estadisticas": "https://cashcashnews.goatcounter.com",
   "opinion": ""
 }

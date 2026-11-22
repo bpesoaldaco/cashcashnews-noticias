@@ -325,3 +325,6 @@ button.fila:active { background: var(--velo); }
 
 /* En iPhone la barra de estado tiene letra blanca: en modo claro le damos fondo oscuro. */
 [data-theme=light] body::before { content: ""; position: fixed; top: 0; left: 0; right: 0; height: var(--top); background: #07090F; z-index: 70; }
+
+/* Texto justificado dentro de los reels (los títulos no) */
+.reel .texto, .reel .parati, .escena-txt { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
