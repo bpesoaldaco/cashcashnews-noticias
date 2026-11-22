@@ -1,7 +1,198 @@
 {
- "actualizado": "2026-11-21",
+ "actualizado": "2026-11-22",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
+  "IBEX 35": {
+   "revisado": "2026-11-22",
+   "resumen": "Cinco caídas seguidas: cerró el viernes 20 en 18.873,1 puntos y perdió un 5,73% en la semana.",
+   "variacion": {
+    "cambio": "−5,73%",
+    "tendencia": "down",
+    "periodo": "7 días",
+    "hasta": "2026-11-20",
+    "fuente": "Europa Press"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El IBEX cae un 5,7% en la semana y pierde los 19.000 puntos",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    }
+   ]
+  },
+  "Euro Stoxx 50": {
+   "revisado": "2026-11-22",
+   "resumen": "Cerró el viernes 20 en 5.952,45 puntos tras caer un 2,64%, su quinta bajada seguida.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El Euro Stoxx 50 cae un 2,64% y cierra otra semana débil",
+     "fuente": "ad-hoc-news",
+     "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
+    }
+   ]
+  },
+  "DAX": {
+   "revisado": "2026-11-22",
+   "resumen": "Seis sesiones a la baja: el viernes 20 cayó un 2,6%, hasta 24.802,78, y perdió más de un 7% en la semana.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El DAX baja de 25.000 puntos por la caída de las tecnológicas",
+     "fuente": "finanzen.at (dpa-AFX)",
+     "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
+    }
+   ]
+  },
+  "CAC 40": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 1,89%, en una jornada de pérdidas en todas las bolsas europeas."
+  },
+  "FTSE 100": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 1,02%, menos que el resto de grandes bolsas europeas."
+  },
+  "FTSE MIB": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 2,48%, en una jornada de pérdidas en todas las bolsas europeas."
+  },
+  "S&P 500": {
+   "revisado": "2026-11-22",
+   "resumen": "Siete sesiones en rojo: el viernes 20 cayó un 3,7%, hasta 6.910,39, y perdió un 8,6% en la semana.",
+   "variacion": {
+    "cambio": "−8,6%",
+    "tendencia": "down",
+    "periodo": "7 días",
+    "hasta": "2026-11-20",
+    "fuente": "Yahoo Finance"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El S&P 500 se hunde un 3,7% y sufre su peor semana en más de 18 meses",
+     "fuente": "AP",
+     "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
+    }
+   ]
+  },
+  "Nasdaq": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 5,3%, hasta 22.617,73, y ya pierde en el año. En la semana se dejó un 10%.",
+   "variacion": {
+    "cambio": "−10%",
+    "tendencia": "down",
+    "periodo": "7 días",
+    "hasta": "2026-11-20",
+    "fuente": "Yahoo Finance"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El Nasdaq cae un 5,3% y borra lo que ganaba en 2026",
+     "fuente": "AP",
+     "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
+    }
+   ]
+  },
+  "Dow Jones": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 1,9%, hasta 48.147,33. Perdió un 8% en la semana, la peor desde marzo de 2020.",
+   "variacion": {
+    "cambio": "−8%",
+    "tendencia": "down",
+    "periodo": "7 días",
+    "hasta": "2026-11-20",
+    "fuente": "Yahoo Finance"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El Dow cae un 1,9% y cierra su peor semana desde marzo de 2020",
+     "fuente": "Yahoo Finance",
+     "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+    }
+   ]
+  },
+  "Russell 2000": {
+   "revisado": "2026-11-22",
+   "resumen": "Perdió un 7,5% en la semana que acabó el 20 de noviembre, la peor desde abril de 2025.",
+   "variacion": {
+    "cambio": "−7,5%",
+    "tendencia": "down",
+    "periodo": "7 días",
+    "hasta": "2026-11-20",
+    "fuente": "Yahoo Finance"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Las pequeñas cotizadas del Russell 2000 pierden un 7,5% en la semana",
+     "fuente": "Yahoo Finance",
+     "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+    }
+   ]
+  },
+  "Nikkei 225": {
+   "revisado": "2026-11-22",
+   "resumen": "Noviembre muy volátil: el lunes 16 cayó un 2,42% por los chips y en la semana del 6 perdió más de un 9%.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "La bolsa de Tokio cae un 2,42% por la venta de tecnológicas",
+     "fuente": "Trading Economics",
+     "url": "https://tradingeconomics.com/japan/stock-market/news/601436"
+    },
+    {
+     "fecha": "2026-11-06",
+     "titulo": "El Nikkei sufre su mayor caída semanal desde marzo de 2020",
+     "fuente": "Trading Economics",
+     "url": "https://tradingeconomics.com/japan/stock-market/news/598963"
+    }
+   ]
+  },
+  "Hang Seng": {
+   "revisado": "2026-11-22"
+  },
+  "Bitcoin": {
+   "revisado": "2026-11-22",
+   "resumen": "Cayó casi un 10% el 20-21 de noviembre, hasta 55.796 $, y el domingo 22 rebotó hasta 58.944 $.",
+   "titulares": [
+    {
+     "fecha": "2026-11-22",
+     "titulo": "El bitcoin rebota un 5,7% y vuelve a 58.944 $",
+     "fuente": "CoinCodex",
+     "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+    },
+    {
+     "fecha": "2026-11-21",
+     "titulo": "El bitcoin cae casi un 10% en 24 horas, hasta 55.796 $",
+     "fuente": "CoinCodex",
+     "url": "https://coincodex.com/article/95769/daily-market-update-for-november-21-2026"
+    }
+   ]
+  },
+  "Ethereum": {
+   "revisado": "2026-11-22",
+   "resumen": "Cayó un 10,4% hasta 1.559 $ el 21 de noviembre y al día siguiente subió un 6,1%, hasta 1.654 $.",
+   "titulares": [
+    {
+     "fecha": "2026-11-22",
+     "titulo": "El ether sube un 6,1% y vuelve a 1.654 $",
+     "fuente": "CoinCodex",
+     "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+    },
+    {
+     "fecha": "2026-11-21",
+     "titulo": "El ether se hunde un 10,4%, hasta 1.559 $",
+     "fuente": "CoinCodex",
+     "url": "https://coincodex.com/article/95769/daily-market-update-for-november-21-2026"
+    }
+   ]
+  },
+  "Solana": {
+   "revisado": "2026-11-22"
+  },
   "XRP": {
    "revisado": "2026-11-21",
    "resumen": "Lleva semanas a la baja: el 15 de noviembre tocó 0,89 $, su nivel más bajo desde noviembre de 2024. Después volvió a rondar 1 $.",
@@ -32,59 +223,239 @@
      "url": "https://www.gncrypto.news/news/xrp-retests-2026-low-after-11-43-weekly-decline/"
     }
    ]
+  },
+  "Brent": {
+   "revisado": "2026-11-22",
+   "resumen": "Ronda los 92 $ y encadena su tercera semana de caídas. La OPEP+ se reúne el domingo 29 de noviembre.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "El Brent va camino de su tercera semana de caídas antes de la OPEP+",
+     "fuente": "FinanceFeeds",
+     "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
+    }
+   ]
+  },
+  "Petróleo WTI": {
+   "revisado": "2026-11-22",
+   "resumen": "Cerró el jueves 19 en 83,21 $ y el viernes 20 bajaba un 0,6%, hasta unos 82,7 $."
+  },
+  "Oro": {
+   "revisado": "2026-11-22",
+   "resumen": "Sigue a la baja por las apuestas de subidas de tipos: el viernes 20 cayó más de un 2%, hasta rozar los 3.500 $.",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "El oro sufre una fuerte caída semanal por la subida de los bonos",
+     "fuente": "Kitco",
+     "url": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets"
+    }
+   ]
+  },
+  "Plata": {
+   "revisado": "2026-11-22",
+   "resumen": "El 13 de noviembre cayó un 2,6%, hasta unos 48,6 $ la onza, y siguió bajando a mediados de mes.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "El oro y la plata vuelven a desplomarse",
+     "fuente": "Money Metals",
+     "url": "https://www.moneymetals.com/news/2026/11/16/gold-and-silver-get-slammed-again-heres-whats-happening-005378"
+    }
+   ]
+  },
+  "Cobre": {
+   "revisado": "2026-11-22"
+  },
+  "Gas natural": {
+   "revisado": "2026-11-22",
+   "resumen": "El futuro de Henry Hub cerró el 11 de noviembre en 3,22 $, casi un 13% más que a principios de mes.",
+   "titulares": [
+    {
+     "fecha": "2026-11-12",
+     "titulo": "El gas de EE. UU. sube casi un 13% en lo que va de noviembre",
+     "fuente": "AGA",
+     "url": "https://www.aga.org/research-policy/resource-library/natural-gas-market-indicators-november-12-2026/"
+    }
+   ]
+  },
+  "EUR/USD": {
+   "revisado": "2026-11-22",
+   "resumen": "El dólar se fortalece por las apuestas de subida de tipos de la Fed: el euro cerró el 13 de noviembre en 1,1023 $.",
+   "variacion": {
+    "cambio": "−1,09%",
+    "tendencia": "down",
+    "periodo": "7 días",
+    "hasta": "2026-11-13",
+    "fuente": "RTTNews"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "El dólar se dispara por las apuestas de subida de tipos de la Fed",
+     "fuente": "RTTNews",
+     "url": "https://www.rttnews.com/3715050/dollar-surges-on-increased-fed-rate-hike-bets.aspx"
+    }
+   ]
+  },
+  "EUR/GBP": {
+   "revisado": "2026-11-22"
+  },
+  "USD/JPY": {
+   "revisado": "2026-11-22",
+   "resumen": "Superó brevemente los 160 yenes por dólar y cerró el 13 de noviembre en 159,69.",
+   "variacion": {
+    "cambio": "+0,76%",
+    "tendencia": "up",
+    "periodo": "7 días",
+    "hasta": "2026-11-13",
+    "fuente": "RTTNews"
+   },
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "El dólar se dispara frente al yen y roza los 160",
+     "fuente": "RTTNews",
+     "url": "https://www.rttnews.com/3715050/dollar-surges-on-increased-fed-rate-hike-bets.aspx"
+    }
+   ]
+  },
+  "Acciona": {
+   "revisado": "2026-11-22",
+   "resumen": "El 13 de noviembre cayó un 7,98%, hasta 203 €, tras reiterar sus objetivos de 2026 y un revés en una venta en México.",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Acciona se hunde casi un 8% tras reiterar sus objetivos para 2026",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/acciona-se-hunde-casi-un-8-tras-reiterar-sus-objetivos-para-2026-y-arrastra-a-acciona-energia/"
+    }
+   ]
+  },
+  "Acciona Energía": {
+   "revisado": "2026-11-22",
+   "resumen": "El 13 de noviembre cayó un 6,89%, hasta 20,26 €, arrastrada por Acciona. En el año baja un 9,55%.",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Acciona Energía cae un 6,9% arrastrada por Acciona",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/acciona-se-hunde-casi-un-8-tras-reiterar-sus-objetivos-para-2026-y-arrastra-a-acciona-energia/"
+    },
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Acciona Energía prevé superar 1 GW en construcción a final de año",
+     "fuente": "Energías Renovables",
+     "url": "https://www.energias-renovables.com/panorama/acciona-energ-a-un-gigavatio-de-potencia-20261113"
+    }
+   ]
+  },
+  "Acerinox": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 4,28%, de los peores del IBEX. Hasta septiembre ganó 162 millones, frente a 7 un año antes.",
+   "titulares": [
+    {
+     "fecha": "2026-10-30",
+     "titulo": "Acerinox multiplica por 23 su beneficio hasta septiembre: 162 millones",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/en/economy/acerinox-multiplies-its-profit-by-23-and-earns-162-million-through-september/"
+    }
+   ]
+  },
+  "ACS": {
+   "revisado": "2026-11-22",
+   "resumen": "El viernes 20 cayó un 4,5%. Sus resultados hasta septiembre, con Turner al alza, salieron en línea con lo esperado.",
+   "titulares": [
+    {
+     "fecha": "2026-11-12",
+     "titulo": "ACS convence con el empuje de Turner en sus resultados",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias_amp/empresas/acs-convence-musculo-turner-esta-buena-posicion-batir-expectativas--24140956.html"
+    },
+    {
+     "fecha": "2026-11-07",
+     "titulo": "ACS niega que estudie una OPA sobre Hochtief o vender Turner",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/acs-rechaza-de-forma-tajante-una-opa-sobre-hochtief-y-descarta-vender-su-filial-estadounidense-turner/"
+    }
+   ]
+  },
+  "Aena": {
+   "revisado": "2026-11-22",
+   "resumen": "Sus aeropuertos sumaron 36,6 millones de pasajeros en octubre, un 3,1% más, y 346,5 millones hasta octubre (+4%).",
+   "titulares": [
+    {
+     "fecha": "2026-11-12",
+     "titulo": "Los aeropuertos de Aena cierran octubre con 36,6 millones de pasajeros, un 3,1% más",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias_print/empresas/aeropuertos-aena-cierran-octubre-366-millones-pasajeros-31-mas--24141674.html"
+    }
+   ]
+  },
+  "Amadeus": {
+   "revisado": "2026-11-22",
+   "resumen": "Ingresó 5.075,7 millones hasta septiembre (+3,7%) y prevé acabar 2026 en la parte baja de su previsión.",
+   "titulares": [
+    {
+     "fecha": "2026-11-06",
+     "titulo": "Amadeus crece un 3,7% en ingresos hasta septiembre",
+     "fuente": "Amadeus",
+     "url": "https://amadeus.com/es/sala-de-prensa/notas-de-prensa/amadeus-3t-2026-solido-crecimiento-colaboraciones-estrategicas-ia"
+    }
+   ]
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
    "cambio": "−1,63%",
    "tendencia": "down"
   },
   "Euro Stoxx 50": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Euro Stoxx 50: −2,64%",
    "cambio": "−2,64%",
    "tendencia": "down"
   },
   "DAX": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El DAX baja de 25.000 puntos",
    "cambio": "−2,6%",
    "tendencia": "down"
   },
   "S&P 500": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección",
    "cambio": "−3,7%",
    "tendencia": "down"
   },
   "Nasdaq": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El Nasdaq ya pierde en el año",
    "cambio": "−5,3%",
    "tendencia": "down"
   },
   "Dow Jones": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección"
   },
   "Bitcoin": {
-   "fecha": "2026-11-21",
-   "titulo": "El bitcoin se hunde hasta unos 55.800 $",
-   "cambio": "−9,9%",
-   "tendencia": "down"
+   "fecha": "2026-11-22",
+   "titulo": "El bitcoin rebota hasta unos 58.900 $",
+   "cambio": "+5,68%",
+   "tendencia": "up"
   },
   "Brent": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El Brent cierra su tercera semana de caídas"
   },
   "Oro": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Oro y petróleo, a la baja"
   },
   "EUR/USD": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "La Fed, casi segura",
    "cambio": "+25 pb",
    "tendencia": "up"
@@ -123,7 +494,7 @@
    "frase": "Suben Aena, Amadeus y Ferrovial."
   },
   "ArcelorMittal": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Los peores del viernes",
    "frase": "ArcelorMittal cayó un 5,66%.",
    "cambio": "−5,66%",
@@ -209,7 +580,7 @@
    "tendencia": "down"
   },
   "Mapfre": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Lo que viene en España",
    "frase": "Jueves 26: Mapfre paga dividendo."
   },
@@ -245,7 +616,7 @@
    "tendencia": "up"
   },
   "Solaria": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Los peores del viernes",
    "frase": "Solaria se dejó más de un 5% el lunes y el jueves."
   },
@@ -270,11 +641,11 @@
    "frase": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%."
   },
   "ASML": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "El DAX baja de 25.000 puntos"
   },
   "BASF": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Evonik se queda sin BASF",
    "cambio": "−17%",
    "tendencia": "down"
@@ -285,7 +656,7 @@
    "frase": "Deutsche Bank (+0,35%), Siemens (+0,34%) e Infineon (+0,28%) fueron de los pocos que subieron en el DAX."
   },
   "Evonik": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Evonik se queda sin BASF",
    "cambio": "−17%",
    "tendencia": "down"
@@ -356,7 +727,7 @@
    "tendencia": "down"
   },
   "AMD": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Huye el dinero de los chips",
    "frase": "El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%."
   },
@@ -371,7 +742,7 @@
    "frase": "Amer Sports anuncia una recompra de 1.000 M$."
   },
   "Anthropic": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Anthropic: de +17% a −9% en dos días",
    "cambio": "−9,1%",
    "tendencia": "down"
@@ -387,7 +758,7 @@
    "tendencia": "up"
   },
   "Broadcom": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Huye el dinero de los chips"
   },
   "Cisco": {
@@ -395,6 +766,10 @@
    "titulo": "Cisco supera previsiones",
    "cambio": "+24%",
    "tendencia": "up"
+  },
+  "Dell": {
+   "fecha": "2026-11-22",
+   "titulo": "Resultados de la semana: Dell, HP y Deere"
   },
   "Disney": {
    "fecha": "2026-11-18",
@@ -429,7 +804,7 @@
    "titulo": "Nvidia invertirá 3.000 millones en Meta"
   },
   "Micron": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Huye el dinero de los chips",
    "frase": "El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%."
   },
@@ -445,7 +820,7 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "titulo": "Nvidia tras caer un 13,8%"
   },
   "Palo Alto Networks": {
