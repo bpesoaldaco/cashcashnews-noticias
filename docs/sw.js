@@ -1,6 +1,6 @@
 /* Guarda la web para que abra rápido y sin conexión. Las noticias se piden
  * siempre a la red y, si no hay, se usan las últimas guardadas. */
-var CACHE = 'cashcashnews-web-5';
+var CACHE = 'cashcashnews-web-6';
 var BASICO = ['./', 'index.html', 'app.css?v=3', 'app.js?v=3', 'logo.svg', 'brindis.mp3', 'manifest.webmanifest',
   'icons/apple-touch-icon.png', 'icons/icon-192.png',
   'datos/glosario.json', 'datos/inversores.json', 'datos/buscador_valores.txt'];
