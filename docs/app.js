@@ -6,10 +6,11 @@
 
 var VERSION = 'web 1.1';
 var RAW = 'https://raw.githubusercontent.com/bpesoaldaco/cashcashnews-noticias/main/';
-// En GitHub Pages se lee de GitHub; en local (pruebas), de la carpeta de arriba.
-var BASE = /github\.io$/.test(location.hostname) ? RAW : '../';
+// Publicada (cashcashnews.com o GitHub Pages) se lee de GitHub; en local (pruebas), de la carpeta de arriba.
+var PUBLICADA = /(^|\.)cashcashnews\.com$|\.github\.io$/.test(location.hostname);
+var BASE = PUBLICADA ? RAW : '../';
 var STATS = 'https://cashcashnews.goatcounter.com';
-var WEB = 'https://bpesoaldaco.github.io/cashcashnews-noticias/';
+var WEB = 'https://cashcashnews.com/';
 
 var $app = document.getElementById('app');
 var $layer = document.getElementById('layer');
@@ -145,7 +146,7 @@ function cambiarTema() { guardar('oscuro', !oscuro()); aplicarTema(); inicio(); 
 // (las pruebas que hacemos nosotros), copias locales y vistas previas.
 function visitaReal() {
   try {
-    if (!/\.github\.io$/.test(location.hostname)) return false;
+    if (!PUBLICADA) return false;
     if (navigator.webdriver) return false;
     var ua = navigator.userAgent || '';
     if (/bot|crawl|spider|slurp|headless|lighthouse|pagespeed|preview|phantom|puppeteer|playwright|selenium|python|curl|wget/i.test(ua)) return false;

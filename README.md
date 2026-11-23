@@ -39,6 +39,6 @@ avisa por correo al dueño del repositorio. Se cierra sola cuando vuelve a estar
 
 La carpeta `docs/` es la versión web de la app, para iPhone o cualquier navegador.
 Se publica con GitHub Pages (Settings → Pages → rama `main`, carpeta `/docs`) en
-https://bpesoaldaco.github.io/cashcashnews-noticias/ y lee las mismas noticias que la app de Android.
+https://cashcashnews.com/ (la dirección antigua, https://bpesoaldaco.github.io/cashcashnews-noticias/, redirige ahí) y lee las mismas noticias que la app de Android.
 `docs/datos/` lleva copias del glosario, los inversores y la lista del buscador de la app
 (están en el repositorio privado, en `app/src/main/assets/`): si cambian allí, hay que copiarlos aquí.
