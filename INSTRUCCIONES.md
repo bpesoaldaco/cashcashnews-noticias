@@ -50,10 +50,11 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
     { "id": "espana",   "titulo": "España",   "emoji": "🇪🇸", "color": "#E11D48", "slides": [ ... ] },
     { "id": "europa",   "titulo": "Europa",   "emoji": "🇪🇺", "color": "#6366F1", "slides": [ ... ] },
     { "id": "eeuu",     "titulo": "EE. UU.",  "emoji": "🇺🇸", "color": "#10B981", "slides": [ ... ] },
+    { "id": "economia", "titulo": "Economía", "emoji": "🏛", "color": "#14B8A6", "slides": [ ... ] },
     { "id": "ideas",    "titulo": "Ideas",    "emoji": "💡", "color": "#F59E0B", "slides": [ ... ] },
     { "id": "agenda",   "titulo": "Agenda",   "emoji": "📅", "color": "#8B5CF6", "slides": [ ... ] }
   ],
-  "reels": [ ... ],                      // 8 a 12 noticias más importantes del día
+  "reels": [ ... ],                      // 8 a 12 noticias del día, de ellas 3-4 económicas
   "agenda": [ ... ],                     // lo que se publica HOY (sección «Hoy se publica»)
   "fuentes": [ { "nombre": "...", "url": "https://..." } ]
 }
@@ -86,7 +87,7 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
     Inditex), `media` o `baja`.
   - Incluye también los resultados de empresas del IBEX y de las grandes de EE. UU. y Europa que publican hoy.
   - Sigue escribiendo también la story `agenda` como hasta ahora (la usan las versiones antiguas de la app).
-- **Reel**: `categoria`, `emoji` y `color` de su story, `titulo`, `texto`, opcionales `dato`,
+- **Reel**: `categoria`, `emoji` y `color` de su story (las económicas: `"Economía"`, `"🏛"`, `"#14B8A6"`, más su `tema`; ver «Noticias económicas»), `titulo`, `texto`, opcionales `dato`,
   `cambio`, `tendencia`, y `fuente` + `url` (https) de donde sale la noticia. Si el reel es una
   idea de inversión, `"aviso": true`.
 - **«¿Y esto qué significa para mí?»** (`paraTi`, **obligatorio en cada reel** salvo los de `"aviso": true`):
@@ -120,13 +121,68 @@ pantalla de móvil. Usa `archivo/2026-11-18.json` como modelo del formato.
   Ponla en las noticias principales de índices, materias primas y valores con movimientos fuertes, **solo si
   las cifras salen de las fuentes** o se calculan directamente de ellas (por ejemplo, el cierre anterior a
   partir del cierre y el % de cambio).
+- **Formato fijo** (`formato`, solo en el reel del formato del día; ver «Formatos fijos por día»):
+  `semana_que_viene`, `concepto` o `semana_pasada`.
 - Números en formato español (`19.456`, `−0,86%`, `92,6 $`). Signo menos `−`.
 - Solo cifras sacadas de las fuentes. Si un dato no está claro, no lo pongas.
+
+## Noticias económicas (no solo de mercados)
+
+Además de bolsa, cada día van **3 o 4 reels de economía**: lo que explica por qué se mueven los
+mercados y lo que la gente nota en su vida. Llevan `"categoria": "Economía"`, `"emoji": "🏛"`,
+`"color": "#14B8A6"`, su `paraTi` (obligatorio, como en todos) y un **`tema`**, uno de estos:
+
+| `tema` | De qué va | Ejemplos de titular |
+|---|---|---|
+| `bolsillo` | Precios del día a día: luz, gas, gasolina, súper, aceite, transporte, suscripciones | «Sube la luz este invierno: ¿cuánto más pagarás?» · «El aceite baja por primera vez en meses» |
+| `empleo_vivienda` | Paro, afiliación, salarios, alquiler, compraventa de pisos, hipotecas firmadas | «El paro baja: qué sectores contratan» · «El alquiler sigue subiendo en las grandes ciudades» |
+| `macro` | IPC, PIB, PMI, confianza, déficit y deuda, explicados en fácil | «La inflación de la eurozona se modera: qué significa para tu hipoteca» |
+| `politica` | Impuestos, presupuestos, ayudas, aranceles, regulación, salario mínimo, pensiones | «Nuevos aranceles de EE. UU.: qué productos europeos se encarecen» · «Cambios en el IRPF para 2027» |
+| `global` | Economía de otros países y materias primas: China, EE. UU., Latinoamérica, petróleo, trigo, cobre | «China frena su consumo: qué pasa con el lujo y los coches europeos» · «Del barril a la gasolinera» |
+
+- Da prioridad a **España y Europa**, sin olvidar lo mundial que nos afecta.
+- **Mezcla temas**: no repitas el mismo `tema` en dos reels del mismo día, y mira con
+  `scripts/ultimos_dias.py` cuáles han salido menos esta semana para darles prioridad.
+- Solo noticias de las últimas 24-48 horas (en domingo y festivos, 48 horas), con fuente y `url`.
+  Valen datos oficiales (INE, Eurostat, BCE, Banco de España, SEPE, Seguridad Social, OMIE, Ministerio),
+  prensa económica y agencias. Comprueba la fecha y el año.
+- En la story `economia`, una diapositiva por cada noticia económica del día (mismo contenido, más corto).
+- Si una noticia económica tiene relación con una cotización (p. ej., el petróleo y Repsol), ponlo en `valores`.
+- La validación pide al menos 3 reels con `tema` desde el 24 nov 2026 (no en el resumen semanal).
+- Las mismas reglas de siempre: solo cifras de las fuentes y **nunca recomendaciones**.
+
+## No repetir noticias
+
+El dato «X sube, Y baja» se repite cada día; lo que hace que valga la pena es el **porqué** y
+**qué significa para ti**. Antes de escribir:
+
+1. Ejecuta `python3 scripts/ultimos_dias.py` y lee los titulares de los **últimos 7 días**.
+2. Un tema que ya salió **solo vuelve si hay algo nuevo** (un dato, una decisión, un giro), y se
+   cuenta como **continuación**, con otro titular que diga qué ha cambiado: «Sigue la caída de
+   Inditex: ahora…», «Segundo mes de subida del alquiler: …». Si no hay nada nuevo, no se publica.
+3. **Menos cotizaciones sueltas**: el «sube/baja» de índices y materias primas va en `indicadores`
+   y en la story `mercados`. Como reels, como mucho **3** sobre movimientos de mercado, y solo
+   si explican la causa (resultados, bancos centrales, datos macro, fusiones, una noticia concreta).
+   Los demás reels: historias con causa, noticias económicas y empresas con algo que contar.
+4. La validación rechaza un titular igual o casi igual a uno de los últimos 7 días (salvo los de
+   `formato`). Si salta, cambia el enfoque o quita el reel; no basta con cambiar dos palabras.
+
+## Formatos fijos por día
+
+Un reel fijo según el día de la semana (hora de Madrid), con su campo `formato`:
+
+| Día | `formato` | Qué es |
+|---|---|---|
+| Lunes | `semana_que_viene` | «La semana que viene»: lo más importante de la semana que empieza, con día y hora de Madrid. |
+| Miércoles | `concepto` | «Un concepto explicado»: un concepto económico o financiero (inflación, euríbor, prima de riesgo, PER, dividendo…) explicado en sencillo **con una noticia de hoy** como ejemplo. Que no se repita un concepto de las últimas 4 semanas. |
+| Viernes | `semana_pasada` | «Lo que ha pasado esta semana»: los 3-4 temas que más han importado, en una tarjeta. |
+
+Los demás días no hay reel fijo. Estos reels también llevan su `paraTi`.
 
 ## Comprobar y publicar
 
 ```bash
-python3 scripts/validar_noticias.py noticias.json
+python3 scripts/validar_noticias.py noticias.json      # también comprueba que no repite titulares
 python3 scripts/actualizar_indice.py
 ```
 

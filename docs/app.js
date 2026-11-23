@@ -115,7 +115,7 @@ function ic(n, extra) {
 var BANDERAS = { espana: '🇪🇸', europa: '🇪🇺', eeuu: '🇺🇸' };
 function iconoStory(s) {
   if (BANDERAS[s.id]) return BANDERAS[s.id];
-  var n = { mercados: 'grafica', ideas: 'idea', agenda: 'cal' }[s.id] || 'grafica';
+  var n = { mercados: 'grafica', ideas: 'idea', agenda: 'cal', economia: 'columnas' }[s.id] || 'grafica';
   return '<span style="color:var(--verde)">' + ic(n) + '</span>';
 }
 /** La «moneda» del logo con las iniciales de una persona (como en la app). */
