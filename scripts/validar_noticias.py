@@ -34,6 +34,7 @@ TEMAS_ECONOMIA = {"bolsillo", "empleo_vivienda", "macro", "politica", "global"}
 FORMATOS = {"semana_que_viene", "concepto", "semana_pasada"}
 # Regla de «no repetir»: un titular no puede parecerse tanto a uno de los últimos días.
 NO_REPETIR_DIAS = 7
+NO_REPETIR_DESDE = "2026-11-24"
 PARECIDO_MAX = 0.85
 ARCHIVO = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "archivo")
 INDICADORES = {"ibex", "eurostoxx", "dax", "sp500", "nasdaq", "brent", "oro", "eurusd", "bitcoin"}
@@ -204,6 +205,8 @@ def normaliza(t):
 def repetidos(d, archivo=ARCHIVO):
     """Titulares de hoy que ya salieron (iguales o casi) en los últimos NO_REPETIR_DIAS días."""
     if d.get("tipo") == "semanal" or not FECHA.match(str(d.get("fecha", ""))):
+        return []
+    if d["fecha"] < NO_REPETIR_DESDE:  # los días anteriores a la regla no se comprueban
         return []
     hoy = datetime.date.fromisoformat(d["fecha"])
     antes = []
