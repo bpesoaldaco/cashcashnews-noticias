@@ -1,0 +1,676 @@
+{
+  "fecha": "2026-11-23",
+  "fechaTexto": "Lunes 23 nov 2026",
+  "actualizado": "04:58 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Los índices son del cierre del viernes; el Brent y el oro, de esta madrugada. La bolsa española aún no ha abierto.",
+  "indicadores": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "18.873,1",
+      "cambio": "−1,63%",
+      "tendencia": "down"
+    },
+    {
+      "id": "eurostoxx",
+      "nombre": "Euro Stoxx 50",
+      "valor": "5.952,45",
+      "cambio": "−2,64%",
+      "tendencia": "down"
+    },
+    {
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "24.802,78",
+      "cambio": "−2,6%",
+      "tendencia": "down"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "6.910,39",
+      "cambio": "−3,7%",
+      "tendencia": "down"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "22.617,73",
+      "cambio": "−5,28%",
+      "tendencia": "down"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "92,13 $",
+      "cambio": "−0,48%",
+      "tendencia": "down"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.585,40 $",
+      "cambio": "+1,99%",
+      "tendencia": "up"
+    }
+  ],
+  "stories": [
+    {
+      "id": "mercados",
+      "titulo": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "slides": [
+        {
+          "titulo": "Lunes de rebote… en los futuros",
+          "texto": "Tras una semana muy dura, los futuros de Wall Street suben un 2%. Asia, en cambio, sigue cayendo."
+        },
+        {
+          "titulo": "Corea, −4,19%",
+          "texto": "El Kospi cae hasta 4.665,92, mínimos de 10 meses.",
+          "dato": "4.665,92",
+          "cambio": "−4,19%",
+          "tendencia": "down",
+          "valores": [
+            "Kospi"
+          ]
+        },
+        {
+          "titulo": "Hong Kong, −1,30%",
+          "texto": "El Hang Seng baja a 22.120,37 y Shanghái cede un 1,24%. Tokio, cerrado.",
+          "dato": "22.120,37",
+          "cambio": "−1,30%",
+          "tendencia": "down",
+          "valores": [
+            "Hang Seng"
+          ]
+        },
+        {
+          "titulo": "Oro arriba, petróleo abajo",
+          "texto": "Oro a 3.585,40 $ (+1,99%). Brent a 92,13 $ (−0,48%).",
+          "dato": "3.585,40 $",
+          "cambio": "+1,99%",
+          "tendencia": "up",
+          "valores": [
+            "Oro",
+            "Brent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espana",
+      "titulo": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "slides": [
+        {
+          "titulo": "El IBEX parte de 18.873",
+          "texto": "Cerró el viernes con −1,63% y −5,7% en la semana.",
+          "dato": "18.873,1",
+          "cambio": "−1,63%",
+          "tendencia": "down",
+          "valores": [
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "Semana con IPC y elecciones",
+          "texto": "Viernes 27: IPC adelantado. Jueves 26: dividendo de Mapfre. Domingo 29: elecciones generales.",
+          "valores": [
+            "IBEX 35",
+            "Mapfre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "titulo": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "slides": [
+        {
+          "titulo": "DAX por debajo de 25.000",
+          "texto": "Cerró el viernes en 24.802,78 (−2,6%).",
+          "dato": "24.802,78",
+          "cambio": "−2,6%",
+          "tendencia": "down",
+          "valores": [
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "Hoy, los PMI",
+          "texto": "Encuestas a empresas de la eurozona, Alemania y Francia. En octubre, 51,7 en la eurozona.",
+          "valores": [
+            "Euro Stoxx 50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eeuu",
+      "titulo": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "slides": [
+        {
+          "titulo": "Futuros: S&P +2%, Nasdaq ~+3%",
+          "texto": "Rebote tras la peor semana del Nasdaq desde marzo de 2020 (−10%).",
+          "dato": "+2%",
+          "tendencia": "up",
+          "valores": [
+            "S&P 500",
+            "Nasdaq"
+          ]
+        },
+        {
+          "titulo": "HPE publica hoy",
+          "texto": "Tras el cierre. Prevé entre 13.900 y 14.800 M$ de ingresos.",
+          "valores": [
+            "HPE"
+          ]
+        },
+        {
+          "titulo": "Semana corta",
+          "texto": "Miércoles 25: PCE y PIB. Jueves 26: cerrado por Acción de Gracias. Viernes cierra a las 19:00.",
+          "valores": [
+            "S&P 500"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ideas",
+      "titulo": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "slides": [
+        {
+          "titulo": "Esto no son recomendaciones",
+          "texto": "Son ideas para investigar por tu cuenta, no consejos de compra o venta. Cada una tiene su riesgo.",
+          "aviso": true
+        },
+        {
+          "titulo": "Bolsa coreana con apoyo oficial",
+          "texto": "El Kospi está en mínimos de 10 meses y el Gobierno prepara un fondo de apoyo. Riesgo: si la IA sigue cayendo, Samsung y SK Hynix pueden arrastrarlo más.",
+          "aviso": true,
+          "valores": [
+            "Kospi",
+            "Samsung"
+          ]
+        },
+        {
+          "titulo": "Oro como refugio",
+          "texto": "Sube un 1,99% mientras caen las bolsas. Riesgo: la Fed sube tipos en diciembre y eso suele frenar al oro.",
+          "aviso": true,
+          "valores": [
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "Resultados de HPE",
+          "texto": "Publica hoy y prevé entre 13.900 y 14.800 M$. Riesgo: en plena caída de la IA, unas cuentas buenas pueden no bastar.",
+          "aviso": true,
+          "valores": [
+            "HPE"
+          ]
+        },
+        {
+          "titulo": "Anthropic y sus opciones",
+          "texto": "Desde hoy hay opciones sobre la acción. Riesgo: muy poco historial en bolsa y una volatilidad enorme.",
+          "aviso": true,
+          "valores": [
+            "Anthropic"
+          ]
+        },
+        {
+          "titulo": "Mapfre y su dividendo",
+          "texto": "Paga 0,080 € brutos por acción el jueves 26. Riesgo: el día del pago la acción suele bajar lo que reparte.",
+          "aviso": true,
+          "valores": [
+            "Mapfre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "titulo": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "slides": [
+        {
+          "titulo": "09:00 · Abre la bolsa española",
+          "texto": "Tras la peor semana del IBEX desde marzo y con los futuros de EE. UU. al alza.",
+          "tendencia": "flat",
+          "dato": "09:00",
+          "valores": [
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "15:30 · Abre Wall Street",
+          "texto": "Primera sesión de una semana corta. Desde hoy se negocian opciones sobre Anthropic.",
+          "tendencia": "flat",
+          "dato": "15:30",
+          "valores": [
+            "S&P 500",
+            "Anthropic"
+          ]
+        },
+        {
+          "titulo": "PMI de noviembre en Europa",
+          "texto": "Eurozona, Alemania, Francia y Reino Unido. El PMI compuesto de la eurozona marcó 51,7 en octubre. Hora no confirmada.",
+          "tendencia": "flat",
+          "valores": [
+            "Euro Stoxx 50",
+            "EUR/USD"
+          ]
+        },
+        {
+          "titulo": "PMI de noviembre en EE. UU.",
+          "texto": "Manufacturas y servicios. El compuesto marcó 55,9 en octubre. Hora no confirmada.",
+          "tendencia": "flat",
+          "valores": [
+            "S&P 500"
+          ]
+        },
+        {
+          "titulo": "Corea habla de su fondo de apoyo",
+          "texto": "Rueda de prensa del ministro de Finanzas sobre un posible fondo para estabilizar la bolsa. Hora no confirmada.",
+          "tendencia": "flat",
+          "valores": [
+            "Kospi"
+          ]
+        },
+        {
+          "titulo": "PIB de México",
+          "texto": "Dato trimestral y anual. Hora no confirmada.",
+          "tendencia": "flat"
+        },
+        {
+          "titulo": "Resultados: HPE, Agilent, Jacobs",
+          "texto": "HPE publica después del cierre de Wall Street. Agilent, Jacobs y Amentum, sin hora confirmada.",
+          "tendencia": "flat",
+          "valores": [
+            "HPE"
+          ]
+        },
+        {
+          "titulo": "Japón, cerrado por festivo",
+          "texto": "La bolsa de Tokio no abre hoy por el Día de Acción de Gracias por el Trabajo.",
+          "tendencia": "flat",
+          "valores": [
+            "Nikkei 225"
+          ]
+        }
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Wall Street apunta a un rebote",
+      "texto": "Tras su peor semana en años, los futuros del S&P 500 suben un 2% y los del Nasdaq 100 rebotan casi un 3% esta madrugada.",
+      "dato": "+2%",
+      "cambio": "+2%",
+      "tendencia": "up",
+      "valores": [
+        "S&P 500",
+        "Nasdaq"
+      ],
+      "paraTi": "Si tienes un fondo indexado al S&P 500, el viernes perdió valor. Un rebote en los futuros no garantiza nada: lo que cuenta es el cierre de hoy.",
+      "fuente": "Reuters (AOL): futuros y Asia, 23 nov",
+      "url": "https://www.aol.com/articles/us-futures-bounce-while-asia-234419000.html"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Corea se hunde a mínimos de 10 meses",
+      "texto": "El Kospi cae un 4,19%, hasta 4.665,92, y llegó a perder un 5%. Pesan Samsung (−4,48%) y SK Hynix (−3,7%) por las dudas sobre la IA.",
+      "dato": "4.665,92",
+      "cambio": "−4,19%",
+      "tendencia": "down",
+      "valores": [
+        "Kospi",
+        "Samsung",
+        "SK Hynix"
+      ],
+      "paraTi": "Apenas te afecta directamente, salvo que tengas un fondo de mercados emergentes o de Asia: Corea pesa bastante en ellos.",
+      "fuente": "Kaohoon International: Asia, petróleo y oro, 23 nov",
+      "url": "https://www.kaohooninternational.com/markets/595213"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "China y Hong Kong, a la baja",
+      "texto": "El Hang Seng cede un 1,30% (22.120,37) y Shanghái un 1,24% (3.490,04). Alibaba pierde un 4,02% y Tencent un 2,79%. Japón está cerrado por festivo.",
+      "dato": "22.120,37",
+      "cambio": "−1,30%",
+      "tendencia": "down",
+      "valores": [
+        "Hang Seng",
+        "Alibaba",
+        "Tencent"
+      ],
+      "paraTi": "Si tienes un fondo global, China pesa poco en él. Importa más a quien tiene fondos de Asia o acciones de estas empresas.",
+      "fuente": "Investing.com (Finwire): Asia, 23 nov",
+      "url": "https://finwire.io/news/stock-markets-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Asia sale a frenar las caídas",
+      "texto": "Corea prepara un fondo de estabilización que no usaba desde 2008. China rebaja del 100% al 80% la garantía para comprar acciones a crédito desde el 30 de noviembre.",
+      "valores": [
+        "Kospi",
+        "Shanghái"
+      ],
+      "paraTi": "No cambia nada en tu día a día. Es una señal de que los gobiernos de Asia están preocupados por la caída de sus bolsas.",
+      "fuente": "Investing.com (Finwire): Asia, 23 nov",
+      "url": "https://finwire.io/news/stock-markets-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "El S&P 500 sigue en corrección",
+      "texto": "Viene de siete caídas seguidas: cerró el viernes en 6.910,39 (−3,7%) y pierde un 8,6% en la semana. El VIX, el índice del miedo, sube a 35,89.",
+      "dato": "6.910,39",
+      "cambio": "−3,7%",
+      "tendencia": "down",
+      "valores": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "grafica": {
+        "valores": [
+          7416.59,
+          7340.53,
+          7323.8,
+          7175.83,
+          6910.39
+        ],
+        "etiquetas": [
+          "16 nov",
+          "17 nov",
+          "18 nov",
+          "19 nov",
+          "20 nov"
+        ]
+      },
+      "paraTi": "Si tienes un fondo indexado o un plan de pensiones con bolsa de EE. UU., habrás visto la caída esta semana. Las correcciones son habituales a largo plazo.",
+      "fuente": "Kaohoon International: Asia, petróleo y oro, 23 nov",
+      "url": "https://www.kaohooninternational.com/markets/595213"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "El IBEX abre tras su peor semana desde marzo",
+      "texto": "Cerró el viernes en 18.873,1 (−1,63%) y perdió un 5,7% en la semana, por debajo de los 19.000. Hoy mira el rebote de los futuros de EE. UU.",
+      "dato": "18.873,1",
+      "cambio": "−1,63%",
+      "tendencia": "down",
+      "valores": [
+        "IBEX 35"
+      ],
+      "grafica": {
+        "valores": [
+          19946.6,
+          19625.3,
+          19373,
+          19186.2,
+          18873.1
+        ],
+        "etiquetas": [
+          "16 nov",
+          "17 nov",
+          "18 nov",
+          "19 nov",
+          "20 nov"
+        ]
+      },
+      "paraTi": "Si tienes un fondo del IBEX, la semana pasada restó valor. A los depósitos y cuentas de ahorro no les afecta.",
+      "fuente": "El Debate (Europa Press): el IBEX cae un 5,7% en la semana",
+      "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "El DAX y el Euro Stoxx, bajo presión",
+      "texto": "El DAX cerró el viernes en 24.802,78 (−2,6%), por debajo de 25.000. El Euro Stoxx 50 cedió un 2,64%, hasta 5.952,45.",
+      "dato": "24.802,78",
+      "cambio": "−2,6%",
+      "tendencia": "down",
+      "valores": [
+        "DAX",
+        "Euro Stoxx 50"
+      ],
+      "paraTi": "Si tienes un fondo de bolsa europea, también ha bajado. Las grandes alemanas pesan mucho en ellos.",
+      "fuente": "finanzen.at (dpa-AFX): cierre del DAX",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El oro sube como refugio",
+      "texto": "Los futuros del oro suben un 1,99% esta madrugada, hasta 3.585,40 $ la onza, con las bolsas de Asia en rojo.",
+      "dato": "3.585,40 $",
+      "cambio": "+1,99%",
+      "tendencia": "up",
+      "valores": [
+        "Oro"
+      ],
+      "paraTi": "Si tienes oro o un fondo de oro, hoy sube. A tu día a día apenas le afecta; sí a quien compra joyas.",
+      "fuente": "Kaohoon International: Asia, petróleo y oro, 23 nov",
+      "url": "https://www.kaohooninternational.com/markets/595213"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El Brent baja de nuevo",
+      "texto": "El petróleo Brent cede un 0,48%, hasta 92,13 $, tras cerrar el viernes en 92,57 $. Su próxima gran cita: la OPEP+ el domingo 29.",
+      "dato": "92,13 $",
+      "cambio": "−0,48%",
+      "tendencia": "down",
+      "valores": [
+        "Brent"
+      ],
+      "paraTi": "Un petróleo algo más barato puede notarse en la gasolinera, pero tarda semanas en llegar al surtidor.",
+      "fuente": "Kaohoon International: Asia, petróleo y oro, 23 nov",
+      "url": "https://www.kaohooninternational.com/markets/595213"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Anthropic: desde hoy, opciones",
+      "texto": "Desde hoy se pueden negociar opciones sobre la acción, que cayó un 8,5% el viernes tras su gran salida a bolsa.",
+      "valores": [
+        "Anthropic"
+      ],
+      "paraTi": "Solo importa a quien tiene acciones de Anthropic. Aún no pesa en los fondos indexados como el S&P 500.",
+      "fuente": "Amistra: semana del 23 al 27 nov",
+      "url": "https://amistra.es/semana-del-23-11-26-al-27-11-26/"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "HPE presenta resultados hoy",
+      "texto": "Hewlett Packard Enterprise publica tras el cierre de Wall Street. Prevé ingresar entre 13.900 y 14.800 millones $ en el trimestre.",
+      "valores": [
+        "HPE"
+      ],
+      "paraTi": "Solo importa a quien tiene sus acciones. Como es una empresa de servidores para IA, su mensaje puede mover a otras tecnológicas.",
+      "fuente": "Inversiones y Trading: resultados de la semana",
+      "url": "https://inversionesytrading.com/principal/hewlett-zoom-pce-pib-eeuu/"
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "Lo que viene esta semana",
+      "texto": "Hoy, PMI de noviembre. Martes, IFO alemán. Miércoles, PCE y PIB de EE. UU. Jueves, Wall Street cerrada. Viernes, IPC adelantado de España.",
+      "valores": [
+        "S&P 500",
+        "EUR/USD",
+        "IBEX 35"
+      ],
+      "paraTi": "El IPC del viernes dirá si los precios en España siguen subiendo, lo que afecta a tu poder de compra y a las revisiones de algunos alquileres.",
+      "fuente": "Bolsamanía: la semana que viene",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
+    }
+  ],
+  "agenda": [
+    {
+      "hora": "09:00",
+      "titulo": "Abre la bolsa española",
+      "texto": "Tras la peor semana del IBEX desde marzo y con los futuros de EE. UU. al alza.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    },
+    {
+      "hora": "15:30",
+      "titulo": "Abre Wall Street",
+      "texto": "Primera sesión de una semana corta. Desde hoy se negocian opciones sobre Anthropic.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500",
+        "Anthropic"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "PMI de noviembre en Europa",
+      "texto": "Eurozona, Alemania, Francia y Reino Unido. El PMI compuesto de la eurozona marcó 51,7 en octubre. Hora no confirmada.",
+      "tipo": "macro",
+      "importancia": "media",
+      "pais": "Eurozona",
+      "valores": [
+        "Euro Stoxx 50",
+        "EUR/USD"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "PMI de noviembre en EE. UU.",
+      "texto": "Manufacturas y servicios. El compuesto marcó 55,9 en octubre. Hora no confirmada.",
+      "tipo": "macro",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Corea habla de su fondo de apoyo",
+      "texto": "Rueda de prensa del ministro de Finanzas sobre un posible fondo para estabilizar la bolsa. Hora no confirmada.",
+      "tipo": "politica",
+      "importancia": "baja",
+      "pais": "Corea del Sur",
+      "valores": [
+        "Kospi"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "PIB de México",
+      "texto": "Dato trimestral y anual. Hora no confirmada.",
+      "tipo": "macro",
+      "importancia": "baja",
+      "pais": "México"
+    },
+    {
+      "hora": "",
+      "titulo": "Resultados: HPE, Agilent, Jacobs",
+      "texto": "HPE publica después del cierre de Wall Street. Agilent, Jacobs y Amentum, sin hora confirmada.",
+      "tipo": "resultados",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "HPE"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Japón, cerrado por festivo",
+      "texto": "La bolsa de Tokio no abre hoy por el Día de Acción de Gracias por el Trabajo.",
+      "tipo": "bolsa",
+      "importancia": "baja",
+      "pais": "Japón",
+      "valores": [
+        "Nikkei 225"
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Investing.com (Finwire): Asia, 23 nov",
+      "url": "https://finwire.io/news/stock-markets-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures"
+    },
+    {
+      "nombre": "Reuters (AOL): futuros y Asia, 23 nov",
+      "url": "https://www.aol.com/articles/us-futures-bounce-while-asia-234419000.html"
+    },
+    {
+      "nombre": "Kaohoon International: Asia, petróleo y oro, 23 nov",
+      "url": "https://www.kaohooninternational.com/markets/595213"
+    },
+    {
+      "nombre": "Marketcalls: informe previo, 23 nov",
+      "url": "https://www.marketcalls.in/futures-and-options/pre-market-report-23-november-2026.html"
+    },
+    {
+      "nombre": "Bolsamanía: la semana que viene",
+      "url": "https://www.bolsamania.com/noticias/mercados/pib-pce-eeuu-protagonistas-semana-marcada-accion-gracias--24243494.html"
+    },
+    {
+      "nombre": "Inversiones y Trading: resultados de la semana",
+      "url": "https://inversionesytrading.com/principal/hewlett-zoom-pce-pib-eeuu/"
+    },
+    {
+      "nombre": "Forbes España: agenda del 23 al 29 nov",
+      "url": "https://forbes.es/actualidad/1065428/agenda-citas-clave-del-23-al-29-de-noviembre/"
+    },
+    {
+      "nombre": "Amistra: semana del 23 al 27 nov",
+      "url": "https://amistra.es/semana-del-23-11-26-al-27-11-26/"
+    },
+    {
+      "nombre": "El Debate (Europa Press): el IBEX cae un 5,7% en la semana",
+      "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+      "nombre": "AP: cierre de Wall Street del 20 nov",
+      "url": "https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/"
+    },
+    {
+      "nombre": "finanzen.at (dpa-AFX): cierre del DAX",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-fallt-unter-25-000-punkte-schwache-techs-1036788557"
+    },
+    {
+      "nombre": "ad-hoc-news: Euro Stoxx 50",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-falls-2-64-prozent-as-ai-selloff-caps-weak-week/70540943"
+    }
+  ]
+}

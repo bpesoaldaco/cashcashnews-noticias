@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-23",
+      "fechaTexto": "Lunes 23 nov 2026",
+      "titular": "Wall Street apunta a un rebote",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-22",
       "fechaTexto": "Domingo 22 nov 2026",
       "titular": "China exporta un 35% más, pero apenas consume",
