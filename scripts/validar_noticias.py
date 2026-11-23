@@ -4,9 +4,13 @@
 Uso: python3 scripts/validar_noticias.py [ruta]   (por defecto noticias.json)
 Sale con código 1 y explica los errores si algo no cuadra.
 """
+import datetime
+import difflib
 import json
+import os
 import re
 import sys
+import unicodedata
 
 TENDENCIAS = {"up", "down", "flat"}
 TIPOS_AGENDA = {"banco_central", "macro", "resultados", "bolsa", "discurso", "politica", "otro"}
@@ -22,6 +26,16 @@ RECOMIENDA = re.compile(
     r"\b(compra|vende|invierte) (ya|ahora)\b",
     re.IGNORECASE,
 )
+# Noticias económicas (no solo de mercados): mínimo por día desde esta fecha, con su «tema».
+ECONOMIA_DESDE = "2026-11-24"
+ECONOMIA_MIN = 3
+TEMAS_ECONOMIA = {"bolsillo", "empleo_vivienda", "macro", "politica", "global"}
+# Formatos fijos según el día de la semana (no cuentan como repetidos).
+FORMATOS = {"semana_que_viene", "concepto", "semana_pasada"}
+# Regla de «no repetir»: un titular no puede parecerse tanto a uno de los últimos días.
+NO_REPETIR_DIAS = 7
+PARECIDO_MAX = 0.85
+ARCHIVO = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "archivo")
 INDICADORES = {"ibex", "eurostoxx", "dax", "sp500", "nasdaq", "brent", "oro", "eurusd", "bitcoin"}
 
 
@@ -139,6 +153,16 @@ def validar(d):
             e.append(f"{w}: 'color' debe ser #RRGGBB")
         if r.get("fuente") and not str(r.get("url", "")).startswith("https://"):
             e.append(f"{w}: si hay 'fuente', 'url' debe empezar por https://")
+        if "formato" in r and r.get("formato") not in FORMATOS:
+            e.append(f"{w}: 'formato' debe ser uno de {sorted(FORMATOS)}")
+        if "tema" in r and r.get("tema") not in TEMAS_ECONOMIA:
+            e.append(f"{w}: 'tema' debe ser uno de {sorted(TEMAS_ECONOMIA)}")
+        if r.get("tema") in TEMAS_ECONOMIA and r.get("categoria") != "Economía":
+            e.append(f"{w}: un reel con 'tema' debe llevar \"categoria\": \"Economía\"")
+
+    economicas = [r for r in reels if isinstance(r, dict) and r.get("tema") in TEMAS_ECONOMIA]
+    if not semanal and fecha >= ECONOMIA_DESDE and len(economicas) < ECONOMIA_MIN:
+        e.append(f"reels: hacen falta al menos {ECONOMIA_MIN} noticias económicas (con 'tema'); hay {len(economicas)}")
 
     agenda = d.get("agenda")
     if agenda is not None:
@@ -171,6 +195,40 @@ def validar(d):
     return e
 
 
+def normaliza(t):
+    t = unicodedata.normalize("NFD", str(t).lower())
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9 ]+", " ", t).split()
+
+
+def repetidos(d, archivo=ARCHIVO):
+    """Titulares de hoy que ya salieron (iguales o casi) en los últimos NO_REPETIR_DIAS días."""
+    if d.get("tipo") == "semanal" or not FECHA.match(str(d.get("fecha", ""))):
+        return []
+    hoy = datetime.date.fromisoformat(d["fecha"])
+    antes = []
+    for n in range(1, NO_REPETIR_DIAS + 1):
+        dia = (hoy - datetime.timedelta(days=n)).isoformat()
+        try:
+            with open(os.path.join(archivo, dia + ".json"), encoding="utf-8") as fh:
+                for r in json.load(fh).get("reels", []):
+                    if isinstance(r, dict) and r.get("titulo") and not r.get("formato"):
+                        antes.append((dia, r["titulo"], " ".join(normaliza(r["titulo"]))))
+        except (OSError, ValueError):
+            continue
+    e = []
+    for i, r in enumerate(d.get("reels", [])):
+        if not isinstance(r, dict) or r.get("formato") or not r.get("titulo"):
+            continue
+        t = " ".join(normaliza(r["titulo"]))
+        for dia, original, n in antes:
+            if t == n or difflib.SequenceMatcher(None, t, n).ratio() >= PARECIDO_MAX:
+                e.append(f"reels[{i}]: «{r['titulo']}» repite un titular del {dia} («{original}»). "
+                         "Si hay algo nuevo, cuéntalo como continuación con otro titular; si no, quítalo")
+                break
+    return e
+
+
 def main():
     ruta = sys.argv[1] if len(sys.argv) > 1 else "noticias.json"
     try:
@@ -180,6 +238,9 @@ def main():
         print(f"ERROR: no se puede leer {ruta}: {ex}")
         return 1
     errores = validar(d)
+    # Solo se compara con el archivo cuando se valida la noticia del día (no el propio archivo).
+    if os.path.abspath(os.path.dirname(ruta)) != ARCHIVO:
+        errores += repetidos(d)
     if errores:
         print(f"ERROR: {ruta} tiene {len(errores)} problema(s):")
         for x in errores:
