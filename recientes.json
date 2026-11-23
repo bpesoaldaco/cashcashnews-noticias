@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-23",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
   "IBEX 35": {
@@ -403,62 +403,441 @@
      "url": "https://amadeus.com/es/sala-de-prensa/notas-de-prensa/amadeus-3t-2026-solido-crecimiento-colaboraciones-estrategicas-ia"
     }
    ]
+  },
+  "ArcelorMittal": {
+   "revisado": "2026-11-23",
+   "resumen": "Fue el peor del IBEX el viernes 20 (−5,66%), en la peor semana del índice desde marzo. El 5 de noviembre cayó tras presentar cuentas.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "ArcelorMittal, el peor del IBEX: cae un 5,66% el viernes",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+     "fecha": "2026-11-05",
+     "titulo": "ArcelorMittal cae tras presentar sus cuentas",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+    }
+   ]
+  },
+  "Atresmedia": {
+   "revisado": "2026-11-23",
+   "resumen": "Repartirá un dividendo a cuenta de 0,83 € por acción (unos 187 M€) el 16 de diciembre.",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Atresmedia pagará 0,83 € por acción el 16 de diciembre",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/en/economy/atresmedia-will-distribute-almost-187-million-in-dividends-on-december-16-at-0-83-per-share/"
+    }
+   ]
+  },
+  "Santander": {
+   "revisado": "2026-11-23",
+   "resumen": "Ganó 12.405 M€ hasta septiembre (+20%), pero el beneficio del trimestre bajó un 2% y la acción cayó tras sus resultados.",
+   "titulares": [
+    {
+     "fecha": "2026-10-28",
+     "titulo": "Santander cae tras sus resultados pese a ganar un 20% más",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+    }
+   ]
+  },
+  "Bankinter": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Bankinter y BBVA suben en un IBEX al alza",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+    }
+   ]
+  },
+  "BBVA": {
+   "revisado": "2026-11-23",
+   "resumen": "Ganó 9.066 M€ hasta septiembre (+13,6%), pero cayó con fuerza tras sus cuentas. El 5 de noviembre subió.",
+   "titulares": [
+    {
+     "fecha": "2026-11-05",
+     "titulo": "BBVA y Bankinter suben en un IBEX al alza",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+    },
+    {
+     "fecha": "2026-10-29",
+     "titulo": "BBVA cae con fuerza tras ganar un 13,6% más",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+    }
+   ]
+  },
+  "CaixaBank": {
+   "revisado": "2026-11-23",
+   "resumen": "Ganó 4.962 M€ hasta septiembre, un 12,9% más.",
+   "titulares": [
+    {
+     "fecha": "2026-10-30",
+     "titulo": "CaixaBank gana un 12,9% más, hasta 4.962 millones",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+    }
+   ]
+  },
+  "Cellnex": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Cellnex cae en una mala sesión para el IBEX",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+    }
+   ]
+  },
+  "CIE Automotive": {
+   "revisado": "2026-11-23"
+  },
+  "Colonial": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-11",
+     "titulo": "Colonial, a la cola del IBEX en un día de subidas",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+    }
+   ]
+  },
+  "Ebro Foods": {
+   "revisado": "2026-11-23"
+  },
+  "Enagás": {
+   "revisado": "2026-11-23",
+   "resumen": "El CIADI le volvió a dar la razón frente a Perú: podrá sacar sus dividendos del país y recuperar unos 59 M€ de garantía.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Enagás sube un 0,8% y aguanta en un IBEX en rojo",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+     "fecha": "2026-11-18",
+     "titulo": "Enagás vuelve a ganar a Perú en el CIADI",
+     "fuente": "El Español",
+     "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html"
+    }
+   ]
+  },
+  "Endesa": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Endesa, de los pocos que suben el viernes (+0,14%)",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Endesa e Iberdrola bajan en el arranque de semana",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-bolsas-semana-clave-nvidia-anthropic--24182574.html"
+    },
+    {
+     "fecha": "2026-10-28",
+     "titulo": "Endesa cae tras presentar sus cuentas",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-frenetica-santander-fed-avalancha-resultados--23936172.html"
+    }
+   ]
+  },
+  "Ercros": {
+   "revisado": "2026-11-23"
+  },
+  "Faes Farma": {
+   "revisado": "2026-11-23"
+  },
+  "Ferrovial": {
+   "revisado": "2026-11-23",
+   "resumen": "Subió un 8% el 27 de octubre al aclarar la financiación de la autopista I-24 de Tennessee.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Ferrovial sube mientras el IBEX empieza la semana a la baja",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-bolsas-semana-clave-nvidia-anthropic--24182574.html"
+    },
+    {
+     "fecha": "2026-10-27",
+     "titulo": "Ferrovial sube un 8% por la autopista I-24 de Tennessee",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-tranquilos-ultimas-subidas-tecnologia--23927972.html"
+    }
+   ]
+  },
+  "Fluidra": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Fluidra, entre los que más suben del IBEX",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/lunes-2-noviembre-2026-intensa-semana-midterms--23976862.html"
+    }
+   ]
+  },
+  "Grifols": {
+   "revisado": "2026-11-23",
+   "resumen": "Ganó 390 M€ hasta septiembre (+28%) y pagará un dividendo a cuenta de 0,15 € el 4 de diciembre.",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Grifols gana 390 millones hasta septiembre, un 28% más",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/economia/farmaceuticas/grifols-gana-390-millones-septiembre-28_1_5897915.html"
+    },
+    {
+     "fecha": "2026-10-30",
+     "titulo": "Grifols, Puig y Repsol lideran las subidas del IBEX",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+    }
+   ]
+  },
+  "IAG": {
+   "revisado": "2026-11-23"
+  },
+  "Iberdrola": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Iberdrola sube un 0,35% en un viernes negro para el IBEX",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Iberdrola y Endesa bajan en el arranque de semana",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-bolsas-semana-clave-nvidia-anthropic--24182574.html"
+    }
+   ]
+  },
+  "Inditex": {
+   "revisado": "2026-11-23",
+   "resumen": "Tocó máximos tras las 'midterms' de EE. UU. (+5,24% el 4 de noviembre) y superó los 60 €, pero retrocedió con fuerza el día 6.",
+   "titulares": [
+    {
+     "fecha": "2026-11-06",
+     "titulo": "Inditex cae con fuerza tras superar los 60 euros",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+    },
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Inditex sube un 5,24% y toca máximos tras las 'midterms'",
+     "fuente": "FashionUnited",
+     "url": "https://fashionunited.es/noticias/empresas/las-acciones-de-inditex-y-puig-se-disparan-a-maximos-en-bolsa-al-calor-de-la-derrota-de-trump-en-las-midterms/2026110551131"
+    }
+   ]
+  },
+  "Indra": {
+   "revisado": "2026-11-23",
+   "resumen": "Se desplomó un 6,4% el 17 de noviembre por una investigación de Anticorrupción sobre adjudicación de contratos.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Indra se hunde un 6,4% por una investigación de Anticorrupción",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+    },
+    {
+     "fecha": "2026-11-12",
+     "titulo": "Indra cae un 2,4%",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+    },
+    {
+     "fecha": "2026-10-29",
+     "titulo": "Indra sube con fuerza tras sus resultados",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-sesion-clave-resultados-bce-presion-tecnologica--23946691.html"
+    }
+   ]
+  },
+  "Laboratorios Rovi": {
+   "revisado": "2026-11-23",
+   "resumen": "Se disparó tras sus resultados el 5 de noviembre, pero el viernes 20 cayó un 4,54%.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Rovi cae un 4,54%, de los peores del viernes",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    },
+    {
+     "fecha": "2026-11-11",
+     "titulo": "Rovi, entre los que más suben del IBEX",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-huelga-general-espana--24122918.html"
+    },
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Rovi se dispara tras presentar resultados",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/jueves-5-noviembre-subidas-elecciones-eeuu-boe-tipos--24035214.html"
+    }
+   ]
+  },
+  "Logista": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Logista sube un 0,22% en un viernes en rojo",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    }
+   ]
+  },
+  "Mapfre": {
+   "revisado": "2026-11-23",
+   "resumen": "Cayó un 3% el 17 de noviembre tras un informe de Barclays. Paga dividendo el jueves 26.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Mapfre cae un 3% tras un informe de Barclays",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-caidas-nvidia-deutsche-bank--24198684.html"
+    }
+   ]
+  },
+  "Meliá": {
+   "revisado": "2026-11-23",
+   "resumen": "Ganó 93,5 M€ hasta septiembre, un 47,4% menos, por el golpe de su salida de Cuba (−79,8 M€).",
+   "titulares": [
+    {
+     "fecha": "2026-11-03",
+     "titulo": "Meliá gana un 47% menos hasta septiembre por su salida de Cuba",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/en/economy/melia-reduces-its-profit-to-93-5-million-until-september-due-to-the-blow-from-cuba/"
+    }
+   ]
+  },
+  "Merlin": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Merlin cae un 3,62% en el viernes negro del IBEX",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    }
+   ]
+  },
+  "Naturgy": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "Naturgy, uno de los siete valores que suben el viernes",
+     "fuente": "El Debate (Europa Press)",
+     "url": "https://www.eldebate.com/economia/20261120/ibex-35-desploma-57-semana-pierde-19000-puntos_483468.html"
+    }
+   ]
+  },
+  "Neinor Homes": {
+   "revisado": "2026-11-23"
+  },
+  "Pharma Mar": {
+   "revisado": "2026-11-23"
+  },
+  "Puig": {
+   "revisado": "2026-11-23",
+   "titulares": [
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Puig sube un 2,67%, hasta 20 €, tras las 'midterms'",
+     "fuente": "FashionUnited",
+     "url": "https://fashionunited.es/noticias/empresas/las-acciones-de-inditex-y-puig-se-disparan-a-maximos-en-bolsa-al-calor-de-la-derrota-de-trump-en-las-midterms/2026110551131"
+    },
+    {
+     "fecha": "2026-10-30",
+     "titulo": "Puig, Grifols y Repsol lideran las subidas del IBEX",
+     "fuente": "Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
+    }
+   ]
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-22",
-   "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
+   "fecha": "2026-11-23",
+   "titulo": "El IBEX abre tras su peor semana desde marzo",
    "cambio": "−1,63%",
    "tendencia": "down"
   },
   "Euro Stoxx 50": {
-   "fecha": "2026-11-22",
-   "titulo": "Euro Stoxx 50: −2,64%",
-   "cambio": "−2,64%",
-   "tendencia": "down"
+   "fecha": "2026-11-23",
+   "titulo": "Hoy, los PMI"
   },
   "DAX": {
-   "fecha": "2026-11-22",
-   "titulo": "El DAX baja de 25.000 puntos",
+   "fecha": "2026-11-23",
+   "titulo": "El DAX y el Euro Stoxx, bajo presión",
    "cambio": "−2,6%",
    "tendencia": "down"
   },
   "S&P 500": {
-   "fecha": "2026-11-22",
-   "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección",
+   "fecha": "2026-11-23",
+   "titulo": "El S&P 500 sigue en corrección",
    "cambio": "−3,7%",
    "tendencia": "down"
   },
   "Nasdaq": {
-   "fecha": "2026-11-22",
-   "titulo": "El Nasdaq ya pierde en el año",
-   "cambio": "−5,3%",
-   "tendencia": "down"
+   "fecha": "2026-11-23",
+   "titulo": "Futuros: S&P +2%, Nasdaq ~+3%"
   },
   "Dow Jones": {
+   "fecha": "2026-11-23",
+   "titulo": "El S&P 500 sigue en corrección"
+  },
+  "Nikkei 225": {
    "fecha": "2026-11-22",
-   "titulo": "El S&P 500 se hunde un 3,7% y entra en corrección"
+   "titulo": "Bolsa japonesa"
+  },
+  "Hang Seng": {
+   "fecha": "2026-11-23",
+   "titulo": "China y Hong Kong, a la baja",
+   "frase": "El Hang Seng cede un 1,30% (22.120,37) y Shanghái un 1,24% (3.490,04).",
+   "cambio": "−1,30%",
+   "tendencia": "down"
   },
   "Bitcoin": {
    "fecha": "2026-11-22",
-   "titulo": "El bitcoin rebota hasta unos 58.900 $",
-   "cambio": "+5,68%",
-   "tendencia": "up"
+   "titulo": "Así cerró la semana",
+   "frase": "Bitcoin 58.944 $ este domingo."
   },
   "Brent": {
-   "fecha": "2026-11-22",
-   "titulo": "El Brent cierra su tercera semana de caídas"
+   "fecha": "2026-11-23",
+   "titulo": "El Brent baja de nuevo",
+   "cambio": "−0,48%",
+   "tendencia": "down"
   },
   "Oro": {
-   "fecha": "2026-11-22",
-   "titulo": "Oro y petróleo, a la baja"
+   "fecha": "2026-11-23",
+   "titulo": "Oro arriba, petróleo abajo",
+   "cambio": "+1,99%",
+   "tendencia": "up"
   },
   "EUR/USD": {
-   "fecha": "2026-11-22",
-   "titulo": "La Fed, casi segura",
-   "cambio": "+25 pb",
-   "tendencia": "up"
+   "fecha": "2026-11-23",
+   "titulo": "Lo que viene esta semana"
   },
   "Acciona": {
    "fecha": "2026-11-18",
@@ -494,7 +873,7 @@
    "frase": "Suben Aena, Amadeus y Ferrovial."
   },
   "ArcelorMittal": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Los peores del viernes",
    "frase": "ArcelorMittal cayó un 5,66%.",
    "cambio": "−5,66%",
@@ -570,8 +949,8 @@
    "frase": "También bajan Iberdrola y Endesa."
   },
   "Inditex": {
-   "fecha": "2026-11-06",
-   "titulo": "Inditex cae tras tocar máximos"
+   "fecha": "2026-11-22",
+   "titulo": "Black Friday: 3 de cada 4 españoles comprarán"
   },
   "Indra": {
    "fecha": "2026-11-17",
@@ -580,9 +959,8 @@
    "tendencia": "down"
   },
   "Mapfre": {
-   "fecha": "2026-11-22",
-   "titulo": "Lo que viene en España",
-   "frase": "Jueves 26: Mapfre paga dividendo."
+   "fecha": "2026-11-23",
+   "titulo": "Mapfre y su dividendo"
   },
   "Merlin": {
    "fecha": "2026-11-18",
@@ -616,7 +994,7 @@
    "tendencia": "up"
   },
   "Solaria": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Los peores del viernes",
    "frase": "Solaria se dejó más de un 5% el lunes y el jueves."
   },
@@ -641,11 +1019,11 @@
    "frase": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%."
   },
   "ASML": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "El DAX baja de 25.000 puntos"
   },
   "BASF": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Evonik se queda sin BASF",
    "cambio": "−17%",
    "tendencia": "down"
@@ -656,7 +1034,7 @@
    "frase": "Deutsche Bank (+0,35%), Siemens (+0,34%) e Infineon (+0,28%) fueron de los pocos que subieron en el DAX."
   },
   "Evonik": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Evonik se queda sin BASF",
    "cambio": "−17%",
    "tendencia": "down"
@@ -727,14 +1105,13 @@
    "tendencia": "down"
   },
   "AMD": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Huye el dinero de los chips",
    "frase": "El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%."
   },
   "Amazon": {
-   "fecha": "2026-11-20",
-   "titulo": "Nvidia sigue cayendo",
-   "frase": "Amazon (−3,9%) y Alphabet (−3,5%) también sufren."
+   "fecha": "2026-11-22",
+   "titulo": "Black Friday: 3 de cada 4 españoles comprarán"
   },
   "Amer Sports": {
    "fecha": "2026-11-18",
@@ -742,10 +1119,8 @@
    "frase": "Amer Sports anuncia una recompra de 1.000 M$."
   },
   "Anthropic": {
-   "fecha": "2026-11-22",
-   "titulo": "Anthropic: de +17% a −9% en dos días",
-   "cambio": "−9,1%",
-   "tendencia": "down"
+   "fecha": "2026-11-23",
+   "titulo": "Anthropic: desde hoy, opciones"
   },
   "Apple": {
    "fecha": "2026-11-03",
@@ -758,7 +1133,7 @@
    "tendencia": "up"
   },
   "Broadcom": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Huye el dinero de los chips"
   },
   "Cisco": {
@@ -766,10 +1141,6 @@
    "titulo": "Cisco supera previsiones",
    "cambio": "+24%",
    "tendencia": "up"
-  },
-  "Dell": {
-   "fecha": "2026-11-22",
-   "titulo": "Resultados de la semana: Dell, HP y Deere"
   },
   "Disney": {
    "fecha": "2026-11-18",
@@ -804,7 +1175,7 @@
    "titulo": "Nvidia invertirá 3.000 millones en Meta"
   },
   "Micron": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Huye el dinero de los chips",
    "frase": "El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%."
   },
@@ -820,7 +1191,7 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-21",
    "titulo": "Nvidia tras caer un 13,8%"
   },
   "Palo Alto Networks": {
@@ -866,6 +1237,21 @@
    "titulo": "Walmart bate previsiones",
    "cambio": "+17% online",
    "tendencia": "up"
+  },
+  "Alibaba": {
+   "fecha": "2026-11-23",
+   "titulo": "China y Hong Kong, a la baja",
+   "frase": "Alibaba pierde un 4,02% y Tencent un 2,79%."
+  },
+  "Tencent": {
+   "fecha": "2026-11-23",
+   "titulo": "China y Hong Kong, a la baja",
+   "frase": "Alibaba pierde un 4,02% y Tencent un 2,79%."
+  },
+  "Samsung": {
+   "fecha": "2026-11-23",
+   "titulo": "Corea se hunde a mínimos de 10 meses",
+   "frase": "Pesan Samsung (−4,48%) y SK Hynix (−3,7%) por las dudas sobre la IA."
   }
  }
 }
