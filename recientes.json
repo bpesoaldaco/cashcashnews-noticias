@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23",
+ "actualizado": "2026-11-24",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
   "IBEX 35": {
@@ -774,49 +774,222 @@
      "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-cede-cierre-semana-resultados-caida-banca-tecnologia--23960296.html"
     }
    ]
+  },
+  "Redeia": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Redeia sube un 2,90% en la sesión del viernes",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/el-ibex-35-defiende-los-20-000-puntos-tras-avanzar-un-3-36-en-una-semana-dominada-por-nvidia-y-los-resultados/"
+    }
+   ]
+  },
+  "Repsol": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Repsol sube un 3,31% y lidera el Ibex en la semana de los 20.000 puntos",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/el-ibex-35-defiende-los-20-000-puntos-tras-avanzar-un-3-36-en-una-semana-dominada-por-nvidia-y-los-resultados/"
+    }
+   ]
+  },
+  "Sabadell": {
+   "revisado": "2026-11-24"
+  },
+  "Sacyr": {
+   "revisado": "2026-11-24"
+  },
+  "San José": {
+   "revisado": "2026-11-24"
+  },
+  "Solaria": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Solaria cae un 3,70% en una semana alcista para el Ibex",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/el-ibex-35-defiende-los-20-000-puntos-tras-avanzar-un-3-36-en-una-semana-dominada-por-nvidia-y-los-resultados/"
+    },
+    {
+     "fecha": "2026-11-08",
+     "titulo": "Solaria, el valor del Ibex con más posiciones cortas: 7,96% del capital",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/solaria-y-enagas-los-valores-del-ibex-35-mas-presionados-por-los-bajistas/"
+    }
+   ]
+  },
+  "Talgo": {
+   "revisado": "2026-11-24"
+  },
+  "Tubacex": {
+   "revisado": "2026-11-24"
+  },
+  "Telefónica": {
+   "revisado": "2026-11-24"
+  },
+  "Unicaja": {
+   "revisado": "2026-11-24"
+  },
+  "Vidrala": {
+   "revisado": "2026-11-24"
+  },
+  "Viscofan": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-08",
+     "titulo": "Los bajistas tienen posiciones cortas del 3,18% del capital de Viscofan",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/solaria-y-enagas-los-valores-del-ibex-35-mas-presionados-por-los-bajistas/"
+    }
+   ]
+  },
+  "Adidas": {
+   "revisado": "2026-11-24"
+  },
+  "Airbus": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-09",
+     "titulo": "Airbus suma 202 pedidos y entrega 74 aviones en octubre",
+     "fuente": "CAPA",
+     "url": "https://centreforaviation.com/news/airbus-reports-202-commercial-aircraft-orders-and-74-deliveries-for-oct-2026-1378941"
+    }
+   ]
+  },
+  "Aixtron": {
+   "revisado": "2026-11-24"
+  },
+  "Allianz": {
+   "revisado": "2026-11-24"
+  },
+  "ASM International": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-06",
+     "titulo": "ASM International cae casi un 11% en la semana del 30 oct al 6 nov",
+     "fuente": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ai-asml-ends-up-2-4-as-dax-falls-2-4-of-5-europe-chips-gain/"
+    }
+   ]
+  },
+  "ASML": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-06",
+     "titulo": "ASML rebota un 2,43%, hasta 1.280,40 €, tras caer un 9,37% en la semana",
+     "fuente": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ai-asml-ends-up-2-4-as-dax-falls-2-4-of-5-europe-chips-gain/"
+    }
+   ]
+  },
+  "AXA": {
+   "revisado": "2026-11-24"
+  },
+  "BASF": {
+   "revisado": "2026-11-24"
+  },
+  "Bayer": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Bayer, entre los valores más fuertes del DAX en 2026",
+     "fuente": "stock3",
+     "url": "https://stock3.com/news/wochenausblick-starke-zahlen-befluegeln-den-dax-17396615"
+    }
+   ]
+  },
+  "BMW": {
+   "revisado": "2026-11-24"
+  },
+  "BNP Paribas": {
+   "revisado": "2026-11-24"
+  },
+  "Danone": {
+   "revisado": "2026-11-24"
+  },
+  "Deutsche Bank": {
+   "revisado": "2026-11-24"
+  },
+  "Deutsche Telekom": {
+   "revisado": "2026-11-24"
+  },
+  "DHL Group": {
+   "revisado": "2026-11-24"
+  },
+  "Enel": {
+   "revisado": "2026-11-24",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Enel supera previsiones de EBITDA ajustado en sus cuentas de nueve meses",
+     "fuente": "Newsquawk",
+     "url": "https://www.newsquawk.com/headlines/european-pre-market-equity-summary-13th-november-2026-"
+    }
+   ]
+  },
+  "Eni": {
+   "revisado": "2026-11-24"
+  },
+  "EssilorLuxottica": {
+   "revisado": "2026-11-24"
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-23",
-   "titulo": "El IBEX abre tras su peor semana desde marzo",
-   "cambio": "−1,63%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "IBEX 35, +1,63%",
+   "cambio": "+1,63%",
+   "tendencia": "up"
   },
   "Euro Stoxx 50": {
    "fecha": "2026-11-23",
    "titulo": "Hoy, los PMI"
   },
   "DAX": {
-   "fecha": "2026-11-23",
-   "titulo": "El DAX y el Euro Stoxx, bajo presión",
-   "cambio": "−2,6%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "DAX +2,15%, CAC +1,48%",
+   "cambio": "+2,15%",
+   "tendencia": "up"
+  },
+  "FTSE 100": {
+   "fecha": "2026-11-24",
+   "titulo": "DAX +2,15%, CAC +1,48%",
+   "frase": "El FTSE 100 sube un 1,3% y el MIB italiano, un 0,65%."
   },
   "S&P 500": {
-   "fecha": "2026-11-23",
-   "titulo": "El S&P 500 sigue en corrección",
-   "cambio": "−3,7%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "S&P 500, +4,7%",
+   "cambio": "+4,7%",
+   "tendencia": "up"
   },
   "Nasdaq": {
-   "fecha": "2026-11-23",
-   "titulo": "Futuros: S&P +2%, Nasdaq ~+3%"
+   "fecha": "2026-11-24",
+   "titulo": "Nvidia recupera a Jensen Huang y vuela un 31%"
   },
   "Dow Jones": {
-   "fecha": "2026-11-23",
-   "titulo": "El S&P 500 sigue en corrección"
+   "fecha": "2026-11-24",
+   "titulo": "Dow Jones, +1.448 puntos",
+   "cambio": "+3%",
+   "tendencia": "up"
   },
   "Nikkei 225": {
-   "fecha": "2026-11-22",
-   "titulo": "Bolsa japonesa"
+   "fecha": "2026-11-24",
+   "titulo": "Corea pasa de mínimos a subir un 6,5%"
   },
   "Hang Seng": {
-   "fecha": "2026-11-23",
-   "titulo": "China y Hong Kong, a la baja",
-   "frase": "El Hang Seng cede un 1,30% (22.120,37) y Shanghái un 1,24% (3.490,04).",
-   "cambio": "−1,30%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "Asia sigue subiendo",
+   "frase": "Kospi +6,5% (5.014,41), Nikkei +3,9%, Shanghái +0,7% y Hang Seng +0,2% esta madrugada."
   },
   "Bitcoin": {
    "fecha": "2026-11-22",
@@ -824,16 +997,16 @@
    "frase": "Bitcoin 58.944 $ este domingo."
   },
   "Brent": {
-   "fecha": "2026-11-23",
-   "titulo": "El Brent baja de nuevo",
-   "cambio": "−0,48%",
+   "fecha": "2026-11-24",
+   "titulo": "El petróleo cae un 4%: ¿se notará en la gasolinera?",
+   "frase": "El Brent perdió un 3,6% el lunes y esta madrugada sigue bajando, hasta 86,27 $.",
+   "cambio": "−0,5%",
    "tendencia": "down"
   },
   "Oro": {
-   "fecha": "2026-11-23",
-   "titulo": "Oro arriba, petróleo abajo",
-   "cambio": "+1,99%",
-   "tendencia": "up"
+   "fecha": "2026-11-24",
+   "titulo": "Petróleo abajo, oro arriba",
+   "frase": "Oro a 3.644,51 $ (+0,3%)."
   },
   "EUR/USD": {
    "fecha": "2026-11-23",
@@ -856,11 +1029,9 @@
    "tendencia": "up"
   },
   "ACS": {
-   "fecha": "2026-11-18",
-   "titulo": "Los que aguantan",
-   "frase": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice.",
-   "cambio": "+1,2%",
-   "tendencia": "up"
+   "fecha": "2026-11-24",
+   "titulo": "El IBEX rebota un 1,63% y recupera los 19.000",
+   "frase": "Tiran ArcelorMittal (+5,34%), ACS (+3,99%), Indra (+3,76%) e IAG (+3,70%)."
   },
   "Aena": {
    "fecha": "2026-11-17",
@@ -873,11 +1044,9 @@
    "frase": "Suben Aena, Amadeus y Ferrovial."
   },
   "ArcelorMittal": {
-   "fecha": "2026-11-21",
-   "titulo": "Los peores del viernes",
-   "frase": "ArcelorMittal cayó un 5,66%.",
-   "cambio": "−5,66%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "Los que más suben",
+   "frase": "ArcelorMittal +5,34%, ACS +3,99%, Indra +3,76%, IAG +3,70%."
   },
   "Atresmedia": {
    "fecha": "2026-11-20",
@@ -938,10 +1107,9 @@
    "frase": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice."
   },
   "IAG": {
-   "fecha": "2026-11-18",
-   "titulo": "IAG, infravalorada según RBC",
-   "cambio": "RBC",
-   "tendencia": "flat"
+   "fecha": "2026-11-24",
+   "titulo": "El IBEX rebota un 1,63% y recupera los 19.000",
+   "frase": "Tiran ArcelorMittal (+5,34%), ACS (+3,99%), Indra (+3,76%) e IAG (+3,70%)."
   },
   "Iberdrola": {
    "fecha": "2026-11-16",
@@ -953,10 +1121,9 @@
    "titulo": "Black Friday: 3 de cada 4 españoles comprarán"
   },
   "Indra": {
-   "fecha": "2026-11-17",
-   "titulo": "Indra y Mapfre hunden al IBEX",
-   "cambio": "−1,61%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "El IBEX rebota un 1,63% y recupera los 19.000",
+   "frase": "Tiran ArcelorMittal (+5,34%), ACS (+3,99%), Indra (+3,76%) e IAG (+3,70%)."
   },
   "Mapfre": {
    "fecha": "2026-11-23",
@@ -966,6 +1133,11 @@
    "fecha": "2026-11-18",
    "titulo": "Los que aguantan",
    "frase": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice."
+  },
+  "Naturgy": {
+   "fecha": "2026-11-24",
+   "titulo": "Los que más bajan",
+   "frase": "Repsol −2,25% con el petróleo, Telefónica −1,31% y Naturgy −0,80%."
   },
   "Puig": {
    "fecha": "2026-10-30",
@@ -977,10 +1149,8 @@
    "semanal": true
   },
   "Repsol": {
-   "fecha": "2026-11-18",
-   "titulo": "Repsol, la peor del IBEX por el crudo",
-   "cambio": "−3,9%",
-   "tendencia": "down"
+   "fecha": "2026-11-24",
+   "titulo": "Repsol con el crudo a la baja"
   },
   "Sabadell": {
    "fecha": "2026-10-29",
@@ -999,9 +1169,9 @@
    "frase": "Solaria se dejó más de un 5% el lunes y el jueves."
   },
   "Telefónica": {
-   "fecha": "2026-11-20",
-   "titulo": "STC paga dividendo a sus accionistas",
-   "frase": "El primer accionista de Telefónica reparte 2.741,5 millones de riales saudíes, unos 661,5 M€."
+   "fecha": "2026-11-24",
+   "titulo": "Los que más bajan",
+   "frase": "Repsol −2,25% con el petróleo, Telefónica −1,31% y Naturgy −0,80%."
   },
   "Unicaja": {
    "fecha": "2026-10-30",
@@ -1019,8 +1189,8 @@
    "frase": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%."
   },
   "ASML": {
-   "fecha": "2026-11-21",
-   "titulo": "El DAX baja de 25.000 puntos"
+   "fecha": "2026-11-24",
+   "titulo": "ASML y los chips europeos"
   },
   "BASF": {
    "fecha": "2026-11-21",
@@ -1142,6 +1312,10 @@
    "cambio": "+24%",
    "tendencia": "up"
   },
+  "Dell": {
+   "fecha": "2026-11-24",
+   "titulo": "Dell presenta hoy, con la IA en el foco"
+  },
   "Disney": {
    "fecha": "2026-11-18",
    "titulo": "Baten previsiones… y bajan",
@@ -1191,8 +1365,10 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-21",
-   "titulo": "Nvidia tras caer un 13,8%"
+   "fecha": "2026-11-24",
+   "titulo": "Nvidia recupera a Jensen Huang y vuela un 31%",
+   "cambio": "+31,5%",
+   "tendencia": "up"
   },
   "Palo Alto Networks": {
    "fecha": "2026-11-20",
@@ -1249,9 +1425,8 @@
    "frase": "Alibaba pierde un 4,02% y Tencent un 2,79%."
   },
   "Samsung": {
-   "fecha": "2026-11-23",
-   "titulo": "Corea se hunde a mínimos de 10 meses",
-   "frase": "Pesan Samsung (−4,48%) y SK Hynix (−3,7%) por las dudas sobre la IA."
+   "fecha": "2026-11-24",
+   "titulo": "Corea pasa de mínimos a subir un 6,5%"
   }
  }
 }
