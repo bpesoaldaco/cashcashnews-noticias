@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-24",
+      "fechaTexto": "Martes 24 nov 2026",
+      "titular": "Nvidia recupera a Jensen Huang y vuela un 31%",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-23",
       "fechaTexto": "Lunes 23 nov 2026",
       "titular": "Wall Street apunta a un rebote",
