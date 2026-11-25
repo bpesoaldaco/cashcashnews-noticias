@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-25",
+      "fechaTexto": "Miércoles 25 nov 2026",
+      "titular": "Nvidia devuelve un 5,9% y los chips se hunden",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-24",
       "fechaTexto": "Martes 24 nov 2026",
       "titular": "Nvidia recupera a Jensen Huang y vuela un 31%",

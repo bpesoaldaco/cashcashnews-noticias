@@ -1,0 +1,771 @@
+{
+  "fecha": "2026-11-25",
+  "fechaTexto": "Miércoles 25 nov 2026",
+  "actualizado": "04:58 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Los índices son del cierre del martes; Asia y futuros, de esta madrugada. La bolsa española aún no ha abierto. El cambio del oro se calcula frente al dato de ayer.",
+  "indicadores": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "19.015,8",
+      "cambio": "−0,86%",
+      "tendencia": "down"
+    },
+    {
+      "id": "eurostoxx",
+      "nombre": "Euro Stoxx 50",
+      "valor": "6.003,76",
+      "cambio": "−1,16%",
+      "tendencia": "down"
+    },
+    {
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "—",
+      "cambio": "−1,26%",
+      "tendencia": "down"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "7.201,09",
+      "cambio": "−0,50%",
+      "tendencia": "down"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "23.733,54",
+      "cambio": "−1,48%",
+      "tendencia": "down"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "91,40 $",
+      "cambio": "+2,27%",
+      "tendencia": "up"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.555,72 $",
+      "cambio": "−2,4%",
+      "tendencia": "down"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "EUR/USD",
+      "valor": "1,0965",
+      "cambio": "+0,57%",
+      "tendencia": "up"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "valor": "59.258 $",
+      "cambio": "−1%",
+      "tendencia": "down"
+    }
+  ],
+  "stories": [
+    {
+      "id": "mercados",
+      "titulo": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "slides": [
+        {
+          "titulo": "El rebote de la IA se frena",
+          "texto": "Los chips devuelven buena parte del rally del lunes. Asia cae con fuerza esta madrugada.",
+          "tendencia": "down"
+        },
+        {
+          "titulo": "Nasdaq, −1,48%",
+          "texto": "Cierra en 23.733,54. El S&P 500 cae un 0,50% (7.201,09).",
+          "dato": "23.733,54",
+          "cambio": "−1,48%",
+          "tendencia": "down",
+          "valores": [
+            "Nasdaq",
+            "S&P 500"
+          ]
+        },
+        {
+          "titulo": "Asia, en rojo",
+          "texto": "Kospi hasta −6%, Taiwán más de −5% y Nikkei cerca de −3%. Hong Kong, +0,6%.",
+          "cambio": "−6%",
+          "tendencia": "down",
+          "valores": [
+            "Kospi",
+            "Nikkei 225"
+          ]
+        },
+        {
+          "titulo": "Petróleo arriba, oro abajo",
+          "texto": "Brent 91,40 $ (+2,27%) por Ormuz. Oro 3.555,72 $ la onza.",
+          "dato": "91,40 $",
+          "cambio": "+2,27%",
+          "tendencia": "up",
+          "valores": [
+            "Brent",
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "Futuros, a la baja",
+          "texto": "S&P 500 entre −0,3% y −0,7%; Nasdaq 100 en torno a −1%.",
+          "tendencia": "down",
+          "valores": [
+            "S&P 500",
+            "Nasdaq"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espana",
+      "titulo": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "slides": [
+        {
+          "titulo": "IBEX 35, −0,86%",
+          "texto": "Cierra en 19.015,8 puntos y salva los 19.000 por poco.",
+          "dato": "19.015,8",
+          "cambio": "−0,86%",
+          "tendencia": "down",
+          "valores": [
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "Los que más bajan",
+          "texto": "ArcelorMittal −7,65%, Acerinox −4,36%, Solaria −4,28%, ACS −3,89%.",
+          "tendencia": "down",
+          "valores": [
+            "ArcelorMittal",
+            "Acerinox",
+            "Solaria",
+            "ACS"
+          ]
+        },
+        {
+          "titulo": "Los que más suben",
+          "texto": "Cellnex +3,02%, Telefónica +2,56%, Redeia +2,44%, Amadeus +1,77%.",
+          "tendencia": "up",
+          "valores": [
+            "Cellnex",
+            "Telefónica",
+            "Redeia",
+            "Amadeus"
+          ]
+        },
+        {
+          "titulo": "Prima de riesgo, 60,6 puntos",
+          "texto": "Bono español a 10 años al 3,868%.",
+          "dato": "60,6",
+          "tendencia": "flat"
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "titulo": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "slides": [
+        {
+          "titulo": "Euro Stoxx 50, −1,16%",
+          "texto": "Cierra en 6.003,76. El STOXX 600 cae un 0,66%.",
+          "dato": "6.003,76",
+          "cambio": "−1,16%",
+          "tendencia": "down",
+          "valores": [
+            "Euro Stoxx 50"
+          ]
+        },
+        {
+          "titulo": "Fráncfort −1,26%, Milán −1,84%",
+          "texto": "París −0,05% y Londres −0,13%.",
+          "tendencia": "down",
+          "valores": [
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "Chips a la baja",
+          "texto": "Aixtron −16,3% tras una rebaja de UBS; STMicro −10,22%, Infineon más de −9%.",
+          "tendencia": "down",
+          "valores": [
+            "Aixtron",
+            "STMicro",
+            "Infineon"
+          ]
+        },
+        {
+          "titulo": "Sanofi, +9,7%",
+          "texto": "Comprará Insmed por 41.000 millones de dólares.",
+          "cambio": "+9,7%",
+          "tendencia": "up",
+          "valores": [
+            "Sanofi"
+          ]
+        },
+        {
+          "titulo": "Ifo alemán, al alza",
+          "texto": "La confianza empresarial sube a 90,6, máximo desde mayo de 2023.",
+          "dato": "90,6",
+          "tendencia": "up",
+          "valores": [
+            "DAX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eeuu",
+      "titulo": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "slides": [
+        {
+          "titulo": "Nvidia, −5,86%",
+          "texto": "Devuelve parte del +31,5% del lunes. Chips −7,88%.",
+          "dato": "155,38 $",
+          "cambio": "−5,86%",
+          "tendencia": "down",
+          "valores": [
+            "Nvidia"
+          ]
+        },
+        {
+          "titulo": "Dow Jones, 50.018",
+          "texto": "Sube un 0,85% y recupera los 50.000.",
+          "dato": "50.018,70",
+          "cambio": "+0,85%",
+          "tendencia": "up",
+          "valores": [
+            "Dow Jones"
+          ]
+        },
+        {
+          "titulo": "Dell, +4,1% fuera de hora",
+          "texto": "Ingresos +103% y previsión anual de 202.000 M$.",
+          "cambio": "+4,1%",
+          "tendencia": "up",
+          "valores": [
+            "Dell"
+          ]
+        },
+        {
+          "titulo": "Caídas tras resultados",
+          "texto": "Analog Devices ~−17% y HPE ~−16% por sus previsiones y márgenes.",
+          "tendencia": "down",
+          "valores": [
+            "Analog Devices",
+            "HPE"
+          ]
+        },
+        {
+          "titulo": "Abercrombie, +19,7%",
+          "texto": "Eleva su previsión para el año.",
+          "cambio": "+19,69%",
+          "tendencia": "up",
+          "valores": [
+            "Abercrombie & Fitch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "titulo": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "slides": [
+        {
+          "titulo": "Precios industriales, +19,9%",
+          "texto": "En octubre, la tasa más alta desde noviembre de 2022, por la energía.",
+          "dato": "+19,9%",
+          "tendencia": "up"
+        },
+        {
+          "titulo": "Aranceles a la vista",
+          "texto": "EE. UU. investiga a 16 socios, con China y la UE, y podría poner nuevos aranceles.",
+          "tendencia": "flat"
+        },
+        {
+          "titulo": "Ormuz vuelve a subir el crudo",
+          "texto": "Más minas contra petroleros: Brent +2,27%, a 91,40 $.",
+          "dato": "91,40 $",
+          "cambio": "+2,27%",
+          "tendencia": "up",
+          "valores": [
+            "Brent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ideas",
+      "titulo": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "slides": [
+        {
+          "titulo": "Esto no son recomendaciones",
+          "texto": "Son ideas para investigar por tu cuenta. Cada una tiene su riesgo.",
+          "aviso": true
+        },
+        {
+          "titulo": "Dell y la demanda de IA",
+          "texto": "Pedidos de IA por 60.200 M$. Riesgo: márgenes de servidores bajo presión, como en HPE.",
+          "aviso": true,
+          "valores": [
+            "Dell"
+          ]
+        },
+        {
+          "titulo": "Sanofi tras comprar Insmed",
+          "texto": "+9,7% con su mayor compra. Riesgo: pagar 41.000 M$ en efectivo eleva su deuda y la integración puede salir mal.",
+          "aviso": true,
+          "valores": [
+            "Sanofi"
+          ]
+        },
+        {
+          "titulo": "Telefónica y Cellnex, refugio",
+          "texto": "Subieron en un día de caídas. Riesgo: su deuda sufre si los tipos siguen subiendo.",
+          "aviso": true,
+          "valores": [
+            "Telefónica",
+            "Cellnex"
+          ]
+        },
+        {
+          "titulo": "ArcelorMittal tras caer un 7,65%",
+          "texto": "Riesgo: es muy cíclica y los aranceles por sobrecapacidad afectan al acero.",
+          "aviso": true,
+          "valores": [
+            "ArcelorMittal"
+          ]
+        },
+        {
+          "titulo": "Repsol con el Brent en 91 $",
+          "texto": "El crudo vuelve a subir por Ormuz. Riesgo: un acuerdo con Irán lo hundiría de golpe.",
+          "aviso": true,
+          "valores": [
+            "Repsol",
+            "Brent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "titulo": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "slides": [
+        {
+          "titulo": "09:00 · Abre la bolsa española",
+          "texto": "Tras caer un 0,86% el martes y con Asia muy a la baja esta madrugada por los chips.",
+          "tendencia": "flat",
+          "valores": [
+            "IBEX 35"
+          ],
+          "dato": "09:00"
+        },
+        {
+          "titulo": "14:30 · Inflación PCE de EE. UU. (octubre)",
+          "texto": "La medida de precios favorita de la Fed. Se espera un 3,8% interanual y un 0,3% mensual en el subyacente.",
+          "tendencia": "flat",
+          "valores": [
+            "S&P 500",
+            "EUR/USD"
+          ],
+          "dato": "14:30"
+        },
+        {
+          "titulo": "14:30 · PIB y peticiones de paro de EE. UU.",
+          "texto": "Segunda lectura del PIB del tercer trimestre y peticiones semanales de paro, adelantadas por el festivo.",
+          "tendencia": "flat",
+          "valores": [
+            "S&P 500"
+          ],
+          "dato": "14:30"
+        },
+        {
+          "titulo": "15:30 · Abre Wall Street",
+          "texto": "Último día completo antes de Acción de Gracias. Los futuros apuntan a caídas.",
+          "tendencia": "flat",
+          "valores": [
+            "S&P 500",
+            "Nasdaq"
+          ],
+          "dato": "15:30"
+        },
+        {
+          "titulo": "Informe de aranceles de EE. UU.",
+          "texto": "La oficina comercial prepara publicar su investigación sobre 16 socios, con China y la UE. Fecha exacta no confirmada.",
+          "tendencia": "flat",
+          "valores": [
+            "Euro Stoxx 50"
+          ]
+        },
+        {
+          "titulo": "20:00 · Libro Beige de la Fed",
+          "texto": "Informe sobre la economía de cada región de EE. UU., antes de la reunión del 9 de diciembre.",
+          "tendencia": "flat",
+          "valores": [
+            "S&P 500",
+            "EUR/USD"
+          ],
+          "dato": "20:00"
+        }
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Nvidia devuelve un 5,9% y los chips se hunden",
+      "texto": "Tras subir un 31,5% el lunes por el regreso de Huang, Nvidia cae un 5,86% (155,38 $). El índice de semiconductores se desploma un 7,88%. Micron cae un 11% tras una rebaja de BNP Paribas.",
+      "dato": "−7,88%",
+      "cambio": "−7,88%",
+      "tendencia": "down",
+      "valores": [
+        "Nvidia",
+        "Micron",
+        "AMD",
+        "Nasdaq"
+      ],
+      "paraTi": "Si tienes un fondo indexado mundial o del S&P 500, buena parte de lo que ganó el lunes se fue el martes: las tecnológicas pesan mucho en ellos.",
+      "grafica": {
+        "valores": [
+          22619.3,
+          24089.56,
+          23733.54
+        ],
+        "etiquetas": [
+          "20 nov",
+          "23 nov",
+          "24 nov"
+        ]
+      },
+      "fuente": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Dell duplica ventas con la IA",
+      "texto": "Ingresos de 54.900 M$ (+103%) y 22.000 M$ en servidores de IA (+291%). Pedidos de IA por 60.200 M$, eleva su previsión anual a 202.000 M$ y aprueba recompras por 25.000 M$. Sube un 4,1% fuera de hora.",
+      "dato": "+103%",
+      "cambio": "+4,1%",
+      "tendencia": "up",
+      "valores": [
+        "Dell"
+      ],
+      "paraTi": "Solo importa de verdad a quien tiene acciones de Dell; en un fondo indexado su peso es pequeño. Muestra que las empresas siguen gastando mucho en IA.",
+      "fuente": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Corea y Taiwán se desploman por los chips",
+      "texto": "Esta madrugada, el Kospi llega a caer un 6% y Taiwán más de un 5%; Samsung y SK Hynix pierden en torno a un 9%. El Nikkei cede cerca de un 3%. Solo Hong Kong aguanta en verde.",
+      "dato": "−6%",
+      "cambio": "−6%",
+      "tendencia": "down",
+      "valores": [
+        "Kospi",
+        "Samsung",
+        "SK Hynix",
+        "Nikkei 225"
+      ],
+      "paraTi": "Si tu fondo es de mercados emergentes o de Asia, hoy pesa mucho la caída de los chips. En un fondo indexado mundial el efecto es menor.",
+      "fuente": "Investing.com: Asia cae con los chips, 25 nov",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "El IBEX cede un 0,86% y salva los 19.000",
+      "texto": "Cierra en 19.015,8 puntos. ArcelorMittal se hunde un 7,65%, con Acerinox y Solaria por encima del −4%. Suben Cellnex (+3,02%), Telefónica (+2,56%) y Redeia (+2,44%).",
+      "dato": "19.015,8",
+      "cambio": "−0,86%",
+      "tendencia": "down",
+      "valores": [
+        "IBEX 35",
+        "ArcelorMittal",
+        "Cellnex",
+        "Telefónica"
+      ],
+      "paraTi": "Si tienes un fondo del IBEX, ayer perdió un poco tras el rebote del lunes. Para el ahorro a largo plazo, un día así apenas se nota.",
+      "grafica": {
+        "valores": [
+          18873.3,
+          19181.1,
+          19015.8
+        ],
+        "etiquetas": [
+          "20 nov",
+          "23 nov",
+          "24 nov"
+        ]
+      },
+      "fuente": "Forbes (EP): cierre del IBEX, 24 nov",
+      "url": "https://forbes.es/ultima-hora/1072316/el-ibex-35-cae-un-086-al-cierre-pero-salva-los-19-000-puntos/"
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "Sanofi compra Insmed por 41.000 M$",
+      "texto": "Es la mayor compra de Sanofi bajo su consejera delegada, Belén Garijo: paga 175 $ por acción, en efectivo, y cerraría en el primer semestre de 2027. Sanofi sube un 9,7%, la mejor del STOXX 600.",
+      "dato": "41.000 M$",
+      "cambio": "+9,7%",
+      "tendencia": "up",
+      "valores": [
+        "Sanofi",
+        "STOXX 600"
+      ],
+      "paraTi": "Solo afecta directamente a quien tiene acciones de Sanofi o Insmed. Sanofi pesa algo en los fondos europeos, así que ayudó a frenar la caída.",
+      "fuente": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Anthropic ya cotiza por debajo de su salida",
+      "texto": "Tercera caída seguida: cierra en unos 81,90 $ (−6,5%), por debajo de los 83 $ de su salida a bolsa del 19 de noviembre. Llegó a tocar 75,61 $ durante la sesión.",
+      "dato": "81,90 $",
+      "cambio": "−6,5%",
+      "tendencia": "down",
+      "valores": [
+        "Anthropic",
+        "Nasdaq"
+      ],
+      "paraTi": "Solo afecta a quien compró sus acciones. Es un recordatorio de que una salida a bolsa con mucho ruido no garantiza subidas.",
+      "fuente": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "macro",
+      "titulo": "Los precios de la industria suben un 19,9%",
+      "texto": "El INE dice que los precios industriales subieron un 19,9% interanual en octubre, 1,3 puntos más que en septiembre y la tasa más alta desde noviembre de 2022, por la energía.",
+      "dato": "+19,9%",
+      "cambio": "+19,9%",
+      "tendencia": "up",
+      "valores": [
+        "IBEX 35"
+      ],
+      "paraTi": "Lo que pagan las fábricas suele acabar, con semanas o meses de retraso, en el precio de lo que compras. Es una señal de que la inflación puede seguir alta.",
+      "fuente": "Forbes (EP): cierre del IBEX, 24 nov",
+      "url": "https://forbes.es/ultima-hora/1072316/el-ibex-35-cae-un-086-al-cierre-pero-salva-los-19-000-puntos/"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "politica",
+      "titulo": "EE. UU. prepara aranceles contra 16 socios, también la UE",
+      "texto": "La oficina comercial de EE. UU. va a publicar una investigación sobre exceso de capacidad industrial en 16 socios, con China y la UE. Podría acabar en aranceles nuevos, según Reuters.",
+      "valores": [
+        "Euro Stoxx 50",
+        "EUR/USD"
+      ],
+      "paraTi": "Si llegan, encarecerían productos europeos en EE. UU. y podrían frenar a empresas exportadoras. En tu compra diaria en España, apenas se notaría al principio.",
+      "fuente": "Reuters (Yahoo): bolsas a la baja y aranceles, 25 nov",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-ai-rebound-stumbles-015155560.html"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "global",
+      "titulo": "El petróleo da la vuelta por Ormuz",
+      "texto": "Tras caer un 4% el lunes, el Brent sube un 2,27% y cierra en 91,40 $ por nuevos ataques a barcos cerca del estrecho de Ormuz. Irán dice que otros tres petroleros chocaron con minas.",
+      "dato": "91,40 $",
+      "cambio": "+2,27%",
+      "tendencia": "up",
+      "valores": [
+        "Brent",
+        "Repsol"
+      ],
+      "paraTi": "Con el crudo subiendo y bajando tanto, la gasolina no llega a abaratarse: tarda una o dos semanas en reflejar el barril y ahora va al alza otra vez.",
+      "fuente": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "formato": "concepto",
+      "titulo": "Un concepto: la prima de riesgo",
+      "texto": "Es lo que paga de más España frente a Alemania por pedir prestado a 10 años. Ayer: bono español al 3,868% y prima de riesgo de 60,6 puntos básicos (0,606 puntos porcentuales).",
+      "dato": "60,6 pb",
+      "tendencia": "flat",
+      "valores": [
+        "IBEX 35"
+      ],
+      "paraTi": "Cuanto más baja, más barato se financia el Estado y, en parte, bancos y empresas. Si tienes Letras o bonos del Tesoro, de ella depende lo que te pagan.",
+      "fuente": "Demócrata: cierre del IBEX, 24 nov",
+      "url": "https://www.democrata.es/economia/el-ibex-35-retrocede-un-0-86-al-cierre-pero-mantiene-los-19-000-puntos/"
+    },
+    {
+      "categoria": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "titulo": "Hoy: la inflación PCE, la favorita de la Fed",
+      "texto": "Se publica el PCE de octubre: se espera un 3,8% interanual y un 0,3% mensual en el subyacente. El mercado da casi por hecha (96,4%) una subida de tipos de la Fed el 9 de diciembre. Mañana Wall Street cierra.",
+      "dato": "PCE",
+      "tendencia": "flat",
+      "valores": [
+        "S&P 500",
+        "EUR/USD"
+      ],
+      "paraTi": "Si sale alto, refuerza la subida de tipos en EE. UU. Eso mueve el dólar: afecta si compras en dólares o tienes fondos en esa moneda.",
+      "fuente": "BigGo Finance: chips y Dow, 24 nov",
+      "url": "https://finance.biggo.com/news/14f7aa3e-e4cc-4bf8-9215-c55a9c5ca196"
+    },
+    {
+      "categoria": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "titulo": "Idea: Dell tras sus cuentas récord",
+      "aviso": true,
+      "texto": "Pedidos de IA por 60.200 M$ y cartera de 132.300 M$. Riesgo: el sector de servidores sufre por el coste de componentes (HPE cayó un 16%) y los chips están muy volátiles.",
+      "valores": [
+        "Dell"
+      ],
+      "fuente": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    }
+  ],
+  "agenda": [
+    {
+      "hora": "09:00",
+      "titulo": "Abre la bolsa española",
+      "texto": "Tras caer un 0,86% el martes y con Asia muy a la baja esta madrugada por los chips.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    },
+    {
+      "hora": "14:30",
+      "titulo": "Inflación PCE de EE. UU. (octubre)",
+      "texto": "La medida de precios favorita de la Fed. Se espera un 3,8% interanual y un 0,3% mensual en el subyacente.",
+      "tipo": "macro",
+      "importancia": "alta",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500",
+        "EUR/USD"
+      ]
+    },
+    {
+      "hora": "14:30",
+      "titulo": "PIB y peticiones de paro de EE. UU.",
+      "texto": "Segunda lectura del PIB del tercer trimestre y peticiones semanales de paro, adelantadas por el festivo.",
+      "tipo": "macro",
+      "importancia": "alta",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500"
+      ]
+    },
+    {
+      "hora": "15:30",
+      "titulo": "Abre Wall Street",
+      "texto": "Último día completo antes de Acción de Gracias. Los futuros apuntan a caídas.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500",
+        "Nasdaq"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Informe de aranceles de EE. UU.",
+      "texto": "La oficina comercial prepara publicar su investigación sobre 16 socios, con China y la UE. Fecha exacta no confirmada.",
+      "tipo": "politica",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "Euro Stoxx 50"
+      ]
+    },
+    {
+      "hora": "20:00",
+      "titulo": "Libro Beige de la Fed",
+      "texto": "Informe sobre la economía de cada región de EE. UU., antes de la reunión del 9 de diciembre.",
+      "tipo": "banco_central",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500",
+        "EUR/USD"
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "TradingKey: resumen de Wall Street, 24 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321021-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+    },
+    {
+      "nombre": "Reuters (Yahoo): bolsas a la baja y aranceles, 25 nov",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-ai-rebound-stumbles-015155560.html"
+    },
+    {
+      "nombre": "Investing.com: Asia cae con los chips, 25 nov",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+    },
+    {
+      "nombre": "BigGo Finance: chips y Dow, 24 nov",
+      "url": "https://finance.biggo.com/news/14f7aa3e-e4cc-4bf8-9215-c55a9c5ca196"
+    },
+    {
+      "nombre": "Forbes (EP): cierre del IBEX, 24 nov",
+      "url": "https://forbes.es/ultima-hora/1072316/el-ibex-35-cae-un-086-al-cierre-pero-salva-los-19-000-puntos/"
+    },
+    {
+      "nombre": "Demócrata: cierre del IBEX, 24 nov",
+      "url": "https://www.democrata.es/economia/el-ibex-35-retrocede-un-0-86-al-cierre-pero-mantiene-los-19-000-puntos/"
+    },
+    {
+      "nombre": "Reuters (MarketScreener): bolsas europeas, 24 nov",
+      "url": "https://www.marketscreener.com/news/european-shares-end-lower-as-tech-rally-fades-sanofi-gains-ce7851dbdd89f025"
+    },
+    {
+      "nombre": "Gotrade: agenda de la semana, 23 nov",
+      "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/"
+    },
+    {
+      "nombre": "ZeroHedge: claves de la semana",
+      "url": "https://www.zerohedge.com/markets/key-events-holiday-shortened-week-all-about-pce"
+    },
+    {
+      "nombre": "The Objective: IBEX a mediodía y Ormuz, 24 nov",
+      "url": "https://theobjective.com/economia/2026-11-24/ibex-35-19-000-impulso-nvidia"
+    }
+  ]
+}
