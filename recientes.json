@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
   "IBEX 35": {
@@ -942,24 +942,262 @@
   },
   "EssilorLuxottica": {
    "revisado": "2026-11-24"
+  },
+  "Evonik": {
+   "revisado": "2026-11-25",
+   "resumen": "El 17 de noviembre subió un 4,2%, a máximos desde marzo de 2025, por informaciones de que BASF prepara una oferta mejorada.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Evonik sube un 4,2% por rumores de una oferta mejorada de BASF",
+     "fuente": "Deutsche Börse (dpa-AFX)",
+     "url": "https://live.deutsche-boerse.com/nachrichten/ROUNDUP-Aktien-Frankfurt-Schluss-Klare-Verluste---Nervositaet-vor-Nvidia-Zahlen-593942d4-54ac-46bc-bc24-474f29df7664"
+    }
+   ]
+  },
+  "Ferrari": {
+   "revisado": "2026-11-25",
+   "resumen": "Subió un 4,47% el 3 de noviembre con sus resultados trimestrales y un 2,97% el 18, en un día de caídas en Milán.",
+   "titulares": [
+    {
+     "fecha": "2026-11-18",
+     "titulo": "Ferrari sube casi un 3% mientras la Bolsa de Milán cae un 1,3%",
+     "fuente": "Milano Finanza",
+     "url": "https://www.milanofinanza.it/news/borsa-commento-di-chiusura-202611181828019684"
+    },
+    {
+     "fecha": "2026-11-03",
+     "titulo": "Ferrari se dispara un 4,5% el día de sus resultados trimestrales",
+     "fuente": "Soldionline",
+     "url": "https://www.soldionline.it/notizie/azioni-italia/milano-quasi-ferma-ma-ferrari-vola-del-447-cosa-si-muove-a-piazza-affari"
+    }
+   ]
+  },
+  "Fresenius Medical Care": {
+   "revisado": "2026-11-25"
+  },
+  "Fresenius SE": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Fresenius sube un 3,1% por un acuerdo de biosimilares con WuXi Biologics",
+     "fuente": "AktienCheck",
+     "url": "https://aktiencheck.de/artikel/dax-check-mtu-heidelberg-materials-und-siemens-energy-zuenden-die-oelpreis-rally"
+    }
+   ]
+  },
+  "Hermès": {
+   "revisado": "2026-11-25"
+  },
+  "Infineon": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Las tecnológicas como Infineon flojean antes de los resultados de Nvidia",
+     "fuente": "stock3",
+     "url": "https://stock3.com/news/midday-flash-wehretat-fuer-2027-beschlossen-ruestungswerte-springen-17396937"
+    },
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Infineon sube un 2,6% en una jornada alcista del DAX",
+     "fuente": "AktienCheck",
+     "url": "https://aktiencheck.de/artikel/dax-check-mtu-heidelberg-materials-und-siemens-energy-zuenden-die-oelpreis-rally"
+    }
+   ]
+  },
+  "ING": {
+   "revisado": "2026-11-25"
+  },
+  "Intesa Sanpaolo": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-18",
+     "titulo": "Intesa Sanpaolo cae un 2% en un mal día para la banca italiana",
+     "fuente": "Milano Finanza",
+     "url": "https://www.milanofinanza.it/news/borsa-commento-di-chiusura-202611181828019684"
+    }
+   ]
+  },
+  "Kering": {
+   "revisado": "2026-11-25"
+  },
+  "L'Oréal": {
+   "revisado": "2026-11-25"
+  },
+  "Lanxess": {
+   "revisado": "2026-11-25"
+  },
+  "LVMH": {
+   "revisado": "2026-11-25"
+  },
+  "Mercedes-Benz": {
+   "revisado": "2026-11-25"
+  },
+  "Munich Re": {
+   "revisado": "2026-11-25"
+  },
+  "Nokia": {
+   "revisado": "2026-11-25",
+   "resumen": "Cayó un 5% en Nueva York el 16 de noviembre al saberse que Nvidia vendió más de la mitad de su participación.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Nokia cae un 5% tras vender Nvidia más de la mitad de su participación",
+     "fuente": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/nok-nvidia-dumps-more-than-half-nokia-stake-ai-push-asus-deal/cNbahJWR9gN"
+    }
+   ]
+  },
+  "Novo Nordisk": {
+   "revisado": "2026-11-25",
+   "resumen": "En el tercer trimestre el beneficio operativo ajustado subió un 27% y mejoró sus previsiones de 2026; bajará precios de Wegovy y Ozempic en EE. UU. en 2027.",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Novo Nordisk mejora previsiones de 2026, pero bajará precios en EE. UU.",
+     "fuente": "Aktienwelt360",
+     "url": "https://www.aktienwelt360.de/2026/11/13/novo-nordisk-aktie-das-muss-fuer-einen-turnaround-2027-passieren/"
+    }
+   ]
+  },
+  "Porsche": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Porsche baja un 1,9% y está entre los peores del DAX a mediodía",
+     "fuente": "stock3",
+     "url": "https://stock3.com/news/midday-flash-wehretat-fuer-2027-beschlossen-ruestungswerte-springen-17396937"
+    }
+   ]
+  },
+  "Prosus": {
+   "revisado": "2026-11-25"
+  },
+  "Rheinmetall": {
+   "revisado": "2026-11-25",
+   "resumen": "Subió un 3,7% el 16 de noviembre tras aprobarse 139.000 millones de gasto en defensa para 2027; el día 2 había caído por debajo de 1.000 euros.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Rheinmetall sube un 3,7% tras aprobarse el gasto en defensa alemán de 2027",
+     "fuente": "stock3 (dpa-AFX)",
+     "url": "https://stock3.com/news/midday-flash-wehretat-fuer-2027-beschlossen-ruestungswerte-springen-17396937"
+    },
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Rheinmetall cae un 3,4% y baja de 1.000 euros por la diplomacia con Irán",
+     "fuente": "AktienCheck",
+     "url": "https://aktiencheck.de/artikel/dax-check-mtu-heidelberg-materials-und-siemens-energy-zuenden-die-oelpreis-rally"
+    }
+   ]
+  },
+  "Safran": {
+   "revisado": "2026-11-25"
+  },
+  "Sanofi": {
+   "revisado": "2026-11-25"
+  },
+  "SAP": {
+   "revisado": "2026-11-25",
+   "resumen": "El 17 de noviembre cayó un 5,6%, a mínimos de cuatro semanas, por la debilidad del software europeo.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "SAP cae un 5,6% por la debilidad del software europeo",
+     "fuente": "Deutsche Börse (dpa-AFX)",
+     "url": "https://live.deutsche-boerse.com/nachrichten/ROUNDUP-Aktien-Frankfurt-Schluss-Klare-Verluste---Nervositaet-vor-Nvidia-Zahlen-593942d4-54ac-46bc-bc24-474f29df7664"
+    }
+   ]
+  },
+  "Schneider Electric": {
+   "revisado": "2026-11-25"
+  },
+  "Siemens": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Siemens baja un 2,5% en una sesión de dudas en el DAX",
+     "fuente": "stock3",
+     "url": "https://stock3.com/news/midday-flash-wehretat-fuer-2027-beschlossen-ruestungswerte-springen-17396937"
+    },
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Siemens sube un 2,7% en un DAX impulsado por la caída del petróleo",
+     "fuente": "AktienCheck",
+     "url": "https://aktiencheck.de/artikel/dax-check-mtu-heidelberg-materials-und-siemens-energy-zuenden-die-oelpreis-rally"
+    }
+   ]
+  },
+  "Siemens Energy": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Siemens Energy sube un 3,2% tras caer más de un 7% el viernes",
+     "fuente": "AktienCheck",
+     "url": "https://aktiencheck.de/artikel/dax-check-mtu-heidelberg-materials-und-siemens-energy-zuenden-die-oelpreis-rally"
+    }
+   ]
+  },
+  "Stellantis": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-18",
+     "titulo": "Stellantis cae un 1,3% por los problemas de concesionarios en Francia",
+     "fuente": "Milano Finanza",
+     "url": "https://www.milanofinanza.it/news/borsa-commento-di-chiusura-202611181828019684"
+    },
+    {
+     "fecha": "2026-11-03",
+     "titulo": "Stellantis cae un 3,9% en la Bolsa de Milán",
+     "fuente": "Soldionline",
+     "url": "https://www.soldionline.it/notizie/azioni-italia/milano-quasi-ferma-ma-ferrari-vola-del-447-cosa-si-muove-a-piazza-affari"
+    }
+   ]
+  },
+  "TotalEnergies": {
+   "revisado": "2026-11-25"
+  },
+  "UniCredit": {
+   "revisado": "2026-11-25",
+   "titulares": [
+    {
+     "fecha": "2026-11-18",
+     "titulo": "UniCredit cae un 2,2% en un mal día para la banca italiana",
+     "fuente": "Milano Finanza",
+     "url": "https://www.milanofinanza.it/news/borsa-commento-di-chiusura-202611181828019684"
+    }
+   ]
+  },
+  "Volkswagen": {
+   "revisado": "2026-11-25"
+  },
+  "Alstom": {
+   "revisado": "2026-11-25"
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-24",
-   "titulo": "IBEX 35, +1,63%",
-   "cambio": "+1,63%",
-   "tendencia": "up"
+   "fecha": "2026-11-25",
+   "titulo": "IBEX 35, −0,86%",
+   "cambio": "−0,86%",
+   "tendencia": "down"
   },
   "Euro Stoxx 50": {
-   "fecha": "2026-11-23",
-   "titulo": "Hoy, los PMI"
+   "fecha": "2026-11-25",
+   "titulo": "Euro Stoxx 50, −1,16%",
+   "cambio": "−1,16%",
+   "tendencia": "down"
   },
   "DAX": {
-   "fecha": "2026-11-24",
-   "titulo": "DAX +2,15%, CAC +1,48%",
-   "cambio": "+2,15%",
-   "tendencia": "up"
+   "fecha": "2026-11-25",
+   "titulo": "Fráncfort −1,26%, Milán −1,84%"
   },
   "FTSE 100": {
    "fecha": "2026-11-24",
@@ -967,24 +1205,24 @@
    "frase": "El FTSE 100 sube un 1,3% y el MIB italiano, un 0,65%."
   },
   "S&P 500": {
-   "fecha": "2026-11-24",
-   "titulo": "S&P 500, +4,7%",
-   "cambio": "+4,7%",
-   "tendencia": "up"
+   "fecha": "2026-11-25",
+   "titulo": "Hoy: la inflación PCE, la favorita de la Fed"
   },
   "Nasdaq": {
-   "fecha": "2026-11-24",
-   "titulo": "Nvidia recupera a Jensen Huang y vuela un 31%"
+   "fecha": "2026-11-25",
+   "titulo": "Nasdaq, −1,48%",
+   "cambio": "−1,48%",
+   "tendencia": "down"
   },
   "Dow Jones": {
-   "fecha": "2026-11-24",
-   "titulo": "Dow Jones, +1.448 puntos",
-   "cambio": "+3%",
+   "fecha": "2026-11-25",
+   "titulo": "Dow Jones, 50.018",
+   "cambio": "+0,85%",
    "tendencia": "up"
   },
   "Nikkei 225": {
-   "fecha": "2026-11-24",
-   "titulo": "Corea pasa de mínimos a subir un 6,5%"
+   "fecha": "2026-11-25",
+   "titulo": "Corea y Taiwán se desploman por los chips"
   },
   "Hang Seng": {
    "fecha": "2026-11-24",
@@ -997,20 +1235,17 @@
    "frase": "Bitcoin 58.944 $ este domingo."
   },
   "Brent": {
-   "fecha": "2026-11-24",
-   "titulo": "El petróleo cae un 4%: ¿se notará en la gasolinera?",
-   "frase": "El Brent perdió un 3,6% el lunes y esta madrugada sigue bajando, hasta 86,27 $.",
-   "cambio": "−0,5%",
-   "tendencia": "down"
+   "fecha": "2026-11-25",
+   "titulo": "Repsol con el Brent en 91 $"
   },
   "Oro": {
-   "fecha": "2026-11-24",
-   "titulo": "Petróleo abajo, oro arriba",
-   "frase": "Oro a 3.644,51 $ (+0,3%)."
+   "fecha": "2026-11-25",
+   "titulo": "Petróleo arriba, oro abajo",
+   "frase": "Oro 3.555,72 $ la onza."
   },
   "EUR/USD": {
-   "fecha": "2026-11-23",
-   "titulo": "Lo que viene esta semana"
+   "fecha": "2026-11-25",
+   "titulo": "EE. UU. prepara aranceles contra 16 socios, también la UE"
   },
   "Acciona": {
    "fecha": "2026-11-18",
@@ -1023,15 +1258,14 @@
    "frase": "También caen Acciona Energía (−1,8%), Telefónica (−1,7%) y Cellnex (−1,4%)."
   },
   "Acerinox": {
-   "fecha": "2026-11-19",
-   "titulo": "Solo Acerinox se salva",
-   "cambio": "+0,46%",
-   "tendencia": "up"
+   "fecha": "2026-11-25",
+   "titulo": "El IBEX cede un 0,86% y salva los 19.000",
+   "frase": "ArcelorMittal se hunde un 7,65%, con Acerinox y Solaria por encima del −4%."
   },
   "ACS": {
-   "fecha": "2026-11-24",
-   "titulo": "El IBEX rebota un 1,63% y recupera los 19.000",
-   "frase": "Tiran ArcelorMittal (+5,34%), ACS (+3,99%), Indra (+3,76%) e IAG (+3,70%)."
+   "fecha": "2026-11-25",
+   "titulo": "Los que más bajan",
+   "frase": "ArcelorMittal −7,65%, Acerinox −4,36%, Solaria −4,28%, ACS −3,89%."
   },
   "Aena": {
    "fecha": "2026-11-17",
@@ -1039,14 +1273,13 @@
    "frase": "Cellnex, Aena y ACS también caen."
   },
   "Amadeus": {
-   "fecha": "2026-11-16",
-   "titulo": "Solaria cae un 5%",
-   "frase": "Suben Aena, Amadeus y Ferrovial."
+   "fecha": "2026-11-25",
+   "titulo": "Los que más suben",
+   "frase": "Cellnex +3,02%, Telefónica +2,56%, Redeia +2,44%, Amadeus +1,77%."
   },
   "ArcelorMittal": {
-   "fecha": "2026-11-24",
-   "titulo": "Los que más suben",
-   "frase": "ArcelorMittal +5,34%, ACS +3,99%, Indra +3,76%, IAG +3,70%."
+   "fecha": "2026-11-25",
+   "titulo": "ArcelorMittal tras caer un 7,65%"
   },
   "Atresmedia": {
    "fecha": "2026-11-20",
@@ -1073,9 +1306,8 @@
    "tendencia": "up"
   },
   "Cellnex": {
-   "fecha": "2026-11-18",
-   "titulo": "Renovables y telecos, en rojo",
-   "frase": "También caen Acciona Energía (−1,8%), Telefónica (−1,7%) y Cellnex (−1,4%)."
+   "fecha": "2026-11-25",
+   "titulo": "Telefónica y Cellnex, refugio"
   },
   "Colonial": {
    "fecha": "2026-11-11",
@@ -1144,13 +1376,13 @@
    "titulo": "Repsol, Puig y Grifols, al alza"
   },
   "Redeia": {
-   "fecha": "2026-11-20",
-   "titulo": "El IBEX cae un 5,7%: su peor semana desde marzo",
-   "semanal": true
+   "fecha": "2026-11-25",
+   "titulo": "El IBEX cede un 0,86% y salva los 19.000",
+   "frase": "Suben Cellnex (+3,02%), Telefónica (+2,56%) y Redeia (+2,44%)."
   },
   "Repsol": {
-   "fecha": "2026-11-24",
-   "titulo": "Repsol con el crudo a la baja"
+   "fecha": "2026-11-25",
+   "titulo": "Repsol con el Brent en 91 $"
   },
   "Sabadell": {
    "fecha": "2026-10-29",
@@ -1164,14 +1396,13 @@
    "tendencia": "up"
   },
   "Solaria": {
-   "fecha": "2026-11-21",
-   "titulo": "Los peores del viernes",
-   "frase": "Solaria se dejó más de un 5% el lunes y el jueves."
+   "fecha": "2026-11-25",
+   "titulo": "El IBEX cede un 0,86% y salva los 19.000",
+   "frase": "ArcelorMittal se hunde un 7,65%, con Acerinox y Solaria por encima del −4%."
   },
   "Telefónica": {
-   "fecha": "2026-11-24",
-   "titulo": "Los que más bajan",
-   "frase": "Repsol −2,25% con el petróleo, Telefónica −1,31% y Naturgy −0,80%."
+   "fecha": "2026-11-25",
+   "titulo": "Telefónica y Cellnex, refugio"
   },
   "Unicaja": {
    "fecha": "2026-10-30",
@@ -1179,9 +1410,9 @@
    "frase": "Unicaja gana 543 millones (+8,1%)."
   },
   "Aixtron": {
-   "fecha": "2026-11-18",
-   "titulo": "Los chips tiran de Europa",
-   "frase": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%."
+   "fecha": "2026-11-25",
+   "titulo": "Chips a la baja",
+   "frase": "Aixtron −16,3% tras una rebaja de UBS; STMicro −10,22%, Infineon más de −9%."
   },
   "ASM International": {
    "fecha": "2026-11-18",
@@ -1197,6 +1428,11 @@
    "titulo": "Evonik se queda sin BASF",
    "cambio": "−17%",
    "tendencia": "down"
+  },
+  "BNP Paribas": {
+   "fecha": "2026-11-25",
+   "titulo": "Nvidia devuelve un 5,9% y los chips se hunden",
+   "frase": "Micron cae un 11% tras una rebaja de BNP Paribas."
   },
   "Deutsche Bank": {
    "fecha": "2026-11-19",
@@ -1220,9 +1456,9 @@
    "frase": "Fresenius Medical Care cae un 4,77% y Fresenius SE un 3,09%."
   },
   "Infineon": {
-   "fecha": "2026-11-20",
-   "titulo": "El DAX pierde más de un 7% en la semana",
-   "semanal": true
+   "fecha": "2026-11-25",
+   "titulo": "Chips a la baja",
+   "frase": "Aixtron −16,3% tras una rebaja de UBS; STMicro −10,22%, Infineon más de −9%."
   },
   "Lanxess": {
    "fecha": "2026-11-19",
@@ -1230,9 +1466,10 @@
    "frase": "Lanxess pierde un 4,14%."
   },
   "Sanofi": {
-   "fecha": "2026-11-20",
-   "titulo": "Insmed se dispara un 20,6%",
-   "frase": "Por informaciones de que Sanofi quiere comprarla."
+   "fecha": "2026-11-25",
+   "titulo": "Sanofi compra Insmed por 41.000 M$",
+   "cambio": "+9,7%",
+   "tendencia": "up"
   },
   "SAP": {
    "fecha": "2026-11-19",
@@ -1274,10 +1511,14 @@
    "cambio": "−2,8%",
    "tendencia": "down"
   },
+  "UBS": {
+   "fecha": "2026-11-25",
+   "titulo": "Chips a la baja",
+   "frase": "Aixtron −16,3% tras una rebaja de UBS; STMicro −10,22%, Infineon más de −9%."
+  },
   "AMD": {
-   "fecha": "2026-11-21",
-   "titulo": "Huye el dinero de los chips",
-   "frase": "El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%."
+   "fecha": "2026-11-25",
+   "titulo": "Nvidia devuelve un 5,9% y los chips se hunden"
   },
   "Amazon": {
    "fecha": "2026-11-22",
@@ -1289,8 +1530,10 @@
    "frase": "Amer Sports anuncia una recompra de 1.000 M$."
   },
   "Anthropic": {
-   "fecha": "2026-11-23",
-   "titulo": "Anthropic: desde hoy, opciones"
+   "fecha": "2026-11-25",
+   "titulo": "Anthropic ya cotiza por debajo de su salida",
+   "cambio": "−6,5%",
+   "tendencia": "down"
   },
   "Apple": {
    "fecha": "2026-11-03",
@@ -1313,8 +1556,10 @@
    "tendencia": "up"
   },
   "Dell": {
-   "fecha": "2026-11-24",
-   "titulo": "Dell presenta hoy, con la IA en el foco"
+   "fecha": "2026-11-25",
+   "titulo": "Dell duplica ventas con la IA",
+   "cambio": "+4,1%",
+   "tendencia": "up"
   },
   "Disney": {
    "fecha": "2026-11-18",
@@ -1349,9 +1594,9 @@
    "titulo": "Nvidia invertirá 3.000 millones en Meta"
   },
   "Micron": {
-   "fecha": "2026-11-21",
-   "titulo": "Huye el dinero de los chips",
-   "frase": "El viernes, Nvidia cae un 13,8%, Micron un 13,9% y AMD un 13,3%."
+   "fecha": "2026-11-25",
+   "titulo": "Nvidia devuelve un 5,9% y los chips se hunden",
+   "frase": "Micron cae un 11% tras una rebaja de BNP Paribas."
   },
   "Microsoft": {
    "fecha": "2026-10-29",
@@ -1365,10 +1610,10 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-24",
-   "titulo": "Nvidia recupera a Jensen Huang y vuela un 31%",
-   "cambio": "+31,5%",
-   "tendencia": "up"
+   "fecha": "2026-11-25",
+   "titulo": "Nvidia devuelve un 5,9% y los chips se hunden",
+   "cambio": "−7,88%",
+   "tendencia": "down"
   },
   "Palo Alto Networks": {
    "fecha": "2026-11-20",
@@ -1425,8 +1670,9 @@
    "frase": "Alibaba pierde un 4,02% y Tencent un 2,79%."
   },
   "Samsung": {
-   "fecha": "2026-11-24",
-   "titulo": "Corea pasa de mínimos a subir un 6,5%"
+   "fecha": "2026-11-25",
+   "titulo": "Corea y Taiwán se desploman por los chips",
+   "frase": "Esta madrugada, el Kospi llega a caer un 6% y Taiwán más de un 5%; Samsung y SK Hynix pierden en torno a un 9%."
   }
  }
 }
