@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
   "IBEX 35": {
@@ -1180,24 +1180,219 @@
   },
   "Alstom": {
    "revisado": "2026-11-25"
+  },
+  "Antofagasta": {
+   "revisado": "2026-11-26"
+  },
+  "AstraZeneca": {
+   "revisado": "2026-11-26"
+  },
+  "Barclays": {
+   "revisado": "2026-11-26"
+  },
+  "BP": {
+   "revisado": "2026-11-26"
+  },
+  "Experian": {
+   "revisado": "2026-11-26"
+  },
+  "Glencore": {
+   "revisado": "2026-11-26"
+  },
+  "GSK": {
+   "revisado": "2026-11-26",
+   "resumen": "En su tercer trimestre las ventas subieron un 5%, hasta 8.900 M£, y confirmó sus previsiones para 2026.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "GSK confirma previsiones tras subir sus ventas un 5%",
+     "fuente": "The Motley Fool",
+     "url": "https://www.mitrade.com/insights/news/live-news/article-8-2258500-20261117"
+    }
+   ]
+  },
+  "HSBC": {
+   "revisado": "2026-11-26"
+  },
+  "Rio Tinto": {
+   "revisado": "2026-11-26"
+  },
+  "Rolls-Royce": {
+   "revisado": "2026-11-26",
+   "resumen": "El 12 de noviembre mantuvo sus previsiones de beneficio para 2026 (4.700-4.900 M£) y anunció una recompra de acciones de 1.500 M£.",
+   "titulares": [
+    {
+     "fecha": "2026-11-12",
+     "titulo": "Rolls-Royce mantiene previsiones y anuncia recompra de 1.500 M£",
+     "fuente": "Rolls-Royce",
+     "url": "https://www.rolls-royce.com/media/press-releases/2026/12-11-2026-rr-holdings-plc-trading-update.aspx"
+    }
+   ]
+  },
+  "Shell": {
+   "revisado": "2026-11-26"
+  },
+  "Unilever": {
+   "revisado": "2026-11-26"
+  },
+  "Nestlé": {
+   "revisado": "2026-11-26"
+  },
+  "Novartis": {
+   "revisado": "2026-11-26",
+   "resumen": "Sus ventas del tercer trimestre subieron un 4% y elevó previsiones, pero apuntó un deterioro de 1.900 M$ por un ensayo fallido.",
+   "titulares": [
+    {
+     "fecha": "2026-10-27",
+     "titulo": "Novartis eleva previsiones pero anota 1.900 M$ por un ensayo fallido",
+     "fuente": "stock3",
+     "url": "https://stock3.com/news/novartis-glaenzt-im-tagesgeschaeft-und-patzt-im-labor-17353566"
+    }
+   ]
+  },
+  "Roche": {
+   "revisado": "2026-11-26"
+  },
+  "UBS": {
+   "revisado": "2026-11-26",
+   "resumen": "El fondo Cevian vendió una cuarta parte de su participación; la acción llegó a caer un 2,75% el 17 de noviembre.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Cevian vende una cuarta parte de su participación en UBS",
+     "fuente": "Swissinfo",
+     "url": "https://www.swissinfo.ch/eng/ubs-holder-cevian-sells-quarter-of-stake-amid-capital-debate/92395941"
+    }
+   ]
+  },
+  "3M": {
+   "revisado": "2026-11-26"
+  },
+  "Abbott": {
+   "revisado": "2026-11-26"
+  },
+  "AbbVie": {
+   "revisado": "2026-11-26"
+  },
+  "Adobe": {
+   "revisado": "2026-11-26"
+  },
+  "AMD": {
+   "revisado": "2026-11-26"
+  },
+  "Airbnb": {
+   "revisado": "2026-11-26",
+   "resumen": "Sus ingresos del tercer trimestre subieron un 19%, mejoró la previsión anual y anunció recompras de hasta 12.000 M$; la acción saltó un 11%.",
+   "titulares": [
+    {
+     "fecha": "2026-11-06",
+     "titulo": "Airbnb sube un 11% tras su mayor crecimiento en más de tres años",
+     "fuente": "24/7 Wall St",
+     "url": "https://247wallst.com/investing/2026/11/06/airbnb-jumps-11-after-hours-on-its-fastest-growth-in-more-than-3-years"
+    }
+   ]
+  },
+  "Alphabet (Google)": {
+   "revisado": "2026-11-26"
+  },
+  "Amazon": {
+   "revisado": "2026-11-26",
+   "resumen": "Tras unos resultados con beneficio por debajo de lo esperado, rebotó un 5% el 2 de noviembre gracias al crecimiento de AWS.",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Amazon sube un 5% gracias a la fuerza de AWS",
+     "fuente": "24/7 Wall St",
+     "url": "https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength/"
+    }
+   ]
+  },
+  "Amer Sports": {
+   "revisado": "2026-11-26",
+   "resumen": "Sus ingresos del tercer trimestre crecieron un 24%, hasta 2.170 M$; subió la previsión de beneficio para 2026 y aprobó recompras de hasta 1.000 M$.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Amer Sports crece un 24% y eleva su previsión para 2026",
+     "fuente": "Finviz",
+     "url": "https://finviz.com/news/423807/amer-sports-reports-24-third-quarter-revenue-growth-and-raises-2026-earnings-guidance"
+    }
+   ]
+  },
+  "American Express": {
+   "revisado": "2026-11-26",
+   "resumen": "A 4 de noviembre la acción bajaba un 12% en 2026, aunque subía un 7,5% en el último mes; elevó su previsión de beneficio anual.",
+   "titulares": [
+    {
+     "fecha": "2026-11-04",
+     "titulo": "American Express cae un 12% en 2026 pese a ingresos récord",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/blog/american-express-is-down-12-in-2026-what-its-latest-quarter-says-about-the-rebound"
+    }
+   ]
+  },
+  "Anthropic": {
+   "revisado": "2026-11-26"
+  },
+  "Apple": {
+   "revisado": "2026-11-26",
+   "resumen": "Logró ventas récord en su trimestre, pero la acción bajó por el temor a que la subida del precio de la memoria reduzca sus márgenes.",
+   "titulares": [
+    {
+     "fecha": "2026-11-11",
+     "titulo": "Apple baja pese a un trimestre de ventas récord",
+     "fuente": "The Motley Fool",
+     "url": "https://fool.com/investing/2026/11/11/why-apple-stock-fell-despite-a-record-quarter"
+    }
+   ]
+  },
+  "Applied Materials": {
+   "revisado": "2026-11-26",
+   "resumen": "Superó previsiones en su cuarto trimestre (ingresos de unos 10.400 M$) y espera ingresos de 10.600-11.600 M$ el próximo.",
+   "titulares": [
+    {
+     "fecha": "2026-11-12",
+     "titulo": "Applied Materials supera previsiones y espera más demanda de chips",
+     "fuente": "investingLive",
+     "url": "https://investinglive.com/stocks/applied-materials-beats-on-q4-and-guides-above-forecasts-as-chip-equipment-demand-holds/"
+    },
+    {
+     "fecha": "2026-11-09",
+     "titulo": "Applied Materials sube un 11% antes de sus resultados",
+     "fuente": "24/7 Wall St",
+     "url": "https://247wallst.com/investing/2026/11/09/applied-materials-jumps-11-ahead-of-earnings-lam-research-surges-9-asml-rises-6/"
+    }
+   ]
+  },
+  "Arm": {
+   "revisado": "2026-11-26",
+   "resumen": "Batió previsiones en su trimestre (ingresos de unos 1.440 M$), pero la acción cayó un 5% tras el cierre por una previsión poco ambiciosa.",
+   "titulares": [
+    {
+     "fecha": "2026-11-04",
+     "titulo": "Arm cae un 5% tras resultados pese a superar previsiones",
+     "fuente": "investingLive",
+     "url": "https://investinglive.com/stocks/arm-shares-fall-5-after-hours-despite-q2-beat-as-outlook-only-edges-past-forecasts/"
+    }
+   ]
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-25",
-   "titulo": "IBEX 35, −0,86%",
-   "cambio": "−0,86%",
+   "fecha": "2026-11-26",
+   "titulo": "La banca arrastra al IBEX un 2%",
+   "cambio": "−2,00%",
    "tendencia": "down"
   },
   "Euro Stoxx 50": {
-   "fecha": "2026-11-25",
-   "titulo": "Euro Stoxx 50, −1,16%",
-   "cambio": "−1,16%",
-   "tendencia": "down"
+   "fecha": "2026-11-26",
+   "titulo": "Ya hay propuesta: aranceles de hasta el 15% a la UE"
   },
   "DAX": {
-   "fecha": "2026-11-25",
-   "titulo": "Fráncfort −1,26%, Milán −1,84%"
+   "fecha": "2026-11-26",
+   "titulo": "El DAX vuelve bajo los 25.000",
+   "cambio": "−1,26%",
+   "tendencia": "down"
   },
   "FTSE 100": {
    "fecha": "2026-11-24",
@@ -1205,24 +1400,24 @@
    "frase": "El FTSE 100 sube un 1,3% y el MIB italiano, un 0,65%."
   },
   "S&P 500": {
-   "fecha": "2026-11-25",
-   "titulo": "Hoy: la inflación PCE, la favorita de la Fed"
-  },
-  "Nasdaq": {
-   "fecha": "2026-11-25",
-   "titulo": "Nasdaq, −1,48%",
-   "cambio": "−1,48%",
+   "fecha": "2026-11-26",
+   "titulo": "Wall Street remonta tras caer más de un 3%",
+   "frase": "El S&P 500 llegó a caer un 3,2% y el Nasdaq un 4,6% por los aranceles y la inflación.",
+   "cambio": "−0,25%",
    "tendencia": "down"
   },
+  "Nasdaq": {
+   "fecha": "2026-11-26",
+   "titulo": "Wall Street remonta tras caer más de un 3%",
+   "frase": "El S&P 500 llegó a caer un 3,2% y el Nasdaq un 4,6% por los aranceles y la inflación."
+  },
   "Dow Jones": {
-   "fecha": "2026-11-25",
-   "titulo": "Dow Jones, 50.018",
-   "cambio": "+0,85%",
-   "tendencia": "up"
+   "fecha": "2026-11-26",
+   "titulo": "Wall Street remonta tras caer más de un 3%"
   },
   "Nikkei 225": {
-   "fecha": "2026-11-25",
-   "titulo": "Corea y Taiwán se desploman por los chips"
+   "fecha": "2026-11-26",
+   "titulo": "Asia rebota con los chips tras el desplome"
   },
   "Hang Seng": {
    "fecha": "2026-11-24",
@@ -1230,22 +1425,25 @@
    "frase": "Kospi +6,5% (5.014,41), Nikkei +3,9%, Shanghái +0,7% y Hang Seng +0,2% esta madrugada."
   },
   "Bitcoin": {
-   "fecha": "2026-11-22",
-   "titulo": "Así cerró la semana",
-   "frase": "Bitcoin 58.944 $ este domingo."
+   "fecha": "2026-11-26",
+   "titulo": "Bitcoin, sobre los 60.000 $",
+   "cambio": "+0,62%",
+   "tendencia": "up"
   },
   "Brent": {
-   "fecha": "2026-11-25",
-   "titulo": "Repsol con el Brent en 91 $"
+   "fecha": "2026-11-26",
+   "titulo": "Atacan la mayor refinería saudí: Brent a 94,6 $",
+   "cambio": "+3,51%",
+   "tendencia": "up"
   },
   "Oro": {
-   "fecha": "2026-11-25",
+   "fecha": "2026-11-26",
    "titulo": "Petróleo arriba, oro abajo",
-   "frase": "Oro 3.555,72 $ la onza."
+   "frase": "Oro 3.534,70 $ (−0,71%), tras perder los 3.500 $ en la sesión."
   },
   "EUR/USD": {
-   "fecha": "2026-11-25",
-   "titulo": "EE. UU. prepara aranceles contra 16 socios, también la UE"
+   "fecha": "2026-11-26",
+   "titulo": "La inflación de EE. UU., al 3,8%"
   },
   "Acciona": {
    "fecha": "2026-11-18",
@@ -1286,33 +1484,32 @@
    "titulo": "Atresmedia reparte 0,83 € por acción"
   },
   "Santander": {
-   "fecha": "2026-10-30",
-   "titulo": "Repsol, Puig y Grifols, al alza",
-   "frase": "A la cola, Solaria, BBVA, Santander y Acerinox."
+   "fecha": "2026-11-26",
+   "titulo": "La banca española tras el castigo"
   },
   "Bankinter": {
-   "fecha": "2026-11-19",
-   "titulo": "Bankinter ve oportunidad en Nvidia"
+   "fecha": "2026-11-26",
+   "titulo": "Bancos, en rojo",
+   "frase": "CaixaBank −4,19%, Santander −3,96%, Sabadell −3,47%, Bankinter −3,19%, BBVA −3,01%."
   },
   "BBVA": {
-   "fecha": "2026-11-05",
-   "titulo": "Rovi se dispara tras sus resultados",
-   "frase": "BBVA y Bankinter también suben."
+   "fecha": "2026-11-26",
+   "titulo": "La banca arrastra al IBEX un 2%",
+   "frase": "CaixaBank cae un 4,19%, Santander un 3,96% y BBVA un 3,01%, el día que el BOE publica la prórroga del impuesto a la banca."
   },
   "CaixaBank": {
-   "fecha": "2026-10-30",
-   "titulo": "CaixaBank gana un 12,9% más",
-   "cambio": "+12,9%",
-   "tendencia": "up"
+   "fecha": "2026-11-26",
+   "titulo": "Bancos, en rojo",
+   "frase": "CaixaBank −4,19%, Santander −3,96%, Sabadell −3,47%, Bankinter −3,19%, BBVA −3,01%."
   },
   "Cellnex": {
    "fecha": "2026-11-25",
    "titulo": "Telefónica y Cellnex, refugio"
   },
   "Colonial": {
-   "fecha": "2026-11-11",
-   "titulo": "Repsol, ACS, Rovi y Telefónica, al alza",
-   "frase": "A la cola, Aena y Colonial."
+   "fecha": "2026-11-26",
+   "titulo": "Indra, la mejor",
+   "frase": "También suben Puig (+1,89%) y Colonial (+0,9%)."
   },
   "Enagás": {
    "fecha": "2026-11-18",
@@ -1353,9 +1550,10 @@
    "titulo": "Black Friday: 3 de cada 4 españoles comprarán"
   },
   "Indra": {
-   "fecha": "2026-11-24",
-   "titulo": "El IBEX rebota un 1,63% y recupera los 19.000",
-   "frase": "Tiran ArcelorMittal (+5,34%), ACS (+3,99%), Indra (+3,76%) e IAG (+3,70%)."
+   "fecha": "2026-11-26",
+   "titulo": "Indra quiere duplicar sus ingresos en 2030",
+   "cambio": "+3,81%",
+   "tendencia": "up"
   },
   "Mapfre": {
    "fecha": "2026-11-23",
@@ -1372,8 +1570,9 @@
    "frase": "Repsol −2,25% con el petróleo, Telefónica −1,31% y Naturgy −0,80%."
   },
   "Puig": {
-   "fecha": "2026-10-30",
-   "titulo": "Repsol, Puig y Grifols, al alza"
+   "fecha": "2026-11-26",
+   "titulo": "Indra, la mejor",
+   "frase": "También suben Puig (+1,89%) y Colonial (+0,9%)."
   },
   "Redeia": {
    "fecha": "2026-11-25",
@@ -1381,13 +1580,13 @@
    "frase": "Suben Cellnex (+3,02%), Telefónica (+2,56%) y Redeia (+2,44%)."
   },
   "Repsol": {
-   "fecha": "2026-11-25",
-   "titulo": "Repsol con el Brent en 91 $"
+   "fecha": "2026-11-26",
+   "titulo": "Atacan la mayor refinería saudí: Brent a 94,6 $"
   },
   "Sabadell": {
-   "fecha": "2026-10-29",
-   "titulo": "BBVA cae con fuerza",
-   "frase": "Sabadell cede menos."
+   "fecha": "2026-11-26",
+   "titulo": "Bancos, en rojo",
+   "frase": "CaixaBank −4,19%, Santander −3,96%, Sabadell −3,47%, Bankinter −3,19%, BBVA −3,01%."
   },
   "San José": {
    "fecha": "2026-11-19",
@@ -1420,8 +1619,8 @@
    "frase": "Los resultados de Nvidia animan al sector: ASM International y Aixtron +3%, Infineon +2%."
   },
   "ASML": {
-   "fecha": "2026-11-24",
-   "titulo": "ASML y los chips europeos"
+   "fecha": "2026-11-26",
+   "titulo": "ASML cae un 5,7%"
   },
   "BASF": {
    "fecha": "2026-11-21",
@@ -1530,10 +1729,10 @@
    "frase": "Amer Sports anuncia una recompra de 1.000 M$."
   },
   "Anthropic": {
-   "fecha": "2026-11-25",
-   "titulo": "Anthropic ya cotiza por debajo de su salida",
-   "cambio": "−6,5%",
-   "tendencia": "down"
+   "fecha": "2026-11-26",
+   "titulo": "Anthropic, casi en su precio de salida",
+   "cambio": "+1,07%",
+   "tendencia": "up"
   },
   "Apple": {
    "fecha": "2026-11-03",
@@ -1556,9 +1755,9 @@
    "tendencia": "up"
   },
   "Dell": {
-   "fecha": "2026-11-25",
-   "titulo": "Dell duplica ventas con la IA",
-   "cambio": "+4,1%",
+   "fecha": "2026-11-26",
+   "titulo": "Dell se da la vuelta",
+   "cambio": "+0,6%",
    "tendencia": "up"
   },
   "Disney": {
@@ -1610,9 +1809,9 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-25",
-   "titulo": "Nvidia devuelve un 5,9% y los chips se hunden",
-   "cambio": "−7,88%",
+   "fecha": "2026-11-26",
+   "titulo": "S&P vigila la nota de crédito de Nvidia",
+   "cambio": "−3,9%",
    "tendencia": "down"
   },
   "Palo Alto Networks": {
