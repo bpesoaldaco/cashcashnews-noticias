@@ -1,0 +1,688 @@
+{
+  "fecha": "2026-11-26",
+  "fechaTexto": "Jueves 26 nov 2026",
+  "actualizado": "04:58 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Los índices son del cierre del miércoles; Asia, de esta madrugada. La bolsa española aún no ha abierto. Hoy Wall Street está cerrada por Acción de Gracias.",
+  "indicadores": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "18.635,8",
+      "cambio": "−2,00%",
+      "tendencia": "down"
+    },
+    {
+      "id": "eurostoxx",
+      "nombre": "Euro Stoxx 50",
+      "valor": "5.890,65",
+      "cambio": "−1,90%",
+      "tendencia": "down"
+    },
+    {
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "24.702,13",
+      "cambio": "−1,26%",
+      "tendencia": "down"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "7.182,78",
+      "cambio": "−0,25%",
+      "tendencia": "down"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "23.585,80",
+      "cambio": "−0,62%",
+      "tendencia": "down"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "94,61 $",
+      "cambio": "+3,51%",
+      "tendencia": "up"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.534,70 $",
+      "cambio": "−0,71%",
+      "tendencia": "down"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "EUR/USD",
+      "valor": "1,0982",
+      "cambio": "+0,14%",
+      "tendencia": "up"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "valor": "60.119 $",
+      "cambio": "+0,62%",
+      "tendencia": "up"
+    }
+  ],
+  "stories": [
+    {
+      "id": "mercados",
+      "titulo": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "slides": [
+        {
+          "titulo": "Día de vaivenes en Wall Street",
+          "texto": "Aranceles e inflación hunden la apertura, pero el Dow acaba en positivo. S&P −0,25% y Nasdaq −0,62%.",
+          "dato": "7.182,78",
+          "cambio": "−0,25%",
+          "tendencia": "down",
+          "valores": [
+            "S&P 500",
+            "Nasdaq",
+            "Dow Jones"
+          ]
+        },
+        {
+          "titulo": "Europa cae casi un 2%",
+          "texto": "Euro Stoxx 50 en 5.890,65 (−1,90%) y DAX en 24.702,13 (−1,26%). La banca europea pierde cerca de un 3%.",
+          "dato": "5.890,65",
+          "cambio": "−1,90%",
+          "tendencia": "down",
+          "valores": [
+            "Euro Stoxx 50",
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "Asia rebota esta madrugada",
+          "texto": "Kospi +1,94% y Nikkei +1,65%, con los chips al alza tras el desplome del miércoles.",
+          "dato": "+1,94%",
+          "cambio": "+1,94%",
+          "tendencia": "up",
+          "valores": [
+            "Kospi",
+            "Nikkei 225"
+          ]
+        },
+        {
+          "titulo": "Petróleo arriba, oro abajo",
+          "texto": "Brent 94,61 $ (+3,51%) por el ataque a Ras Tanura. Oro 3.534,70 $ (−0,71%), tras perder los 3.500 $ en la sesión.",
+          "dato": "94,61 $",
+          "cambio": "+3,51%",
+          "tendencia": "up",
+          "valores": [
+            "Brent",
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "Bitcoin, sobre los 60.000 $",
+          "texto": "Unos 60.119 $ (+0,62%), tras tocar los 57.300 $ durante el día.",
+          "dato": "60.119 $",
+          "cambio": "+0,62%",
+          "tendencia": "up",
+          "valores": [
+            "Bitcoin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espana",
+      "titulo": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "slides": [
+        {
+          "titulo": "El IBEX pierde los 19.000",
+          "texto": "Cae un 2%, hasta 18.635,8 puntos, y cierra en su mínimo del día. La banca, lo peor.",
+          "dato": "18.635,8",
+          "cambio": "−2,00%",
+          "tendencia": "down",
+          "valores": [
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "Bancos, en rojo",
+          "texto": "CaixaBank −4,19%, Santander −3,96%, Sabadell −3,47%, Bankinter −3,19%, BBVA −3,01%. El BOE publica la prórroga del impuesto a la banca.",
+          "tendencia": "down",
+          "valores": [
+            "CaixaBank",
+            "Santander",
+            "Sabadell",
+            "BBVA"
+          ]
+        },
+        {
+          "titulo": "Indra, la mejor",
+          "texto": "+3,81% con su plan Forward2030. También suben Puig (+1,89%) y Colonial (+0,9%).",
+          "dato": "+3,81%",
+          "cambio": "+3,81%",
+          "tendencia": "up",
+          "valores": [
+            "Indra",
+            "Puig"
+          ]
+        },
+        {
+          "titulo": "Prima de riesgo, en 60,67",
+          "texto": "El bono español a 10 años baja al 3,843% (3,868% el martes).",
+          "dato": "60,67",
+          "tendencia": "flat"
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "titulo": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "slides": [
+        {
+          "titulo": "El DAX vuelve bajo los 25.000",
+          "texto": "Fráncfort −1,26%, Milán −1,81%, París −0,75% y Londres −0,38%.",
+          "dato": "24.702,13",
+          "cambio": "−1,26%",
+          "tendencia": "down",
+          "valores": [
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "ASML cae un 5,7%",
+          "texto": "Los chips europeos siguen castigados. Rémy Cointreau sube un 13,1% y Bureau Veritas un 6,6%.",
+          "tendencia": "down",
+          "valores": [
+            "ASML"
+          ]
+        },
+        {
+          "titulo": "Alemania crece solo un 0,1%",
+          "texto": "El PIB alemán del tercer trimestre se revisa a la baja, del 0,2% al 0,1%.",
+          "dato": "+0,1%",
+          "tendencia": "flat"
+        }
+      ]
+    },
+    {
+      "id": "eeuu",
+      "titulo": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "slides": [
+        {
+          "titulo": "HP vuela un 11,49%",
+          "texto": "Bate previsiones de beneficio y ventas y sube el dividendo.",
+          "dato": "+11,49%",
+          "cambio": "+11,49%",
+          "tendencia": "up",
+          "valores": [
+            "HP"
+          ]
+        },
+        {
+          "titulo": "Nvidia, en vigilancia",
+          "texto": "S&P Global puede rebajar su nota AA. La acción cae un 3,9%.",
+          "dato": "−3,9%",
+          "cambio": "−3,9%",
+          "tendencia": "down",
+          "valores": [
+            "Nvidia"
+          ]
+        },
+        {
+          "titulo": "Dell se da la vuelta",
+          "texto": "Llegó a caer un 10% y cerró con +0,6% tras sus cuentas récord.",
+          "dato": "+0,6%",
+          "cambio": "+0,6%",
+          "tendencia": "up",
+          "valores": [
+            "Dell"
+          ]
+        },
+        {
+          "titulo": "Anthropic, casi en su precio de salida",
+          "texto": "Cierra en 82,79 $ (+1,07%), justo por debajo de los 83 $ de su estreno.",
+          "dato": "82,79 $",
+          "cambio": "+1,07%",
+          "tendencia": "up",
+          "valores": [
+            "Anthropic"
+          ]
+        },
+        {
+          "titulo": "El PIB, revisado al 4,3%",
+          "texto": "El crecimiento anualizado del tercer trimestre sube del 3,4% al 4,3%, por la inversión y el consumo.",
+          "dato": "4,3%",
+          "tendencia": "up"
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "titulo": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "slides": [
+        {
+          "titulo": "Aranceles: hasta 15% a la UE",
+          "texto": "EE. UU. propone aranceles a 14 socios: hasta 20% a China y 15% a la UE y Japón.",
+          "dato": "15%",
+          "valores": [
+            "Euro Stoxx 50"
+          ]
+        },
+        {
+          "titulo": "Hipotecas en máximos desde 2010",
+          "texto": "46.469 firmas en septiembre, un 2,3% más que hace un año (INE).",
+          "dato": "46.469",
+          "cambio": "+2,3%",
+          "tendencia": "up"
+        },
+        {
+          "titulo": "La inflación de EE. UU., al 3,8%",
+          "texto": "El PCE sube y la Fed casi seguro subirá tipos en diciembre (97,8%).",
+          "dato": "3,8%",
+          "tendencia": "up",
+          "valores": [
+            "EUR/USD"
+          ]
+        },
+        {
+          "titulo": "Ataque a la mayor refinería saudí",
+          "texto": "El Brent sube un 3,51%, a 94,61 $. Puede acabar notándose en la gasolinera.",
+          "dato": "94,61 $",
+          "cambio": "+3,51%",
+          "tendencia": "up",
+          "valores": [
+            "Brent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ideas",
+      "titulo": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "slides": [
+        {
+          "titulo": "Esto no son recomendaciones",
+          "texto": "Son ideas para investigar por tu cuenta. Cada una tiene su riesgo.",
+          "aviso": true
+        },
+        {
+          "titulo": "Indra y su plan a 2030",
+          "texto": "Quiere duplicar ingresos hasta 12.000 M€. Riesgo: plan a largo plazo que depende del gasto en defensa.",
+          "aviso": true,
+          "valores": [
+            "Indra"
+          ]
+        },
+        {
+          "titulo": "HP tras batir previsiones",
+          "texto": "Beneficio y ventas por encima de lo esperado y dividendo al alza. Riesgo: tras subir un 11% en un día, puede devolver parte.",
+          "aviso": true,
+          "valores": [
+            "HP"
+          ]
+        },
+        {
+          "titulo": "La banca española tras el castigo",
+          "texto": "Caídas del 3-4% en un día. Riesgo: el impuesto prorrogado y las nuevas normas de crédito al consumo pueden restar beneficio.",
+          "aviso": true,
+          "valores": [
+            "Santander",
+            "CaixaBank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "titulo": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "slides": [
+        {
+          "titulo": "08:00 · Confianza del consumidor alemán",
+          "texto": "Índice GfK de diciembre. El dato anterior fue −30,8."
+        },
+        {
+          "titulo": "09:00 · Abre la bolsa española",
+          "texto": "Tras caer un 2% el miércoles y con Asia al alza esta madrugada."
+        },
+        {
+          "titulo": "Todo el día · Wall Street, cerrada",
+          "texto": "Acción de Gracias. El viernes, media sesión hasta las 19:00."
+        },
+        {
+          "titulo": "Banco de Corea decide tipos",
+          "texto": "Los economistas consultados por Reuters esperan una subida de 0,25 puntos."
+        }
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Wall Street remonta tras caer más de un 3%",
+      "texto": "El S&P 500 llegó a caer un 3,2% y el Nasdaq un 4,6% por los aranceles y la inflación. Al final, S&P −0,25% y Nasdaq −0,62%; el Dow sube un 0,33% tras borrar una caída de más de 1.100 puntos.",
+      "dato": "7.182,78",
+      "cambio": "−0,25%",
+      "tendencia": "down",
+      "valores": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "paraTi": "Si tienes un fondo indexado al S&P 500, el miércoles casi no se movió al cierre, pero el día fue muy brusco. Hoy Wall Street está cerrada por Acción de Gracias.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "La banca arrastra al IBEX un 2%",
+      "texto": "El IBEX cierra en 18.635,8 puntos, en su mínimo del día. CaixaBank cae un 4,19%, Santander un 3,96% y BBVA un 3,01%, el día que el BOE publica la prórroga del impuesto a la banca.",
+      "dato": "18.635,8",
+      "cambio": "−2,00%",
+      "tendencia": "down",
+      "grafica": {
+        "valores": [
+          19186.2,
+          18873.1,
+          19181.1,
+          19015.8,
+          18635.8
+        ],
+        "etiquetas": [
+          "19 nov",
+          "20 nov",
+          "23 nov",
+          "24 nov",
+          "25 nov"
+        ]
+      },
+      "valores": [
+        "IBEX 35",
+        "CaixaBank",
+        "Santander",
+        "BBVA"
+      ],
+      "paraTi": "Los bancos pesan mucho en el IBEX y en los fondos que lo siguen, por eso bajaron más. A tus depósitos no les afecta: siguen cubiertos hasta 100.000 € por persona y banco.",
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 25 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-25/6108785-ibex-35-cae-2-borde-18600-puntos-ante-regreso-aranceles-trump"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "Asia rebota con los chips tras el desplome",
+      "texto": "Esta madrugada el Kospi sube un 1,94% y el Nikkei un 1,65%. Kioxia gana un 6,29%, SoftBank un 3,52% y SK Hynix un 2,04%, tras las fuertes caídas del miércoles.",
+      "dato": "+1,94%",
+      "cambio": "+1,94%",
+      "tendencia": "up",
+      "valores": [
+        "Kospi",
+        "Nikkei 225",
+        "SK Hynix",
+        "SoftBank"
+      ],
+      "paraTi": "Si tienes un fondo mundial (tipo MSCI World), Asia pesa poco en él. El rebote solo compensa una parte de lo perdido el miércoles.",
+      "fuente": "TradingKey: Japón y Corea abren al alza, 26 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262322889-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Indra quiere duplicar sus ingresos en 2030",
+      "texto": "Indra presenta su plan Forward2030, que prevé duplicar los ingresos hasta 12.000 millones de euros en 2030. Fue la mejor del IBEX: +3,81% en un día de caídas.",
+      "dato": "+3,81%",
+      "cambio": "+3,81%",
+      "tendencia": "up",
+      "valores": [
+        "Indra",
+        "IBEX 35"
+      ],
+      "paraTi": "Solo importa a quien tiene acciones de Indra o un fondo del IBEX, donde pesa poco. Es un objetivo a cinco años, no un resultado ya conseguido.",
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 25 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-25/6108785-ibex-35-cae-2-borde-18600-puntos-ante-regreso-aranceles-trump"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "HP se dispara un 11% con sus cuentas",
+      "texto": "HP gana 83 centavos por acción en su trimestre, frente a 75 esperados, con ventas de 16.000 M$ (15.400 M$ previstos). Sube el dividendo a 31 centavos y la acción, un 11,49%.",
+      "dato": "+11,49%",
+      "cambio": "+11,49%",
+      "tendencia": "up",
+      "valores": [
+        "HP"
+      ],
+      "paraTi": "HP pesa poco en el S&P 500, así que apenas mueve tu fondo indexado. Como cliente no cambia nada en el precio de sus ordenadores o impresoras.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "S&P vigila la nota de crédito de Nvidia",
+      "texto": "S&P Global pone en vigilancia negativa la nota AA de Nvidia por riesgos de gestión y gobierno. La acción cae un 3,9% y llegó a perder un 9,1% durante la sesión.",
+      "dato": "−3,9%",
+      "cambio": "−3,9%",
+      "tendencia": "down",
+      "valores": [
+        "Nvidia",
+        "S&P 500"
+      ],
+      "paraTi": "Nvidia es de las empresas que más pesa en el S&P 500 y en el MSCI World, así que sus vaivenes se notan en muchos fondos indexados.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "politica",
+      "titulo": "Ya hay propuesta: aranceles de hasta el 15% a la UE",
+      "texto": "EE. UU. propone aranceles a 14 socios por exceso de capacidad industrial (Sección 301): hasta un 20% a China y un 15% a la UE y Japón. Las bolsas europeas cayeron casi un 2%.",
+      "dato": "15%",
+      "valores": [
+        "Euro Stoxx 50",
+        "EUR/USD"
+      ],
+      "paraTi": "Si se aplican, algunos productos europeos se venderán más caros en EE. UU. y eso puede pesar en empresas exportadoras y en el empleo de esos sectores. Aún no hay fecha.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "empleo_vivienda",
+      "titulo": "Las hipotecas firmadas, en máximos desde 2010",
+      "texto": "Según el INE, en septiembre se firmaron 46.469 hipotecas sobre viviendas, un 2,3% más que un año antes. Es la cifra más alta para un mes de septiembre desde 2010.",
+      "dato": "46.469",
+      "cambio": "+2,3%",
+      "tendencia": "up",
+      "valores": [
+        "IBEX 35"
+      ],
+      "paraTi": "Que se firmen más hipotecas indica que hay mucha demanda de pisos, lo que suele sostener los precios. Si buscas casa, la competencia sigue siendo alta.",
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 25 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-25/6108785-ibex-35-cae-2-borde-18600-puntos-ante-regreso-aranceles-trump"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "macro",
+      "titulo": "La inflación favorita de la Fed sube al 3,8%",
+      "texto": "El PCE de EE. UU. sube al 3,8% en octubre (3,7% en septiembre) y el subyacente al 3,3%, algo más de lo previsto. El mercado da un 97,8% a una subida de tipos de la Fed en diciembre.",
+      "dato": "3,8%",
+      "cambio": "+0,1 pt",
+      "tendencia": "up",
+      "valores": [
+        "S&P 500",
+        "EUR/USD"
+      ],
+      "paraTi": "Tipos más altos en EE. UU. suelen fortalecer el dólar. En Europa también se espera que el BCE suba en diciembre, y eso tiende a subir el euríbor de las hipotecas.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "global",
+      "titulo": "Atacan la mayor refinería saudí: Brent a 94,6 $",
+      "texto": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería de Arabia Saudí, y provocaron incendios. El Brent sube un 3,51%, hasta 94,61 $, y el WTI un 1,99%.",
+      "dato": "94,61 $",
+      "cambio": "+3,51%",
+      "tendencia": "up",
+      "valores": [
+        "Brent",
+        "Repsol"
+      ],
+      "paraTi": "Si el petróleo se mantiene caro, la gasolina y el gasóleo tardan unas semanas en subir. También encarece el transporte de lo que compras.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "titulo": "Hoy Wall Street cierra por Acción de Gracias",
+      "texto": "Las bolsas y los bonos de EE. UU. no abren hoy. El viernes abren solo media sesión: la bolsa cierra a las 19:00 (hora de Madrid). Europa sigue abierta sin esa referencia.",
+      "valores": [
+        "S&P 500",
+        "IBEX 35"
+      ],
+      "paraTi": "Sin Wall Street, el día en Europa suele ser más tranquilo y con menos volumen. Tu fondo del S&P 500 no tendrá precio nuevo hoy.",
+      "fuente": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "categoria": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "titulo": "Idea: Indra y su plan a 2030",
+      "texto": "Quiere duplicar ingresos hasta 12.000 M€ en 2030 y la bolsa lo premió (+3,81%). Riesgo: es un plan a cinco años que depende de contratos y gasto público en defensa; puede no cumplirse.",
+      "aviso": true,
+      "valores": [
+        "Indra"
+      ],
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 25 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-25/6108785-ibex-35-cae-2-borde-18600-puntos-ante-regreso-aranceles-trump"
+    }
+  ],
+  "agenda": [
+    {
+      "hora": "08:00",
+      "titulo": "Confianza del consumidor de Alemania (GfK)",
+      "texto": "Índice de diciembre. El anterior fue −30,8; no hay previsión publicada. Mide el ánimo de los consumidores de la mayor economía del euro.",
+      "tipo": "macro",
+      "importancia": "baja",
+      "pais": "Alemania",
+      "valores": [
+        "DAX"
+      ]
+    },
+    {
+      "hora": "09:00",
+      "titulo": "Abre la bolsa española",
+      "texto": "Tras caer un 2% el miércoles por la banca, y con Asia en positivo esta madrugada.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Wall Street, cerrada por Acción de Gracias",
+      "texto": "Bolsa y bonos de EE. UU. cerrados todo el día. El viernes, sesión corta: la bolsa cierra a las 19:00 de Madrid.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500",
+        "Nasdaq"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Decisión de tipos del Banco de Corea",
+      "texto": "Hora no confirmada. Los economistas consultados por Reuters esperan una subida de 0,25 puntos.",
+      "tipo": "banco_central",
+      "importancia": "media",
+      "pais": "Corea del Sur",
+      "valores": [
+        "Kospi"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "El Congreso vota los últimos decretos",
+      "texto": "La Diputación Permanente vota hoy los últimos cinco decretos del Gobierno (hora no confirmada).",
+      "tipo": "politica",
+      "importancia": "baja",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Pressdigital (agencias): cierre del IBEX, 25 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-25/6108785-ibex-35-cae-2-borde-18600-puntos-ante-regreso-aranceles-trump"
+    },
+    {
+      "nombre": "El Folio: bolsas europeas, 25 nov",
+      "url": "https://elfolio.es/bolsas-europeas-25-noviembre-2026/"
+    },
+    {
+      "nombre": "Teleceuta: IBEX 35 del 25 de noviembre",
+      "url": "https://teleceuta.com/ibex-35-del-25-de-noviembre-retrocede-un-200/"
+    },
+    {
+      "nombre": "Kiplinger: Wall Street, 25 nov",
+      "url": "https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today"
+    },
+    {
+      "nombre": "CappNotes: Closing Look, 25 nov",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+    },
+    {
+      "nombre": "QUE.com: la remontada del Dow, 25 nov",
+      "url": "https://que.com/thanksgiving-eve-whiplash-dow-erases-1100-point-plunge-in-biggest-comeback-since-2022-as-ai-selloff-rages-on/"
+    },
+    {
+      "nombre": "TradingKey: Japón y Corea abren al alza, 26 nov",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262322889-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
+    },
+    {
+      "nombre": "WOL (CNBC): Asia y el Banco de Corea, 26 nov",
+      "url": "https://www.wol.com/2026/11/26/asia-markets-up-as-investors-assess-u-s-tariffs-korea-rate-decision-in-focus/"
+    },
+    {
+      "nombre": "Bolsamanía: agenda del 26 nov",
+      "url": "https://www.bolsamania.com/agenda/26112026"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-26",
+      "fechaTexto": "Jueves 26 nov 2026",
+      "titular": "Wall Street remonta tras caer más de un 3%",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-25",
       "fechaTexto": "Miércoles 25 nov 2026",
       "titular": "Nvidia devuelve un 5,9% y los chips se hunden",
