@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-27",
+      "fechaTexto": "Viernes 27 nov 2026",
+      "titular": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-26",
       "fechaTexto": "Jueves 26 nov 2026",
       "titular": "Wall Street remonta tras caer más de un 3%",

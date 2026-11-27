@@ -1,0 +1,682 @@
+{
+  "fecha": "2026-11-27",
+  "fechaTexto": "Viernes 27 nov 2026",
+  "actualizado": "04:58 (hora de Madrid)",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Los índices europeos son del cierre del jueves; los de EE. UU., del miércoles (el jueves Wall Street cerró por Acción de Gracias). Asia, de esta madrugada. La bolsa española aún no ha abierto.",
+  "indicadores": [
+    {
+      "id": "ibex",
+      "nombre": "IBEX 35",
+      "valor": "19.057,9",
+      "cambio": "+2,27%",
+      "tendencia": "up"
+    },
+    {
+      "id": "eurostoxx",
+      "nombre": "Euro Stoxx 50",
+      "valor": "—",
+      "cambio": "+2,04%",
+      "tendencia": "up"
+    },
+    {
+      "id": "dax",
+      "nombre": "DAX",
+      "valor": "—",
+      "cambio": "+2,08%",
+      "tendencia": "up"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "valor": "7.182,78",
+      "cambio": "−0,25%",
+      "tendencia": "down"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq",
+      "valor": "23.585,80",
+      "cambio": "−0,62%",
+      "tendencia": "down"
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "96,14 $",
+      "cambio": "+1,62%",
+      "tendencia": "up"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro",
+      "valor": "3.576 $",
+      "cambio": "+1,14%",
+      "tendencia": "up"
+    },
+    {
+      "id": "eurusd",
+      "nombre": "EUR/USD",
+      "valor": "1,0974",
+      "cambio": "0,00%",
+      "tendencia": "flat"
+    },
+    {
+      "id": "bitcoin",
+      "nombre": "Bitcoin",
+      "valor": "60.468 $",
+      "cambio": "+3,24%",
+      "tendencia": "up"
+    }
+  ],
+  "stories": [
+    {
+      "id": "mercados",
+      "titulo": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "slides": [
+        {
+          "titulo": "Europa sube con fuerza",
+          "texto": "Euro Stoxx 50 +2,04% y DAX +2,08%, con la banca y la tecnología al frente.",
+          "dato": "+2,04%",
+          "cambio": "+2,04%",
+          "tendencia": "up",
+          "valores": [
+            "Euro Stoxx 50",
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "Wall Street, media sesión hoy",
+          "texto": "Ayer cerró por Acción de Gracias. Hoy abre solo media jornada (cierre a las 19:00 de Madrid).",
+          "valores": [
+            "S&P 500",
+            "Nasdaq"
+          ]
+        },
+        {
+          "titulo": "Asia sigue al alza",
+          "texto": "Kospi +2,2% (4.812,65) y Nikkei +0,7% (57.919,30) esta madrugada. Shanghái −0,1%.",
+          "dato": "+2,2%",
+          "cambio": "+2,2%",
+          "tendencia": "up",
+          "valores": [
+            "Kospi",
+            "Nikkei 225"
+          ]
+        },
+        {
+          "titulo": "Petróleo y oro, arriba",
+          "texto": "Brent 96,14 $ (+1,62%) por las tensiones en el Golfo. Oro 3.576 $ (+1,14%).",
+          "dato": "96,14 $",
+          "cambio": "+1,62%",
+          "tendencia": "up",
+          "valores": [
+            "Brent",
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "Bitcoin rebota un 3,24%",
+          "texto": "Cierra el jueves en unos 60.468 $.",
+          "dato": "60.468 $",
+          "cambio": "+3,24%",
+          "tendencia": "up",
+          "valores": [
+            "Bitcoin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espana",
+      "titulo": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "slides": [
+        {
+          "titulo": "El IBEX recupera los 19.000",
+          "texto": "Sube un 2,27%, hasta 19.057,9 puntos. Rebote técnico tras dos días de caídas.",
+          "dato": "19.057,9",
+          "cambio": "+2,27%",
+          "tendencia": "up",
+          "valores": [
+            "IBEX 35"
+          ]
+        },
+        {
+          "titulo": "Solaria vuela un 7,85%",
+          "texto": "También suben Indra (+5%), Santander (+4,11%), Logista (+3,74%) y Merlin (+3,37%). Solo baja Rovi (−0,39%).",
+          "dato": "+7,85%",
+          "cambio": "+7,85%",
+          "tendencia": "up",
+          "valores": [
+            "Solaria",
+            "Indra",
+            "Santander"
+          ]
+        },
+        {
+          "titulo": "Iberdrola cierra lo de Caruna",
+          "texto": "Tiene todos los permisos para comprar el 80% de la eléctrica finlandesa.",
+          "valores": [
+            "Iberdrola"
+          ]
+        },
+        {
+          "titulo": "Prima de riesgo, en 60,61",
+          "texto": "El bono español a 10 años, en el 3,854% (3,848% el miércoles).",
+          "dato": "60,61",
+          "tendencia": "flat"
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "titulo": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "slides": [
+        {
+          "titulo": "Milán, la que más sube",
+          "texto": "FTSE MIB +2,36%, DAX +2,08%, Londres +1,75% y París +1,61%.",
+          "dato": "+2,36%",
+          "cambio": "+2,36%",
+          "tendencia": "up",
+          "valores": [
+            "DAX"
+          ]
+        },
+        {
+          "titulo": "Altria mira a Imperial Brands",
+          "texto": "Estudia una posible oferta por la tabacalera británica, dueña de Logista.",
+          "valores": [
+            "Imperial Brands",
+            "Logista"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eeuu",
+      "titulo": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "slides": [
+        {
+          "titulo": "Cerrado por Acción de Gracias",
+          "texto": "El jueves no hubo bolsa. El último cierre es el del miércoles: S&P 500 −0,25% y Nasdaq −0,62%.",
+          "dato": "7.182,78",
+          "cambio": "−0,25%",
+          "tendencia": "down",
+          "valores": [
+            "S&P 500",
+            "Nasdaq"
+          ]
+        },
+        {
+          "titulo": "Hoy, Black Friday en bolsa",
+          "texto": "Media sesión: la bolsa cierra a las 19:00 de Madrid. Suele haber poco volumen.",
+          "valores": [
+            "S&P 500"
+          ]
+        },
+        {
+          "titulo": "Futuros, en verde",
+          "texto": "S&P 500 y Nasdaq 100 +0,7%; Dow +0,6% esta madrugada.",
+          "dato": "+0,7%",
+          "cambio": "+0,7%",
+          "tendencia": "up",
+          "valores": [
+            "S&P 500",
+            "Nasdaq"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "titulo": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "slides": [
+        {
+          "titulo": "Hernández de Cos, al BCE",
+          "texto": "Los líderes europeos lo eligen para suceder a Lagarde. Se formaliza en diciembre.",
+          "valores": [
+            "Euríbor"
+          ]
+        },
+        {
+          "titulo": "Corea sube tipos al 3,25%",
+          "texto": "Por el boom de exportaciones de chips (+94% en octubre) y una inflación del 2,8%.",
+          "dato": "3,25%",
+          "tendencia": "up",
+          "valores": [
+            "Kospi"
+          ]
+        },
+        {
+          "titulo": "Minas en Ormuz y Brent a 96 $",
+          "texto": "Irán dice que dos petroleros chocaron con minas. El Brent cierra en 96,14 $ (+1,62%).",
+          "dato": "96,14 $",
+          "cambio": "+1,62%",
+          "tendencia": "up",
+          "valores": [
+            "Brent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ideas",
+      "titulo": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "slides": [
+        {
+          "titulo": "Esto no son recomendaciones",
+          "texto": "Son ideas para investigar por tu cuenta. Cada una tiene su riesgo.",
+          "aviso": true
+        },
+        {
+          "titulo": "Iberdrola y Caruna",
+          "texto": "Por qué: suma una gran red regulada en Finlandia. Riesgo: unos 5.000 M€ con deuda y tipos al alza.",
+          "aviso": true,
+          "valores": [
+            "Iberdrola"
+          ]
+        },
+        {
+          "titulo": "Logista y la posible oferta",
+          "texto": "Por qué: Altria estudia comprar a su dueña, Imperial Brands. Riesgo: puede no haber oferta.",
+          "aviso": true,
+          "valores": [
+            "Logista"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "titulo": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "slides": [
+        {
+          "titulo": "09:00 · IPC adelantado de España (noviembre)",
+          "texto": "El INE publica la inflación de noviembre. No hay previsión publicada en nuestras fuentes. Influye en las pensiones y en lo que espera el BCE."
+        },
+        {
+          "titulo": "09:00 · Ventas minoristas de España (octubre)",
+          "texto": "El dato anterior fue del −1,4%. Mide cuánto gastan los hogares en tiendas."
+        },
+        {
+          "titulo": "09:00 · Abre la bolsa española",
+          "texto": "Tras subir un 2,27% el jueves y con Asia en positivo esta madrugada."
+        },
+        {
+          "titulo": "11:00 · Confianza y sentimiento (eurozona)",
+          "texto": "Encuestas de noviembre de la Comisión Europea. El sentimiento económico anterior fue de 96,9."
+        },
+        {
+          "titulo": "15:30 · Wall Street abre en media sesión",
+          "texto": "Black Friday: la bolsa cierra a las 19:00 y los bonos a las 20:00 (hora de Madrid). El lunes vuelve el horario normal."
+        },
+        {
+          "titulo": "Sin hora · Fin de la campaña electoral en España",
+          "texto": "Las elecciones son el domingo 29. Puede haber movimientos en la bolsa el lunes según el resultado."
+        }
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
+      "texto": "Rebote técnico tras dos días de caídas, sin Wall Street por el festivo. Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%. Solo Rovi cae (−0,39%).",
+      "dato": "19.057,9",
+      "cambio": "+2,27%",
+      "tendencia": "up",
+      "valores": [
+        "IBEX 35",
+        "Santander",
+        "Solaria",
+        "Indra"
+      ],
+      "grafica": {
+        "valores": [
+          18635.8,
+          19057.9
+        ],
+        "etiquetas": [
+          "25 nov",
+          "26 nov"
+        ]
+      },
+      "paraTi": "Si tienes un fondo del IBEX, recupera casi todo lo perdido el miércoles. Un día de subida no cambia la tendencia de una semana muy movida.",
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "Europa respira: los aranceles asustan menos",
+      "texto": "Euro Stoxx 50 +2,04%, DAX +2,08%, Milán +2,36%, Londres +1,75% y París +1,61%. Suben la banca y la tecnología tras ver que la propuesta de aranceles de EE. UU. es menos dura de lo temido.",
+      "dato": "+2,04%",
+      "cambio": "+2,04%",
+      "tendencia": "up",
+      "valores": [
+        "Euro Stoxx 50",
+        "DAX"
+      ],
+      "paraTi": "Si tienes un fondo de bolsa europea o MSCI World, el jueves sumó. Los aranceles aún no tienen fecha, así que el tema puede volver.",
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "politica",
+      "titulo": "Un español al frente del BCE: Hernández de Cos",
+      "texto": "Los líderes europeos eligen a Pablo Hernández de Cos, exgobernador del Banco de España, para suceder a Christine Lagarde al frente del BCE. Falta formalizarlo en la cumbre de diciembre.",
+      "valores": [
+        "EUR/USD",
+        "Euríbor"
+      ],
+      "paraTi": "El BCE fija los tipos que mueven el euríbor de tu hipoteca y lo que pagan los depósitos. Cambia la persona, pero las decisiones las toma su consejo entre todos.",
+      "fuente": "Bolsamanía: Hernández de Cos, al BCE",
+      "url": "https://www.bolsamania.com/noticias/mercados/pablo-hernandez-cos-sera-nuevo-presidente-banco-central-europeo--24301986.html"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "global",
+      "titulo": "Corea sube tipos al 3,25% por el boom de los chips",
+      "texto": "El Banco de Corea sube 0,25 puntos, al 3,25%. Las exportaciones crecieron un 94% en octubre gracias a los chips de IA y la inflación (2,8%) sigue por encima del 2%. Espera crecer un 4,1% en 2027.",
+      "dato": "3,25%",
+      "cambio": "+0,25 pt",
+      "tendencia": "up",
+      "valores": [
+        "Kospi",
+        "Samsung",
+        "SK Hynix"
+      ],
+      "paraTi": "Apenas te afecta directamente, pero muestra que el auge de la IA está calentando economías enteras. Si tienes un fondo de emergentes, Corea pesa bastante en él.",
+      "fuente": "Al Jazeera: el Banco de Corea sube tipos",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Iberdrola, vía libre para comprar Caruna",
+      "texto": "Ya tiene todos los permisos para quedarse con el 80% de Caruna, la mayor distribuidora eléctrica de Finlandia, valorada en unos 5.000 M€ con deuda. Espera cerrar la compra en enero de 2027.",
+      "valores": [
+        "Iberdrola",
+        "IBEX 35"
+      ],
+      "paraTi": "No cambia tu factura de la luz en España. Iberdrola es de las que más pesan en el IBEX, así que sus movimientos se notan en los fondos indexados españoles.",
+      "fuente": "Bolsamanía: Iberdrola y Caruna",
+      "url": "https://www.bolsamania.com/noticias/empresas/iberdrola-logra-todos-permisos-adquirir-finlandesa-caruna-valorada-5000-millones--24297778.html"
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "Altria estudia una oferta por Imperial Brands",
+      "texto": "La dueña de Marlboro en EE. UU. considera una posible oferta por la tabacalera británica, que vale más de 26.000 M£. Imperial sube un 13,3% y Logista, que controla, un 3,74% en el IBEX.",
+      "valores": [
+        "Imperial Brands",
+        "Logista",
+        "Altria"
+      ],
+      "dato": "+13,3%",
+      "cambio": "+13,3%",
+      "tendencia": "up",
+      "paraTi": "Solo afecta de verdad a quien tenga acciones de estas empresas. Logista reparte tabaco y paquetes en España; una compra de su dueña podría cambiar sus planes.",
+      "fuente": "Longbridge (Reuters): cierre europeo, 26 nov",
+      "url": "https://longbridge.com/en/news/306942418"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Grifols paga 0,15 € por acción el 4 de diciembre",
+      "texto": "Dividendo bruto de 0,15 € con cargo a 2026, unos 102,1 M€ en total. Para cobrarlo hay que tener las acciones antes de la fecha de corte.",
+      "dato": "0,15 €",
+      "valores": [
+        "Grifols"
+      ],
+      "paraTi": "Si tienes acciones de Grifols, cobrarás 0,15 € brutos por cada una, menos la retención de Hacienda. Si no, no te afecta.",
+      "fuente": "Bolsamanía: dividendo de Grifols",
+      "url": "https://www.bolsamania.com/noticias/empresas/grifols-pagara-dividendo-015-euros-4-diciembre-claves-cobrarlo--24298132.html"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "tema": "bolsillo",
+      "titulo": "Minas en Ormuz: el Brent toca los 96 $",
+      "texto": "Irán dice que dos petroleros chocaron con minas cerca de Ormuz, sin confirmación independiente. Con el ataque a Ras Tanura, el Brent cierra el jueves en 96,14 $ (+1,62%) y sube cerca de un 5% en la semana.",
+      "dato": "96,14 $",
+      "cambio": "+1,62%",
+      "tendencia": "up",
+      "valores": [
+        "Brent",
+        "Repsol"
+      ],
+      "paraTi": "Si el barril se queda caro, la gasolina y el gasóleo suben con unas semanas de retraso. Llenar el depósito y el transporte de lo que compras se encarecen.",
+      "fuente": "N Globe (Reuters): Brent, Ormuz y Ras Tanura",
+      "url": "https://nglobenews.com/en/article/oil-brent-96-houthi-ras-tanura-hormuz-mines-2026-11-26"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Wall Street vuelve hoy con futuros en verde",
+      "texto": "Tras el festivo, los futuros del S&P 500 y del Nasdaq 100 suben en torno a un 0,7% y los del Dow un 0,6%. Hoy solo hay media sesión: la bolsa cierra a las 19:00 de Madrid.",
+      "dato": "+0,7%",
+      "cambio": "+0,7%",
+      "tendencia": "up",
+      "valores": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "paraTi": "Si tienes un fondo del S&P 500, hoy tendrá precio nuevo tras el festivo. En media sesión y con poco volumen, los movimientos pueden ser exagerados.",
+      "fuente": "Trading Economics: futuros de EE. UU., 27 nov",
+      "url": "https://tradingeconomics.com/united-states/stock-market/news/604827"
+    },
+    {
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "formato": "semana_pasada",
+      "titulo": "Lo que ha pasado esta semana",
+      "texto": "1) Nvidia: +31% con el regreso de Huang y luego −5,9%. 2) EE. UU. propone aranceles de hasta el 15% a la UE. 3) La inflación PCE sube al 3,8% y la Fed casi seguro subirá en diciembre. 4) Ataques en el Golfo: Brent por encima de 96 $.",
+      "valores": [
+        "Nvidia",
+        "S&P 500",
+        "Brent",
+        "IBEX 35"
+      ],
+      "paraTi": "Semana de nervios: tipos que suben, aranceles y petróleo caro. Si tienes un fondo indexado, lo normal es ver estos vaivenes; lo importante es el plazo largo.",
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+    },
+    {
+      "categoria": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "titulo": "Idea: Iberdrola y su compra en Finlandia",
+      "texto": "Por qué: suma una gran red eléctrica regulada en el norte de Europa. Riesgo: paga unos 5.000 M€ con deuda incluida, y con tipos al alza la deuda sale más cara.",
+      "aviso": true,
+      "valores": [
+        "Iberdrola"
+      ],
+      "fuente": "Bolsamanía: Iberdrola y Caruna",
+      "url": "https://www.bolsamania.com/noticias/empresas/iberdrola-logra-todos-permisos-adquirir-finlandesa-caruna-valorada-5000-millones--24297778.html"
+    },
+    {
+      "categoria": "Ideas",
+      "emoji": "💡",
+      "color": "#F59E0B",
+      "titulo": "Idea: Logista y la posible oferta por su dueña",
+      "texto": "Por qué: Altria estudia comprar Imperial Brands, que controla Logista. Riesgo: es solo un estudio; puede no haber oferta, y el tabaco tiene cada vez más regulación.",
+      "aviso": true,
+      "valores": [
+        "Logista",
+        "Imperial Brands"
+      ],
+      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+    }
+  ],
+  "agenda": [
+    {
+      "hora": "09:00",
+      "titulo": "IPC adelantado de España (noviembre)",
+      "texto": "El INE publica la inflación de noviembre. No hay previsión publicada en nuestras fuentes. Influye en las pensiones y en lo que espera el BCE.",
+      "tipo": "macro",
+      "importancia": "alta",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    },
+    {
+      "hora": "09:00",
+      "titulo": "Ventas minoristas de España (octubre)",
+      "texto": "El dato anterior fue del −1,4%. Mide cuánto gastan los hogares en tiendas.",
+      "tipo": "macro",
+      "importancia": "media",
+      "pais": "España",
+      "valores": [
+        "IBEX 35",
+        "Inditex"
+      ]
+    },
+    {
+      "hora": "09:00",
+      "titulo": "Abre la bolsa española",
+      "texto": "Tras subir un 2,27% el jueves y con Asia en positivo esta madrugada.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    },
+    {
+      "hora": "11:00",
+      "titulo": "Confianza y sentimiento (eurozona)",
+      "texto": "Encuestas de noviembre de la Comisión Europea. El sentimiento económico anterior fue de 96,9.",
+      "tipo": "macro",
+      "importancia": "media",
+      "pais": "Zona euro",
+      "valores": [
+        "Euro Stoxx 50",
+        "EUR/USD"
+      ]
+    },
+    {
+      "hora": "15:30",
+      "titulo": "Wall Street abre en media sesión",
+      "texto": "Black Friday: la bolsa cierra a las 19:00 y los bonos a las 20:00 (hora de Madrid). El lunes vuelve el horario normal.",
+      "tipo": "bolsa",
+      "importancia": "media",
+      "pais": "EE. UU.",
+      "valores": [
+        "S&P 500",
+        "Nasdaq"
+      ]
+    },
+    {
+      "hora": "",
+      "titulo": "Fin de la campaña electoral en España",
+      "texto": "Las elecciones son el domingo 29. Puede haber movimientos en la bolsa el lunes según el resultado.",
+      "tipo": "politica",
+      "importancia": "alta",
+      "pais": "España",
+      "valores": [
+        "IBEX 35"
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Pressdigital (agencias): cierre del IBEX, 26 nov",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+    },
+    {
+      "nombre": "MadridPress: el IBEX rebota un 2,27%",
+      "url": "https://madridpress.com/art/352220/el-ibex-35-rebota-un-227"
+    },
+    {
+      "nombre": "El Folio: bolsa del 26 nov",
+      "url": "https://elfolio.es/bolsa-hoy-26-de-noviembre-2026-ibex-35-europa/"
+    },
+    {
+      "nombre": "Bolsamanía: crónica previa del 26 nov",
+      "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-fuerte-rebote-sin-referencia-wall-street--24297402.html"
+    },
+    {
+      "nombre": "AP: Asia, 27 nov",
+      "url": "https://www.news4jax.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+    },
+    {
+      "nombre": "Al Jazeera: el Banco de Corea sube tipos",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
+    },
+    {
+      "nombre": "Seoul Economic Daily: tipos y previsiones",
+      "url": "https://en.sedaily.com/economy/2026/11/26/bank-of-korea-raises-rate-to-325-percent-lifts-growth"
+    },
+    {
+      "nombre": "Bolsamanía: Iberdrola y Caruna",
+      "url": "https://www.bolsamania.com/noticias/empresas/iberdrola-logra-todos-permisos-adquirir-finlandesa-caruna-valorada-5000-millones--24297778.html"
+    },
+    {
+      "nombre": "Bolsamanía: dividendo de Grifols",
+      "url": "https://www.bolsamania.com/noticias/empresas/grifols-pagara-dividendo-015-euros-4-diciembre-claves-cobrarlo--24298132.html"
+    },
+    {
+      "nombre": "Bolsamanía: Hernández de Cos, al BCE",
+      "url": "https://www.bolsamania.com/noticias/mercados/pablo-hernandez-cos-sera-nuevo-presidente-banco-central-europeo--24301986.html"
+    },
+    {
+      "nombre": "Bolsamanía: agenda del 27 nov",
+      "url": "https://www.bolsamania.com/agenda/27112026"
+    },
+    {
+      "nombre": "Longbridge (Reuters): cierre europeo, 26 nov",
+      "url": "https://longbridge.com/en/news/306942418"
+    },
+    {
+      "nombre": "N Globe (Reuters): Brent, Ormuz y Ras Tanura",
+      "url": "https://nglobenews.com/en/article/oil-brent-96-houthi-ras-tanura-hormuz-mines-2026-11-26"
+    },
+    {
+      "nombre": "Trading Economics: futuros de EE. UU., 27 nov",
+      "url": "https://tradingeconomics.com/united-states/stock-market/news/604827"
+    },
+    {
+      "nombre": "BigGo Finance: horario de Wall Street",
+      "url": "https://finance.biggo.com/news/bef38756-5740-4079-8784-f2d501914c9b"
+    },
+    {
+      "nombre": "SBS: Wall Street cerrado y la Fed",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008866086"
+    },
+    {
+      "nombre": "Euronext (Reuters): bolsas europeas, 26 nov",
+      "url": "https://live.euronext.com/en/financial-news/european-stocks-rally-tech-and-banks-rebound-tariff-fears-ease"
+    }
+  ]
+}
