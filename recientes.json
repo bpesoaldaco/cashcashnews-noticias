@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
   "IBEX 35": {
@@ -1375,49 +1375,294 @@
      "url": "https://investinglive.com/stocks/arm-shares-fall-5-after-hours-despite-q2-beat-as-outlook-only-edges-past-forecasts/"
     }
    ]
+  },
+  "AT&T": {
+   "revisado": "2026-11-27"
+  },
+  "Bank of America": {
+   "revisado": "2026-11-27"
+  },
+  "Berkshire Hathaway": {
+   "revisado": "2026-11-27",
+   "resumen": "En el tercer trimestre más que duplicó las recompras de acciones propias, hasta 9.600 millones $, aunque su beneficio neto cayó un 28%.",
+   "titulares": [
+    {
+     "fecha": "2026-11-07",
+     "titulo": "Berkshire acelera las recompras de acciones aunque baja su beneficio",
+     "fuente": "Fortune",
+     "url": "https://fortune.com/2026/11/07/berkshire-hathaway-stock-brk-q3-earnings-investment-portfolio-buybacks/"
+    }
+   ]
+  },
+  "BILL": {
+   "revisado": "2026-11-27",
+   "resumen": "TPG, junto a Corpay, ha acordado comprar BILL por unos 6.000 millones $ y sacarla de bolsa, semanas después de unos resultados con beneficio mejor de lo esperado.",
+   "titulares": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "TPG y Corpay comprarán BILL por unos 6.000 millones $",
+     "fuente": "Dealroom",
+     "url": "https://dealroom.co/news/174514-bill-to-go-private-in-6b-buyout-led-by-tpg-with-corpay/"
+    },
+    {
+     "fecha": "2026-11-05",
+     "titulo": "BILL mejora su previsión de beneficio pese a ingresos por debajo de lo esperado",
+     "fuente": "Earnings Whispers",
+     "url": "https://finviz.com/news/418011/bills-profit-beat-and-raised-earnings-outlook-collide-with-a-headline-revenue-miss-created-by-an-accounting-change-and-slowing-card-growth"
+    }
+   ]
+  },
+  "BlackRock": {
+   "revisado": "2026-11-27"
+  },
+  "Boeing": {
+   "revisado": "2026-11-27",
+   "resumen": "Cae desde que el 27 de octubre retrasó a 2027 el ritmo objetivo del 737; el 18 de noviembre tocó mínimos de 52 semanas.",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Boeing marca mínimos de un año pese a un pedido de 787 de 12.000 millones $",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/blog/boeing-sinks-to-a-52-week-low-even-as-a-12-billion-787-order-lands"
+    }
+   ]
+  },
+  "Booking": {
+   "revisado": "2026-11-27"
+  },
+  "Broadcom": {
+   "revisado": "2026-11-27"
+  },
+  "Caterpillar": {
+   "revisado": "2026-11-27"
+  },
+  "Chevron": {
+   "revisado": "2026-11-27",
+   "resumen": "Tras superar previsiones en el tercer trimestre tocó máximos anuales; el 2 de noviembre cayó más de un 3% al bajar el petróleo.",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Chevron y Exxon caen más de un 3% desde máximos de 52 semanas",
+     "fuente": "Zacks",
+     "url": "https://finviz.com/news/413860/chevron-exxon-mobil-stocks-retreat-from-52-week-highs-buy-the-dip"
+    }
+   ]
+  },
+  "Cisco": {
+   "revisado": "2026-11-27"
+  },
+  "Citigroup": {
+   "revisado": "2026-11-27"
+  },
+  "Coca-Cola": {
+   "revisado": "2026-11-27"
+  },
+  "Coinbase": {
+   "revisado": "2026-11-27",
+   "resumen": "Sufre con la caída del bitcoin: el 16 de noviembre bajó un 6% hasta cerca de 120 $, su nivel más bajo desde 2023.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Coinbase cae un 6% en un lunes de ventas en cripto",
+     "fuente": "Trefis",
+     "url": "https://www.trefis.com/stock/coin/articles/625810/why-did-coinbase-stock-fall-6-on-monday/2026-11-17"
+    },
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Coinbase cae a mínimos de tres años por el desplome del bitcoin",
+     "fuente": "Schaeffer's",
+     "url": "https://finviz.com/news/423428/bitcoin-selloff-sends-coin-to-3-year-low-mstr-tumbling"
+    }
+   ]
+  },
+  "Costco": {
+   "revisado": "2026-11-27"
+  },
+  "CrowdStrike": {
+   "revisado": "2026-11-27",
+   "titulares": [
+    {
+     "fecha": "2026-11-10",
+     "titulo": "CrowdStrike cae un 9,9% tras dos compras en IA por unos 495 millones $",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/ja/blog/crowdstrike-sinks-10-two-days-after-a-495-million-bet-on-policing-ai-agents"
+    }
+   ]
+  },
+  "Dell": {
+   "revisado": "2026-11-27",
+   "resumen": "Ha caído alrededor de un 25% desde sus últimos resultados; el mercado se fija en si convierte en ventas su cartera de pedidos de IA de 95.000 millones $.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Dell llega a resultados con 95.000 millones $ de pedidos de IA",
+     "fuente": "Earnings Whispers",
+     "url": "https://finviz.com/news/423394/dell-must-prove-its-95-billion-ai-backlog-can-convert-despite-memory-constraints"
+    }
+   ]
+  },
+  "Disney": {
+   "revisado": "2026-11-27",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Disney sube un 4% a máximos anuales tras crecer sus ingresos un 16%",
+     "fuente": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/why-did-dis-tgt-aso-stocks-surge-to-52-week-highs-today/cNbLUofR9iK"
+    }
+   ]
+  },
+  "Eli Lilly": {
+   "revisado": "2026-11-27"
+  },
+  "ExxonMobil": {
+   "revisado": "2026-11-27",
+   "resumen": "Tras superar previsiones en el tercer trimestre tocó máximos anuales; el 2 de noviembre cayó más de un 3% al bajar el petróleo.",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Exxon y Chevron caen más de un 3% desde máximos de 52 semanas",
+     "fuente": "Zacks",
+     "url": "https://finviz.com/news/413860/chevron-exxon-mobil-stocks-retreat-from-52-week-highs-buy-the-dip"
+    }
+   ]
+  },
+  "Ford": {
+   "revisado": "2026-11-27",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "El vicepresidente de Ford, John Lawler, se jubilará en enero",
+     "fuente": "PR Newswire",
+     "url": "https://finviz.com/news/425249/robotaxis-exchange-switches-and-exits-the-auto-sectors-busy-week"
+    }
+   ]
+  },
+  "GameStop": {
+   "revisado": "2026-11-27"
+  },
+  "General Electric": {
+   "revisado": "2026-11-27"
+  },
+  "General Motors": {
+   "revisado": "2026-11-27",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "GM empieza a cotizar en el Nasdaq tras dejar la Bolsa de Nueva York",
+     "fuente": "PR Newswire",
+     "url": "https://finviz.com/news/425249/robotaxis-exchange-switches-and-exits-the-auto-sectors-busy-week"
+    }
+   ]
+  },
+  "Goldman Sachs": {
+   "revisado": "2026-11-27"
+  },
+  "Home Depot": {
+   "revisado": "2026-11-27",
+   "resumen": "Vendió un 4,9% más en el tercer trimestre, por encima de lo esperado, pero con menos margen; la acción bajó cerca de un 1%.",
+   "titulares": [
+    {
+     "fecha": "2026-11-17",
+     "titulo": "Home Depot vende un 4,9% más pero su margen se estrecha",
+     "fuente": "Zacks",
+     "url": "https://finviz.com/news/424209/home-depots-best-comp-of-the-year-arrives-with-a-thinner-margin"
+    }
+   ]
+  },
+  "Humana": {
+   "revisado": "2026-11-27",
+   "resumen": "Subió su previsión de beneficio para 2026, pero el 18 de noviembre cayó cerca de un 13% por una propuesta de regla de Medicare.",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Humana se hunde cerca de un 13% por una propuesta de regla de Medicare",
+     "fuente": "Equity Insider",
+     "url": "https://finviz.com/news/425325/before-the-bell-rate-hike-signals-health-insurer-losses-and-cyber-gains"
+    },
+    {
+     "fecha": "2026-11-06",
+     "titulo": "Humana eleva su previsión de beneficio para 2026",
+     "fuente": "Finviz",
+     "url": "https://finviz.com/news/418312/humana-raises-2026-earnings-outlook-after-third-quarter-revenue-jumps-26"
+    }
+   ]
+  },
+  "IBM": {
+   "revisado": "2026-11-27"
+  },
+  "Intel": {
+   "revisado": "2026-11-27",
+   "resumen": "Semana de vaivenes: cayó cerca de un 6% el 16 de noviembre con el sector chip y subió el 19 tras anunciar su primer cliente externo para 18A.",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Intel sube un 4,6% tras firmar su primer cliente externo para 18A",
+     "fuente": "Motley Fool",
+     "url": "https://fool.com/investing/2026/11/19/why-intel-stock-is-gaining-today"
+    },
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Intel cae con el sector de chips antes de los resultados de Nvidia",
+     "fuente": "Motley Fool",
+     "url": "https://www.fool.com/investing/2026/11/16/why-intel-stock-is-falling-monday/"
+    }
+   ]
+  },
+  "Intuit": {
+   "revisado": "2026-11-27"
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-26",
-   "titulo": "La banca arrastra al IBEX un 2%",
-   "cambio": "−2,00%",
-   "tendencia": "down"
+   "fecha": "2026-11-27",
+   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
+   "cambio": "+2,27%",
+   "tendencia": "up"
   },
   "Euro Stoxx 50": {
-   "fecha": "2026-11-26",
-   "titulo": "Ya hay propuesta: aranceles de hasta el 15% a la UE"
+   "fecha": "2026-11-27",
+   "titulo": "Europa respira: los aranceles asustan menos",
+   "frase": "Euro Stoxx 50 +2,04%, DAX +2,08%, Milán +2,36%, Londres +1,75% y París +1,61%.",
+   "cambio": "+2,04%",
+   "tendencia": "up"
   },
   "DAX": {
-   "fecha": "2026-11-26",
-   "titulo": "El DAX vuelve bajo los 25.000",
-   "cambio": "−1,26%",
-   "tendencia": "down"
+   "fecha": "2026-11-27",
+   "titulo": "Milán, la que más sube",
+   "frase": "FTSE MIB +2,36%, DAX +2,08%, Londres +1,75% y París +1,61%.",
+   "cambio": "+2,36%",
+   "tendencia": "up"
   },
   "FTSE 100": {
    "fecha": "2026-11-24",
    "titulo": "DAX +2,15%, CAC +1,48%",
    "frase": "El FTSE 100 sube un 1,3% y el MIB italiano, un 0,65%."
   },
+  "FTSE MIB": {
+   "fecha": "2026-11-27",
+   "titulo": "Milán, la que más sube",
+   "frase": "FTSE MIB +2,36%, DAX +2,08%, Londres +1,75% y París +1,61%."
+  },
   "S&P 500": {
-   "fecha": "2026-11-26",
-   "titulo": "Wall Street remonta tras caer más de un 3%",
-   "frase": "El S&P 500 llegó a caer un 3,2% y el Nasdaq un 4,6% por los aranceles y la inflación.",
-   "cambio": "−0,25%",
-   "tendencia": "down"
+   "fecha": "2026-11-27",
+   "titulo": "Wall Street vuelve hoy con futuros en verde",
+   "frase": "Tras el festivo, los futuros del S&P 500 y del Nasdaq 100 suben en torno a un 0,7% y los del Dow un 0,6%.",
+   "cambio": "+0,7%",
+   "tendencia": "up"
   },
   "Nasdaq": {
-   "fecha": "2026-11-26",
-   "titulo": "Wall Street remonta tras caer más de un 3%",
-   "frase": "El S&P 500 llegó a caer un 3,2% y el Nasdaq un 4,6% por los aranceles y la inflación."
+   "fecha": "2026-11-27",
+   "titulo": "Wall Street vuelve hoy con futuros en verde",
+   "frase": "Tras el festivo, los futuros del S&P 500 y del Nasdaq 100 suben en torno a un 0,7% y los del Dow un 0,6%."
   },
   "Dow Jones": {
-   "fecha": "2026-11-26",
-   "titulo": "Wall Street remonta tras caer más de un 3%"
+   "fecha": "2026-11-27",
+   "titulo": "Wall Street vuelve hoy con futuros en verde"
   },
   "Nikkei 225": {
-   "fecha": "2026-11-26",
-   "titulo": "Asia rebota con los chips tras el desplome"
+   "fecha": "2026-11-27",
+   "titulo": "Asia sigue al alza"
   },
   "Hang Seng": {
    "fecha": "2026-11-24",
@@ -1425,25 +1670,25 @@
    "frase": "Kospi +6,5% (5.014,41), Nikkei +3,9%, Shanghái +0,7% y Hang Seng +0,2% esta madrugada."
   },
   "Bitcoin": {
-   "fecha": "2026-11-26",
-   "titulo": "Bitcoin, sobre los 60.000 $",
-   "cambio": "+0,62%",
+   "fecha": "2026-11-27",
+   "titulo": "Bitcoin rebota un 3,24%",
+   "cambio": "+3,24%",
    "tendencia": "up"
   },
   "Brent": {
-   "fecha": "2026-11-26",
-   "titulo": "Atacan la mayor refinería saudí: Brent a 94,6 $",
-   "cambio": "+3,51%",
+   "fecha": "2026-11-27",
+   "titulo": "Minas en Ormuz: el Brent toca los 96 $",
+   "cambio": "+1,62%",
    "tendencia": "up"
   },
   "Oro": {
-   "fecha": "2026-11-26",
-   "titulo": "Petróleo arriba, oro abajo",
-   "frase": "Oro 3.534,70 $ (−0,71%), tras perder los 3.500 $ en la sesión."
+   "fecha": "2026-11-27",
+   "titulo": "Petróleo y oro, arriba",
+   "frase": "Oro 3.576 $ (+1,14%)."
   },
   "EUR/USD": {
-   "fecha": "2026-11-26",
-   "titulo": "La inflación de EE. UU., al 3,8%"
+   "fecha": "2026-11-27",
+   "titulo": "Un español al frente del BCE: Hernández de Cos"
   },
   "Acciona": {
    "fecha": "2026-11-18",
@@ -1484,8 +1729,9 @@
    "titulo": "Atresmedia reparte 0,83 € por acción"
   },
   "Santander": {
-   "fecha": "2026-11-26",
-   "titulo": "La banca española tras el castigo"
+   "fecha": "2026-11-27",
+   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
+   "frase": "Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%."
   },
   "Bankinter": {
    "fecha": "2026-11-26",
@@ -1531,9 +1777,8 @@
    "titulo": "Fluidra, Solaria y Amadeus suben"
   },
   "Grifols": {
-   "fecha": "2026-11-18",
-   "titulo": "Los que aguantan",
-   "frase": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice."
+   "fecha": "2026-11-27",
+   "titulo": "Grifols paga 0,15 € por acción el 4 de diciembre"
   },
   "IAG": {
    "fecha": "2026-11-24",
@@ -1541,28 +1786,30 @@
    "frase": "Tiran ArcelorMittal (+5,34%), ACS (+3,99%), Indra (+3,76%) e IAG (+3,70%)."
   },
   "Iberdrola": {
-   "fecha": "2026-11-16",
-   "titulo": "Solaria cae un 5%",
-   "frase": "También bajan Iberdrola y Endesa."
+   "fecha": "2026-11-27",
+   "titulo": "Iberdrola, vía libre para comprar Caruna"
   },
   "Inditex": {
    "fecha": "2026-11-22",
    "titulo": "Black Friday: 3 de cada 4 españoles comprarán"
   },
   "Indra": {
-   "fecha": "2026-11-26",
-   "titulo": "Indra quiere duplicar sus ingresos en 2030",
-   "cambio": "+3,81%",
-   "tendencia": "up"
+   "fecha": "2026-11-27",
+   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
+   "frase": "Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%."
+  },
+  "Logista": {
+   "fecha": "2026-11-27",
+   "titulo": "Idea: Logista y la posible oferta por su dueña"
   },
   "Mapfre": {
    "fecha": "2026-11-23",
    "titulo": "Mapfre y su dividendo"
   },
   "Merlin": {
-   "fecha": "2026-11-18",
-   "titulo": "Los que aguantan",
-   "frase": "Suben ACS, Grifols (+1,0%) y Merlin (+0,6%) en una sesión negativa para el índice."
+   "fecha": "2026-11-27",
+   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
+   "frase": "Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%."
   },
   "Naturgy": {
    "fecha": "2026-11-24",
@@ -1580,8 +1827,8 @@
    "frase": "Suben Cellnex (+3,02%), Telefónica (+2,56%) y Redeia (+2,44%)."
   },
   "Repsol": {
-   "fecha": "2026-11-26",
-   "titulo": "Atacan la mayor refinería saudí: Brent a 94,6 $"
+   "fecha": "2026-11-27",
+   "titulo": "Minas en Ormuz: el Brent toca los 96 $"
   },
   "Sabadell": {
    "fecha": "2026-11-26",
@@ -1595,9 +1842,10 @@
    "tendencia": "up"
   },
   "Solaria": {
-   "fecha": "2026-11-25",
-   "titulo": "El IBEX cede un 0,86% y salva los 19.000",
-   "frase": "ArcelorMittal se hunde un 7,65%, con Acerinox y Solaria por encima del −4%."
+   "fecha": "2026-11-27",
+   "titulo": "Solaria vuela un 7,85%",
+   "cambio": "+7,85%",
+   "tendencia": "up"
   },
   "Telefónica": {
    "fecha": "2026-11-25",
@@ -1809,10 +2057,9 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-26",
-   "titulo": "S&P vigila la nota de crédito de Nvidia",
-   "cambio": "−3,9%",
-   "tendencia": "down"
+   "fecha": "2026-11-27",
+   "titulo": "Lo que ha pasado esta semana",
+   "frase": "1) Nvidia: +31% con el regreso de Huang y luego −5,9%."
   },
   "Palo Alto Networks": {
    "fecha": "2026-11-20",
@@ -1869,9 +2116,8 @@
    "frase": "Alibaba pierde un 4,02% y Tencent un 2,79%."
   },
   "Samsung": {
-   "fecha": "2026-11-25",
-   "titulo": "Corea y Taiwán se desploman por los chips",
-   "frase": "Esta madrugada, el Kospi llega a caer un 6% y Taiwán más de un 5%; Samsung y SK Hynix pierden en torno a un 9%."
+   "fecha": "2026-11-27",
+   "titulo": "Corea sube tipos al 3,25% por el boom de los chips"
   }
  }
 }
