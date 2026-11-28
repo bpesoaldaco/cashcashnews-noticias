@@ -1,71 +1,71 @@
 {
-  "fecha": "2026-11-27",
-  "fechaTexto": "Viernes 27 nov 2026",
+  "fecha": "2026-11-28",
+  "fechaTexto": "Sábado 28 nov 2026",
   "actualizado": "04:58 (hora de Madrid)",
-  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Los índices europeos son del cierre del jueves; los de EE. UU., del miércoles (el jueves Wall Street cerró por Acción de Gracias). Asia, de esta madrugada. La bolsa española aún no ha abierto.",
+  "aviso": "Contenido solo informativo y educativo. No es asesoramiento financiero ni una recomendación de compra o venta. Fin de semana: los datos de bolsa son del cierre del viernes; el bitcoin, del viernes por la tarde.",
   "indicadores": [
     {
       "id": "ibex",
       "nombre": "IBEX 35",
-      "valor": "19.057,9",
-      "cambio": "+2,27%",
+      "valor": "19.386,6",
+      "cambio": "+1,72%",
       "tendencia": "up"
     },
     {
       "id": "eurostoxx",
       "nombre": "Euro Stoxx 50",
-      "valor": "—",
-      "cambio": "+2,04%",
+      "valor": "6.089,20",
+      "cambio": "+1,24%",
       "tendencia": "up"
     },
     {
       "id": "dax",
       "nombre": "DAX",
       "valor": "—",
-      "cambio": "+2,08%",
+      "cambio": "+0,9%",
       "tendencia": "up"
     },
     {
       "id": "sp500",
       "nombre": "S&P 500",
-      "valor": "7.182,78",
-      "cambio": "−0,25%",
-      "tendencia": "down"
+      "valor": "7.297,49",
+      "cambio": "+1,6%",
+      "tendencia": "up"
     },
     {
       "id": "nasdaq",
       "nombre": "Nasdaq",
-      "valor": "23.585,80",
-      "cambio": "−0,62%",
-      "tendencia": "down"
+      "valor": "24.129,50",
+      "cambio": "+2,3%",
+      "tendencia": "up"
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "96,14 $",
-      "cambio": "+1,62%",
-      "tendencia": "up"
+      "valor": "95,7 $",
+      "cambio": "—",
+      "tendencia": "flat"
     },
     {
       "id": "oro",
       "nombre": "Oro",
-      "valor": "3.576 $",
-      "cambio": "+1,14%",
+      "valor": "3.635 $",
+      "cambio": "+2,8%",
       "tendencia": "up"
     },
     {
       "id": "eurusd",
       "nombre": "EUR/USD",
-      "valor": "1,0974",
-      "cambio": "0,00%",
-      "tendencia": "flat"
+      "valor": "1,0936",
+      "cambio": "−0,3%",
+      "tendencia": "down"
     },
     {
       "id": "bitcoin",
       "nombre": "Bitcoin",
-      "valor": "60.468 $",
-      "cambio": "+3,24%",
-      "tendencia": "up"
+      "valor": "59.562 $",
+      "cambio": "−1,3%",
+      "tendencia": "down"
     }
   ],
   "stories": [
@@ -76,54 +76,54 @@
       "color": "#0EA5E9",
       "slides": [
         {
-          "titulo": "Europa sube con fuerza",
-          "texto": "Euro Stoxx 50 +2,04% y DAX +2,08%, con la banca y la tecnología al frente.",
-          "dato": "+2,04%",
-          "cambio": "+2,04%",
+          "titulo": "Semana de rebote en las bolsas",
+          "texto": "Tras la semana negra, el S&P 500 sube un 5,6%, el Nasdaq un 6,7%, el Euro Stoxx 50 un 2,5% y el IBEX un 2,72%.",
+          "dato": "+5,6%",
+          "cambio": "S&P 500",
           "tendencia": "up",
-          "valores": [
-            "Euro Stoxx 50",
-            "DAX"
-          ]
-        },
-        {
-          "titulo": "Wall Street, media sesión hoy",
-          "texto": "Ayer cerró por Acción de Gracias. Hoy abre solo media jornada (cierre a las 19:00 de Madrid).",
           "valores": [
             "S&P 500",
-            "Nasdaq"
+            "Nasdaq",
+            "IBEX 35"
           ]
         },
         {
-          "titulo": "Asia sigue al alza",
-          "texto": "Kospi +2,2% (4.812,65) y Nikkei +0,7% (57.919,30) esta madrugada. Shanghái −0,1%.",
-          "dato": "+2,2%",
-          "cambio": "+2,2%",
+          "titulo": "El oro rebota con fuerza",
+          "texto": "Los futuros suben un 2,8% el viernes, hasta 3.635 $ la onza, tras tocar un mínimo de 14 meses.",
+          "dato": "3.635 $",
+          "cambio": "+2,8%",
           "tendencia": "up",
           "valores": [
-            "Kospi",
-            "Nikkei 225"
-          ]
-        },
-        {
-          "titulo": "Petróleo y oro, arriba",
-          "texto": "Brent 96,14 $ (+1,62%) por las tensiones en el Golfo. Oro 3.576 $ (+1,14%).",
-          "dato": "96,14 $",
-          "cambio": "+1,62%",
-          "tendencia": "up",
-          "valores": [
-            "Brent",
             "Oro"
           ]
         },
         {
-          "titulo": "Bitcoin rebota un 3,24%",
-          "texto": "Cierra el jueves en unos 60.468 $.",
-          "dato": "60.468 $",
-          "cambio": "+3,24%",
+          "titulo": "Brent, en torno a 95,7 $",
+          "texto": "Corta tres semanas de caídas por los ataques a refinerías saudíes y las minas en Ormuz. La OPEP+ decide el domingo.",
+          "dato": "95,7 $",
           "tendencia": "up",
           "valores": [
+            "Brent"
+          ]
+        },
+        {
+          "titulo": "Bitcoin, por debajo de 60.000 $",
+          "texto": "Ronda los 59.562 $ (−1,3%) y no logra cerrar la semana en positivo. Miedo extremo en el mercado.",
+          "dato": "59.562 $",
+          "cambio": "−1,3%",
+          "tendencia": "down",
+          "valores": [
             "Bitcoin"
+          ]
+        },
+        {
+          "titulo": "El euro, a 1,0936 $",
+          "texto": "Cae un 0,3% frente al dólar. El bono español a 10 años, al 3,838%; prima de riesgo, 59 puntos.",
+          "dato": "1,0936",
+          "cambio": "−0,3%",
+          "tendencia": "down",
+          "valores": [
+            "EUR/USD"
           ]
         }
       ]
@@ -135,39 +135,31 @@
       "color": "#E11D48",
       "slides": [
         {
-          "titulo": "El IBEX recupera los 19.000",
-          "texto": "Sube un 2,27%, hasta 19.057,9 puntos. Rebote técnico tras dos días de caídas.",
-          "dato": "19.057,9",
-          "cambio": "+2,27%",
+          "titulo": "IBEX: +2,72% en la semana",
+          "texto": "Cierra el viernes en 19.386,6 (+1,72%). Solo Acciona (−0,37%) y Rovi (−0,7%) acaban en rojo.",
+          "dato": "19.386,6",
+          "cambio": "+1,72%",
           "tendencia": "up",
           "valores": [
             "IBEX 35"
           ]
         },
         {
-          "titulo": "Solaria vuela un 7,85%",
-          "texto": "También suben Indra (+5%), Santander (+4,11%), Logista (+3,74%) y Merlin (+3,37%). Solo baja Rovi (−0,39%).",
-          "dato": "+7,85%",
-          "cambio": "+7,85%",
-          "tendencia": "up",
+          "titulo": "La banca y el acero tiran",
+          "texto": "ArcelorMittal +4,69%, Santander +4,43%, Acciona Energía +4,05%, Merlin +3,88% y Logista +3,61%.",
           "valores": [
-            "Solaria",
-            "Indra",
-            "Santander"
+            "ArcelorMittal",
+            "Santander",
+            "Merlin",
+            "Logista"
           ]
         },
         {
-          "titulo": "Iberdrola cierra lo de Caruna",
-          "texto": "Tiene todos los permisos para comprar el 80% de la eléctrica finlandesa.",
+          "titulo": "Mañana, elecciones generales",
+          "texto": "El mercado vigila defensa, renovables, banca y socimis ante un posible cambio de Gobierno.",
           "valores": [
-            "Iberdrola"
+            "IBEX 35"
           ]
-        },
-        {
-          "titulo": "Prima de riesgo, en 60,61",
-          "texto": "El bono español a 10 años, en el 3,854% (3,848% el miércoles).",
-          "dato": "60,61",
-          "tendencia": "flat"
         }
       ]
     },
@@ -178,21 +170,32 @@
       "color": "#6366F1",
       "slides": [
         {
-          "titulo": "Milán, la que más sube",
-          "texto": "FTSE MIB +2,36%, DAX +2,08%, Londres +1,75% y París +1,61%.",
-          "dato": "+2,36%",
-          "cambio": "+2,36%",
+          "titulo": "Euro Stoxx 50: +2,5% semanal",
+          "texto": "Sube un 1,24% el viernes, hasta 6.089,20. El DAX gana un 0,9% y el FTSE 100 un 0,84%.",
+          "dato": "6.089,20",
+          "cambio": "+1,24%",
           "tendencia": "up",
           "valores": [
+            "Euro Stoxx 50",
             "DAX"
           ]
         },
         {
-          "titulo": "Altria mira a Imperial Brands",
-          "texto": "Estudia una posible oferta por la tabacalera británica, dueña de Logista.",
+          "titulo": "Sanofi, la peor",
+          "texto": "Cae un 1,2% después de que Santander retire su consejo de compra tras subir mucho por la compra de Insmed.",
+          "dato": "−1,2%",
+          "tendencia": "down",
           "valores": [
-            "Imperial Brands",
-            "Logista"
+            "Sanofi"
+          ]
+        },
+        {
+          "titulo": "Francia se contrae",
+          "texto": "El PIB francés baja un 0,2% en el tercer trimestre, según la segunda lectura del Insee.",
+          "dato": "−0,2%",
+          "tendencia": "down",
+          "valores": [
+            "CAC 40"
           ]
         }
       ]
@@ -204,32 +207,43 @@
       "color": "#10B981",
       "slides": [
         {
-          "titulo": "Cerrado por Acción de Gracias",
-          "texto": "El jueves no hubo bolsa. El último cierre es el del miércoles: S&P 500 −0,25% y Nasdaq −0,62%.",
-          "dato": "7.182,78",
-          "cambio": "−0,25%",
-          "tendencia": "down",
-          "valores": [
-            "S&P 500",
-            "Nasdaq"
-          ]
-        },
-        {
-          "titulo": "Hoy, Black Friday en bolsa",
-          "texto": "Media sesión: la bolsa cierra a las 19:00 de Madrid. Suele haber poco volumen.",
-          "valores": [
-            "S&P 500"
-          ]
-        },
-        {
-          "titulo": "Futuros, en verde",
-          "texto": "S&P 500 y Nasdaq 100 +0,7%; Dow +0,6% esta madrugada.",
-          "dato": "+0,7%",
-          "cambio": "+0,7%",
+          "titulo": "Mejor semana en más de un año",
+          "texto": "S&P 500 7.297,49 (+1,6%), Nasdaq 24.129,50 (+2,3%) y Dow 50.774,94 (+1,2%) en la media sesión del viernes.",
+          "dato": "+5,6%",
+          "cambio": "S&P semana",
           "tendencia": "up",
           "valores": [
             "S&P 500",
-            "Nasdaq"
+            "Nasdaq",
+            "Dow Jones"
+          ]
+        },
+        {
+          "titulo": "Anthropic, +12%",
+          "texto": "Cierra cerca de 92 $, de nuevo por encima de su precio de salida de 83 $.",
+          "dato": "~92 $",
+          "cambio": "+12%",
+          "tendencia": "up",
+          "valores": [
+            "Anthropic"
+          ]
+        },
+        {
+          "titulo": "Los chips, al alza",
+          "texto": "SanDisk +16%, Micron y Marvell más de un 7%. Nvidia +0,8% y cerca de +19,6% en la semana.",
+          "valores": [
+            "Nvidia",
+            "Micron",
+            "SanDisk"
+          ]
+        },
+        {
+          "titulo": "El bono a 10 años, al 4,94%",
+          "texto": "Sube desde el 4,86%. El mercado da casi por segura una subida de tipos de la Fed el 9 de diciembre.",
+          "dato": "4,94%",
+          "tendencia": "up",
+          "valores": [
+            "S&P 500"
           ]
         }
       ]
@@ -241,27 +255,18 @@
       "color": "#14B8A6",
       "slides": [
         {
-          "titulo": "Hernández de Cos, al BCE",
-          "texto": "Los líderes europeos lo eligen para suceder a Lagarde. Se formaliza en diciembre.",
-          "valores": [
-            "Euríbor"
-          ]
+          "titulo": "Inflación de España: 4,1%",
+          "texto": "Baja ocho décimas en noviembre por la gasolina más barata. La subyacente, al 2,6%.",
+          "dato": "4,1%",
+          "tendencia": "down"
         },
         {
-          "titulo": "Corea sube tipos al 3,25%",
-          "texto": "Por el boom de exportaciones de chips (+94% en octubre) y una inflación del 2,8%.",
-          "dato": "3,25%",
-          "tendencia": "up",
-          "valores": [
-            "Kospi"
-          ]
+          "titulo": "Pensiones: +3,5% en 2027",
+          "texto": "Es la subida prevista. El dato definitivo del IPC sale el 15 de diciembre."
         },
         {
-          "titulo": "Minas en Ormuz y Brent a 96 $",
-          "texto": "Irán dice que dos petroleros chocaron con minas. El Brent cierra en 96,14 $ (+1,62%).",
-          "dato": "96,14 $",
-          "cambio": "+1,62%",
-          "tendencia": "up",
+          "titulo": "OPEP+, sin cambios a la vista",
+          "texto": "Acuerdo en principio para mantener la producción en el primer trimestre de 2027. Decide el domingo.",
           "valores": [
             "Brent"
           ]
@@ -276,23 +281,39 @@
       "slides": [
         {
           "titulo": "Esto no son recomendaciones",
-          "texto": "Son ideas para investigar por tu cuenta. Cada una tiene su riesgo.",
+          "texto": "Son ideas para investigar por tu cuenta, no consejos de compra o venta. Cada una tiene su riesgo.",
           "aviso": true
         },
         {
-          "titulo": "Iberdrola y Caruna",
-          "texto": "Por qué: suma una gran red regulada en Finlandia. Riesgo: unos 5.000 M€ con deuda y tipos al alza.",
+          "titulo": "Inditex antes de sus cuentas",
+          "texto": "Presenta resultados el miércoles 2, en plena campaña de Black Friday y Navidad. Riesgo: si las ventas decepcionan, la acción puede moverse mucho ese día.",
           "aviso": true,
           "valores": [
-            "Iberdrola"
+            "Inditex"
           ]
         },
         {
-          "titulo": "Logista y la posible oferta",
-          "texto": "Por qué: Altria estudia comprar a su dueña, Imperial Brands. Riesgo: puede no haber oferta.",
+          "titulo": "Anthropic sobre su salida",
+          "texto": "Vuelve a cotizar por encima de los 83 $ tras subir un 12%. Riesgo: muy poco historial en bolsa y movimientos de más del 10% en un día.",
           "aviso": true,
           "valores": [
-            "Logista"
+            "Anthropic"
+          ]
+        },
+        {
+          "titulo": "El oro tras su mínimo",
+          "texto": "Rebota un 2,8% hasta 3.635 $ desde un mínimo de 14 meses. Riesgo: si la Fed sube tipos el 9 de diciembre, el oro suele sufrir.",
+          "aviso": true,
+          "valores": [
+            "Oro"
+          ]
+        },
+        {
+          "titulo": "La banca tras las elecciones",
+          "texto": "Santander sube un 4,43% y el sector está en el foco del 29N. Riesgo: un resultado inesperado o nuevos impuestos a la banca pueden pesar.",
+          "aviso": true,
+          "valores": [
+            "Santander"
           ]
         }
       ]
@@ -304,379 +325,355 @@
       "color": "#8B5CF6",
       "slides": [
         {
-          "titulo": "09:00 · IPC adelantado de España (noviembre)",
-          "texto": "El INE publica la inflación de noviembre. No hay previsión publicada en nuestras fuentes. Influye en las pensiones y en lo que espera el BCE."
+          "titulo": "Hoy, bolsas cerradas",
+          "texto": "Fin de semana. Mañana domingo 29: elecciones generales en España y reunión de la OPEP+."
         },
         {
-          "titulo": "09:00 · Ventas minoristas de España (octubre)",
-          "texto": "El dato anterior fue del −1,4%. Mide cuánto gastan los hogares en tiendas."
+          "titulo": "Lunes 30 y martes 1",
+          "texto": "Lunes: PMI de China e IPC de Alemania. Martes: IPC adelantado de la eurozona y PMI manufactureros."
         },
         {
-          "titulo": "09:00 · Abre la bolsa española",
-          "texto": "Tras subir un 2,27% el jueves y con Asia en positivo esta madrugada."
+          "titulo": "Miércoles 2",
+          "texto": "Paro registrado en España y paro de la eurozona. Resultados de Inditex.",
+          "valores": [
+            "Inditex"
+          ]
         },
         {
-          "titulo": "11:00 · Confianza y sentimiento (eurozona)",
-          "texto": "Encuestas de noviembre de la Comisión Europea. El sentimiento económico anterior fue de 96,9."
+          "titulo": "Jueves 3 y viernes 4",
+          "texto": "Jueves: PMI de servicios. Viernes, 14:30: informe de empleo de noviembre en EE. UU.",
+          "valores": [
+            "S&P 500",
+            "EUR/USD"
+          ]
         },
         {
-          "titulo": "15:30 · Wall Street abre en media sesión",
-          "texto": "Black Friday: la bolsa cierra a las 19:00 y los bonos a las 20:00 (hora de Madrid). El lunes vuelve el horario normal."
-        },
-        {
-          "titulo": "Sin hora · Fin de la campaña electoral en España",
-          "texto": "Las elecciones son el domingo 29. Puede haber movimientos en la bolsa el lunes según el resultado."
+          "titulo": "Y después, la Fed",
+          "texto": "Domingo 6, festivo (Constitución). El 9 de diciembre decide la Fed; el BCE, el 17.",
+          "valores": [
+            "EUR/USD"
+          ]
         }
       ]
     }
   ],
   "reels": [
     {
-      "categoria": "España",
-      "emoji": "🇪🇸",
-      "color": "#E11D48",
-      "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
-      "texto": "Rebote técnico tras dos días de caídas, sin Wall Street por el festivo. Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%. Solo Rovi cae (−0,39%).",
-      "dato": "19.057,9",
-      "cambio": "+2,27%",
-      "tendencia": "up",
-      "valores": [
-        "IBEX 35",
-        "Santander",
-        "Solaria",
-        "Indra"
-      ],
-      "grafica": {
-        "valores": [
-          18635.8,
-          19057.9
-        ],
-        "etiquetas": [
-          "25 nov",
-          "26 nov"
-        ]
-      },
-      "paraTi": "Si tienes un fondo del IBEX, recupera casi todo lo perdido el miércoles. Un día de subida no cambia la tendencia de una semana muy movida.",
-      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
-      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
-    },
-    {
-      "categoria": "Europa",
-      "emoji": "🇪🇺",
-      "color": "#6366F1",
-      "titulo": "Europa respira: los aranceles asustan menos",
-      "texto": "Euro Stoxx 50 +2,04%, DAX +2,08%, Milán +2,36%, Londres +1,75% y París +1,61%. Suben la banca y la tecnología tras ver que la propuesta de aranceles de EE. UU. es menos dura de lo temido.",
-      "dato": "+2,04%",
-      "cambio": "+2,04%",
-      "tendencia": "up",
-      "valores": [
-        "Euro Stoxx 50",
-        "DAX"
-      ],
-      "paraTi": "Si tienes un fondo de bolsa europea o MSCI World, el jueves sumó. Los aranceles aún no tienen fecha, así que el tema puede volver.",
-      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
-      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
-    },
-    {
-      "categoria": "Economía",
-      "emoji": "🏛",
-      "color": "#14B8A6",
-      "tema": "politica",
-      "titulo": "Un español al frente del BCE: Hernández de Cos",
-      "texto": "Los líderes europeos eligen a Pablo Hernández de Cos, exgobernador del Banco de España, para suceder a Christine Lagarde al frente del BCE. Falta formalizarlo en la cumbre de diciembre.",
-      "valores": [
-        "EUR/USD",
-        "Euríbor"
-      ],
-      "paraTi": "El BCE fija los tipos que mueven el euríbor de tu hipoteca y lo que pagan los depósitos. Cambia la persona, pero las decisiones las toma su consejo entre todos.",
-      "fuente": "Bolsamanía: Hernández de Cos, al BCE",
-      "url": "https://www.bolsamania.com/noticias/mercados/pablo-hernandez-cos-sera-nuevo-presidente-banco-central-europeo--24301986.html"
-    },
-    {
-      "categoria": "Economía",
-      "emoji": "🏛",
-      "color": "#14B8A6",
-      "tema": "global",
-      "titulo": "Corea sube tipos al 3,25% por el boom de los chips",
-      "texto": "El Banco de Corea sube 0,25 puntos, al 3,25%. Las exportaciones crecieron un 94% en octubre gracias a los chips de IA y la inflación (2,8%) sigue por encima del 2%. Espera crecer un 4,1% en 2027.",
-      "dato": "3,25%",
-      "cambio": "+0,25 pt",
-      "tendencia": "up",
-      "valores": [
-        "Kospi",
-        "Samsung",
-        "SK Hynix"
-      ],
-      "paraTi": "Apenas te afecta directamente, pero muestra que el auge de la IA está calentando economías enteras. Si tienes un fondo de emergentes, Corea pesa bastante en él.",
-      "fuente": "Al Jazeera: el Banco de Corea sube tipos",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
-    },
-    {
-      "categoria": "España",
-      "emoji": "🇪🇸",
-      "color": "#E11D48",
-      "titulo": "Iberdrola, vía libre para comprar Caruna",
-      "texto": "Ya tiene todos los permisos para quedarse con el 80% de Caruna, la mayor distribuidora eléctrica de Finlandia, valorada en unos 5.000 M€ con deuda. Espera cerrar la compra en enero de 2027.",
-      "valores": [
-        "Iberdrola",
-        "IBEX 35"
-      ],
-      "paraTi": "No cambia tu factura de la luz en España. Iberdrola es de las que más pesan en el IBEX, así que sus movimientos se notan en los fondos indexados españoles.",
-      "fuente": "Bolsamanía: Iberdrola y Caruna",
-      "url": "https://www.bolsamania.com/noticias/empresas/iberdrola-logra-todos-permisos-adquirir-finlandesa-caruna-valorada-5000-millones--24297778.html"
-    },
-    {
-      "categoria": "Europa",
-      "emoji": "🇪🇺",
-      "color": "#6366F1",
-      "titulo": "Altria estudia una oferta por Imperial Brands",
-      "texto": "La dueña de Marlboro en EE. UU. considera una posible oferta por la tabacalera británica, que vale más de 26.000 M£. Imperial sube un 13,3% y Logista, que controla, un 3,74% en el IBEX.",
-      "valores": [
-        "Imperial Brands",
-        "Logista",
-        "Altria"
-      ],
-      "dato": "+13,3%",
-      "cambio": "+13,3%",
-      "tendencia": "up",
-      "paraTi": "Solo afecta de verdad a quien tenga acciones de estas empresas. Logista reparte tabaco y paquetes en España; una compra de su dueña podría cambiar sus planes.",
-      "fuente": "Longbridge (Reuters): cierre europeo, 26 nov",
-      "url": "https://longbridge.com/en/news/306942418"
-    },
-    {
-      "categoria": "España",
-      "emoji": "🇪🇸",
-      "color": "#E11D48",
-      "titulo": "Grifols paga 0,15 € por acción el 4 de diciembre",
-      "texto": "Dividendo bruto de 0,15 € con cargo a 2026, unos 102,1 M€ en total. Para cobrarlo hay que tener las acciones antes de la fecha de corte.",
-      "dato": "0,15 €",
-      "valores": [
-        "Grifols"
-      ],
-      "paraTi": "Si tienes acciones de Grifols, cobrarás 0,15 € brutos por cada una, menos la retención de Hacienda. Si no, no te afecta.",
-      "fuente": "Bolsamanía: dividendo de Grifols",
-      "url": "https://www.bolsamania.com/noticias/empresas/grifols-pagara-dividendo-015-euros-4-diciembre-claves-cobrarlo--24298132.html"
-    },
-    {
-      "categoria": "Economía",
-      "emoji": "🏛",
-      "color": "#14B8A6",
-      "tema": "bolsillo",
-      "titulo": "Minas en Ormuz: el Brent toca los 96 $",
-      "texto": "Irán dice que dos petroleros chocaron con minas cerca de Ormuz, sin confirmación independiente. Con el ataque a Ras Tanura, el Brent cierra el jueves en 96,14 $ (+1,62%) y sube cerca de un 5% en la semana.",
-      "dato": "96,14 $",
-      "cambio": "+1,62%",
-      "tendencia": "up",
-      "valores": [
-        "Brent",
-        "Repsol"
-      ],
-      "paraTi": "Si el barril se queda caro, la gasolina y el gasóleo suben con unas semanas de retraso. Llenar el depósito y el transporte de lo que compras se encarecen.",
-      "fuente": "N Globe (Reuters): Brent, Ormuz y Ras Tanura",
-      "url": "https://nglobenews.com/en/article/oil-brent-96-houthi-ras-tanura-hormuz-mines-2026-11-26"
-    },
-    {
       "categoria": "EE. UU.",
       "emoji": "🇺🇸",
       "color": "#10B981",
-      "titulo": "Wall Street vuelve hoy con futuros en verde",
-      "texto": "Tras el festivo, los futuros del S&P 500 y del Nasdaq 100 suben en torno a un 0,7% y los del Dow un 0,6%. Hoy solo hay media sesión: la bolsa cierra a las 19:00 de Madrid.",
-      "dato": "+0,7%",
-      "cambio": "+0,7%",
+      "titulo": "Wall Street firma su mejor semana en más de un año",
+      "texto": "Tras la semana negra, el S&P 500 sube un 5,6% en cinco días, el Nasdaq un 6,7% y el Dow un 5,5%. El viernes, en media sesión, el S&P gana un 1,6% hasta 7.297,49, empujado por los chips.",
+      "dato": "7.297,49",
+      "cambio": "+5,6% semana",
       "tendencia": "up",
+      "grafica": {
+        "valores": [
+          6910.39,
+          7237.17,
+          7201.09,
+          7182.78,
+          7297.49
+        ],
+        "etiquetas": [
+          "20 nov",
+          "23 nov",
+          "24 nov",
+          "25 nov",
+          "27 nov"
+        ]
+      },
       "valores": [
         "S&P 500",
         "Nasdaq",
         "Dow Jones"
       ],
-      "paraTi": "Si tienes un fondo del S&P 500, hoy tendrá precio nuevo tras el festivo. En media sesión y con poco volumen, los movimientos pueden ser exagerados.",
-      "fuente": "Trading Economics: futuros de EE. UU., 27 nov",
-      "url": "https://tradingeconomics.com/united-states/stock-market/news/604827"
+      "paraTi": "Si tienes un fondo indexado al S&P 500 o al MSCI World, recupera buena parte de lo que perdió la semana pasada. Son subidas y bajadas en el papel mientras no vendas.",
+      "fuente": "AP / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "El IBEX gana un 2,72% y se acerca a los 19.400",
+      "texto": "Última sesión antes de las elecciones: el viernes sube un 1,72% y cierra en 19.386,6. Tiran ArcelorMittal (+4,69%), Santander (+4,43%) y Acciona Energía (+4,05%).",
+      "dato": "19.386,6",
+      "cambio": "+2,72% semana",
+      "tendencia": "up",
+      "grafica": {
+        "valores": [
+          18873.1,
+          19181.1,
+          19015.8,
+          18635.8,
+          19057.9,
+          19386.6
+        ],
+        "etiquetas": [
+          "20 nov",
+          "23 nov",
+          "24 nov",
+          "25 nov",
+          "26 nov",
+          "27 nov"
+        ]
+      },
+      "valores": [
+        "IBEX 35",
+        "ArcelorMittal",
+        "Santander",
+        "Acciona Energía"
+      ],
+      "paraTi": "Si tienes un fondo de bolsa española, esta semana recupera parte de la caída anterior. El IBEX pesa mucho en la banca, así que Santander y compañía mandan.",
+      "fuente": "PressDigital (agencias)",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-27/6112249-ibex-35-sube-27-semana-crudo-95-dolares-vista-puesta-29n"
+    },
+    {
+      "categoria": "Europa",
+      "emoji": "🇪🇺",
+      "color": "#6366F1",
+      "titulo": "Europa suma un 2,5% en la semana con banca y minería",
+      "texto": "El Euro Stoxx 50 sube un 1,24% el viernes, hasta 6.089,20. UniCredit y Santander ganan más de un 4% y la minería más de un 4% por el cobre y el oro. Sanofi (−1,2%) es la peor.",
+      "dato": "6.089,20",
+      "cambio": "+1,24%",
+      "tendencia": "up",
+      "valores": [
+        "Euro Stoxx 50",
+        "UniCredit",
+        "Santander",
+        "Sanofi"
+      ],
+      "paraTi": "Si tienes un fondo de bolsa europea, la semana termina en positivo. Las grandes de la eurozona pesan mucho en los fondos indexados de Europa.",
+      "fuente": "dpa-AFX / finanzen.at",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-europa-schluss-erholung-fortgesetzt-deutliches-wochenplus-1036806100"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Anthropic vuelve por encima de su precio de salida",
+      "texto": "Sube un 12% el viernes, hasta casi 92 $, después de dos sesiones cerrando por debajo de los 83 $ a los que salió a bolsa la semana pasada, la mayor salida de la historia.",
+      "dato": "~92 $",
+      "cambio": "+12%",
+      "tendencia": "up",
+      "valores": [
+        "Anthropic",
+        "Nasdaq"
+      ],
+      "paraTi": "Solo importa a quien tiene sus acciones. Aún no forma parte de los grandes índices como el S&P 500, así que apenas pesa en los fondos indexados.",
+      "fuente": "Investopedia / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+    },
+    {
+      "categoria": "EE. UU.",
+      "emoji": "🇺🇸",
+      "color": "#10B981",
+      "titulo": "Los chips de memoria lideran el rebote del viernes",
+      "texto": "SanDisk sube un 16%, la mayor subida del S&P 500; Micron y Marvell más de un 7%, Broadcom un 4%. Nvidia gana un 0,8% y cierra la semana con cerca de un +19,6%, aunque aún está un 37% bajo su máximo.",
+      "dato": "+16%",
+      "cambio": "SanDisk",
+      "tendencia": "up",
+      "valores": [
+        "Nvidia",
+        "Micron",
+        "SanDisk",
+        "Broadcom"
+      ],
+      "paraTi": "Las tecnológicas pesan mucho en el S&P 500 y el MSCI World: cuando rebotan, tu fondo indexado lo nota. También es lo que más se movió en la caída.",
+      "fuente": "Investopedia / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
     },
     {
       "categoria": "Mercados",
       "emoji": "📊",
       "color": "#0EA5E9",
-      "formato": "semana_pasada",
-      "titulo": "Lo que ha pasado esta semana",
-      "texto": "1) Nvidia: +31% con el regreso de Huang y luego −5,9%. 2) EE. UU. propone aranceles de hasta el 15% a la UE. 3) La inflación PCE sube al 3,8% y la Fed casi seguro subirá en diciembre. 4) Ataques en el Golfo: Brent por encima de 96 $.",
+      "titulo": "El Brent corta tres semanas de caídas",
+      "texto": "Ronda los 95,7 $ tras subir en la semana desde 92,57 $. Lo empujan el ataque hutí a la refinería saudí de Jizan y las explosiones de buques con minas en Ormuz.",
+      "dato": "95,7 $",
+      "tendencia": "up",
+      "grafica": {
+        "valores": [
+          92.57,
+          89.37,
+          91.4,
+          94.61,
+          96.57
+        ],
+        "etiquetas": [
+          "20 nov",
+          "23 nov",
+          "24 nov",
+          "25 nov",
+          "26 nov"
+        ]
+      },
       "valores": [
-        "Nvidia",
-        "S&P 500",
         "Brent",
-        "IBEX 35"
+        "Repsol"
       ],
-      "paraTi": "Semana de nervios: tipos que suben, aranceles y petróleo caro. Si tienes un fondo indexado, lo normal es ver estos vaivenes; lo importante es el plazo largo.",
-      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
-      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+      "paraTi": "Un petróleo más caro tarda unas semanas en llegar a la gasolinera. Por ahora, la rebaja de 20 céntimos en el impuesto a los carburantes amortigua el golpe.",
+      "fuente": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-96-30-friday-opec-plus-set-to-hold-q1-output-sunday-bull-100-bear-92-57/"
     },
     {
-      "categoria": "Ideas",
-      "emoji": "💡",
-      "color": "#F59E0B",
-      "titulo": "Idea: Iberdrola y su compra en Finlandia",
-      "texto": "Por qué: suma una gran red eléctrica regulada en el norte de Europa. Riesgo: paga unos 5.000 M€ con deuda incluida, y con tipos al alza la deuda sale más cara.",
-      "aviso": true,
-      "valores": [
-        "Iberdrola"
-      ],
-      "fuente": "Bolsamanía: Iberdrola y Caruna",
-      "url": "https://www.bolsamania.com/noticias/empresas/iberdrola-logra-todos-permisos-adquirir-finlandesa-caruna-valorada-5000-millones--24297778.html"
-    },
-    {
-      "categoria": "Ideas",
-      "emoji": "💡",
-      "color": "#F59E0B",
-      "titulo": "Idea: Logista y la posible oferta por su dueña",
-      "texto": "Por qué: Altria estudia comprar Imperial Brands, que controla Logista. Riesgo: es solo un estudio; puede no haber oferta, y el tabaco tiene cada vez más regulación.",
-      "aviso": true,
-      "valores": [
-        "Logista",
-        "Imperial Brands"
-      ],
-      "fuente": "Pressdigital (agencias): cierre del IBEX, 26 nov",
-      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
-    }
-  ],
-  "agenda": [
-    {
-      "hora": "09:00",
-      "titulo": "IPC adelantado de España (noviembre)",
-      "texto": "El INE publica la inflación de noviembre. No hay previsión publicada en nuestras fuentes. Influye en las pensiones y en lo que espera el BCE.",
-      "tipo": "macro",
-      "importancia": "alta",
-      "pais": "España",
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "titulo": "La inflación baja al 4,1%: la gasolina, más barata",
+      "texto": "El IPC adelantado de noviembre cae ocho décimas, desde el 4,9%, su nivel más bajo desde julio. La subyacente baja al 2,6%. La razón: carburantes más baratos y la rebaja de 20 céntimos por litro.",
+      "tema": "macro",
+      "dato": "4,1%",
+      "cambio": "−0,8 pts",
+      "tendencia": "down",
       "valores": [
         "IBEX 35"
-      ]
+      ],
+      "paraTi": "Los precios siguen subiendo, pero más despacio. Llenar el depósito te cuesta menos que en octubre; el súper y otros gastos aún suben más rápido que hace un año.",
+      "fuente": "El Folio (INE)",
+      "url": "https://elfolio.es/inflacion-en-espana-noviembre-2026/"
     },
     {
-      "hora": "09:00",
-      "titulo": "Ventas minoristas de España (octubre)",
-      "texto": "El dato anterior fue del −1,4%. Mide cuánto gastan los hogares en tiendas.",
-      "tipo": "macro",
-      "importancia": "media",
-      "pais": "España",
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "titulo": "Las pensiones subirán un 3,5% en 2027",
+      "texto": "Es la subida prevista para las pensiones contributivas, que se actualizan con la inflación media. Falta el dato definitivo del IPC, que el INE publica el 15 de diciembre.",
+      "tema": "politica",
+      "dato": "+3,5%",
+      "tendencia": "up",
+      "valores": [
+        "IBEX 35"
+      ],
+      "paraTi": "Si cobras una pensión contributiva, en enero cobrarás alrededor de un 3,5% más al mes. Sirve para compensar lo que han subido los precios este año.",
+      "fuente": "El Folio (INE)",
+      "url": "https://elfolio.es/inflacion-en-espana-noviembre-2026/"
+    },
+    {
+      "categoria": "Economía",
+      "emoji": "🏛",
+      "color": "#14B8A6",
+      "titulo": "OPEP+: todo apunta a no tocar la producción",
+      "texto": "Según Reuters, el grupo acordó en principio mantener sus objetivos de producción en el primer trimestre de 2027. La decisión oficial llega el domingo 29; Irak y Kazajistán piden más cuota.",
+      "tema": "global",
+      "valores": [
+        "Brent",
+        "OPEP+",
+        "Repsol"
+      ],
+      "paraTi": "Si la OPEP+ no saca más petróleo con tanta tensión en Oriente Medio, cuesta más que bajen la gasolina y el gasóleo. El efecto llega con semanas de retraso.",
+      "fuente": "FinanceFeeds (Reuters)",
+      "url": "https://financefeeds.com/brent-crude-oil-price-96-30-friday-opec-plus-set-to-hold-q1-output-sunday-bull-100-bear-92-57/"
+    },
+    {
+      "categoria": "España",
+      "emoji": "🇪🇸",
+      "color": "#E11D48",
+      "titulo": "Mañana, elecciones: lo que miran los inversores",
+      "texto": "El viernes fue la última sesión antes del 29N. Las encuestas descuentan un cambio de Gobierno y el mercado vigila defensa, renovables, banca y socimis, sectores sensibles a la política.",
       "valores": [
         "IBEX 35",
-        "Inditex"
-      ]
+        "Indra",
+        "Solaria",
+        "Santander"
+      ],
+      "paraTi": "Para tu día a día no cambia nada el lunes. A medio plazo, el nuevo Gobierno decidirá sobre impuestos, vivienda y energía, que sí acaban en tu bolsillo.",
+      "fuente": "Bolsamanía",
+      "url": "https://www.bolsamania.com/noticias/cronica-ibex/27-noviembre-subidas-elecciones-29n-black-friday--24304866.html"
     },
     {
-      "hora": "09:00",
-      "titulo": "Abre la bolsa española",
-      "texto": "Tras subir un 2,27% el jueves y con Asia en positivo esta madrugada.",
-      "tipo": "bolsa",
-      "importancia": "media",
-      "pais": "España",
+      "categoria": "Mercados",
+      "emoji": "📊",
+      "color": "#0EA5E9",
+      "titulo": "El bitcoin se queda sin su primera semana en verde",
+      "texto": "Cae un 1,3% y ronda los 59.562 $, por debajo de los 61.172 $ con que empezó la semana: serían ocho semanas seguidas a la baja. El índice de miedo y codicia marca 12, miedo extremo.",
+      "dato": "59.562 $",
+      "cambio": "−1,3%",
+      "tendencia": "down",
       "valores": [
-        "IBEX 35"
-      ]
+        "Bitcoin"
+      ],
+      "paraTi": "Si tienes bitcoin, sigue siendo muy volátil: en un día va de 58.910 a 62.097 $. Si no tienes criptomonedas, no te afecta.",
+      "fuente": "CryptoTicker",
+      "url": "https://cryptoticker.io/es/precio-bitcoin-pierde-60000-dolares-black-friday-semana-58500/"
     },
     {
-      "hora": "11:00",
-      "titulo": "Confianza y sentimiento (eurozona)",
-      "texto": "Encuestas de noviembre de la Comisión Europea. El sentimiento económico anterior fue de 96,9.",
-      "tipo": "macro",
-      "importancia": "media",
-      "pais": "Zona euro",
+      "categoria": "Agenda",
+      "emoji": "📅",
+      "color": "#8B5CF6",
+      "titulo": "La semana que viene: Inditex, IPC europeo y empleo",
+      "texto": "Lunes: PMI de China. Martes: IPC de la eurozona. Miércoles: paro registrado en España y resultados de Inditex. Viernes: empleo de EE. UU. Y el 9 de diciembre, la Fed.",
       "valores": [
-        "Euro Stoxx 50",
-        "EUR/USD"
-      ]
-    },
-    {
-      "hora": "15:30",
-      "titulo": "Wall Street abre en media sesión",
-      "texto": "Black Friday: la bolsa cierra a las 19:00 y los bonos a las 20:00 (hora de Madrid). El lunes vuelve el horario normal.",
-      "tipo": "bolsa",
-      "importancia": "media",
-      "pais": "EE. UU.",
-      "valores": [
+        "Inditex",
+        "EUR/USD",
         "S&P 500",
-        "Nasdaq"
-      ]
-    },
-    {
-      "hora": "",
-      "titulo": "Fin de la campaña electoral en España",
-      "texto": "Las elecciones son el domingo 29. Puede haber movimientos en la bolsa el lunes según el resultado.",
-      "tipo": "politica",
-      "importancia": "alta",
-      "pais": "España",
-      "valores": [
         "IBEX 35"
-      ]
+      ],
+      "paraTi": "El IPC europeo y el empleo de EE. UU. marcarán lo que hagan el BCE y la Fed en diciembre, y con ellos el euríbor de tu hipoteca y lo que pagan los depósitos.",
+      "fuente": "Forbes España",
+      "url": "https://forbes.es/actualidad/1071769/agenda-semanal-forbes-las-citas-clave-del-30-de-noviembre-al-6-de-diciembre/"
     }
   ],
   "fuentes": [
     {
-      "nombre": "Pressdigital (agencias): cierre del IBEX, 26 nov",
-      "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110529-ibex-35-sube-227-retoma-19000-puntos-referencia-wall-street"
+      "nombre": "PressDigital: el IBEX sube más de un 2,7% en la semana",
+      "url": "https://www.pressdigital.es/articulo/economia/2026-11-27/6112249-ibex-35-sube-27-semana-crudo-95-dolares-vista-puesta-29n"
     },
     {
-      "nombre": "MadridPress: el IBEX rebota un 2,27%",
-      "url": "https://madridpress.com/art/352220/el-ibex-35-rebota-un-227"
+      "nombre": "Bolsamanía: crónica del viernes y el 29N",
+      "url": "https://www.bolsamania.com/noticias/cronica-ibex/27-noviembre-subidas-elecciones-29n-black-friday--24304866.html"
     },
     {
-      "nombre": "El Folio: bolsa del 26 nov",
-      "url": "https://elfolio.es/bolsa-hoy-26-de-noviembre-2026-ibex-35-europa/"
+      "nombre": "Bolsamanía: cierre del IBEX",
+      "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-35-ha-subido-un-172-hasta-193866-puntos--24312718.html"
     },
     {
-      "nombre": "Bolsamanía: crónica previa del 26 nov",
-      "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-fuerte-rebote-sin-referencia-wall-street--24297402.html"
+      "nombre": "AP: cierres de Wall Street del 27 nov",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html"
     },
     {
-      "nombre": "AP: Asia, 27 nov",
-      "url": "https://www.news4jax.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+      "nombre": "Investopedia: Wall Street el 27 nov",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
     },
     {
-      "nombre": "Al Jazeera: el Banco de Corea sube tipos",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
+      "nombre": "Stocktwits: mejor semana en más de un año",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-best-212946185.html"
     },
     {
-      "nombre": "Seoul Economic Daily: tipos y previsiones",
-      "url": "https://en.sedaily.com/economy/2026/11/26/bank-of-korea-raises-rate-to-325-percent-lifts-growth"
+      "nombre": "ad-hoc-news: Euro Stoxx 50",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-1-24-prozent-higher-as-tech-miners-rally/70563111"
     },
     {
-      "nombre": "Bolsamanía: Iberdrola y Caruna",
-      "url": "https://www.bolsamania.com/noticias/empresas/iberdrola-logra-todos-permisos-adquirir-finlandesa-caruna-valorada-5000-millones--24297778.html"
+      "nombre": "finanzen.at (dpa-AFX): Europa al cierre",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-europa-schluss-erholung-fortgesetzt-deutliches-wochenplus-1036806100"
     },
     {
-      "nombre": "Bolsamanía: dividendo de Grifols",
-      "url": "https://www.bolsamania.com/noticias/empresas/grifols-pagara-dividendo-015-euros-4-diciembre-claves-cobrarlo--24298132.html"
+      "nombre": "El Folio: IPC de noviembre",
+      "url": "https://elfolio.es/inflacion-en-espana-noviembre-2026/"
     },
     {
-      "nombre": "Bolsamanía: Hernández de Cos, al BCE",
-      "url": "https://www.bolsamania.com/noticias/mercados/pablo-hernandez-cos-sera-nuevo-presidente-banco-central-europeo--24301986.html"
+      "nombre": "FinanceFeeds: Brent y OPEP+",
+      "url": "https://financefeeds.com/brent-crude-oil-price-96-30-friday-opec-plus-set-to-hold-q1-output-sunday-bull-100-bear-92-57/"
     },
     {
-      "nombre": "Bolsamanía: agenda del 27 nov",
-      "url": "https://www.bolsamania.com/agenda/27112026"
+      "nombre": "Longbridge: ataque a Jizan",
+      "url": "https://longbridge.com/en/news/306948216"
     },
     {
-      "nombre": "Longbridge (Reuters): cierre europeo, 26 nov",
-      "url": "https://longbridge.com/en/news/306942418"
+      "nombre": "CryptoTicker: bitcoin en Black Friday",
+      "url": "https://cryptoticker.io/es/precio-bitcoin-pierde-60000-dolares-black-friday-semana-58500/"
     },
     {
-      "nombre": "N Globe (Reuters): Brent, Ormuz y Ras Tanura",
-      "url": "https://nglobenews.com/en/article/oil-brent-96-houthi-ras-tanura-hormuz-mines-2026-11-26"
+      "nombre": "CryptoTicker: vencimiento de opciones",
+      "url": "https://cryptoticker.io/en/bitcoin-price-options-expiry-6-8-billion/"
     },
     {
-      "nombre": "Trading Economics: futuros de EE. UU., 27 nov",
-      "url": "https://tradingeconomics.com/united-states/stock-market/news/604827"
+      "nombre": "Forbes España: agenda del 30 nov al 6 dic",
+      "url": "https://forbes.es/actualidad/1071769/agenda-semanal-forbes-las-citas-clave-del-30-de-noviembre-al-6-de-diciembre/"
     },
     {
-      "nombre": "BigGo Finance: horario de Wall Street",
-      "url": "https://finance.biggo.com/news/bef38756-5740-4079-8784-f2d501914c9b"
-    },
-    {
-      "nombre": "SBS: Wall Street cerrado y la Fed",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008866086"
-    },
-    {
-      "nombre": "Euronext (Reuters): bolsas europeas, 26 nov",
-      "url": "https://live.euronext.com/en/financial-news/european-stocks-rally-tech-and-banks-rebound-tariff-fears-ease"
+      "nombre": "Bolsamanía: citas hasta fin de año",
+      "url": "https://www.bolsamania.com/noticias/mercados/superado-debut-anthropic-grandes-citas-bolsas-hasta-final-ano--24232240.html"
     }
   ]
 }

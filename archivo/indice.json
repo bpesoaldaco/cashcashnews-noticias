@@ -1,6 +1,12 @@
 {
   "dias": [
     {
+      "fecha": "2026-11-28",
+      "fechaTexto": "Sábado 28 nov 2026",
+      "titular": "Wall Street firma su mejor semana en más de un año",
+      "noticias": 12
+    },
+    {
       "fecha": "2026-11-27",
       "fechaTexto": "Viernes 27 nov 2026",
       "titular": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
