@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27",
+ "actualizado": "2026-11-28",
  "aviso": "Solo informativo. No es asesoramiento financiero ni una recomendación de compra o venta.",
  "valores": {
   "IBEX 35": {
@@ -282,13 +282,6 @@
   "EUR/USD": {
    "revisado": "2026-11-22",
    "resumen": "El dólar se fortalece por las apuestas de subida de tipos de la Fed: el euro cerró el 13 de noviembre en 1,1023 $.",
-   "variacion": {
-    "cambio": "−1,09%",
-    "tendencia": "down",
-    "periodo": "7 días",
-    "hasta": "2026-11-13",
-    "fuente": "RTTNews"
-   },
    "titulares": [
     {
      "fecha": "2026-11-16",
@@ -304,13 +297,6 @@
   "USD/JPY": {
    "revisado": "2026-11-22",
    "resumen": "Superó brevemente los 160 yenes por dólar y cerró el 13 de noviembre en 159,69.",
-   "variacion": {
-    "cambio": "+0,76%",
-    "tendencia": "up",
-    "periodo": "7 días",
-    "hasta": "2026-11-13",
-    "fuente": "RTTNews"
-   },
    "titulares": [
     {
      "fecha": "2026-11-16",
@@ -1611,33 +1597,250 @@
   },
   "Intuit": {
    "revisado": "2026-11-27"
+  },
+  "Johnson & Johnson": {
+   "revisado": "2026-11-28"
+  },
+  "JPMorgan": {
+   "revisado": "2026-11-28"
+  },
+  "Lockheed Martin": {
+   "revisado": "2026-11-28"
+  },
+  "Lowe's": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-18",
+     "titulo": "Lowe's sube sus ventas un 9,3% y eleva su previsión del año",
+     "fuente": "Political.org",
+     "url": "https://political.org/2026/11/18/lowes-raises-full-year-sales-outlook-as-online-sales-jump-17-4-despite-soft-housing-market/"
+    }
+   ]
+  },
+  "Lucid": {
+   "revisado": "2026-11-28",
+   "resumen": "El fondo saudí PIF amplió en 1.750 M$ su préstamo el 9 de noviembre; Lucid dice que le da caja hasta finales de 2027.",
+   "titulares": [
+    {
+     "fecha": "2026-11-16",
+     "titulo": "Lucid cae un 8% en la venta de tecnológicas",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/blog/lucid-sinks-8-in-tech-selloff-as-ceo-tempers-ev-hopes-anything-positive-well-take-it"
+    }
+   ]
+  },
+  "Mastercard": {
+   "revisado": "2026-11-28"
+  },
+  "McDonald's": {
+   "revisado": "2026-11-28"
+  },
+  "Merck": {
+   "revisado": "2026-11-28"
+  },
+  "Meta": {
+   "revisado": "2026-11-28"
+  },
+  "Micron": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Micron cae un 10% por las dudas sobre la demanda de memoria",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/blog/sandisk-sinks-14-micron-down-10-as-a-top-phone-chipmaker-blames-weak-sales-on-industry-wide-memory-dynamics"
+    }
+   ]
+  },
+  "Microsoft": {
+   "revisado": "2026-11-28"
+  },
+  "Moderna": {
+   "revisado": "2026-11-28"
+  },
+  "Morgan Stanley": {
+   "revisado": "2026-11-28"
+  },
+  "Netflix": {
+   "revisado": "2026-11-28",
+   "resumen": "A 10 de noviembre acumulaba una caída del 32,5% en el año.",
+   "titulares": [
+    {
+     "fecha": "2026-11-10",
+     "titulo": "El codirector ejecutivo de Netflix vende acciones por 1,74 M$",
+     "fuente": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-slips-overnight-co-ceo-gregory-peters-sells-1-74-m-worth-of-company-shares/cNGDfuUR9Jr"
+    }
+   ]
+  },
+  "Nike": {
+   "revisado": "2026-11-28"
+  },
+  "Nvidia": {
+   "revisado": "2026-11-28",
+   "resumen": "Desde su récord del 6 de octubre ha caído en torno a un 30%; el 12 de noviembre llegó a ceder un 14,3% en la sesión.",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Nvidia llega a caer un 14,3% en la sesión y cierra con un −4,3%",
+     "fuente": "Wealth Professional",
+     "url": "https://www.wealthprofessional.ca/investments/equity-markets/wall-street-absorbs-the-hit-as-nvidia-touches-a-52-week-low/394013"
+    },
+    {
+     "fecha": "2026-11-10",
+     "titulo": "Nvidia cotiza un 29,4% por debajo de su récord de octubre",
+     "fuente": "Stock Titan",
+     "url": "https://www.stocktitan.net/articles/nvidia-stock-pe-ratio-lowest-since-2019"
+    }
+   ]
+  },
+  "OpenAI": {
+   "revisado": "2026-11-28"
+  },
+  "Oracle": {
+   "revisado": "2026-11-28"
+  },
+  "Palantir": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Palantir casi duplica sus ingresos (+96%) en el tercer trimestre, hasta 2.300 M$",
+     "fuente": "Fortune",
+     "url": "https://fortune.com/2026/11/02/palantir-q3-results-stock-ai-trade-selloff/"
+    }
+   ]
+  },
+  "Palo Alto Networks": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Palo Alto ingresa 3.440 M$ (+39%) y eleva su previsión anual",
+     "fuente": "XTB",
+     "url": "https://www.xtb.com/ae-en/market-analysis/news-and-research/palo-alto-earnings-another-record-riding-the-cybersecurity-crisis-wave"
+    }
+   ]
+  },
+  "PayPal": {
+   "revisado": "2026-11-28"
+  },
+  "PepsiCo": {
+   "revisado": "2026-11-28"
+  },
+  "Pfizer": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-03",
+     "titulo": "Pfizer eleva su previsión de ingresos de 2026 a 62.000-64.000 M$",
+     "fuente": "Business Wire",
+     "url": "https://finviz.com/news/414019/pfizer-reports-strong-third-quarter-2026-results-and-raises-2026-guidance"
+    }
+   ]
+  },
+  "Procter & Gamble": {
+   "revisado": "2026-11-28"
+  },
+  "Qualcomm": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Los ingresos de Qualcomm por chips de móvil caen un 26%, a 5.140 M$",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/blog/sandisk-sinks-14-micron-down-10-as-a-top-phone-chipmaker-blames-weak-sales-on-industry-wide-memory-dynamics"
+    }
+   ]
+  },
+  "Reddit": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-12",
+     "titulo": "Reddit sube un 7,1% en un día sin resultados",
+     "fuente": "Trefis",
+     "url": "https://www.trefis.com/stock/rddt/articles2/624733/why-did-reddit-stock-jump/2026-11-12"
+    }
+   ]
+  },
+  "Rivian": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Rivian cae un 5,5% en una sesión sin noticias de la empresa",
+     "fuente": "Trefis",
+     "url": "https://www.trefis.com/stock/rivn/articles/624911/why-did-rivian-stock-fall-on-thursday/2026-11-13"
+    }
+   ]
+  },
+  "Robinhood": {
+   "revisado": "2026-11-28"
+  },
+  "Salesforce": {
+   "revisado": "2026-11-28",
+   "resumen": "Cayó un 19,8% entre el 19 de octubre y el 17 de noviembre; presenta resultados el 2 de diciembre.",
+   "titulares": [
+    {
+     "fecha": "2026-11-18",
+     "titulo": "Salesforce se hunde un 9,5% el 17 de noviembre",
+     "fuente": "Trefis",
+     "url": "https://www.trefis.com/stock/crm/articles/626280/what-moved-salesforce-stock/2026-11-18"
+    },
+    {
+     "fecha": "2026-11-10",
+     "titulo": "Salesforce presentará resultados el 2 de diciembre",
+     "fuente": "Salesforce",
+     "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Announces-Date-of-Third-Quarter-Fiscal-2027-Earnings-Release-and-Webcast/default.aspx"
+    }
+   ]
+  },
+  "Sandisk": {
+   "revisado": "2026-11-28",
+   "titulares": [
+    {
+     "fecha": "2026-11-05",
+     "titulo": "Sandisk se hunde un 14% tras los malos datos de móviles de Qualcomm",
+     "fuente": "TIKR",
+     "url": "https://www.tikr.com/blog/sandisk-sinks-14-micron-down-10-as-a-top-phone-chipmaker-blames-weak-sales-on-industry-wide-memory-dynamics"
+    },
+    {
+     "fecha": "2026-11-01",
+     "titulo": "Sandisk cae un 13,5% pese a unos buenos resultados",
+     "fuente": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-dram-inch-higher-overnight-after-mixed-week-japan-s-kioxia-plunges-after-cautious-memory-outlook/cNG9K4wR92O"
+    }
+   ]
   }
  },
  "enNuestrasNoticias": {
   "IBEX 35": {
-   "fecha": "2026-11-27",
-   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
-   "cambio": "+2,27%",
+   "fecha": "2026-11-28",
+   "titulo": "El IBEX gana un 2,72% y se acerca a los 19.400",
+   "cambio": "+2,72% semana",
    "tendencia": "up"
   },
   "Euro Stoxx 50": {
-   "fecha": "2026-11-27",
-   "titulo": "Europa respira: los aranceles asustan menos",
-   "frase": "Euro Stoxx 50 +2,04%, DAX +2,08%, Milán +2,36%, Londres +1,75% y París +1,61%.",
-   "cambio": "+2,04%",
+   "fecha": "2026-11-28",
+   "titulo": "Euro Stoxx 50: +2,5% semanal",
+   "cambio": "+1,24%",
    "tendencia": "up"
   },
   "DAX": {
-   "fecha": "2026-11-27",
-   "titulo": "Milán, la que más sube",
-   "frase": "FTSE MIB +2,36%, DAX +2,08%, Londres +1,75% y París +1,61%.",
-   "cambio": "+2,36%",
-   "tendencia": "up"
+   "fecha": "2026-11-28",
+   "titulo": "Euro Stoxx 50: +2,5% semanal",
+   "frase": "El DAX gana un 0,9% y el FTSE 100 un 0,84%."
+  },
+  "CAC 40": {
+   "fecha": "2026-11-28",
+   "titulo": "Francia se contrae"
   },
   "FTSE 100": {
-   "fecha": "2026-11-24",
-   "titulo": "DAX +2,15%, CAC +1,48%",
-   "frase": "El FTSE 100 sube un 1,3% y el MIB italiano, un 0,65%."
+   "fecha": "2026-11-28",
+   "titulo": "Euro Stoxx 50: +2,5% semanal",
+   "frase": "El DAX gana un 0,9% y el FTSE 100 un 0,84%."
   },
   "FTSE MIB": {
    "fecha": "2026-11-27",
@@ -1645,20 +1848,20 @@
    "frase": "FTSE MIB +2,36%, DAX +2,08%, Londres +1,75% y París +1,61%."
   },
   "S&P 500": {
-   "fecha": "2026-11-27",
-   "titulo": "Wall Street vuelve hoy con futuros en verde",
-   "frase": "Tras el festivo, los futuros del S&P 500 y del Nasdaq 100 suben en torno a un 0,7% y los del Dow un 0,6%.",
-   "cambio": "+0,7%",
+   "fecha": "2026-11-28",
+   "titulo": "Wall Street firma su mejor semana en más de un año",
+   "frase": "Tras la semana negra, el S&P 500 sube un 5,6% en cinco días, el Nasdaq un 6,7% y el Dow un 5,5%.",
+   "cambio": "+5,6% semana",
    "tendencia": "up"
   },
   "Nasdaq": {
-   "fecha": "2026-11-27",
-   "titulo": "Wall Street vuelve hoy con futuros en verde",
-   "frase": "Tras el festivo, los futuros del S&P 500 y del Nasdaq 100 suben en torno a un 0,7% y los del Dow un 0,6%."
+   "fecha": "2026-11-28",
+   "titulo": "Wall Street firma su mejor semana en más de un año",
+   "frase": "Tras la semana negra, el S&P 500 sube un 5,6% en cinco días, el Nasdaq un 6,7% y el Dow un 5,5%."
   },
   "Dow Jones": {
-   "fecha": "2026-11-27",
-   "titulo": "Wall Street vuelve hoy con futuros en verde"
+   "fecha": "2026-11-28",
+   "titulo": "Wall Street firma su mejor semana en más de un año"
   },
   "Nikkei 225": {
    "fecha": "2026-11-27",
@@ -1670,35 +1873,36 @@
    "frase": "Kospi +6,5% (5.014,41), Nikkei +3,9%, Shanghái +0,7% y Hang Seng +0,2% esta madrugada."
   },
   "Bitcoin": {
-   "fecha": "2026-11-27",
-   "titulo": "Bitcoin rebota un 3,24%",
-   "cambio": "+3,24%",
-   "tendencia": "up"
+   "fecha": "2026-11-28",
+   "titulo": "Bitcoin, por debajo de 60.000 $",
+   "cambio": "−1,3%",
+   "tendencia": "down"
   },
   "Brent": {
-   "fecha": "2026-11-27",
-   "titulo": "Minas en Ormuz: el Brent toca los 96 $",
-   "cambio": "+1,62%",
-   "tendencia": "up"
+   "fecha": "2026-11-28",
+   "titulo": "El Brent corta tres semanas de caídas"
   },
   "Oro": {
-   "fecha": "2026-11-27",
-   "titulo": "Petróleo y oro, arriba",
-   "frase": "Oro 3.576 $ (+1,14%)."
+   "fecha": "2026-11-28",
+   "titulo": "El oro rebota con fuerza",
+   "cambio": "+2,8%",
+   "tendencia": "up"
   },
   "EUR/USD": {
-   "fecha": "2026-11-27",
-   "titulo": "Un español al frente del BCE: Hernández de Cos"
+   "fecha": "2026-11-28",
+   "titulo": "El euro, a 1,0936 $",
+   "cambio": "−0,3%",
+   "tendencia": "down"
   },
   "Acciona": {
-   "fecha": "2026-11-18",
-   "titulo": "Renovables y telecos, en rojo",
-   "frase": "También caen Acciona Energía (−1,8%), Telefónica (−1,7%) y Cellnex (−1,4%)."
+   "fecha": "2026-11-28",
+   "titulo": "El IBEX gana un 2,72% y se acerca a los 19.400",
+   "frase": "Tiran ArcelorMittal (+4,69%), Santander (+4,43%) y Acciona Energía (+4,05%)."
   },
   "Acciona Energía": {
-   "fecha": "2026-11-18",
-   "titulo": "Renovables y telecos, en rojo",
-   "frase": "También caen Acciona Energía (−1,8%), Telefónica (−1,7%) y Cellnex (−1,4%)."
+   "fecha": "2026-11-28",
+   "titulo": "El IBEX gana un 2,72% y se acerca a los 19.400",
+   "frase": "Tiran ArcelorMittal (+4,69%), Santander (+4,43%) y Acciona Energía (+4,05%)."
   },
   "Acerinox": {
    "fecha": "2026-11-25",
@@ -1721,17 +1925,18 @@
    "frase": "Cellnex +3,02%, Telefónica +2,56%, Redeia +2,44%, Amadeus +1,77%."
   },
   "ArcelorMittal": {
-   "fecha": "2026-11-25",
-   "titulo": "ArcelorMittal tras caer un 7,65%"
+   "fecha": "2026-11-28",
+   "titulo": "La banca y el acero tiran",
+   "frase": "ArcelorMittal +4,69%, Santander +4,43%, Acciona Energía +4,05%, Merlin +3,88% y Logista +3,61%."
   },
   "Atresmedia": {
    "fecha": "2026-11-20",
    "titulo": "Atresmedia reparte 0,83 € por acción"
   },
   "Santander": {
-   "fecha": "2026-11-27",
-   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
-   "frase": "Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%."
+   "fecha": "2026-11-28",
+   "titulo": "La banca tras las elecciones",
+   "frase": "Santander sube un 4,43% y el sector está en el foco del 29N."
   },
   "Bankinter": {
    "fecha": "2026-11-26",
@@ -1790,26 +1995,26 @@
    "titulo": "Iberdrola, vía libre para comprar Caruna"
   },
   "Inditex": {
-   "fecha": "2026-11-22",
-   "titulo": "Black Friday: 3 de cada 4 españoles comprarán"
+   "fecha": "2026-11-28",
+   "titulo": "La semana que viene: Inditex, IPC europeo y empleo"
   },
   "Indra": {
-   "fecha": "2026-11-27",
-   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
-   "frase": "Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%."
+   "fecha": "2026-11-28",
+   "titulo": "Mañana, elecciones: lo que miran los inversores"
   },
   "Logista": {
-   "fecha": "2026-11-27",
-   "titulo": "Idea: Logista y la posible oferta por su dueña"
+   "fecha": "2026-11-28",
+   "titulo": "La banca y el acero tiran",
+   "frase": "ArcelorMittal +4,69%, Santander +4,43%, Acciona Energía +4,05%, Merlin +3,88% y Logista +3,61%."
   },
   "Mapfre": {
    "fecha": "2026-11-23",
    "titulo": "Mapfre y su dividendo"
   },
   "Merlin": {
-   "fecha": "2026-11-27",
-   "titulo": "La banca rescata al IBEX: +2,27% y vuelve a 19.000",
-   "frase": "Solaria +7,85%, Indra +5%, Santander +4,11%, Logista +3,74% y Merlin +3,37%."
+   "fecha": "2026-11-28",
+   "titulo": "La banca y el acero tiran",
+   "frase": "ArcelorMittal +4,69%, Santander +4,43%, Acciona Energía +4,05%, Merlin +3,88% y Logista +3,61%."
   },
   "Naturgy": {
    "fecha": "2026-11-24",
@@ -1827,8 +2032,8 @@
    "frase": "Suben Cellnex (+3,02%), Telefónica (+2,56%) y Redeia (+2,44%)."
   },
   "Repsol": {
-   "fecha": "2026-11-27",
-   "titulo": "Minas en Ormuz: el Brent toca los 96 $"
+   "fecha": "2026-11-28",
+   "titulo": "El Brent corta tres semanas de caídas"
   },
   "Sabadell": {
    "fecha": "2026-11-26",
@@ -1842,10 +2047,8 @@
    "tendencia": "up"
   },
   "Solaria": {
-   "fecha": "2026-11-27",
-   "titulo": "Solaria vuela un 7,85%",
-   "cambio": "+7,85%",
-   "tendencia": "up"
+   "fecha": "2026-11-28",
+   "titulo": "Mañana, elecciones: lo que miran los inversores"
   },
   "Telefónica": {
    "fecha": "2026-11-25",
@@ -1913,10 +2116,8 @@
    "frase": "Lanxess pierde un 4,14%."
   },
   "Sanofi": {
-   "fecha": "2026-11-25",
-   "titulo": "Sanofi compra Insmed por 41.000 M$",
-   "cambio": "+9,7%",
-   "tendencia": "up"
+   "fecha": "2026-11-28",
+   "titulo": "Sanofi, la peor"
   },
   "SAP": {
    "fecha": "2026-11-19",
@@ -1928,6 +2129,11 @@
    "fecha": "2026-11-19",
    "titulo": "Pocos valores en verde",
    "frase": "Deutsche Bank (+0,35%), Siemens (+0,34%) e Infineon (+0,28%) fueron de los pocos que subieron en el DAX."
+  },
+  "UniCredit": {
+   "fecha": "2026-11-28",
+   "titulo": "Europa suma un 2,5% en la semana con banca y minería",
+   "frase": "UniCredit y Santander ganan más de un 4% y la minería más de un 4% por el cobre y el oro."
   },
   "Alstom": {
    "fecha": "2026-11-18",
@@ -1977,9 +2183,9 @@
    "frase": "Amer Sports anuncia una recompra de 1.000 M$."
   },
   "Anthropic": {
-   "fecha": "2026-11-26",
-   "titulo": "Anthropic, casi en su precio de salida",
-   "cambio": "+1,07%",
+   "fecha": "2026-11-28",
+   "titulo": "Anthropic vuelve por encima de su precio de salida",
+   "cambio": "+12%",
    "tendencia": "up"
   },
   "Apple": {
@@ -1993,8 +2199,9 @@
    "tendencia": "up"
   },
   "Broadcom": {
-   "fecha": "2026-11-21",
-   "titulo": "Huye el dinero de los chips"
+   "fecha": "2026-11-28",
+   "titulo": "Los chips de memoria lideran el rebote del viernes",
+   "frase": "SanDisk sube un 16%, la mayor subida del S&P 500; Micron y Marvell más de un 7%, Broadcom un 4%."
   },
   "Cisco": {
    "fecha": "2026-11-13",
@@ -2041,9 +2248,9 @@
    "titulo": "Nvidia invertirá 3.000 millones en Meta"
   },
   "Micron": {
-   "fecha": "2026-11-25",
-   "titulo": "Nvidia devuelve un 5,9% y los chips se hunden",
-   "frase": "Micron cae un 11% tras una rebaja de BNP Paribas."
+   "fecha": "2026-11-28",
+   "titulo": "Los chips de memoria lideran el rebote del viernes",
+   "frase": "SanDisk sube un 16%, la mayor subida del S&P 500; Micron y Marvell más de un 7%, Broadcom un 4%."
   },
   "Microsoft": {
    "fecha": "2026-10-29",
@@ -2057,9 +2264,11 @@
    "tendencia": "down"
   },
   "Nvidia": {
-   "fecha": "2026-11-27",
-   "titulo": "Lo que ha pasado esta semana",
-   "frase": "1) Nvidia: +31% con el regreso de Huang y luego −5,9%."
+   "fecha": "2026-11-28",
+   "titulo": "Los chips de memoria lideran el rebote del viernes",
+   "frase": "Nvidia gana un 0,8% y cierra la semana con cerca de un +19,6%, aunque aún está un 37% bajo su máximo.",
+   "cambio": "SanDisk",
+   "tendencia": "up"
   },
   "Palo Alto Networks": {
    "fecha": "2026-11-20",
@@ -2077,6 +2286,10 @@
    "titulo": "Software, castigado",
    "cambio": "−9,5%",
    "tendencia": "down"
+  },
+  "Sandisk": {
+   "fecha": "2026-11-28",
+   "titulo": "Los chips de memoria lideran el rebote del viernes"
   },
   "ServiceNow": {
    "fecha": "2026-11-18",
